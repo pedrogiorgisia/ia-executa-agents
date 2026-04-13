@@ -1,0 +1,88 @@
+# ============================================
+# ia-executa-agents — .gitignore
+# ============================================
+
+# --- Segredos ---
+.env
+.env.local
+*.pem
+*.key
+secrets/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# --- SQLite state ---
+# Mantemos agents.db versionado? NÃO — é estado local, cada dev tem o seu.
+agents.db
+agents.db-wal
+agents.db-shm
+agents.db-journal
+*.sqlite
+*.sqlite3
+
+# --- Backups (pesado, local apenas) ---
+98-backups/
+99-temp/
+
+# --- Workspace experimental ---
+97-workspace/scratch/
+97-workspace/*.tmp
+
+# --- Logs ---
+*.log
+logs/
+
+# --- IDE ---
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Node (caso venha a ter front) ---
+node_modules/
+*.tsbuildinfo
+
+# --- Langfuse self-hosted (se for rodar local) ---
+langfuse-data/
+
+# --- Assets gerados em runtime ---
+# Imagens, vídeos e PDFs gerados pelos agentes não versionamos
+assets-generated/
+*.mp4
+*.mov
+
+# Mas MANTEMOS exemplos de referência em workspace/
+!97-workspace/examples/*.png
+!97-workspace/examples/*.jpg
+
+# --- Claude Code project-level state ---
+.claude/cache/
+.claude/history/

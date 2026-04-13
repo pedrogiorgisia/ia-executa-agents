@@ -1,0 +1,34 @@
+# Core
+anthropic>=0.40.0          # Claude API + Agent SDK
+google-generativeai>=0.8.0 # Gemini Flash Image
+python-dotenv>=1.0.0       # .env loader
+pydantic>=2.9.0            # Tipos e validação
+
+# HTTP + APIs
+httpx>=0.28.0              # HTTP client moderno
+requests>=2.32.0           # Fallback / uploads
+
+# Banco
+# sqlite3 já vem no stdlib
+
+# Telegram
+python-telegram-bot>=21.0
+
+# Email
+resend>=2.5.0
+
+# Observabilidade (futuro — Fase 2)
+# langfuse>=2.0.0
+
+# Imagens e carrosséis
+pillow>=11.0               # Manipulação de imagens
+playwright>=1.48.0         # HTML → PNG (pra slides de texto)
+
+# Utilitários
+python-dateutil>=2.9.0
+rich>=13.9.0               # CLI bonita
+
+# Dev
+black>=24.0
+ruff>=0.7.0
+pytest>=8.0.0
