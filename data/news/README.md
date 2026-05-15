@@ -15,8 +15,8 @@ data/news/
     │   ├── tech-press.md
     │   └── hn-communities.md
     ├── consolidado.md
-    ├── top-5.md
-    └── whatsapp.md        ← ★ msg pronta pra copiar
+    ├── top.md             ← ★ 15-20 itens ordenados (você escolhe quais copiar)
+    └── whatsapp.md        ← sugestão de msg pronta usando os 5 primeiros
 ```
 
 As pastas datadas (`AAAAMMDD/`) são **gitignored** — não vamos versionar o conteúdo coletado. Apenas o `historico.md` (índice) e este README são commitados.

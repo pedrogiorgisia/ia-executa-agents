@@ -77,4 +77,4 @@ _sem novidades relevantes_
 - **Glossário inline:** se o post menciona "MoE", "RAG", "fine-tuning", explica em 1 linha.
 - **Não invente.** Se a fonte não retornou nada útil, "sem novidades relevantes".
 - **"Caso de uso" obrigatório.** Se você não consegue escrever um exemplo concreto de aplicação, descarte o post.
-- Sempre link direto.
+- **Link direto OBRIGATÓRIO:** URL completa pro post específico (ex.: `https://anthropic.com/news/claude-for-small-business`). NUNCA `https://anthropic.com/news` (home). Item sem link direto deve ser descartado.

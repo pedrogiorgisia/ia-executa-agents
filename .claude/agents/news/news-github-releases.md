@@ -81,4 +81,4 @@ _sem novidades relevantes_
 - **Glossário inline obrigatório:** se mencionar nome de ferramenta/projeto, explica em 1 frase o que é (ex.: "vLLM (motor de inferência rápida pra rodar modelos)").
 - **Sem jargão sem explicação:** "KV cache", "transformer", "MoE" — ou explica em 1 linha, ou não usa.
 - **Não rankeie ainda.** O ranking é do master. Você só coleta filtrando.
-- Sempre link direto pro release.
+- **Link direto OBRIGATÓRIO:** sempre URL completa pro release específico (ex.: `https://github.com/owner/repo/releases/tag/vX.Y.Z`). NUNCA link pra home page do projeto ou pra `/releases` sem tag. Item sem link direto deve ser descartado.

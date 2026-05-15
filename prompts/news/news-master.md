@@ -67,9 +67,9 @@ Crie `data/news/$HOJE/consolidado.md` com a estrutura:
 
 Leia `data/news/historico.md`. Se alguma notícia do consolidado já estiver no histórico (mesmo título ou conceito), **descarte do consolidado** — não vamos repetir.
 
-### Passo 5 — Rankear top 5
+### Passo 5 — Rankear (alvo: 15-20 itens)
 
-Crie `data/news/$HOJE/top-5.md` com as **5 notícias mais relevantes do dia para o ICP**.
+Crie `data/news/$HOJE/top.md` com **15 a 20 notícias relevantes do dia para o ICP**, ordenadas da mais relevante para a menos relevante. O Pedro vai escolher manualmente quais copiar pra mensagem.
 
 #### Teste de qualificação (toda notícia tem que passar)
 
@@ -95,12 +95,18 @@ Antes de incluir qualquer item no top 5, ele DEVE passar nestes 3 testes:
 - Opinião de CEO sem ação ("AGI em 2 anos")
 - Listicles e "top 10 X"
 
-#### Formato do top-5.md
+#### Formato do top.md
+
+**Sem numeração** (vai ordenado por relevância, mas o leitor escolhe quais usar).
 
 ```markdown
-# Top 5 do dia — AAAA-MM-DD
+# Notícias do dia — AAAA-MM-DD
 
-## 1. [Título em linguagem de pessoa real, não título de news tech]
+> 15-20 itens ordenados da maior pra menor relevância. Use os que fizerem sentido pra você.
+
+---
+
+### [Título em linguagem de pessoa real, não título de news tech]
 
 **O que aconteceu:** 1-2 frases explicando o fato em linguagem de leigo.
 
@@ -108,16 +114,32 @@ Antes de incluir qualquer item no top 5, ele DEVE passar nestes 3 testes:
 
 **Pra quem importa mais:** [perfil específico]
 
-**Fonte:** [link]
+**Fonte:** [URL DIRETA pra matéria/post original — NUNCA home page do veículo]
 
 ---
 
-## 2. ...
+### [próximo item]
+...
 ```
 
-### Passo 6 — Gerar mensagem WhatsApp
+#### ⚠️ Link direto é obrigatório
 
-Crie `data/news/$HOJE/whatsapp.md` com a mensagem **pronta pra copiar e colar**.
+**Cada item DEVE ter URL direta pro artigo/post original.** Exemplos:
+
+- ✅ `https://openai.com/news/a-new-personal-finance-experience-in-chatgpt` (link direto)
+- ❌ `https://openai.com/news` (home — descarta o item)
+- ✅ `https://techcrunch.com/2026/05/14/cerebras-ipo-soars-108-percent/` (matéria)
+- ❌ `https://techcrunch.com` (home — descarta)
+- ✅ `https://news.ycombinator.com/item?id=12345678` (discussão específica)
+- ❌ `https://news.ycombinator.com/` (home — descarta)
+
+Se um item não tem link direto válido nos arquivos `raw/`, **descarta** — não inclui no top.
+
+### Passo 6 — Gerar mensagem WhatsApp (sugestão dos 5 melhores)
+
+Crie `data/news/$HOJE/whatsapp.md` com uma **sugestão de mensagem usando os 5 primeiros itens do top.md** — formatada pronta pra copiar.
+
+O Pedro pode usar essa versão direto OU montar a própria escolhendo itens diferentes do `top.md`. É uma sugestão, não a única opção.
 
 #### Tom (do Pedro Giorgis)
 
@@ -173,23 +195,24 @@ Qual desses faz mais sentido pra sua realidade?
 
 ### Passo 7 — Atualizar histórico
 
-Anexe ao `data/news/historico.md` (criar se não existir) uma seção:
+Anexe ao `data/news/historico.md` (criar se não existir) uma seção com **todos os títulos do `top.md`** (15-20 itens). Isso evita repetir qualquer um deles nos próximos dias.
 
 ```markdown
 ## AAAA-MM-DD
-- [Título 1 do top 5]
-- [Título 2 do top 5]
-- [Título 3 do top 5]
-- [Título 4 do top 5]
-- [Título 5 do top 5]
+- [Título 1]
+- [Título 2]
+- ...
+- [Título N]
 ```
 
 ### Passo 8 — Avisar o Pedro
 
 Imprima na saída final:
-1. Caminho do arquivo `whatsapp.md` pronto pra revisar
-2. Resumo executivo: quantas notícias coletadas no total, quantas viraram top 5
-3. Quaisquer fontes que retornaram vazio ou deram problema (transparência)
+1. Caminho do `top.md` (arquivo principal — 15-20 itens ordenados)
+2. Caminho do `whatsapp.md` (sugestão de mensagem usando os 5 primeiros)
+3. Resumo: quantas notícias coletadas no total, quantas qualificaram pro top
+4. Fontes que retornaram vazio ou deram problema (transparência)
+5. Itens descartados por falta de link direto (se houver — reforça a regra)
 
 ---
 

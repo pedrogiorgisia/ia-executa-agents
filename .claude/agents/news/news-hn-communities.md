@@ -73,4 +73,5 @@ _sem sinais relevantes_
 
 - **Glossário inline obrigatório.**
 - **"Sinal" é OBRIGATÓRIO** — se o post não traz tendência/alerta/comportamento, não entra.
+- **Link direto OBRIGATÓRIO:** URL do post original + URL da discussão HN (`https://news.ycombinator.com/item?id=XXXXX`). NUNCA home page de HN ou Reddit. Item sem link direto deve ser descartado.
 - Não invente. Feed vazio = "sem sinais relevantes".

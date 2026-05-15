@@ -69,4 +69,4 @@ Cada matéria DEVE ter os 3 campos. Sem isso, não entra.
 - **Deduplique:** se 3 veículos cobriram o mesmo evento, mantém SÓ 1 (a cobertura mais completa).
 - **Glossário inline:** explica jargão em 1 linha.
 - **"Caso de uso/implicação" obrigatório.** Se não tem ação ou consequência clara, descarta.
-- Sempre link direto.
+- **Link direto OBRIGATÓRIO:** URL completa pra matéria específica (ex.: `https://techcrunch.com/2026/05/14/cerebras-ipo/`). NUNCA `https://techcrunch.com` ou seção. Item sem link direto deve ser descartado.
