@@ -338,6 +338,84 @@ Não existe mais. O histórico cloud é mantido implicitamente pelos emails envi
 
 ---
 
+### Passo 12 — Upload dos artefatos pro Google Drive (APENAS em modo cloud)
+
+**Quando rodar este passo:** apenas se você está rodando via `/schedule` (cloud da Anthropic). Em execução local, PULAR — os arquivos já estão no Drive sincronizado pelo Drive Desktop.
+
+**Por que existe:** o agente cloud roda num ambiente efêmero. Os arquivos locais que ele criou (`top.md`, `consolidado.md`, `whatsapp.md`, `email.html`, `raw/*.md`) seriam descartados quando a sessão terminar. Pra preservar isso pro Pedro consultar no PC, faz upload pro Google Drive (que sincroniza com o Drive Desktop dele).
+
+**IDs fixos do Drive (passados pelo prompt da rotina):**
+
+- `GDRIVE_PARENT_NEWS` = `1H8u6KTXa6av0kfMT9bE8wAS-lB-nMkEg` (pasta `data/news/` no Drive)
+
+**Procedimento:**
+
+1. **Criar pasta `$HOJE` dentro de `news/`:**
+
+```
+mcp__claude_ai_Google_Drive__create_file(
+  title="$HOJE",
+  contentMimeType="application/vnd.google-apps.folder",
+  parentId="<GDRIVE_PARENT_NEWS>"
+)
+```
+
+Guarde o `id` retornado em `$GDRIVE_DIA_ID`.
+
+2. **Criar subpasta `raw` dentro de `$HOJE`:**
+
+```
+mcp__claude_ai_Google_Drive__create_file(
+  title="raw",
+  contentMimeType="application/vnd.google-apps.folder",
+  parentId="<GDRIVE_DIA_ID>"
+)
+```
+
+Guarde o `id` em `$GDRIVE_RAW_ID`.
+
+3. **Upload dos 4 arquivos raw** (loop pelos 4 arquivos em `data/news/$HOJE/raw/`):
+
+Para cada arquivo (`github-releases.md`, `labs-blogs.md`, `tech-press.md`, `hn-communities.md`):
+
+```
+texto = Read("data/news/$HOJE/raw/<nome>.md")
+mcp__claude_ai_Google_Drive__create_file(
+  title="<nome>.md",
+  textContent=texto,
+  contentMimeType="text/markdown",
+  parentId="<GDRIVE_RAW_ID>",
+  disableConversionToGoogleType=true
+)
+```
+
+⚠️ **`disableConversionToGoogleType=true` é obrigatório** — senão o Drive converte `.md` em Google Docs e perde a formatação Markdown.
+
+4. **Upload dos artefatos finais** dentro de `$HOJE`:
+
+Para cada um destes 4 arquivos:
+- `consolidado.md`
+- `top.md`
+- `whatsapp.md`
+- `email.html`
+
+```
+texto = Read("data/news/$HOJE/<arquivo>")
+mcp__claude_ai_Google_Drive__create_file(
+  title="<arquivo>",
+  textContent=texto,
+  contentMimeType=<text/markdown ou text/html>,
+  parentId="<GDRIVE_DIA_ID>",
+  disableConversionToGoogleType=true
+)
+```
+
+5. **Imprima na saída final o `viewUrl` da pasta `$HOJE`** pra o Pedro abrir no navegador se quiser.
+
+**Total de chamadas Drive MCP:** 1 pasta dia + 1 pasta raw + 4 raws + 4 finais = **10 chamadas**. Rápido (~5-10s).
+
+---
+
 ## Resumo dos artefatos gerados no dia
 
 Ao fim de uma execução completa, `data/news/$HOJE/` deve conter:
