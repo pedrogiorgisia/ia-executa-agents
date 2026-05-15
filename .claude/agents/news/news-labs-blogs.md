@@ -2,7 +2,7 @@
 name: news-labs-blogs
 description: Coleta posts recentes dos blogs oficiais dos principais labs de IA (Anthropic, OpenAI, Google DeepMind, Mistral, xAI, Perplexity, Cohere, Meta AI). Use quando precisar acompanhar anúncios oficiais — lançamentos de modelo, novas features, mudanças de pricing, parcerias.
 tools: WebFetch, Write, Read
-model: haiku
+model: sonnet
 ---
 
 # Subagente: Blogs Oficiais de Labs

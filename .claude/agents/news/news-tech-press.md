@@ -2,7 +2,7 @@
 name: news-tech-press
 description: Coleta cobertura recente de imprensa especializada sobre IA (TechCrunch AI, The Verge AI, Ars Technica AI, MIT Tech Review). Use quando precisar de matérias jornalísticas — análises, contexto de mercado, movimentos estratégicos das big techs, regulação.
 tools: WebFetch, Write, Read
-model: haiku
+model: sonnet
 ---
 
 # Subagente: Imprensa Especializada

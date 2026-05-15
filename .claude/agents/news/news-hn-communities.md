@@ -2,7 +2,7 @@
 name: news-hn-communities
 description: Coleta posts em alta no Hacker News e comunidades dev relevantes (r/LocalLLaMA via RSS) nas últimas 24-48h, filtrando por relevância em IA. Use quando precisar capturar o que dev/builders estão discutindo — sinaliza o que vai virar mainstream em 1-3 meses.
 tools: WebFetch, Write, Read
-model: haiku
+model: sonnet
 ---
 
 # Subagente: Hacker News + Comunidades

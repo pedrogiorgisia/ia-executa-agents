@@ -25,12 +25,12 @@ Esta pasta contém os 4 subagentes que compõem o pipeline de curadoria diária 
 
 | Nome | O que coleta | Modelo |
 |---|---|---|
-| `news-github-releases` | Releases de repos do ecossistema IA | haiku |
-| `news-labs-blogs` | Blogs oficiais (Anthropic, OpenAI, DeepMind etc.) | haiku |
-| `news-tech-press` | Imprensa especializada (TechCrunch, Verge etc.) | haiku |
-| `news-hn-communities` | Hacker News + Reddit | haiku |
+| `news-github-releases` | Releases de repos do ecossistema IA | sonnet |
+| `news-labs-blogs` | Blogs oficiais (Anthropic, OpenAI, DeepMind etc.) | sonnet |
+| `news-tech-press` | Imprensa especializada (TechCrunch, Verge etc.) | sonnet |
+| `news-hn-communities` | Hacker News + Reddit | sonnet |
 
-Todos usam `haiku` por padrão pra baratear coleta. O ranking final no master pode usar `sonnet`.
+Todos usam `sonnet` — qualidade da curadoria > custo. Subagente com Haiku tende a ser literal demais ("transcrevo o que vi") e perde o juízo de relevância.
 
 ## Limitação importante
 

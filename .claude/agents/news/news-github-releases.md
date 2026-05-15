@@ -2,7 +2,7 @@
 name: news-github-releases
 description: Coleta releases recentes de repositórios GitHub estratégicos do ecossistema IA (Claude Code, OpenAI Python SDK, Gemini CLI, Aider, Continue, ElevenLabs, llama.cpp, vLLM). Use quando precisar saber o que mudou nas últimas 24-48h nas ferramentas que os profissionais de IA usam no dia a dia.
 tools: WebFetch, Write, Read
-model: haiku
+model: sonnet
 ---
 
 # Subagente: GitHub Releases
