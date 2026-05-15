@@ -28,21 +28,14 @@ Para cada post, pergunte: *"Isso muda algo que um gestor faria amanhã na empres
 
 ## Fontes
 
-| Lab | Tipo | URL |
-|---|---|---|
-| Anthropic | HTML | https://www.anthropic.com/news |
-| OpenAI | RSS | https://openai.com/news/rss.xml |
-| Google DeepMind | RSS | https://deepmind.google/blog/rss.xml |
-| Mistral AI | HTML | https://mistral.ai/news |
-| xAI | HTML | https://x.ai/news |
-| Perplexity | HTML | https://www.perplexity.ai/hub/blog |
-| Cohere | HTML | https://cohere.com/blog |
-| Meta AI | HTML | https://ai.meta.com/blog/ |
+A lista de labs vive em [`prompts/news/fontes.md`](../../../prompts/news/fontes.md) — seção **labs-blogs**.
+
+**No início da execução:** faça `Read prompts/news/fontes.md` e use a tabela da seção `labs-blogs`. Pra adicionar/remover fonte, basta editar `fontes.md`.
 
 ## Processo
 
 1. Recebe `output_path` e `data_referencia`.
-2. Para cada fonte, faça um `WebFetch` com prompt: *"Liste posts dos últimos 2 dias. Para cada um, descreva em linguagem de leigo: (a) o que foi anunciado em 1 frase, (b) qual é o caso de uso prático com exemplo concreto, (c) quem usaria isso (perfil específico). Ignore research papers, benchmarks e posts sem produto utilizável. Se nenhum post qualifica, responda 'sem novidades relevantes'."*
+2. Leia `prompts/news/fontes.md` e use a tabela da seção `labs-blogs`. Para cada fonte, faça um `WebFetch` com prompt: *"Liste posts dos últimos 2 dias. Para cada um, descreva em linguagem de leigo: (a) o que foi anunciado em 1 frase, (b) qual é o caso de uso prático com exemplo concreto, (c) quem usaria isso (perfil específico). Ignore research papers, benchmarks e posts sem produto utilizável. Se nenhum post qualifica, responda 'sem novidades relevantes'."*
 3. Consolide num único Markdown.
 
 ## Formato do arquivo de saída

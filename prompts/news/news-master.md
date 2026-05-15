@@ -226,9 +226,21 @@ Substitua os placeholders pelos valores do dia:
 |---|---|
 | `{{DATA_HUMANA}}` | ex: "15 de maio de 2026" |
 | `{{TOTAL_ITENS}}` | número de itens no `top.md` |
-| `{{RESUMO_EXECUTIVO}}` | 1-2 frases destacando o que mais chama atenção do dia |
+| `{{RESUMO_EXECUTIVO_HTML}}` | **HTML estruturado** em 2-3 parágrafos `<p>`. NUNCA texto corrido. Veja formato abaixo. |
 | `{{ITENS_HTML}}` | concatenação de todos os itens em HTML (formato no comentário final do template) |
 | `{{TIMESTAMP_GERACAO}}` | ex: "Gerado em 15/05/2026 às 07:00 BRT" |
+
+#### Formato obrigatório do `{{RESUMO_EXECUTIVO_HTML}}`
+
+Sempre 3 parágrafos curtos `<p>`, nessa ordem:
+
+```html
+<p style="margin: 0 0 12px 0;"><strong style="color:#18181b;">Hoje:</strong> N movimentos coletados.</p>
+<p style="margin: 0 0 12px 0;"><strong style="color:#18181b;">Destaques:</strong> [3-4 manchetes curtas separadas por vírgula, focando em "o que aconteceu de positivo/relevante hoje"].</p>
+<p style="margin: 0;"><strong style="color:#dc2626;">Alertas:</strong> [2-3 itens que são risco/falha/erro, com cor vermelha no rótulo].</p>
+```
+
+Se não houver alertas no dia, omitir o terceiro parágrafo. Não usar texto corrido em nenhuma hipótese — quebra o visual.
 
 **Para cada item do `top.md`**, gere o bloco HTML correspondente substituindo:
 - `CATEGORIA_AQUI` → uma de: `RELEASE` (se veio de github-releases), `LAB OFICIAL` (labs-blogs), `IMPRENSA` (tech-press), `COMUNIDADE` (hn-communities)

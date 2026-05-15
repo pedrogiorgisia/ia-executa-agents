@@ -28,18 +28,14 @@ Pergunta-chave: *"Esse post mostra uma TENDÊNCIA, COMPORTAMENTO ou ALERTA que u
 
 ## Fontes
 
-| Fonte | URL |
-|---|---|
-| HN frontpage (≥150 pontos) | https://hnrss.org/frontpage?points=150 |
-| HN newest com "AI" no título (≥50 pontos) | https://hnrss.org/newest?q=AI&points=50 |
-| HN newest com "Claude" no título | https://hnrss.org/newest?q=Claude |
-| HN newest com "LLM" no título (≥50 pontos) | https://hnrss.org/newest?q=LLM&points=50 |
-| r/LocalLLaMA top semanal | https://www.reddit.com/r/LocalLLaMA/top.rss?t=week |
+A lista vive em [`prompts/news/fontes.md`](../../../prompts/news/fontes.md) — seção **hn-communities**.
+
+**No início da execução:** faça `Read prompts/news/fontes.md` e use a tabela da seção `hn-communities`. Pra adicionar/remover fonte, basta editar `fontes.md`.
 
 ## Processo
 
 1. Recebe `output_path` e `data_referencia`.
-2. Para cada feed, faça um `WebFetch` com prompt: *"Liste as 10 entradas mais relevantes pra um gestor não-técnico (não dev). Para cada uma: (a) qual o tema em linguagem leiga, (b) o sinal que isso traz (tendência, alerta, comportamento), (c) quem deveria se importar. Descarte tutoriais técnicos, setup de ferramentas dev, hardware/GPU. Se nada qualifica, responda 'sem sinais relevantes'."*
+2. Leia `prompts/news/fontes.md` e use a tabela da seção `hn-communities`. Para cada feed, faça um `WebFetch` com prompt: *"Liste as 10 entradas mais relevantes pra um gestor não-técnico (não dev). Para cada uma: (a) qual o tema em linguagem leiga, (b) o sinal que isso traz (tendência, alerta, comportamento), (c) quem deveria se importar. Descarte tutoriais técnicos, setup de ferramentas dev, hardware/GPU. Se nada qualifica, responda 'sem sinais relevantes'."*
 3. **Filtre por relevância em IA E em ICP**.
 4. **Deduplique** internamente.
 5. Consolide num único Markdown.

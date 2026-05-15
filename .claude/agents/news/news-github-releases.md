@@ -27,24 +27,14 @@ Para cada release, pergunte: *"Um gerente de produto sem background técnico pes
 
 ## Repositórios monitorados
 
-Todos têm RSS nativo via `https://github.com/<owner>/<repo>/releases.atom`:
+A lista de repos vive em [`prompts/news/fontes.md`](../../../prompts/news/fontes.md) — seção **github-releases**.
 
-| Repo | URL do feed |
-|---|---|
-| anthropics/claude-code | https://github.com/anthropics/claude-code/releases.atom |
-| openai/openai-python | https://github.com/openai/openai-python/releases.atom |
-| google-gemini/gemini-cli | https://github.com/google-gemini/gemini-cli/releases.atom |
-| Aider-AI/aider | https://github.com/Aider-AI/aider/releases.atom |
-| continuedev/continue | https://github.com/continuedev/continue/releases.atom |
-| elevenlabs/elevenlabs-python | https://github.com/elevenlabs/elevenlabs-python/releases.atom |
-| ggerganov/llama.cpp | https://github.com/ggerganov/llama.cpp/releases.atom |
-| vllm-project/vllm | https://github.com/vllm-project/vllm/releases.atom |
-| openai/codex | https://github.com/openai/codex/releases.atom |
+**No início da execução:** faça `Read prompts/news/fontes.md` e use a tabela da seção `github-releases`. Pra adicionar/remover repo, basta editar `fontes.md` (não mexe neste arquivo).
 
 ## Processo
 
 1. Recebe o argumento `output_path` (caminho do arquivo .md a gravar) e `data_referencia` (data atual em formato AAAA-MM-DD).
-2. Para cada repo da tabela acima, faça um `WebFetch` no URL `.atom` com prompt: *"Liste releases dos últimos 2 dias. Para cada uma, me dê SÓ o que um gestor não-técnico precisaria saber: (a) versão e data, (b) qual feature visível ao usuário foi adicionada — descreva em linguagem leiga, sem jargão. Se a release é só bug fix/refactor/dep update, ignore. Se nenhuma release qualifica, responda 'sem novidades relevantes'."*
+2. Leia `prompts/news/fontes.md` e use a tabela da seção `github-releases`. Para cada repo, faça um `WebFetch` no URL `.atom` com prompt: *"Liste releases dos últimos 2 dias. Para cada uma, me dê SÓ o que um gestor não-técnico precisaria saber: (a) versão e data, (b) qual feature visível ao usuário foi adicionada — descreva em linguagem leiga, sem jargão. Se a release é só bug fix/refactor/dep update, ignore. Se nenhuma release qualifica, responda 'sem novidades relevantes'."*
 3. Faça as chamadas em sequência (não tem como paralelizar dentro de subagente).
 4. Consolide tudo num único arquivo Markdown no `output_path`.
 

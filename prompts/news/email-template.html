@@ -34,8 +34,8 @@
 
         <!-- resumo executivo -->
         <tr>
-          <td style="padding:20px 28px; background-color:#fafafa; border-bottom:1px solid #e4e4e7; font-size:14px; color:#3f3f46;">
-            {{RESUMO_EXECUTIVO}}
+          <td style="padding:20px 28px; background-color:#fafafa; border-bottom:1px solid #e4e4e7; font-size:14px; color:#3f3f46; line-height:1.6;">
+            {{RESUMO_EXECUTIVO_HTML}}
           </td>
         </tr>
 
@@ -68,11 +68,18 @@
 <!--
 PLACEHOLDERS QUE O MASTER PRECISA SUBSTITUIR:
 
-  {{DATA_HUMANA}}        ex: "15 de maio de 2026"
-  {{TOTAL_ITENS}}        ex: "18"
-  {{RESUMO_EXECUTIVO}}   1-2 frases. Ex: "Hoje: 18 movimentos. Destaques em Anthropic, Notion abrindo plataforma de agentes, e Cerebras estreando em bolsa."
-  {{ITENS_HTML}}         lista de itens — formato de cada item está abaixo
-  {{TIMESTAMP_GERACAO}}  ex: "Gerado em 15/05/2026 às 07:00 BRT"
+  {{DATA_HUMANA}}             ex: "15 de maio de 2026"
+  {{TOTAL_ITENS}}             ex: "18"
+  {{RESUMO_EXECUTIVO_HTML}}   HTML estruturado em 2-3 parágrafos curtos.
+                              Ver exemplo abaixo. NÃO usar texto corrido.
+  {{ITENS_HTML}}              lista de itens — formato de cada item está abaixo
+  {{TIMESTAMP_GERACAO}}       ex: "Gerado em 15/05/2026 às 07:00 BRT"
+
+EXEMPLO DE {{RESUMO_EXECUTIVO_HTML}}:
+
+<p style="margin: 0 0 12px 0;"><strong style="color:#18181b;">Hoje:</strong> 17 movimentos coletados.</p>
+<p style="margin: 0 0 12px 0;"><strong style="color:#18181b;">Destaques:</strong> ChatGPT conectando diretamente a contas bancárias, Anthropic empacotando Claude para pequenas empresas, e PwC trazendo um caso real de seguradora reduzindo ciclo de 70 para 10 dias.</p>
+<p style="margin: 0;"><strong style="color:#dc2626;">Alertas:</strong> chatbots vazando telefones reais de pessoas, IA médica errando fatos básicos, e funcionários da Amazon inventando tarefas para bater meta de adoção.</p>
 
 FORMATO DE CADA ITEM (concatenar N destes em {{ITENS_HTML}}):
 

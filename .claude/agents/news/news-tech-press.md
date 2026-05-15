@@ -27,18 +27,14 @@ Para cada matéria, pergunte: *"Isso impacta decisão prática de um gestor, ou 
 
 ## Fontes
 
-| Veículo | URL (RSS quando disponível) |
-|---|---|
-| TechCrunch AI | https://techcrunch.com/category/artificial-intelligence/feed/ |
-| The Verge AI | https://www.theverge.com/ai-artificial-intelligence/rss/index.xml |
-| Ars Technica AI | https://arstechnica.com/ai/feed/ |
-| MIT Tech Review (AI) | https://www.technologyreview.com/topic/artificial-intelligence/feed |
-| VentureBeat AI | https://venturebeat.com/category/ai/feed/ |
+A lista de veículos vive em [`prompts/news/fontes.md`](../../../prompts/news/fontes.md) — seção **tech-press**.
+
+**No início da execução:** faça `Read prompts/news/fontes.md` e use a tabela da seção `tech-press`. Pra adicionar/remover veículo, basta editar `fontes.md`.
 
 ## Processo
 
 1. Recebe `output_path` e `data_referencia`.
-2. Para cada fonte, faça um `WebFetch` com prompt: *"Liste matérias dos últimos 2 dias sobre IA. Para cada uma: (a) qual o fato em linguagem de leigo, (b) qual a implicação prática (o "e daí?") com exemplo concreto, (c) quem deveria se importar (perfil específico). Descarte opinião sem ação, listicles, hype sem produto, e matérias muito técnicas. Se nenhuma qualifica, responda 'sem novidades relevantes'."*
+2. Leia `prompts/news/fontes.md` e use a tabela da seção `tech-press`. Para cada fonte, faça um `WebFetch` com prompt: *"Liste matérias dos últimos 2 dias sobre IA. Para cada uma: (a) qual o fato em linguagem de leigo, (b) qual a implicação prática (o "e daí?") com exemplo concreto, (c) quem deveria se importar (perfil específico). Descarte opinião sem ação, listicles, hype sem produto, e matérias muito técnicas. Se nenhuma qualifica, responda 'sem novidades relevantes'."*
 3. Consolide num único Markdown.
 
 ## Formato do arquivo de saída
