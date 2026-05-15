@@ -65,7 +65,23 @@ Crie `data/news/$HOJE/consolidado.md` com a estrutura:
 
 ### Passo 4 — Filtrar contra histórico
 
-Leia `data/news/historico.md`. Se alguma notícia do consolidado já estiver no histórico (mesmo título ou conceito), **descarte do consolidado** — não vamos repetir.
+O histórico de notícias já enviadas vive em **2 lugares possíveis**:
+
+**a) Local** (rodando manual no PC do Pedro): leia `data/news/historico.md` direto do disco.
+
+**b) Cloud** (rodando via `/schedule`): use **Gmail MCP** — o próprio email enviado nos últimos dias É o histórico. Faça:
+
+```
+mcp__claude_ai_Gmail__search_threads(
+  query="from:onboarding@resend.dev subject:\"News IA\" newer_than:14d"
+)
+```
+
+Para cada thread retornada, extraia do snippet/corpo os **títulos das notícias** enviadas. Junte tudo numa lista de "já enviado".
+
+Depois disso, **descarte do consolidado** qualquer item cujo título ou conceito coincida com a lista de "já enviado".
+
+**Como detectar o ambiente:** se a tool `mcp__claude_ai_Gmail__search_threads` está disponível, use o caminho (b). Senão, caminho (a).
 
 ### Passo 5 — Rankear (alvo: 15-20 itens)
 
@@ -193,9 +209,9 @@ Qual desses faz mais sentido pra sua realidade?
 - Se algum item exige mais de 3 linhas pra explicar, ou ele é importante demais e merece o espaço, ou ele não devia tá ali.
 - A mensagem deve ser **autocontida**: o leitor não precisa clicar pra entender o que rolou.
 
-### Passo 7 — Atualizar histórico
+### Passo 7 — Atualizar histórico (apenas execução local)
 
-Anexe ao `data/news/historico.md` (criar se não existir) uma seção com **todos os títulos do `top.md`** (15-20 itens). Isso evita repetir qualquer um deles nos próximos dias.
+**Se rodando local:** anexe ao `data/news/historico.md` (criar se não existir) uma seção com **todos os títulos do `top.md`** (15-20 itens).
 
 ```markdown
 ## AAAA-MM-DD
@@ -204,6 +220,8 @@ Anexe ao `data/news/historico.md` (criar se não existir) uma seção com **todo
 - ...
 - [Título N]
 ```
+
+**Se rodando cloud (`/schedule`):** PULE este passo. O email enviado no Passo 10 já será detectado como histórico pelo Gmail MCP nas próximas execuções (ver Passo 4). Não precisa atualizar arquivo nenhum.
 
 ### Passo 8 — Avisar o Pedro
 
@@ -314,26 +332,9 @@ curl -X POST https://api.resend.com/emails \
 
 ---
 
-### Passo 11 — Commit do histórico de volta no GitHub
+### Passo 11 — (Removido)
 
-Apenas executar se estiver rodando na cloud da Anthropic (via `/schedule`). Em execução manual local, pular.
-
-Pré-requisitos:
-- `GITHUB_PAT` na env (token fine-grained com `contents:write` neste repo)
-- `GITHUB_REPO` (ex: `pedrogiorgisia/ia-executa-agents`)
-
-Comandos:
-
-```bash
-git config user.email "news-bot@ia-executa.com"
-git config user.name "News Bot"
-git remote set-url origin "https://${GITHUB_PAT}@github.com/${GITHUB_REPO}.git"
-git add data/news/historico.md
-git commit -m "chore(news): histórico do dia $HOJE [skip ci]" || echo "Nada pra commitar"
-git push origin main
-```
-
-Se o push falhar (conflito, rede etc.), **não** quebre o pipeline — registre no log e siga.
+Não existe mais. O histórico cloud é mantido implicitamente pelos emails enviados (lidos via Gmail MCP no Passo 4). Em execução local, o `historico.md` é atualizado no disco do Pedro (Passo 7) e sincroniza com o Google Drive normalmente.
 
 ---
 
@@ -346,8 +347,10 @@ Ao fim de uma execução completa, `data/news/$HOJE/` deve conter:
 - `whatsapp.md` — sugestão de mensagem com os 5 primeiros
 - `email.html` — versão HTML enviada por email
 
-E:
-- `data/news/historico.md` — atualizado com os títulos do dia, commitado no GitHub se rodou via cloud.
+E (apenas em execução local):
+- `data/news/historico.md` — atualizado com os títulos do dia.
+
+Em execução cloud, o histórico é o conjunto de emails enviados nos últimos 14 dias.
 
 ---
 
