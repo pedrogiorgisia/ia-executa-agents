@@ -71,60 +71,105 @@ Leia `data/news/historico.md`. Se alguma notícia do consolidado já estiver no 
 
 Crie `data/news/$HOJE/top-5.md` com as **5 notícias mais relevantes do dia para o ICP**.
 
-**Critério de relevância (nesta ordem):**
-1. **Muda decisão prática:** ferramenta nova/recurso que altera "o que usar amanhã" (peso 5)
-2. **Movimento estratégico de big tech:** lançamento de modelo, aquisição, parceria, mudança de pricing (peso 4)
-3. **Sinaliza tendência incipiente:** post de comunidade dev com tração que aponta direção (peso 3)
-4. **Contexto de mercado:** regulação, investimento, posicionamento (peso 2)
-5. **Curiosidade ou case interessante** (peso 1)
+#### Teste de qualificação (toda notícia tem que passar)
 
-**Não inclua:**
-- Updates de versão sem impacto prático ("bug fix")
-- Opinião pura sem ação prática
-- Hype sem produto real (ex.: "AGI em 2 anos diz CEO")
+Antes de incluir qualquer item no top 5, ele DEVE passar nestes 3 testes:
 
-Formato:
+1. **Teste do leigo:** "Minha mãe (que sabe usar ChatGPT mas nunca ouviu falar de vLLM, KV cache, LoRA) entenderia o que isso significa?" Se não, **reformula até passar** ou **descarta**.
+2. **Teste do "e daí?":** "Consigo escrever em UMA frase concreta o que muda na vida/empresa de alguém por causa disso?" Se não, **descarta**.
+3. **Teste da audiência:** "Consigo nomear um perfil específico (não 'todo mundo') que deveria se importar?" Se não, **descarta**.
+
+#### Critério de priorização (pra escolher 5 entre os que passaram nos 3 testes)
+
+1. **Caso de uso prático imediato:** algo que o ICP pode aplicar/decidir essa semana (peso 5)
+2. **Sinal de comportamento/mercado:** tendência que afeta planejamento (peso 4)
+3. **Alerta/risco:** algo que requer atenção (privacidade, regulação, falha pública) (peso 4)
+4. **Movimento estratégico de big tech com efeito visível** (peso 3)
+5. **Reflexão com tração e ressonância** (peso 2)
+
+#### Descartar sem dó
+
+- Releases de SDK, biblioteca técnica, infra de modelo (vLLM, llama.cpp, transformers etc.)
+- Versionamento de ferramenta sem feature nova visível
+- Benchmark, paper, anúncio sem produto utilizável
+- Opinião de CEO sem ação ("AGI em 2 anos")
+- Listicles e "top 10 X"
+
+#### Formato do top-5.md
+
 ```markdown
 # Top 5 do dia — AAAA-MM-DD
 
-## 1. [Título conciso]
-**Por que importa:** 1-2 linhas explicando o "e daí?" pro ICP.
+## 1. [Título em linguagem de pessoa real, não título de news tech]
+
+**O que aconteceu:** 1-2 frases explicando o fato em linguagem de leigo.
+
+**O que isso significa pra você:** O "e daí?" concreto. Exemplo: "Se você é dono de PME e usa Excel pra finanças, agora dá pra X."
+
+**Pra quem importa mais:** [perfil específico]
+
 **Fonte:** [link]
 
+---
+
 ## 2. ...
-[etc]
 ```
 
 ### Passo 6 — Gerar mensagem WhatsApp
 
 Crie `data/news/$HOJE/whatsapp.md` com a mensagem **pronta pra copiar e colar**.
 
-**Tom (do Pedro Giorgis):**
-- Primeira pessoa do singular ("Vi isso hoje...", "Achei interessante...")
-- Direto, sem floreio
-- Sem jargão técnico denso
-- Português correto, com acentuação
-- Sem emojis em excesso — no máximo 1-2 estratégicos
-- Termina com uma pergunta ou provocação leve pra estimular conversa
+#### Tom (do Pedro Giorgis)
 
-**Estrutura sugerida:**
+- Primeira pessoa do singular ("Vi isso hoje...", "Achei interessante...", "Pra mim...")
+- Direto, sem floreio
+- **Zero jargão sem explicação.** Se mencionar nome de ferramenta/empresa que não é mainstream, explica em 1 linha. Mainstream = ChatGPT, Claude, Gemini, Notion, Excel. **Não-mainstream** = vLLM, Cerebras, Wirestock, Runway, etc — esses exigem 1 linha de contexto.
+- Português correto com acentuação
+- Máximo 1-2 emojis na mensagem inteira
+- Cada item tem **2 partes obrigatórias:** o fato (1 frase) + o caso de uso ("isso serve pra X")
+- Termina com pergunta ou provocação leve
+
+#### Estrutura
+
 ```
 📰 *Resumo do dia em IA — DD/MM*
 
-Selecionei 5 movimentos que valem 30 segundos da sua atenção:
+Selecionei 5 movimentos que valem 30 segundos:
 
-*1. [Título curto]*
-[2-3 linhas em linguagem de gestor — o "e daí?"]
+*1. [Título humano, não título de jornal]*
+[Fato em 1 frase, linguagem leiga.]
+👉 [Caso de uso: "Útil pra quem... porque..."]
 🔗 [link]
 
 *2. ...*
-[etc]
 
 ---
-Qual desses chamou mais sua atenção?
+Qual desses faz mais sentido pra sua realidade?
 ```
 
-**Limite:** mensagem inteira ≤ 1500 caracteres pra caber bem no WhatsApp.
+#### Exemplos de "antes/depois" — pra você calibrar
+
+❌ **Antes:** "vLLM v0.21.0 com 367 commits: deprecação do Transformers v4, requisito C++20 obrigatório, integração KV Offload com Hybrid Memory Allocator."
+
+✅ **Depois:** *não deveria ter entrado no top 5* — isso é update de infra que ninguém do ICP usa.
+
+---
+
+❌ **Antes:** "Notion integra agents de IA — Nova plataforma permite conectar agentes de IA, fontes de dados externas e código customizado ao workspace."
+
+✅ **Depois:** "Notion (aquele app de notas/wiki que muita gente usa no trabalho) agora deixa você criar agentes de IA que respondem perguntas usando os seus documentos. 👉 Útil pra quem tem base de conhecimento espalhada e perde tempo procurando coisa."
+
+---
+
+❌ **Antes:** "Cerebras IPO: $5,5B arrecadados, ação sobe 108%."
+
+✅ **Depois:** "A Cerebras (empresa que faz chips ultra-rápidos pra rodar IA — concorrente da NVIDIA) abriu capital na bolsa e saltou 108% no primeiro dia. 👉 Sinal de que dinheiro institucional ainda aposta forte em infra de IA, mesmo com o hype "esfriando" no consumidor final."
+
+#### Regras finais
+
+- Limite total: ≤ 1800 caracteres (cabe bem no WhatsApp).
+- Se algum item exige mais de 3 linhas pra explicar, ou ele é importante demais e merece o espaço, ou ele não devia tá ali.
+- A mensagem deve ser **autocontida**: o leitor não precisa clicar pra entender o que rolou.
 
 ### Passo 7 — Atualizar histórico
 
