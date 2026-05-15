@@ -86,3 +86,9 @@ assets-generated/
 # --- Claude Code project-level state ---
 .claude/cache/
 .claude/history/
+
+# --- News curator output (gerado diariamente) ---
+# Manter histórico versionado, mas não as pastas datadas com raw content
+data/news/[0-9]*/
+!data/news/historico.md
+!data/news/README.md

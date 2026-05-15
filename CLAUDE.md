@@ -168,6 +168,18 @@ Na Fase 2, esses mesmos comandos vão ser disparados pelo Task Scheduler do Wind
 
 ---
 
+## Pipelines em produção (Claude Code subagents)
+
+Além dos 5 agentes Python planejados, este repo tem **pipelines leves rodando com Claude Code subagents** (zero infra, zero custo):
+
+| Pipeline | Pasta de subagentes | Prompt orquestrador | Output |
+|---|---|---|---|
+| **news-curator** — curadoria diária de notícias de IA pra WhatsApp | [`.claude/agents/news/`](.claude/agents/news/) | [`prompts/news/news-master.md`](prompts/news/news-master.md) | `data/news/AAAA-MM-DD/whatsapp.md` |
+
+Esses pipelines rodam via `/schedule` (Claude Code cloud) ou manualmente. Não precisam dos agentes Python, do SQLite ou do supervisor. Ver [`data/news/README.md`](data/news/README.md) pra detalhes do news-curator.
+
+---
+
 ## Skills consultadas durante o DESENVOLVIMENTO
 
 Quando você (Claude Code) tá escrevendo código neste repo, pode invocar estas skills quando relevante:
