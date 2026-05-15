@@ -174,9 +174,15 @@ Além dos 5 agentes Python planejados, este repo tem **pipelines leves rodando c
 
 | Pipeline | Pasta de subagentes | Prompt orquestrador | Output |
 |---|---|---|---|
-| **news-curator** — curadoria diária de notícias de IA pra WhatsApp | [`.claude/agents/news/`](.claude/agents/news/) | [`prompts/news/news-master.md`](prompts/news/news-master.md) | `data/news/AAAA-MM-DD/whatsapp.md` |
+| **news-curator** — curadoria diária de IA via email | [`.claude/agents/news/`](.claude/agents/news/) | [`prompts/news/news-master.md`](prompts/news/news-master.md) | Email (HTML) via Resend + `data/news/AAAA-MM-DD/top.md` |
 
-Esses pipelines rodam via `/schedule` (Claude Code cloud) ou manualmente. Não precisam dos agentes Python, do SQLite ou do supervisor. Ver [`data/news/README.md`](data/news/README.md) pra detalhes do news-curator.
+Esses pipelines rodam via `/schedule` (Claude Code cloud) ou manualmente. Não precisam dos agentes Python, do SQLite ou do supervisor.
+
+**Secrets necessários** (no painel `/schedule` da Anthropic, OU no `.env` local pra execução manual):
+- `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `NEWS_EMAIL_DESTINATARIO` (pra envio do email)
+- `GITHUB_PAT`, `GITHUB_REPO` (pra rotina commitar `historico.md` de volta)
+
+Setup completo: [`data/news/README.md`](data/news/README.md).
 
 ---
 

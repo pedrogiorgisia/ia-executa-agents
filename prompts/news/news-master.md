@@ -216,6 +216,129 @@ Imprima na saída final:
 
 ---
 
+### Passo 9 — Gerar email HTML
+
+Leia o template em `prompts/news/email-template.html`.
+
+Substitua os placeholders pelos valores do dia:
+
+| Placeholder | Valor |
+|---|---|
+| `{{DATA_HUMANA}}` | ex: "15 de maio de 2026" |
+| `{{TOTAL_ITENS}}` | número de itens no `top.md` |
+| `{{RESUMO_EXECUTIVO}}` | 1-2 frases destacando o que mais chama atenção do dia |
+| `{{ITENS_HTML}}` | concatenação de todos os itens em HTML (formato no comentário final do template) |
+| `{{TIMESTAMP_GERACAO}}` | ex: "Gerado em 15/05/2026 às 07:00 BRT" |
+
+**Para cada item do `top.md`**, gere o bloco HTML correspondente substituindo:
+- `CATEGORIA_AQUI` → uma de: `RELEASE` (se veio de github-releases), `LAB OFICIAL` (labs-blogs), `IMPRENSA` (tech-press), `COMUNIDADE` (hn-communities)
+- `TITULO_AQUI` → título do item
+- `O_QUE_ACONTECEU_AQUI` → conteúdo do campo "O que aconteceu"
+- `SIGNIFICA_AQUI` → conteúdo do campo "O que isso significa pra você"
+- `PARA_QUEM_AQUI` → conteúdo de "Pra quem importa mais"
+- `LINK_DIRETO_AQUI` → URL direta da fonte
+
+Salve o HTML final em `data/news/$HOJE/email.html`.
+
+**Escape HTML:** se algum título ou campo tem `<`, `>`, `&`, `"`, troque por `&lt;`, `&gt;`, `&amp;`, `&quot;`. Senão quebra o HTML.
+
+---
+
+### Passo 10 — Enviar email via Resend
+
+Pré-requisitos (devem estar nas variáveis de ambiente da rotina):
+- `RESEND_API_KEY` (sem isso, pula este passo com aviso)
+- `NEWS_EMAIL_DESTINATARIO`
+- `RESEND_FROM_EMAIL` (default: `onboarding@resend.dev`)
+
+**Crie um arquivo de payload temporário** `data/news/$HOJE/email-payload.json` com:
+
+```json
+{
+  "from": "Pedro Giorgis <RESEND_FROM_EMAIL>",
+  "to": ["NEWS_EMAIL_DESTINATARIO"],
+  "subject": "News IA — DD/MM",
+  "html": "<conteúdo HTML do arquivo email.html lido literalmente, com escape JSON>"
+}
+```
+
+Para gerar esse JSON corretamente (com escape dos `\n`, `"`, etc. no campo HTML), use um script inline em Bash/PowerShell que leia o arquivo e produza JSON válido. Em Bash:
+
+```bash
+jq -n \
+  --arg from "Pedro Giorgis <$RESEND_FROM_EMAIL>" \
+  --arg to "$NEWS_EMAIL_DESTINATARIO" \
+  --arg subject "News IA — $(date +%d/%m)" \
+  --rawfile html data/news/$HOJE/email.html \
+  '{from: $from, to: [$to], subject: $subject, html: $html}' \
+  > data/news/$HOJE/email-payload.json
+```
+
+Em PowerShell (Windows):
+
+```powershell
+$html = Get-Content -Raw "data/news/$HOJE/email.html"
+$payload = @{
+  from = "Pedro Giorgis <$env:RESEND_FROM_EMAIL>"
+  to = @($env:NEWS_EMAIL_DESTINATARIO)
+  subject = "News IA — $(Get-Date -Format 'dd/MM')"
+  html = $html
+} | ConvertTo-Json -Depth 4
+$payload | Out-File "data/news/$HOJE/email-payload.json" -Encoding utf8
+```
+
+**Envie via curl:**
+
+```bash
+curl -X POST https://api.resend.com/emails \
+  -H "Authorization: Bearer $RESEND_API_KEY" \
+  -H "Content-Type: application/json" \
+  --data-binary @data/news/$HOJE/email-payload.json
+```
+
+**Verifique a resposta:** se vier um JSON com `id`, deu certo. Se vier erro, registre no log e siga em frente.
+
+**Apague o `email-payload.json`** depois (não precisa ficar no histórico).
+
+---
+
+### Passo 11 — Commit do histórico de volta no GitHub
+
+Apenas executar se estiver rodando na cloud da Anthropic (via `/schedule`). Em execução manual local, pular.
+
+Pré-requisitos:
+- `GITHUB_PAT` na env (token fine-grained com `contents:write` neste repo)
+- `GITHUB_REPO` (ex: `pedrogiorgisia/ia-executa-agents`)
+
+Comandos:
+
+```bash
+git config user.email "news-bot@ia-executa.com"
+git config user.name "News Bot"
+git remote set-url origin "https://${GITHUB_PAT}@github.com/${GITHUB_REPO}.git"
+git add data/news/historico.md
+git commit -m "chore(news): histórico do dia $HOJE [skip ci]" || echo "Nada pra commitar"
+git push origin main
+```
+
+Se o push falhar (conflito, rede etc.), **não** quebre o pipeline — registre no log e siga.
+
+---
+
+## Resumo dos artefatos gerados no dia
+
+Ao fim de uma execução completa, `data/news/$HOJE/` deve conter:
+- `raw/` — 4 arquivos coletados pelos subagentes
+- `consolidado.md` — junção bruta
+- `top.md` — **15-20 itens ordenados** (arquivo principal)
+- `whatsapp.md` — sugestão de mensagem com os 5 primeiros
+- `email.html` — versão HTML enviada por email
+
+E:
+- `data/news/historico.md` — atualizado com os títulos do dia, commitado no GitHub se rodou via cloud.
+
+---
+
 ## Regras importantes
 
 - **Nunca envie nada automaticamente** — apenas grave o arquivo. O Pedro revisa e envia manualmente.

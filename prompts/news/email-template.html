@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News IA — {{DATA_HUMANA}}</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f4f4f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color:#18181b; line-height:1.5;">
+
+<!-- wrapper -->
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color:#f4f4f5;">
+  <tr>
+    <td align="center" style="padding:24px 12px;">
+
+      <!-- container 600px -->
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" style="max-width:600px; width:100%; background-color:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+
+        <!-- header -->
+        <tr>
+          <td style="background-color:#0a0a0a; padding:24px 28px; color:#fafafa;">
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td>
+                  <div style="font-size:11px; letter-spacing:1.5px; text-transform:uppercase; color:#a1a1aa; margin-bottom:4px;">News IA &middot; Pedro Giorgis</div>
+                  <div style="font-size:22px; font-weight:600; color:#fafafa;">{{DATA_HUMANA}}</div>
+                </td>
+                <td align="right" style="font-size:11px; color:#a1a1aa;">
+                  {{TOTAL_ITENS}} itens
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- resumo executivo -->
+        <tr>
+          <td style="padding:20px 28px; background-color:#fafafa; border-bottom:1px solid #e4e4e7; font-size:14px; color:#3f3f46;">
+            {{RESUMO_EXECUTIVO}}
+          </td>
+        </tr>
+
+        <!-- itens -->
+        <tr>
+          <td style="padding:8px 28px 28px 28px;">
+            {{ITENS_HTML}}
+          </td>
+        </tr>
+
+        <!-- footer -->
+        <tr>
+          <td style="background-color:#fafafa; padding:20px 28px; border-top:1px solid #e4e4e7; font-size:12px; color:#71717a; text-align:center;">
+            <div style="margin-bottom:8px;">Curadoria automatizada por IA &middot; revisada por mim antes de qualquer compartilhamento.</div>
+            <div style="font-size:11px; color:#a1a1aa;">{{TIMESTAMP_GERACAO}}</div>
+          </td>
+        </tr>
+
+      </table>
+      <!-- /container -->
+
+    </td>
+  </tr>
+</table>
+<!-- /wrapper -->
+
+</body>
+</html>
+
+<!--
+PLACEHOLDERS QUE O MASTER PRECISA SUBSTITUIR:
+
+  {{DATA_HUMANA}}        ex: "15 de maio de 2026"
+  {{TOTAL_ITENS}}        ex: "18"
+  {{RESUMO_EXECUTIVO}}   1-2 frases. Ex: "Hoje: 18 movimentos. Destaques em Anthropic, Notion abrindo plataforma de agentes, e Cerebras estreando em bolsa."
+  {{ITENS_HTML}}         lista de itens — formato de cada item está abaixo
+  {{TIMESTAMP_GERACAO}}  ex: "Gerado em 15/05/2026 às 07:00 BRT"
+
+FORMATO DE CADA ITEM (concatenar N destes em {{ITENS_HTML}}):
+
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin:20px 0; border-bottom:1px solid #e4e4e7; padding-bottom:20px;">
+  <tr>
+    <td>
+      <div style="display:inline-block; font-size:10px; letter-spacing:1px; text-transform:uppercase; color:#3b82f6; font-weight:600; margin-bottom:8px;">CATEGORIA_AQUI</div>
+      <h2 style="margin:0 0 12px 0; font-size:17px; font-weight:600; color:#18181b; line-height:1.35;">TITULO_AQUI</h2>
+      <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que aconteceu:</strong> O_QUE_ACONTECEU_AQUI</p>
+      <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que isso significa pra você:</strong> SIGNIFICA_AQUI</p>
+      <p style="margin:0 0 14px 0; font-size:13px; color:#71717a;"><strong style="color:#52525b;">Pra quem importa mais:</strong> PARA_QUEM_AQUI</p>
+      <a href="LINK_DIRETO_AQUI" style="display:inline-block; padding:8px 14px; background-color:#18181b; color:#fafafa; text-decoration:none; border-radius:6px; font-size:13px; font-weight:500;">Ver fonte →</a>
+    </td>
+  </tr>
+</table>
+
+CATEGORIAS POSSÍVEIS (cor já fica azul #3b82f6 pra todas — simplicidade):
+- RELEASE         (vem do subagente news-github-releases)
+- LAB OFICIAL     (vem do subagente news-labs-blogs)
+- IMPRENSA        (vem do subagente news-tech-press)
+- COMUNIDADE      (vem do subagente news-hn-communities)
+
+-->
