@@ -25,7 +25,7 @@ Releases de repositórios estratégicos via feed `.atom` nativo do GitHub.
 
 ## labs-blogs
 
-Blogs oficiais dos principais laboratórios de IA.
+Blogs oficiais dos principais laboratórios de IA e fornecedores estratégicos (Microsoft, NVIDIA).
 
 | Lab | Tipo | URL |
 |---|---|---|
@@ -33,24 +33,30 @@ Blogs oficiais dos principais laboratórios de IA.
 | OpenAI | RSS | https://openai.com/news/rss.xml |
 | Google DeepMind | RSS | https://deepmind.google/blog/rss.xml |
 | Mistral AI | HTML | https://mistral.ai/news |
-| xAI | HTML | https://x.ai/news |
-| Perplexity | HTML | https://www.perplexity.ai/hub/blog |
 | Cohere | HTML | https://cohere.com/blog |
 | Meta AI | HTML | https://ai.meta.com/blog/ |
+| Microsoft Copilot | RSS | https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/ |
+| NVIDIA | RSS | https://blogs.nvidia.com/feed/ |
+
+> **Removidas em 16/05/2026:** xAI (`x.ai/news`) e Perplexity (`perplexity.ai/hub/blog`) — bloqueavam todos os WebFetch com HTTP 403. Sem feed alternativo viável.
 
 ---
 
 ## tech-press
 
-Imprensa especializada — cobertura jornalística com análise.
+Imprensa especializada e analistas de mercado — cobertura jornalística + análise estratégica.
 
-| Veículo | URL (RSS) |
-|---|---|
-| TechCrunch AI | https://techcrunch.com/category/artificial-intelligence/feed/ |
-| The Verge AI | https://www.theverge.com/ai-artificial-intelligence/rss/index.xml |
-| Ars Technica AI | https://arstechnica.com/ai/feed/ |
-| MIT Tech Review (AI) | https://www.technologyreview.com/topic/artificial-intelligence/feed |
-| VentureBeat AI | https://venturebeat.com/category/ai/feed/ |
+| Veículo | Tipo | URL |
+|---|---|---|
+| TechCrunch AI | RSS | https://techcrunch.com/category/artificial-intelligence/feed/ |
+| MIT Tech Review (AI) | RSS | https://www.technologyreview.com/topic/artificial-intelligence/feed |
+| VentureBeat AI | RSS | https://venturebeat.com/category/ai/feed/ |
+| The Register AI | RSS | https://www.theregister.com/headlines.atom |
+| Stratechery (Ben Thompson) | RSS | https://stratechery.com/feed/ |
+| Latent Space (swyx) | RSS | https://www.latent.space/feed |
+| Ben's Bites | RSS | https://bensbites.com/rss |
+
+> **Removidas em 16/05/2026:** The Verge AI e Ars Technica AI — bloqueavam WebFetch com HTTP 403 (proteção anti-bot). The Register cobre tema similar e foi adicionado.
 
 ---
 
@@ -64,7 +70,10 @@ Hacker News + comunidades dev. Aqui o ICP é gestor, então o subagente deve **f
 | HN newest "AI" (≥50 pts) | https://hnrss.org/newest?q=AI&points=50 |
 | HN newest "Claude" | https://hnrss.org/newest?q=Claude |
 | HN newest "LLM" (≥50 pts) | https://hnrss.org/newest?q=LLM&points=50 |
-| r/LocalLLaMA top semanal | https://www.reddit.com/r/LocalLLaMA/top.rss?t=week |
+| r/LocalLLaMA top semanal | https://old.reddit.com/r/LocalLLaMA/top.rss?t=week |
+| r/ChatGPT top semanal | https://old.reddit.com/r/ChatGPT/top.rss?t=week |
+
+> **Tentativa em 16/05/2026:** Reddit `www.reddit.com` foi bloqueado com 403. Trocado por `old.reddit.com` que costuma aceitar mais clientes. Se continuar 403, próxima tentativa é a API JSON pública do Reddit (`/.json`).
 
 ---
 
