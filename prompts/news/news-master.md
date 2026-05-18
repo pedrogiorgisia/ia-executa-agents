@@ -274,7 +274,11 @@ Salve o HTML final em `data/news/$HOJE/email.html`.
 
 ---
 
-### Passo 10 — Enviar email via Resend
+### Passo 10 — Enviar email via Resend (condicional)
+
+**Se a env var `NEWS_SKIP_EMAIL=true`**, PULE este passo. Cenário esperado: o podcast-master vai rodar depois e enviar o email combinado (notícias + banner do podcast). Apenas registre no log: "Passo 10 pulado — NEWS_SKIP_EMAIL=true, podcast-master vai enviar email combinado."
+
+**Caso contrário**, prossiga com o envio normal abaixo.
 
 Pré-requisitos (devem estar nas variáveis de ambiente da rotina):
 - `RESEND_API_KEY` (sem isso, pula este passo com aviso)

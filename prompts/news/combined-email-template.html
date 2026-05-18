@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News IA — {{DATA_HUMANA}}</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f4f4f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color:#18181b; line-height:1.5;">
+
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color:#f4f4f5;">
+  <tr>
+    <td align="center" style="padding:24px 12px;">
+
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" style="max-width:600px; width:100%; background-color:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+
+        <!-- BANNER PODCAST (no topo) -->
+        <tr>
+          <td style="background:linear-gradient(135deg, #18181b 0%, #3b3b40 100%); padding:28px 28px; color:#fafafa;">
+            <div style="font-size:11px; letter-spacing:1.5px; text-transform:uppercase; color:#a1a1aa; margin-bottom:6px;">🎧 Podcast IA · {{DATA_HUMANA}}</div>
+            <div style="font-size:20px; font-weight:600; margin-bottom:16px; color:#fafafa;">Resumo do dia em áudio</div>
+            <div style="font-size:13px; color:#d4d4d8; margin-bottom:16px;">~5-8 minutos · conversa entre apresentadora e especialista</div>
+            <a href="{{PODCAST_LINK}}" style="display:inline-block; padding:12px 24px; background-color:#fafafa; color:#18181b; text-decoration:none; border-radius:8px; font-size:14px; font-weight:600;">▶ Ouvir podcast</a>
+          </td>
+        </tr>
+
+        <!-- DIVISOR -->
+        <tr>
+          <td style="padding:0;">
+            <div style="height:1px; background-color:#e4e4e7;"></div>
+          </td>
+        </tr>
+
+        <!-- ITENS (direto, sem header news, sem resumo executivo) -->
+        <tr>
+          <td style="padding:24px 28px;">
+            {{ITENS_HTML}}
+          </td>
+        </tr>
+
+        <!-- FOOTER -->
+        <tr>
+          <td style="background-color:#fafafa; padding:16px 28px; border-top:1px solid #e4e4e7; font-size:11px; color:#a1a1aa; text-align:center;">
+            {{TIMESTAMP_GERACAO}} · {{TOTAL_ITENS}} itens curados
+          </td>
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<!--
+PLACEHOLDERS QUE O PODCAST-MASTER PRECISA SUBSTITUIR:
+
+  {{DATA_HUMANA}}        ex: "18 de maio de 2026"
+  {{PODCAST_LINK}}       URL pública do MP3 no Drive
+  {{ITENS_HTML}}         lista de itens (formato igual ao email-template.html original)
+  {{TIMESTAMP_GERACAO}}  ex: "Gerado em 18/05/2026 às 07:30 BRT"
+  {{TOTAL_ITENS}}        ex: "11"
+
+OBS: O subassunto banner do podcast vem PRIMEIRO. Depois os itens diretamente,
+SEM o header "NEWS IA · PEDRO GIORGIS" e SEM resumo executivo "Hoje/Destaques/Alertas".
+
+FORMATO DE CADA ITEM (igual ao email-template.html original — concatenar N destes):
+
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin:20px 0; border-bottom:1px solid #e4e4e7; padding-bottom:20px;">
+  <tr>
+    <td>
+      <div style="display:inline-block; font-size:10px; letter-spacing:1px; text-transform:uppercase; color:#3b82f6; font-weight:600; margin-bottom:8px;">CATEGORIA</div>
+      <h2 style="margin:0 0 12px 0; font-size:17px; font-weight:600; color:#18181b; line-height:1.35;">TITULO</h2>
+      <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que aconteceu:</strong> ...</p>
+      <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que isso significa pra você:</strong> ...</p>
+      <p style="margin:0 0 14px 0; font-size:13px; color:#71717a;"><strong style="color:#52525b;">Pra quem importa mais:</strong> ...</p>
+      <a href="LINK" style="display:inline-block; padding:8px 14px; background-color:#18181b; color:#fafafa; text-decoration:none; border-radius:6px; font-size:13px; font-weight:500;">Ver fonte →</a>
+    </td>
+  </tr>
+</table>
+
+-->

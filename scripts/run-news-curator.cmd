@@ -15,8 +15,10 @@ for /f "tokens=2 delims==" %%a in ('wmic OS Get localdatetime /value') do set "d
 set "DATA=%dt:~0,4%-%dt:~4,2%-%dt:~6,2%_%dt:~8,2%h%dt:~10,2%m"
 
 REM Roda Claude Code em modo headless (-p) com o prompt
+REM NEWS_SKIP_EMAIL=true: pipeline do podcast (que roda 30 min depois) vai enviar email combinado
 REM --dangerously-skip-permissions: necessário pra rodar sem interação
 REM Redireciona output pra arquivo de log
-"C:\Users\pedro\AppData\Roaming\npm\claude.cmd" -p "Execute o pipeline em prompts/news/news-master.md. Você está rodando em modo LOCAL (não cloud). Siga todos os passos incluindo o 7 (atualizar historico.md), e PULE o passo 12 (upload pro Drive — desnecessário, os arquivos locais já estão no Drive sincronizado)." --dangerously-skip-permissions > "logs\news-curator-%DATA%.log" 2>&1
+set NEWS_SKIP_EMAIL=true
+"C:\Users\pedro\AppData\Roaming\npm\claude.cmd" -p "Execute o pipeline em prompts/news/news-master.md. Você está rodando em modo LOCAL (não cloud). Siga todos os passos incluindo o 7 (atualizar historico.md), e PULE o passo 12 (upload pro Drive — desnecessário, os arquivos locais já estão no Drive sincronizado). NEWS_SKIP_EMAIL=true está setado: PULE o envio de email no passo 10 (o podcast-master vai enviar email combinado depois)." --dangerously-skip-permissions > "logs\news-curator-%DATA%.log" 2>&1
 
 exit /b %ERRORLEVEL%

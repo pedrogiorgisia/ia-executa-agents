@@ -51,7 +51,7 @@ notebooklm add-source <notebook_id> --file data/news/$HOJE/top.md
 
 ```
 notebooklm generate audio <notebook_id> \
-  --instructions "Português brasileiro. Estilo de conversa entre dois apresentadores (uma voz feminina, uma masculina). Duração entre 3 e 5 minutos. Tom: profissional, descontraído, voltado para executivos não-técnicos. Comece com 'No resumo de IA de hoje...'. Cobra os 4-5 itens mais relevantes do top, sempre explicando 'o que aconteceu' e 'por que isso importa pra um gestor'. Termine com uma reflexão curta ou pergunta provocativa." \
+  --instructions "Português brasileiro. Dois apresentadores com papéis distintos: (1) Apresentador/jornalista — voz feminina — apresenta cada notícia de forma objetiva e direta. (2) Especialista em IA — voz masculina — comenta cada notícia trazendo perspectiva analítica, contexto de mercado e implicações práticas pra empresas. Ritmo DINÂMICO E ÁGIL — sem pausas longas, sem voltar atrás, sem floreio. Falem rápido, em ritmo de podcast informativo profissional (NÃO em ritmo lento de podcast contemplativo). Cobra TODOS os itens do top.md, não só 4-5 — cada notícia ganha 20-40 segundos: a apresentadora descreve em 1-2 frases, o especialista comenta em 2-3 frases. Duração total 5-8 minutos. Comece com 'O que rolou no mundo da IA hoje, em poucos minutos.' Termine com uma observação curta do especialista sobre a notícia mais importante do dia." \
   --wait
 ```
 
@@ -104,23 +104,67 @@ Quando tiver o `file_id`:
 LINK_PUBLICO=https://drive.google.com/file/d/<file_id>/view?usp=sharing
 ```
 
-### Passo 9 — Enviar email com o link via Resend
+### Passo 9 — Montar e enviar o email COMBINADO via Resend
+
+Este passo monta UM email único: **banner do podcast no topo + todos os itens das notícias logo abaixo** (SEM cabeçalho "News IA" e SEM resumo executivo — só itens diretamente).
+
+#### 9.1 — Obter os itens HTML
+
+Você precisa do HTML formatado dos itens (já com "O que aconteceu / O que significa / Pra quem importa / botão Ver fonte").
+
+**Estratégia mais simples:** **regere os itens** a partir do `top.md`. Cada item do `top.md` vira um bloco HTML usando o formato:
+
+```html
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin:20px 0; border-bottom:1px solid #e4e4e7; padding-bottom:20px;">
+  <tr><td>
+    <h2 style="margin:0 0 12px 0; font-size:17px; font-weight:600; color:#18181b; line-height:1.35;">TÍTULO_AQUI</h2>
+    <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que aconteceu:</strong> ...</p>
+    <p style="margin:0 0 10px 0; font-size:14px; color:#3f3f46;"><strong style="color:#18181b;">O que isso significa pra você:</strong> ...</p>
+    <p style="margin:0 0 14px 0; font-size:13px; color:#71717a;"><strong style="color:#52525b;">Pra quem importa mais:</strong> ...</p>
+    <a href="LINK" style="display:inline-block; padding:8px 14px; background-color:#18181b; color:#fafafa; text-decoration:none; border-radius:6px; font-size:13px; font-weight:500;">Ver fonte →</a>
+  </td></tr>
+</table>
+```
+
+Lembre de escapar `<`, `>`, `&`, `"` no conteúdo de cada campo.
+
+#### 9.2 — Aplicar `combined-email-template.html`
+
+Leia `prompts/news/combined-email-template.html` e substitua:
+
+| Placeholder | Valor |
+|---|---|
+| `{{DATA_HUMANA}}` | ex: "18 de maio de 2026" |
+| `{{PODCAST_LINK}}` | URL pública do MP3 (do Passo 8) |
+| `{{ITENS_HTML}}` | concatenação de todos os blocos de itens do 9.1 |
+| `{{TIMESTAMP_GERACAO}}` | ex: "Gerado em 18/05/2026 às 07:30 BRT" |
+| `{{TOTAL_ITENS}}` | número de itens do top.md |
+
+Salve em `data/news/$HOJE/email-combinado.html`.
+
+#### 9.3 — Enviar via Resend
 
 ```bash
-cat > /tmp/email-payload.json <<EOF
-{
-  "from": "Pedro Giorgis <$RESEND_FROM_EMAIL>",
-  "to": ["$NEWS_EMAIL_DESTINATARIO"],
-  "subject": "🎧 Podcast IA — $(date +%d/%m)",
-  "html": "<div style='font-family: sans-serif; max-width: 600px;'><h2>🎧 Podcast IA — $(date +%d/%m)</h2><p>Resumo do dia em áudio (3-5 min):</p><p><a href='$LINK_PUBLICO' style='display: inline-block; padding: 12px 24px; background: #18181b; color: #fff; text-decoration: none; border-radius: 6px;'>▶ Ouvir podcast</a></p><p style='color: #666; font-size: 13px;'>Gerado automaticamente a partir do top.md de hoje.</p></div>"
-}
-EOF
+jq -n \
+  --arg from "Pedro Giorgis <$RESEND_FROM_EMAIL>" \
+  --arg to "$NEWS_EMAIL_DESTINATARIO" \
+  --arg subject "🎧 News IA — $(date +%d/%m)" \
+  --rawfile html data/news/$HOJE/email-combinado.html \
+  '{from: $from, to: [$to], subject: $subject, html: $html}' \
+  > /tmp/email-combinado-payload.json
 
 curl -X POST https://api.resend.com/emails \
   -H "Authorization: Bearer $RESEND_API_KEY" \
   -H "Content-Type: application/json" \
-  --data-binary @/tmp/email-payload.json
+  --data-binary @/tmp/email-combinado-payload.json
 ```
+
+#### 9.4 — FALLBACK: se o podcast falhou
+
+Se o podcast não foi gerado (NotebookLM caiu, MP3 < 100KB, link não obtido):
+- **NÃO envie o email combinado** (não tem link de podcast)
+- Envie o email original do news-master que está em `data/news/$HOJE/email.html` (assunto "📰 News IA — DD/MM")
+- Marque no log que foi fallback
 
 ### Passo 10 — Output final
 
