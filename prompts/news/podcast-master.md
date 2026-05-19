@@ -10,6 +10,17 @@
 
 Você é responsável por **transformar a curadoria de notícias do dia em um podcast curto** (3-5 minutos) que o Pedro vai enviar pra alunos da mentoria e/ou ouvir de manhã. A audiência é a mesma do news-master: **executivos, gestores e profissionais de produto interessados em IA, sem viés técnico hardcore**.
 
+## ⚠️ REGRA CRÍTICA — modo automático
+
+Este pipeline roda em **Task Scheduler do Windows todo dia 07:30 sem usuário presente**. Não tem ninguém pra reautenticar nada, responder pergunta ou destravar coisa.
+
+**Se QUALQUER passo do NotebookLM falhar** (token expirado, sessão morta, timeout, qualquer erro):
+- **NUNCA pausar pedindo reautenticação manual.** Pausar = Pedro fica sem email do dia.
+- **Sempre acionar o FALLBACK (Passo 9.4): enviar o email apenas com as notícias (sem podcast).**
+- Registrar no log o que aconteceu, mas seguir em frente.
+
+A regra é: **melhor email só com notícias do que nenhum email.**
+
 ## Pré-requisitos
 
 - `notebooklm-py` instalada e autenticada (Pedro já fez `notebooklm login`)
@@ -159,12 +170,37 @@ curl -X POST https://api.resend.com/emails \
   --data-binary @/tmp/email-combinado-payload.json
 ```
 
-#### 9.4 — FALLBACK: se o podcast falhou
+#### 9.4 — FALLBACK: se o podcast falhou (qualquer motivo)
 
-Se o podcast não foi gerado (NotebookLM caiu, MP3 < 100KB, link não obtido):
-- **NÃO envie o email combinado** (não tem link de podcast)
-- Envie o email original do news-master que está em `data/news/$HOJE/email.html` (assunto "📰 News IA — DD/MM")
-- Marque no log que foi fallback
+**Quando acionar este fallback (lista exaustiva):**
+- NotebookLM `auth check` falhou (token expirado / sessão morta)
+- `notebooklm create` ou `add-source` retornou erro
+- `notebooklm generate audio` falhou ou demorou > 10 min
+- MP3 baixado tem < 100KB ou não existe
+- Cópia pra `data/podcasts-publicos/` falhou
+- Drive MCP não encontrou o arquivo após 3 tentativas (90s total)
+- Qualquer outro erro no caminho do podcast
+
+**O que fazer no fallback (modo automático, sem pausar):**
+
+Use o script helper `scripts/send_email_resend.py` (já tem User-Agent correto pra contornar 403 Cloudflare):
+
+```bash
+python scripts/send_email_resend.py data/news/$HOJE/email.html "📰 News IA — $(date +%d/%m)"
+```
+
+Esse script:
+- Lê `data/news/$HOJE/email.html` (gerado pelo news-master, formato original com header "News IA" + resumo executivo + itens)
+- Lê env vars do `.env` automaticamente
+- Manda via Resend
+- Retorna HTTP 200 = sucesso
+
+**Registre no log:**
+- Por que o podcast falhou (qual passo, qual erro)
+- Que o fallback foi acionado
+- Status do envio do fallback
+
+**NUNCA pause pedindo intervenção humana.** Se até o fallback falhar (Resend down, etc.), registra erro e sai com exit code != 0 — mas envia o que conseguir.
 
 ### Passo 10 — Output final
 
