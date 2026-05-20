@@ -2,36 +2,6 @@
   "date": "2026-05-20",
   "items": [
     {
-      "titulo": "67% dos funcionários já usam IA pessoal no trabalho sem autorização — e 28% mandaram código da empresa pra ferramentas públicas",
-      "aconteceu": "Uma pesquisa mostrou que quase 7 em cada 10 funcionários que usam IA no trabalho fazem isso com contas pessoais (ChatGPT, Claude pessoal etc.) sem aprovação da TI. O número cresceu 4 vezes em um ano. O mais grave: 28% deles já enviaram código-fonte ou documentos confidenciais da empresa para esses serviços — sem perceber que isso pode expor propriedade intelectual ou violar NDAs com clientes.",
-      "significa": "Se você tem mais de 20 funcionários e não tem uma política de uso de IA, seu negócio já está exposto hoje. Não amanhã — hoje. Um engenheiro pode ter mandado o módulo de login da empresa pro ChatGPT pra depurar um bug na semana passada. A janela para agir antes de um incidente está se fechando.",
-      "fonte": "https://www.theregister.com/ai-ml/2026/05/19/shadow-ai-surges-in-the-workplace/"
-    },
-    {
-      "titulo": "SAP vai cobrar por cada \"ação\" dos agentes de IA — e ninguém sabe definir o que é uma ação",
-      "aconteceu": "A SAP (o sistema de gestão usado por grandes empresas do mundo inteiro) anunciou que vai cobrar pelo uso de agentes de IA baseado em \"ações\" realizadas, não por número de usuários como fazia antes. O Gartner alertou: a definição de \"ação\" é vaga demais para prever custos. Empresas podem receber faturas mensais que variam de forma completamente imprevisível.",
-      "significa": "Pense no modelo de cobrança de dados de celular antes da franquia fixa — só que pior, porque você nem sabe o que conta como \"uso\". Qualquer empresa que implementar agentes de IA em processos da SAP sem negociar um teto contratual pode receber uma conta 3x maior que o esperado no final do mês. Essa armadilha de precificação por consumo em agentes autônomos vai se repetir em outros fornecedores — SAP só é o primeiro a anunciar abertamente.",
-      "fonte": "https://www.theregister.com/saas/2026/05/19/sap-customers-warned-ai-agents-could-put-costs-on-autopilot/"
-    },
-    {
-      "titulo": "Google reformulou a busca pela primeira vez em 25 anos — e o SEO como conhecemos pode ter acabado",
-      "aconteceu": "O Google transformou sua caixa de pesquisa: ela agora aceita imagens, vídeos, PDFs e abas do navegador ao mesmo tempo, e responde diretamente em vez de mostrar links. Você pergunta, o Google responde — sem precisar clicar em nenhum site.",
-      "significa": "Se a sua empresa depende de tráfego orgânico do Google (blog, artigos, SEO), a estratégia precisa mudar. Quando o Google sintetiza a resposta direto na tela, ninguém precisa clicar no seu site. Agências de SEO que não se adaptarem vão perder relevância. Quem vende \"aparecer no Google\" como serviço precisa repensar o produto.",
-      "fonte": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-    },
-    {
-      "titulo": "Pizza Hut está processando o fornecedor de IA de cozinha que prometeu otimizar e afundou o serviço",
-      "aconteceu": "Uma rede de 111 franquias da Pizza Hut entrou com um processo de R$ 500 milhões contra uma empresa de IA contratada para gerenciar as cozinhas. O sistema causou atrasos nas entregas, aumentou reclamações e permitiu que entregadores do DoorDash rejeitassem pedidos sem gorjeta — deixando comida esfriando. A rede tentou desligar o sistema mas não conseguiu facilmente.",
-      "significa": "Este é o manual do erro de IA em operações: implementar sem SLA definido, sem cláusula de saída e sem medir impacto antes de escalar. Qualquer gestor que estiver avaliando IA em processos operacionais (logística, atendimento, produção) deve ler esse caso como checklist do que NÃO fazer num contrato. O fornecedor pode ter a melhor demo do mundo e ainda assim destruir sua operação em produção.",
-      "fonte": "https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/"
-    },
-    {
-      "titulo": "Andrej Karpathy — o pesquisador que criou a IA de autopilot da Tesla — escolheu a Anthropic",
-      "aconteceu": "Andrej Karpathy, um dos pesquisadores de IA mais influentes do mundo (foi chefe de IA da Tesla e co-fundou a OpenAI antes de sair), anunciou que se juntou à Anthropic, criadora do Claude.",
-      "significa": "Quando os melhores pesquisadores do mundo escolhem para onde vão, isso antecipa onde a inovação vai acontecer. Karpathy é conhecido por escolher onde acredita que o trabalho mais importante de IA está sendo feito — e ele escolheu a Anthropic. Para gestores avaliando qual plataforma de IA adotar ou em qual apostar para os próximos 2-3 anos, esse sinal pesa.",
-      "fonte": "https://twitter.com/karpathy/status/2056753169888334312"
-    },
-    {
       "titulo": "Ferramentas para burlar a \"marca d'água\" de IA já existem — e são gratuitas",
       "aconteceu": "Ao mesmo tempo que OpenAI e Google anunciam tecnologias para \"assinar\" digitalmente conteúdo gerado por IA (para provar que foi feito por máquina), já existem ferramentas de código aberto disponíveis gratuitamente para remover essas marcas d'água — tornando a rastreabilidade ineficaz.",
       "significa": "Qualquer política interna que diz \"vamos detectar se o candidato usou IA na seleção\" ou \"vamos verificar se esse relatório foi escrito por humano\" está construída sobre areia. A tecnologia de detecção está perdendo para a de burla — e essa corrida já começou. Policies de conformidade que dependem de \"identificar IA\" precisam de uma estratégia diferente.",
@@ -48,18 +18,6 @@
       "aconteceu": "O Google lançou o Gemini Omni Flash, modelo que cria e edita vídeos a partir de uma descrição em linguagem comum. Você escreve o que quer, o vídeo é produzido automaticamente. Todo vídeo gerado recebe uma marca d'água digital para autenticidade.",
       "significa": "Uma empresa de e-commerce pode criar vídeos de produto para redes sociais descrevendo o cenário em texto — sem contratar produtora, sem montar equipe, sem esperar semanas. O que custava R$ 10-30 mil numa produtora passa a custar centavos de API. Para agências e produtoras que competem por volume e preço, a janela de vantagem competitiva está se fechando rapidamente.",
       "fonte": "https://deepmind.google/blog/introducing-gemini-omni/"
-    },
-    {
-      "titulo": "Startup levanta $69M para entrevistar 120 clientes em 4 horas com IA — e isso muda a conta de pesquisa qualitativa",
-      "aconteceu": "A Listen Labs (EUA) usa IA para conduzir entrevistas em vídeo com clientes de forma autônoma — faz perguntas de acompanhamento, recruta participantes e entrega um relatório em horas. Um fabricante de produtos infantis entrevistou 120 crianças sobre um novo produto em poucas horas e descobriu um defeito no tecido antes do lançamento.",
-      "significa": "Pesquisa qualitativa (entrevistar clientes, grupos focais) era cara e lenta — semanas de trabalho e R$ 50-200 mil por projeto em agências tradicionais. Isso agora pode ser feito em horas por uma fração do custo. Se você toma decisões de produto sem ouvir clientes porque \"é caro e demorado\", essa justificativa está desaparecendo.",
-      "fonte": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-    },
-    {
-      "titulo": "Slack ganhou IA que responde perguntas usando seus dados do Salesforce em tempo real",
-      "aconteceu": "O Slack (da Salesforce) lançou um assistente de IA embutido que lê o histórico de conversas da empresa, acessa dados do Salesforce CRM e do Google Drive, e executa ações como criar documentos ou agendar reuniões — tudo dentro do Slack, sem trocar de tela.",
-      "significa": "Um gerente de vendas pode perguntar no Slack \"quais contas abertas têm orçamento acima de R$ 500k?\" e receber a resposta em 30 segundos com contexto do CRM. O que antes levava 20 minutos de consulta manual e mudança de ferramentas passa a ser uma pergunta em linguagem comum. Se a sua empresa já usa Slack + Salesforce, essa feature pode estar disponível agora.",
-      "fonte": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
       "titulo": "Organizações sérias estão criando regras formais de uso de IA — quem não tem está atrás da curva",
@@ -86,10 +44,10 @@
       "fonte": "https://relax.ai/docs"
     },
     {
-      "titulo": "Anthropic comprou a empresa que fazia os conectores da OpenAI e do Google — e vai fechar o serviço",
-      "aconteceu": "A Anthropic adquiriu a Stainless, empresa que gerava automaticamente as bibliotecas de integração (SDKs) usadas pela OpenAI e pelo Google para conectar desenvolvedores às suas APIs. A plataforma Stainless será desativada em setembro de 2026. OpenAI e Google precisarão recriar essa infraestrutura internamente.",
-      "significa": "A Anthropic está consolidando controle sobre as ferramentas que outros precisam para integrar seus produtos. Para gestores de TI que integram sistemas via API de IA, pode haver atrasos em atualizações de SDK e documentação da OpenAI e Google nos próximos meses. No médio prazo, é um sinal de que a guerra de IA está se expandindo para a camada de ferramentas para desenvolvedores — não só para os modelos em si.",
-      "fonte": "https://www.theregister.com/ai-ml/2026/05/20/anthropics-stainless-steal-tightens-grip-on-ai-dev-tooling/"
+      "titulo": "Google lançou modelo de IA com 4 velocidades configuráveis — você escolhe entre rápido e inteligente por caso de uso",
+      "aconteceu": "O Google liberou o Gemini 3.5 Flash, modelo que permite ajustar a profundidade de raciocínio em 4 níveis. O desenvolvedor configura: velocidade máxima para tarefas simples (como chatbot de atendimento que responde em <1 segundo) ou qualidade máxima para análises complexas (como revisão de contratos).",
+      "significa": "Para empresas que já têm aplicações de IA rodando em produção, isso é otimização de custo: pagar menos para respostas simples e mais só quando precisa de raciocínio profundo. O custo de manter IA em produção pode cair significativamente para quem adotar esse modelo de precificação variável.",
+      "fonte": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash"
     }
   ]
 }
