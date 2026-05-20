@@ -1,0 +1,5 @@
+[phases.install]
+cmds = []
+
+[start]
+cmd = "python scripts/railway_telegram_sender.py"
