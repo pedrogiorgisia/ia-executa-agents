@@ -19,6 +19,39 @@ from send_telegram_news import load_env, parse_items
 MAX_ITEMS = 15
 
 
+_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
+
+
+def url_ok(url: str) -> bool:
+    """Retorna True se a URL existe. Tenta HEAD; se bloqueado, tenta GET."""
+    # Tenta HEAD primeiro (rápido)
+    try:
+        req = urllib.request.Request(url, method="HEAD", headers=_HEADERS)
+        with urllib.request.urlopen(req, timeout=8) as r:
+            if r.status == 404:
+                return False
+            if r.status < 400:
+                return True
+            # 4xx/5xx que não seja 404: cai no fallback GET
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return False
+        # 403, 405, 429, etc. — muitos sites bloqueiam HEAD, tenta GET
+    except Exception:
+        pass  # timeout, SSL, connection error — tenta GET
+
+    # Fallback: GET (lê só o início da resposta para não baixar a página inteira)
+    try:
+        req = urllib.request.Request(url, headers=_HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as r:
+            r.read(512)  # lê só 512 bytes pra confirmar que existe
+            return r.status < 400
+    except urllib.error.HTTPError as e:
+        return e.code not in (404, 410)
+    except Exception:
+        return False
+
+
 def gh_get(token: str, repo: str, path: str) -> tuple[dict | None, str | None]:
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
     req = urllib.request.Request(url, headers={
@@ -63,8 +96,26 @@ def main() -> None:
         sys.exit(1)
 
     top_md = Path(sys.argv[1]).read_text(encoding="utf-8")
-    items = parse_items(top_md)[:MAX_ITEMS]
+    todos = parse_items(top_md)
     hoje = date.today().isoformat()
+
+    # Validar URLs — descartar itens com 404 ou sem fonte
+    items = []
+    descartados = []
+    for item in todos:
+        if not item.get("fonte"):
+            descartados.append((item["titulo"][:50], "sem fonte"))
+            continue
+        if url_ok(item["fonte"]):
+            items.append(item)
+            if len(items) == MAX_ITEMS:
+                break
+        else:
+            descartados.append((item["titulo"][:50], "URL inválida"))
+
+    for titulo, motivo in descartados:
+        print(f"  [descartado] {motivo}: {titulo}")
+    print(f"  {len(items)} itens válidos de {len(todos)} coletados")
 
     queue = {"date": hoje, "items": items}
     queue_json = json.dumps(queue, ensure_ascii=False, indent=2)
