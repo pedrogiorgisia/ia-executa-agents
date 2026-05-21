@@ -13,6 +13,24 @@ import sys
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+
+def _load_env() -> None:
+    """Carrega .env se as vars não estiverem no ambiente (execução local/Task Scheduler)."""
+    if os.environ.get("GITHUB_PAT"):
+        return
+    env_file = Path(__file__).parent.parent / ".env"
+    if not env_file.exists():
+        return
+    for line in env_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip())
+
+
+_load_env()
 
 # BRT = UTC-3
 BRT = timezone(timedelta(hours=-3))
