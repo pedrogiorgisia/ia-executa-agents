@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-21",
+  "items": [
+    {
+      "titulo": "Intuit demite mais de 3.000 funcionários para \"investir em IA\"",
+      "aconteceu": "A Intuit — dona do TurboTax e QuickBooks, usados por milhões de empresas para gestão financeira — anunciou demissão de mais de 3.000 pessoas justificando publicamente que vai realocar esse orçamento para inteligência artificial.",
+      "significa": "O padrão \"cortar headcount, investir em IA\" está virando narrativa corporativa mainstream. Gestores que não têm resposta clara sobre IA para seus times vão começar a receber essa pergunta do board — independentemente do porte da empresa.",
+      "fonte": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+    },
+    {
+      "titulo": "Anthropic vai ter o primeiro trimestre lucrativo — IA deixa de ser negócio de queimar dinheiro",
+      "aconteceu": "A Anthropic (empresa por trás do Claude) informou investidores que deve dobrar a receita para US$ 10,9 bilhões no segundo trimestre de 2026 e registrar lucro operacional pela primeira vez.",
+      "significa": "Se a empresa que faz o Claude chegou ao lucro, os casos de uso corporativos de IA têm retorno real — não é mais só promessa. Isso fortalece o argumento de quem precisa justificar budget para adoção de IA internamente.",
+      "fonte": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
+    },
+    {
+      "titulo": "Google lança agentes que monitoram seus tópicos e te avisam automaticamente",
+      "aconteceu": "O Google lançou agentes de IA que ficam rodando em segundo plano e alertam o usuário proativamente quando algo relevante acontece num tema que ele definiu — sem precisar fazer buscas repetidas.",
+      "significa": "Um gestor que precisa acompanhar concorrentes, variações de mercado ou notícias do setor pode configurar um agente para fazer esse rastreamento e receber alertas — elimina o hábito de buscar todo dia. Disponível para assinantes AI Pro/Ultra.",
+      "fonte": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
+    },
+    {
+      "titulo": "Anthropic lançou ferramenta que organiza seus arquivos por comando de texto — sem programar nada",
+      "aconteceu": "A Anthropic lançou o Cowork, uma versão do Claude voltada para não-programadores — o usuário aponta uma pasta de arquivos e pede tarefas em português, como organizar recibos, criar planilhas ou resumir documentos.",
+      "significa": "Um gestor com 50 PDFs de recibos na pasta pode pedir ao Cowork que extraia os dados e monte uma planilha estruturada em minutos — sem código, sem ferramenta especializada, sem precisar de TI. Abre automação para equipes não-técnicas.",
+      "fonte": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no-coding-required/"
+    },
+    {
+      "titulo": "IA resolveu problema matemático que pesquisadores não conseguiram em 80 anos — por menos de US$ 1.000",
+      "aconteceu": "Um modelo de IA da OpenAI refutou uma conjectura matemática aberta desde os anos 1940, gerando uma prova de 125 páginas em menos de 32 horas, com custo computacional abaixo de US$ 1.000.",
+      "significa": "Se IA consegue resolver problemas científicos que humanos não conseguiram em décadas, o próximo passo é aplicar raciocínio estendido em P&D corporativo — design de moléculas, otimização logística, análise de contratos complexos. Uma farmacêutica ou empresa de engenharia poderia usar modelo similar para explorar hipóteses que levariam anos para equipes humanas testar.",
+      "fonte": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"
+    },
+    {
+      "titulo": "\"A IA é cara demais\" — ROI de projetos de IA está sendo questionado abertamente",
+      "aconteceu": "Artigo amplamente compartilhado (142 pontos no Hacker News, maior fórum técnico do mundo) argumenta que o custo real de operar IA em escala empresarial é insustentável para a maioria das organizações — e que a narrativa de que IA \"vai se pagar\" ainda não se confirma nos números.",
+      "significa": "Empresas que investiram pesado sem critério claro de retorno estão começando a sentir pressão dos resultados financeiros. Isso vai intensificar a cobrança por métricas concretas em qualquer projeto de IA — e quem não tiver resposta para \"quanto isso gerou?\" vai ter problema na próxima revisão de orçamento.",
+      "fonte": "https://www.wheresyoured.at/ai-is-too-expensive/"
+    },
+    {
+      "titulo": "Resistência pública à IA virou movimento organizado nos EUA",
+      "aconteceu": "O Wall Street Journal documenta um movimento crescente de resistência à adoção de IA nos EUA, com grupos organizados pressionando empresas e legisladores, indo além da opinião individual para uma agenda coordenada.",
+      "significa": "Empresas percebidas como \"agressivas\" na adoção de IA já enfrentam risco reputacional e pressão regulatória. No Brasil esse movimento ainda é menor, mas o padrão americano chega aqui em 12-18 meses. Estratégia de comunicação sobre IA precisa considerar esse cenário agora.",
+      "fonte": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
+    },
+    {
+      "titulo": "Google confirma: agentes mal-intencionados estão manipulando os resultados da IA da busca",
+      "aconteceu": "O Google confirmou que tentativas de manipulação dos resultados do Google AI (a busca com IA) estão acontecendo ativamente, e que a empresa está reagindo de forma discreta para não mostrar o \"mapa da mina\" para os atacantes.",
+      "significa": "Qualquer sistema de IA exposto ao público é alvo ativo de manipulação — não apenas por hackers profissionais, mas por usuários comuns que aprendem a \"jogar\" com o sistema. Empresas com IA no atendimento ao cliente, recomendação de produtos ou busca interna precisam mapear esse risco.",
+      "fonte": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
+    },
+    {
+      "titulo": "Figma agora gera e edita designs por comando de texto — sem precisar de designer disponível",
+      "aconteceu": "O Figma (ferramenta de design usada por equipes de produto em todo o mundo) adicionou um agente de IA que gera e edita designs diretamente via comandos de texto, dentro da própria interface.",
+      "significa": "Equipes de produto que dependem de designer para criar mockups e iterações podem fazer ciclos rápidos de protótipo via prompt — reduz o gargalo e o tempo de validação. Uma PME sem designer full-time pode gerar variações de layout e testar hipóteses sozinha.",
+      "fonte": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
+    },
+    {
+      "titulo": "Anthropic vai pagar US$ 1,25 bilhão por mês à empresa do Elon Musk por servidores",
+      "aconteceu": "A Anthropic fechou um acordo para alugar toda a capacidade do data center Colossus 1 — pertencente à xAI (empresa de IA do Elon Musk) — até 2029, ao custo de US$ 1,25 bilhão por mês.",
+      "significa": "Empresas que rodam operações críticas via API do Claude ficam expostas a um risco de fornecedor que não controlam: uma disputa entre Musk e a Anthropic poderia impactar a disponibilidade do serviço. CTOs com workloads críticos em APIs de IA precisam mapear esse risco de dependência em cadeia.",
+      "fonte": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
+    },
+    {
+      "titulo": "Google I/O 2026: IA chegou em todos os produtos Google de uma vez",
+      "aconteceu": "No Google I/O 2026, a empresa anunciou integração de IA em praticamente todos os seus produtos — Search, Gmail, Drive, Meet e outros ganham funcionalidades de agente de IA, com resumos automáticos e monitoramento proativo.",
+      "significa": "Profissionais que já usam Google Workspace (Gmail, Docs, Drive) terão assistentes de IA automáticos sem trocar de ferramenta — a atualização acontece \"por baixo dos panos\". Isso também acirra a disputa com o Microsoft 365 + Copilot, forçando uma escolha mais clara de stack de produtividade.",
+      "fonte": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/"
+    },
+    {
+      "titulo": "Cohere liberou modelo de IA poderoso com licença 100% aberta — qualquer empresa pode usar de graça",
+      "aconteceu": "A Cohere (empresa canadense de IA) liberou seu modelo mais potente — Command A+, com 218 bilhões de parâmetros — sob licença Apache 2.0, que permite uso comercial sem pagar royalties. Roda em 2 GPUs H100 (placas de alto desempenho da NVIDIA).",
+      "significa": "Empresas que hoje pagam por tokens de API (OpenAI, Anthropic, Google) podem migrar para esse modelo rodando internamente, eliminando custo variável e mantendo dados sensíveis dentro do ambiente próprio — sem enviar nada para fora. Relevante especialmente para saúde e financeiro.",
+      "fonte": "https://www.latent.space/p/ainews-openai-gpt-next-disproves"
+    },
+    {
+      "titulo": "CEO da Cloudflare publicou no WSJ como decide quais funcionários serão substituídos por IA",
+      "aconteceu": "O CEO de uma das maiores empresas de tecnologia de redes do mundo escreveu um artigo no Wall Street Journal descrevendo publicamente seu critério para decidir quais cargos serão ocupados por IA em vez de humanos.",
+      "significa": "A comunicação corporativa sobre substituição humana por IA saiu do âmbito privado para o público — e criou forte reação negativa. Empresas que copiam esse tom sem preparo interno correm risco reputacional sério e aumento de turnover entre as pessoas que ainda não foram substituídas.",
+      "fonte": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
+    },
+    {
+      "titulo": "Pesquisa: maioria das pessoas tem mais medo do que esperança sobre IA no trabalho",
+      "aconteceu": "Estudo acadêmico publicado mostra que a maioria das pessoas está mais temerosa do que otimista com a IA; 1 em cada 5 britânicos acredita que a IA pode causar agitação civil.",
+      "significa": "Empresas que não gerenciam comunicação sobre IA com cuidado correm risco de aumento de turnover, queda de moral e pressão regulatória crescente. Anunciar projetos de IA com entusiasmo sem validar as ansiedades do time é uma fórmula de resistência interna.",
+      "fonte": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
+    },
+    {
+      "titulo": "OpenAI passou a marcar todas as imagens geradas por IA com identificação invisível",
+      "aconteceu": "A OpenAI incorporou o SynthID (tecnologia do Google) em todas as imagens criadas pelo DALL-E e ChatGPT — uma \"marca d'água digital invisível\" que permite verificar se uma imagem foi gerada por máquina.",
+      "significa": "Um padrão de rastreabilidade de conteúdo digital está emergindo — impulsionado por pressão regulatória e preocupação com desinformação. Empresas que produzem ou publicam conteúdo gerado por IA precisarão se adaptar a esse ecossistema de verificação. Marketing com imagens de IA não declaradas começa a ter risco regulatório.",
+      "fonte": "https://openai.com/index/advancing-content-provenance/"
+    }
+  ]
+}
