@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-22",
+  "items": [
+    {
+      "titulo": "Mandar blocos de texto gerado por IA em e-mails e conversas está sendo visto como falta de respeito",
+      "aconteceu": "Post com mais de 600 pontos no Hacker News documenta um comportamento crescente: pessoas e empresas jogando paredes de texto gerado por IA em conversas profissionais, e-mails e reuniões — e o receptor percebendo que não houve esforço humano nenhum.",
+      "significa": "Automação de comunicação sem cuidado está criando um problema de reputação silencioso. Se sua equipe usa IA para escrever para clientes, parceiros ou colaboradores sem revisão humana, o risco não é só de erro — é de parecer desrespeitoso. O filtro \"parece que um humano pensou nisso?\" precisa existir antes do envio.",
+      "fonte": "https://news.ycombinator.com/item?id=48219992"
+    },
+    {
+      "titulo": "Artigo viral: IA é plágio não autorizado em escala industrial — e o risco legal está chegando",
+      "aconteceu": "Artigo com 783 pontos no Hacker News argumenta que modelos de IA foram treinados usando conteúdo de criadores (textos, imagens, código) sem permissão — o que equivale a plágio em escala industrial. O debate está aquecendo globalmente com casos em cortes americanas e europeias.",
+      "significa": "Empresas que usam IA para gerar conteúdo (textos de marketing, código, imagens) podem enfrentar questionamentos legais ou de imagem nos próximos anos. Não é alarmismo — processadores já existem e precedentes estão sendo criados agora. Vale ter uma política interna clara sobre como e onde o conteúdo gerado por IA é usado.",
+      "fonte": "https://news.ycombinator.com/item?id=48222383"
+    },
+    {
+      "titulo": "Metade dos desenvolvedores está mandando código escrito por IA para produção sem ler uma linha",
+      "aconteceu": "Em evento da Anthropic (Code with Claude), metade dos desenvolvedores presentes admitiu enviar código 100% gerado por IA para sistemas em produção sem revisão humana prévia.",
+      "significa": "Se sua empresa usa ferramentas de IA no desenvolvimento de software — e não tem política formal de revisão — você provavelmente tem código não auditado rodando em produção agora. Uma API com bug de segurança gerada por IA e enviada sem revisão pode expor dados de clientes. O custo de criar um processo de revisão é muito menor do que o custo de um incidente.",
+      "fonte": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+    },
+    {
+      "titulo": "OpenAI vai abrir capital na bolsa em setembro de 2026",
+      "aconteceu": "Após vencer o processo movido por Elon Musk, a OpenAI retomou os preparativos para abertura de capital. IPO previsto para setembro de 2026 — o que tornaria a empresa de IA mais valiosa do mundo num ativo negociável publicamente.",
+      "significa": "Investidores comuns poderão comprar papéis da OpenAI. O evento vai atrair capital e atenção regulatória ao setor de IA como um todo. Para quem depende da API da OpenAI em produção: a pressão de acionistas pode mudar preços e termos de uso — vale ter plano de contingência com alternativas.",
+      "fonte": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/"
+    },
+    {
+      "titulo": "Hospital americano usou ChatGPT para tirar burocracia das costas de médicos e enfermeiros",
+      "aconteceu": "O AdventHealth — grande sistema hospitalar americano com dezenas de unidades — integrou o ChatGPT a fluxos hospitalares. Profissionais de saúde passaram a gastar menos tempo digitando prontuários, agendando consultas e redigindo comunicados internos.",
+      "significa": "Caso real documentado pela OpenAI. Se funciona num ambiente altamente regulado como hospital, a mesma lógica se aplica a qualquer operação com volume alto de tarefas administrativas repetitivas. O modelo: IA processa e estrutura informações que antes eram digitadas manualmente — médicos voltam para os pacientes, gestores voltam para decisões.",
+      "fonte": "https://openai.com/index/adventhealth"
+    },
+    {
+      "titulo": "Carro autônomo da Waymo continuava entrando em áreas alagadas — a IA não reconhecia o perigo",
+      "aconteceu": "Os robotáxis da Waymo (empresa do Google) precisaram ser retirados de circulação em Atlanta porque continuavam dirigindo para áreas inundadas durante chuvas fortes. A IA não identificava a situação como perigosa.",
+      "significa": "IA em produção ainda falha em situações inesperadas do mundo real — mesmo em empresas com bilhões investidos e anos de desenvolvimento. Para qualquer empresa avaliando automatizar processos críticos com IA, o \"modo de falha\" precisa estar mapeado antes de ir live: o que acontece quando a situação está fora do padrão treinado?",
+      "fonte": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+    },
+    {
+      "titulo": "Spotify e Universal Music assinaram acordo para cobrar royalties em remixes feitos por IA",
+      "aconteceu": "Spotify fechou acordo com a Universal Music Group para permitir que usuários Premium criem covers e remixes usando IA — com os artistas originais recebendo uma parte da receita gerada por cada uso.",
+      "significa": "IA entrou formalmente na cadeia de royalties da indústria musical. Para empresas que licenciam música para marketing, eventos ou produtos: o modelo de negócio está mudando. Para quem cria conteúdo de vídeo ou áudio com música de fundo — este acordo define como o mercado vai precificar e regularizar isso globalmente.",
+      "fonte": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
+    },
+    {
+      "titulo": "A infraestrutura que faz a IA funcionar virou um mercado bilionário — e está crescendo rápido",
+      "aconteceu": "Três empresas que fazem a \"tubulação\" dos agentes de IA atingiram valuations expressivos quase ao mesmo tempo: Modal (plataforma de compute, avaliada em US$ 4,65 bi), Exa (busca semântica para agentes, US$ 2,2 bi) e Turbopuffer (banco de dados para IA, US$ 100 mi de receita anual em apenas 19 meses).",
+      "significa": "Quem está capturando mais valor na cadeia de IA não são só os modelos (Claude, GPT, Gemini) — é quem faz a infraestrutura por baixo. Para empresas montando agentes em produção: a escolha de plataforma de compute e busca agora é uma decisão estratégica de médio prazo, porque migrar depois é caro.",
+      "fonte": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa"
+    },
+    {
+      "titulo": "\"Rejeitar IA é uma escolha humana legítima\" — artigo viraliza com quase 400 pontos",
+      "aconteceu": "Artigo com 357 pontos no Hacker News defende que não adotar IA é uma escolha válida e socialmente significativa. Está emergindo um movimento cultural de resistência à IA entre jovens profissionais e trabalhadores criativos.",
+      "significa": "A geração que entra no mercado agora está chegando com resistência ativa ao discurso pró-IA. Empresas que forçam adoção de IA internamente sem cuidado com o aspecto humano estão criando atrito com os talentos que precisam contratar. A pergunta deixou de ser \"quando implementamos\" e passou a ser \"como implementamos sem perder as pessoas\".",
+      "fonte": "https://news.ycombinator.com/item?id=48222366"
+    },
+    {
+      "titulo": "Funcionários da Samsung que fabricam chips de IA vão receber bônus médio de US$ 340 mil",
+      "aconteceu": "A Samsung anunciou bônus médios de US$ 340 mil para os funcionários de suas divisões de chips de memória — resultado dos lucros explosivos com a demanda por infraestrutura de IA.",
+      "significa": "O boom de IA está gerando riqueza extrema num ponto específico da cadeia: quem fabrica chips. Para gestores de RH em tecnologia, isso pressiona expectativas salariais. Para investidores, é mais um sinal de que semicondutores continuam sendo o ativo mais escasso e valioso da corrida da IA.",
+      "fonte": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
+    },
+    {
+      "titulo": "Claude Code agora revisa código e publica os comentários direto no seu pull request no GitHub",
+      "aconteceu": "Nova versão do Claude Code (v2.1.147) ganhou o comando `/code-review` que analisa o código e publica os apontamentos diretamente no pull request do GitHub — sem precisar copiar, colar ou sair da ferramenta.",
+      "significa": "Se sua equipe já usa Claude Code para programar, a revisão de código agora acontece no fluxo natural — o desenvolvedor pede a revisão, os comentários aparecem no PR como se fossem de um colega. Reduz tempo de revisão e padroniza o que é checado a cada entrega.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.147"
+    },
+    {
+      "titulo": "Google fez grandes promessas sobre \"Antigravity\" — e não entregou nada",
+      "aconteceu": "O Google anunciou com entusiasmo uma tecnologia chamada \"Antigravity\" que não correspondeu às expectativas. Post com 682 pontos no Hacker News detalha o gap entre o prometido e o entregue, gerando reação crítica da comunidade técnica.",
+      "significa": "A tolerância do mercado com overpromising de grandes empresas de IA está caindo. Quem promete demais — sem entregar — paga um preço de credibilidade crescente. Internamente, isso reforça a necessidade de calibrar expectativas sobre o que IA entrega de verdade antes de comunicar para stakeholders, conselho ou equipe.",
+      "fonte": "https://news.ycombinator.com/item?id=48222529"
+    }
+  ]
+}
