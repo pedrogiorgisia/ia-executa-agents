@@ -84,10 +84,6 @@ def gh_put(token: str, repo: str, path: str, content: str, message: str, sha: st
 
 
 def main() -> None:
-    if len(sys.argv) < 2:
-        print("Uso: python generate_telegram_queue.py <top_md_path>")
-        sys.exit(1)
-
     load_env()
     token = os.environ.get("GITHUB_PAT", "")
     repo = os.environ.get("GITHUB_REPO", "")
@@ -95,7 +91,18 @@ def main() -> None:
         print("GITHUB_PAT ou GITHUB_REPO nao configurados")
         sys.exit(1)
 
-    top_md = Path(sys.argv[1]).read_text(encoding="utf-8")
+    # Aceita caminho explícito ou auto-detecta o top.md de hoje
+    if len(sys.argv) >= 2:
+        top_md_path = Path(sys.argv[1])
+    else:
+        hoje = date.today().isoformat()
+        top_md_path = Path(__file__).parent.parent / "data" / "news" / hoje / "top.md"
+
+    if not top_md_path.exists():
+        print(f"top.md nao encontrado: {top_md_path}")
+        sys.exit(1)
+
+    top_md = top_md_path.read_text(encoding="utf-8")
     todos = parse_items(top_md)
     hoje = date.today().isoformat()
 

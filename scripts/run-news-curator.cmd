@@ -21,17 +21,4 @@ REM Redireciona output pra arquivo de log
 set NEWS_SKIP_EMAIL=true
 "C:\Users\pedro\AppData\Roaming\npm\claude.cmd" -p "Execute o pipeline em prompts/news/news-master.md. Você está rodando em modo LOCAL (não cloud). Siga todos os passos incluindo o 7 (atualizar historico.md), e PULE o passo 12 (upload pro Drive — desnecessário, os arquivos locais já estão no Drive sincronizado). NEWS_SKIP_EMAIL=true está setado: PULE o envio de email no passo 10 (o podcast-master vai enviar email combinado depois)." --dangerously-skip-permissions > "logs\news-curator-%DATA%.log" 2>&1
 
-REM Calcula data atual via Python (mais confiável que wmic no Windows 11)
-for /f %%a in ('python -c "from datetime import date; print(date.today())"') do set "HOJE=%%a"
-set "TOP_MD=data\news\%HOJE%\top.md"
-
-REM Gera fila do Telegram e faz push pro GitHub (só se o top.md existir)
-if exist "%TOP_MD%" (
-    echo Gerando telegram-queue.json para %HOJE%... >> "logs\news-curator-%DATA%.log" 2>&1
-    python scripts\generate_telegram_queue.py "%TOP_MD%" >> "logs\news-curator-%DATA%.log" 2>&1
-    echo Telegram queue: exit code %ERRORLEVEL% >> "logs\news-curator-%DATA%.log" 2>&1
-) else (
-    echo AVISO: %TOP_MD% nao encontrado — telegram queue nao gerada >> "logs\news-curator-%DATA%.log" 2>&1
-)
-
 exit /b %ERRORLEVEL%
