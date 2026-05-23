@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-23",
+  "items": [
+    {
+      "titulo": "Microsoft cancelou as licenças do Claude Code — o custo para os funcionários explodiu",
+      "aconteceu": "A Microsoft distribuiu a ferramenta de IA Claude Code para seus colaboradores em larga escala — e teve que cancelar tudo depois de poucos meses porque o uso intenso tornou a conta financeiramente insustentável. A Uber passou pelo mesmo problema, zerando o orçamento anual de IA em 4 meses.",
+      "significa": "Se você está pensando em liberar ferramentas de IA para todo o time sem controle de uso, esse é o alerta prático: adoção irrestrita sem governança de orçamento pode gerar custos maiores do que o trabalho que deveria substituir. O modelo \"abre pra todo mundo e vê o que acontece\" tem um preço concreto.",
+      "fonte": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
+    },
+    {
+      "titulo": "Pesquisa da Microsoft: rodar agentes de IA autônomos pode custar mais do que pagar um funcionário",
+      "aconteceu": "Um relatório interno da Microsoft revelou que, em certos cenários de automação com IA, o custo de processamento dos agentes autônomos (que executam tarefas sem intervenção humana) supera o custo de simplesmente contratar uma pessoa para fazer o mesmo trabalho.",
+      "significa": "O argumento de \"IA vai reduzir custo com pessoas\" tem um limite real: quanto mais os agentes trabalham de forma independente e em sequência, mais caro fica. O custo escala de forma diferente de um funcionário — e pode surpreender. Qualquer projeção de ROI baseada em substituição de mão de obra por IA precisa ser revista com esse dado.",
+      "fonte": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
+    },
+    {
+      "titulo": "Estudo com alto engajamento: IA amplia quem já é bom — profissional mediano ganha quase nada",
+      "aconteceu": "Um estudo de caso amplamente debatido (308 pontos no Hacker News) mostra que IA não nivela equipes — ela acentua as diferenças. Profissionais com boa base técnica ficam drasticamente mais produtivos; os medianos têm ganho marginal.",
+      "significa": "A estratégia de \"dar IA para todo mundo e esperar nivelamento\" não funciona como esperado. Times de alta performance se beneficiam muito mais. Antes de comprar licenças em massa, vale pensar: qual é a capacidade baseline da equipe? IA amplifica o que já existe.",
+      "fonte": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
+    },
+    {
+      "titulo": "Quase 1 em cada 8 extensões de agentes de IA disponíveis em repositórios públicos tem vulnerabilidade",
+      "aconteceu": "Pesquisadores descobriram que 13,4% das \"skills\" (extensões que adicionam capacidades aos agentes de IA) disponíveis em repositórios públicos contêm vulnerabilidades que permitem execução de código malicioso — e os sistemas de segurança padrão não detectam.",
+      "significa": "Se a sua empresa usa agentes de IA e permite baixar extensões de fontes públicas para ampliar suas capacidades, você pode estar com código malicioso rodando em sistemas internos sem saber. O risco é maior em empresas que adotam IA de forma autônoma sem revisão centralizada de segurança.",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413"
+    },
+    {
+      "titulo": "Demitir em massa para substituir por IA tende a ser um erro estratégico — com exemplos",
+      "aconteceu": "Artigo com casos documentados argumenta que empresas que demitem em massa para substituir por IA perdem capacidade institucional — o conhecimento tácito que não está documentado em lugar nenhum — e ficam vulneráveis quando a IA erra. Empresas que mantêm pessoas e usam IA como amplificador tendem a sair na frente.",
+      "significa": "Se você está sob pressão para cortar headcount com justificativa de IA, esse é o contra-argumento estruturado: os custos de reconstrução de time quando a IA falha (e ela vai falhar) são maiores do que a economia de curto prazo. Especialmente válido em setores onde erro tem custo alto: saúde, jurídico, financeiro.",
+      "fonte": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
+    },
+    {
+      "titulo": "Anthropic usou a própria IA para encontrar 10 mil brechas de segurança em sistemas críticos em 1 mês",
+      "aconteceu": "A Anthropic (fabricante do Claude) lançou o Project Glasswing — uma iniciativa colaborativa com 50 empresas parceiras para usar IA defensivamente: caçar vulnerabilidades em softwares críticos antes que hackers o façam. Em 1 mês, encontrou mais de 10 mil falhas.",
+      "significa": "A mesma IA que pode ser usada para atacar sistemas está sendo usada para protegê-los em escala radicalmente maior do que qualquer time de segurança humano consegue. O padrão do que \"segurança cibernética adequada\" significa está subindo — e quem não acompanhar vai ficar exposto.",
+      "fonte": "https://www.anthropic.com/research/glasswing-initial-update"
+    },
+    {
+      "titulo": "Virgin Atlantic usou IA para escrever os testes do novo app e entregar no prazo",
+      "aconteceu": "A companhia aérea Virgin Atlantic usou o Codex (agente de codificação da OpenAI) para gerar cobertura quase completa de testes automáticos no seu novo aplicativo móvel — entregando no prazo com menos bugs.",
+      "significa": "Times de TI com prazos apertados de lançamento de software podem usar IA hoje para gerar os testes que normalmente levam dias de trabalho manual. O que antes exigia uma semana de trabalho de um desenvolvedor agora pode ser feito em horas — com rastreabilidade documentada de cada teste gerado.",
+      "fonte": "https://openai.com/index/virgin-atlantic"
+    },
+    {
+      "titulo": "OpenAI, DeepSeek e outros labs pararam de fazer só modelos — estão construindo o produto inteiro",
+      "aconteceu": "Os grandes laboratórios de IA mudaram de estratégia: pararam de competir apenas na qualidade do modelo (a \"IA em si\") e passaram a construir o ecossistema completo — modelo + ferramentas + memória + interface. Resultado: migrar de fornecedor vira decisão estratégica de longo prazo, não mais troca de API.",
+      "significa": "Escolher qual plataforma de IA adotar hoje está se tornando uma decisão comparável a escolher o ERP da empresa — quanto mais integrado você fica, mais caro é sair. Para líderes avaliando qual IA padrão adotar, a janela para uma decisão reversível está se fechando.",
+      "fonte": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent"
+    },
+    {
+      "titulo": "Meta gravou o que os funcionários digitam e clicam para treinar IA — europeus isentos por lei",
+      "aconteceu": "Zuckerberg confirmou em áudio vazado que a Meta coleta keystrokes (digitação), cliques e screenshots dos computadores de funcionários para treinar IA em como \"pessoas inteligentes trabalham\". Funcionários na Europa estão isentos por exigência legal.",
+      "significa": "O debate de privacidade no trabalho entrou em uma nova fase: empresas usando o comportamento dos próprios funcionários como dado de treinamento de IA. Gestores de RH e jurídico precisam estar preparados — o que está acontecendo na Meta vai gerar pressão regulatória em outros mercados, incluindo o Brasil via LGPD.",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379"
+    },
+    {
+      "titulo": "IA sem proteção virou ferramenta de golpe em escala — 17 mil vítimas em um único caso",
+      "aconteceu": "Um criminoso usou o Gemini (IA do Google) com as proteções de segurança desativadas para automatizar golpes de criptomoeda — gerando textos persuasivos e gerenciando ataques simultaneamente. Resultado: 17 mil pessoas comprometidas em uma única operação.",
+      "significa": "Uma operação de fraude que antes exigia uma equipe agora é executada por uma pessoa com IA. Isso muda o volume e a sofisticação dos golpes que empresas e clientes enfrentam. Quem opera com criptoativos ou recebe pagamentos digitais precisa urgentemente revisar protocolos de verificação de identidade.",
+      "fonte": "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390"
+    },
+    {
+      "titulo": "Autores agora transformam livros em audiobooks sem gravar uma única sílaba — via IA",
+      "aconteceu": "O Spotify integrou a tecnologia de voz da ElevenLabs (empresa especializada em voz por IA) para que qualquer autor converta seu livro em audiobook automaticamente, distribuindo para Spotify, Amazon e Apple Books ao mesmo tempo — sem estúdio, sem narrador, sem contrato exclusivo.",
+      "significa": "O custo de produção de um audiobook caiu praticamente para zero. Pequenas editoras e autores independentes que antes não tinham como bancar uma gravação profissional agora têm distribuição multi-plataforma imediata. Se você produz qualquer tipo de conteúdo longo, esse canal passou a ser acessível.",
+      "fonte": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"
+    },
+    {
+      "titulo": "Nova categoria de ataque: hackers conseguem enganar sistemas com múltiplos agentes de IA",
+      "aconteceu": "Pesquisadores documentaram uma nova forma de ataque que funciona especificamente em sistemas onde vários agentes de IA trabalham juntos em sequência — fazendo-os executar ações maliciosas disfarçadas de instruções legítimas. Os fornecedores ainda não têm proteção adequada.",
+      "significa": "Se sua empresa implantou ou está avaliando automação com múltiplos agentes de IA em processos críticos (atendimento, aprovações, análise de dados), há um vetor de risco novo que a maioria dos contratos e auditorias atuais ainda não cobre. Não é teórico — já foi demonstrado em laboratório.",
+      "fonte": "https://arxiv.org/abs/2605.22001"
+    },
+    {
+      "titulo": "Um dos projetos de software mais usados do mundo criou regras formais para uso de IA",
+      "aconteceu": "O projeto Rust (linguagem de programação usada em sistemas críticos do mundo inteiro — desde kernels de Linux até componentes do Windows) formalizou uma política interna sobre quando e como IA pode ser usada no seu desenvolvimento. É um dos primeiros casos documentados de governança de IA em software de missão crítica.",
+      "significa": "\"Ter uma política de uso de IA\" está deixando de ser um diferencial e virando padrão de mercado. Projetos críticos estão formalizando regras antes que reguladores ou incidentes forcem isso. Para gestores, é o sinal de que criar sua própria política interna de uso de IA saiu da categoria \"bom ter\" e entrou em \"deveria ter ontem\".",
+      "fonte": "https://github.com/rust-lang/rust-forge/pull/1040"
+    },
+    {
+      "titulo": "Agentes de IA estão substituindo leitores humanos — e o modelo de monetização de conteúdo precisa mudar",
+      "aconteceu": "O ex-CEO do Twitter (Jack Dorsey) lançou uma startup trabalhando no problema de como monetizar conteúdo quando quem \"lê\" não é mais uma pessoa, mas um agente de IA. No modelo atual de publicidade, se um agente de IA \"lê\" um jornal por milhões de pessoas, a receita de anúncio é zero.",
+      "significa": "Empresas de mídia, SaaS de conteúdo e qualquer negócio baseado em audiência humana estão entrando em uma zona de risco. Se seus visitantes virarem agentes de IA, seu modelo de receita baseado em acesso humano pode quebrar. A janela para redesenhar esse modelo está aberta agora — antes que a mudança seja inevitável.",
+      "fonte": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/"
+    },
+    {
+      "titulo": "Comunidades estão bloqueando construção de data centers de IA — e isso vai encarecer a nuvem",
+      "aconteceu": "Movimentos comunitários em vários países estão impedindo a construção de novos data centers necessários para treinar e rodar IA — alegando alto consumo de energia elétrica e água. Isso cria um gargalo físico que não é técnico nem financeiro, mas político e geográfico.",
+      "significa": "Para gestores que planejam escalar uso de IA em nuvem, isso pode se traduzir em escassez de capacidade computacional e alta de preços nos próximos anos. Não é uma preocupação de 10 anos — alguns mercados já estão sentindo.",
+      "fonte": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/"
+    }
+  ]
+}
