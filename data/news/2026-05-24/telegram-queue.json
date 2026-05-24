@@ -2,42 +2,68 @@
   "date": "2026-05-24",
   "items": [
     {
-      "titulo": "Anthropic lançou ferramenta que varre código de empresas em busca de falhas de segurança — sem precisar de consultoria especializada",
-      "aconteceu": "A Anthropic lançou em beta para clientes Enterprise o \"Claude Security\" (parte do Project Glasswing): uma ferramenta que analisa automaticamente o código de uma empresa e entrega um relatório de vulnerabilidades priorizadas. Cerca de 50 empresas parceiras já têm acesso.",
-      "significa": "Antes, auditar segurança de código legado exigia contratar consultoria especializada — cara, lenta e pontual. Agora, empresas que usam Claude Enterprise podem apontar a ferramenta para o repositório e receber um diagnóstico contínuo. Para quem precisa cumprir LGPD, SOC 2 ou ISO 27001, isso reduz custo e tempo de conformidade de forma concreta.",
-      "fonte": "https://www.anthropic.com/research/glasswing-initial-update",
+      "titulo": "DeepSeek bota desconto permanente: IA chinesa fica 34 vezes mais barata que o GPT-5",
+      "aconteceu": "A DeepSeek (empresa chinesa que faz modelos de IA comparáveis ao GPT-4 e ao Claude) tornou permanente uma redução de 75% no seu modelo mais potente. O resultado: ele custa 34 vezes menos por uso do que o GPT-5 da OpenAI. Quanto menor o preço por \"token\" (a unidade de cobrança de APIs de IA, equivalente a ¾ de palavra), menor o custo de chatbots, análise de documentos e automações.",
+      "significa": "Empresas que gastam alto com APIs de IA — chatbots de atendimento, análise de contrato, geração de relatórios — podem reduzir drasticamente a conta. Uma operação que gasta R$ 10 mil/mês em OpenAI poderia cair para ~R$ 300/mês com DeepSeek. A ressalva importante: é empresa chinesa, sujeita a legislação local que pode exigir acesso aos dados trafegados. Antes de migrar, o jurídico precisa validar compliance e LGPD.",
+      "fonte": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
       "tags": [
         "#IA",
+        "#OpenAI",
         "#Anthropic",
-        "#Segurança",
-        "#Desenvolvimento",
-        "#Saúde"
+        "#Tecnologia",
+        "#Inovação"
       ]
     },
     {
-      "titulo": "Wozniak (cofundador da Apple) disse em discurso que jovens têm algo que IA não consegue ter — e foi ovacionado",
-      "aconteceu": "Steve Wozniak, cofundador da Apple, usou o discurso de formatura de uma universidade para defender que estudantes possuem inteligência genuína — criatividade, curiosidade e julgamento contextual — coisas que IA simula mas não tem. A fala viralizou com 643 pontos no Hacker News.",
-      "significa": "Mesmo dentro do mundo tech, a narrativa está se bifurcando: de um lado, o discurso de que IA substitui tudo; do outro, uma voz crescente (com credibilidade, não nostálgica) que diz que julgamento humano é insubstituível. Para gestores que precisam comunicar adoção de IA para equipes sem gerar resistência ou ansiedade — esse framing (\"IA amplia, não substitui\") agora tem uma âncora cultural forte.",
-      "fonte": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "titulo": "Salesforce reconstruiu o assistente do Slack como um agente que trabalha por você — sem você pedir cada coisa",
+      "aconteceu": "O Salesforce (empresa de CRM usada por grandes empresas) reconstruiu do zero o assistente do Slack para funcionar como um agente autônomo. Em vez de responder perguntas, ele busca dados no CRM, redige documentos e agenda reuniões — sem você precisar pedir cada etapa. Economia reportada internamente: de 2 a 20 horas por semana por funcionário.",
+      "significa": "Se sua empresa já usa Slack e Salesforce juntos, essa automação chegou sem precisar contratar nova ferramenta ou integrar nada. Um gerente de vendas consegue pedir no chat um resumo de feedback de clientes da semana — e o bot consulta Slack + CRM e entrega o relatório em minutos. Concorre diretamente com o Microsoft Teams Copilot.",
+      "fonte": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "tags": [
         "#IA",
-        "#Apple",
-        "#Segurança",
-        "#Educação",
-        "#Tecnologia"
+        "#Microsoft",
+        "#Agentes",
+        "#Produtividade",
+        "#Desenvolvimento"
       ]
     },
     {
-      "titulo": "Gemini CLI do Google ficou mais preciso — e agora concorre diretamente com o Claude Code",
-      "aconteceu": "O Google lançou a versão v0.43.0 do Gemini CLI (ferramenta de IA para editar código pelo terminal, equivalente ao Claude Code da Anthropic): agora faz edições pontuais e cirúrgicas em arquivos em vez de reescrever blocos inteiros, e permite encadear o resultado com outras ferramentas automaticamente.",
-      "significa": "A corrida entre Google e Anthropic nas ferramentas de programação com IA está esquentando. Para quem usa ou avalia Claude Code para times de engenharia: o Gemini CLI é uma alternativa gratuita e open-source que está evoluindo rápido. Para gestores de tecnologia, vale monitorar — a competição tende a beneficiar o usuário final com melhoras de produto e pressão de preço.",
-      "fonte": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0",
+      "titulo": "Pesquisadores mostraram que 20 palavras mudam um plugin de IA de \"útil\" para \"malicioso\"",
+      "aconteceu": "Pesquisadores demonstraram que alterar apenas 20 palavras na descrição de uma ferramenta (\"skill\" ou plugin) de um agente de IA é suficiente para fazer o sistema escolher versões maliciosas dessas ferramentas em vez das legítimas — sem disparar nenhum alerta de segurança. É como trocar uma tomada por outra que parece idêntica mas vai torrar o aparelho.",
+      "significa": "Toda empresa que usa agentes de IA conectados a extensões ou plugins de terceiros tem um vetor de ataque real que ainda não está no radar. Um desenvolvedor que instala uma ferramenta de \"análise de código\" de repositório público pode estar usando uma versão envenenada que vaza dados internos. Ação concreta: criar processo de auditoria de qualquer plugin antes de colocar em produção.",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
       "tags": [
         "#IA",
-        "#Anthropic",
-        "#Google",
+        "#Agentes",
+        "#Segurança",
         "#Desenvolvimento",
-        "#Tecnologia"
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Criminosos usaram conta interna da Microsoft para enviar golpes — e os filtros de segurança não viram",
+      "aconteceu": "Atacantes conseguiram usar uma conta interna legítima da Microsoft para enviar e-mails de phishing (golpes de senha/dados). Como os e-mails vieram de um endereço da própria Microsoft, passaram pelos filtros corporativos de spam que qualquer empresa configura — a proteção ficou cega exatamente porque a ameaça veio de uma fonte de confiança consolidada.",
+      "significa": "O clássico \"não abra e-mail de estranhos\" não funciona mais quando o ataque vem de um endereço confiável como @microsoft.com. Equipes de segurança precisam revisar a política de \"confiar automaticamente em domínios parceiros\" — e treinar funcionários para verificar o conteúdo independentemente do remetente.",
+      "fonte": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O cofundador da OpenAI contou em podcast o que aconteceu nos 3 dias que quase destruíram a empresa — e o que isso revela",
+      "aconteceu": "Greg Brockman, cofundador da OpenAI, deu uma entrevista detalhando os bastidores da crise de novembro de 2023 — quando Sam Altman foi demitido e recontratado em 72 horas. Ele descreve as tensões entre o conselho (focado em missão de segurança) e a pressão comercial crescente — e como a crise mudou permanentemente a estrutura de governança da empresa.",
+      "significa": "A OpenAI é o principal fornecedor de IA de grande parte das empresas. A crise de 2023 não foi um episódio isolado — foi o sintoma de uma tensão estrutural entre missão e lucro que ainda existe. Gestores que tomam decisões estratégicas baseadas em produtos da OpenAI têm mais contexto sobre os riscos de dependência de um fornecedor com esse histórico de instabilidade.",
+      "fonte": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
       ]
     }
   ]
