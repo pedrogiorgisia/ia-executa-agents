@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-24",
+  "items": [
+    {
+      "titulo": "Anthropic lançou ferramenta que varre código de empresas em busca de falhas de segurança — sem precisar de consultoria especializada",
+      "aconteceu": "A Anthropic lançou em beta para clientes Enterprise o \"Claude Security\" (parte do Project Glasswing): uma ferramenta que analisa automaticamente o código de uma empresa e entrega um relatório de vulnerabilidades priorizadas. Cerca de 50 empresas parceiras já têm acesso.",
+      "significa": "Antes, auditar segurança de código legado exigia contratar consultoria especializada — cara, lenta e pontual. Agora, empresas que usam Claude Enterprise podem apontar a ferramenta para o repositório e receber um diagnóstico contínuo. Para quem precisa cumprir LGPD, SOC 2 ou ISO 27001, isso reduz custo e tempo de conformidade de forma concreta.",
+      "fonte": "https://www.anthropic.com/research/glasswing-initial-update",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Wozniak (cofundador da Apple) disse em discurso que jovens têm algo que IA não consegue ter — e foi ovacionado",
+      "aconteceu": "Steve Wozniak, cofundador da Apple, usou o discurso de formatura de uma universidade para defender que estudantes possuem inteligência genuína — criatividade, curiosidade e julgamento contextual — coisas que IA simula mas não tem. A fala viralizou com 643 pontos no Hacker News.",
+      "significa": "Mesmo dentro do mundo tech, a narrativa está se bifurcando: de um lado, o discurso de que IA substitui tudo; do outro, uma voz crescente (com credibilidade, não nostálgica) que diz que julgamento humano é insubstituível. Para gestores que precisam comunicar adoção de IA para equipes sem gerar resistência ou ansiedade — esse framing (\"IA amplia, não substitui\") agora tem uma âncora cultural forte.",
+      "fonte": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Segurança",
+        "#Educação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Gemini CLI do Google ficou mais preciso — e agora concorre diretamente com o Claude Code",
+      "aconteceu": "O Google lançou a versão v0.43.0 do Gemini CLI (ferramenta de IA para editar código pelo terminal, equivalente ao Claude Code da Anthropic): agora faz edições pontuais e cirúrgicas em arquivos em vez de reescrever blocos inteiros, e permite encadear o resultado com outras ferramentas automaticamente.",
+      "significa": "A corrida entre Google e Anthropic nas ferramentas de programação com IA está esquentando. Para quem usa ou avalia Claude Code para times de engenharia: o Gemini CLI é uma alternativa gratuita e open-source que está evoluindo rápido. Para gestores de tecnologia, vale monitorar — a competição tende a beneficiar o usuário final com melhoras de produto e pressão de preço.",
+      "fonte": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
