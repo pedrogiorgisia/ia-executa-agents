@@ -55,8 +55,13 @@ Imprensa especializada e analistas de mercado — cobertura jornalística + aná
 | Stratechery (Ben Thompson) | RSS | https://stratechery.com/feed/ |
 | Latent Space (swyx) | RSS | https://www.latent.space/feed |
 | Ben's Bites | RSS | https://bensbites.com/rss |
+| The Decoder | RSS | https://the-decoder.com/feed/ |
+| Reuters Technology | RSS | https://feeds.reuters.com/reuters/technologyNews |
+| Axios AI | HTML | https://www.axios.com/technology/artificial-intelligence |
+| Import AI (Jack Clark) | RSS | https://importai.substack.com/feed |
 
 > **Removidas em 16/05/2026:** The Verge AI e Ars Technica AI — bloqueavam WebFetch com HTTP 403 (proteção anti-bot). The Register cobre tema similar e foi adicionado.
+> **Adicionadas em 24/05/2026:** The Decoder, Reuters Technology, Axios AI, Import AI — para cobrir histórias que escapam das fontes existentes, especialmente fins de semana.
 
 ---
 
