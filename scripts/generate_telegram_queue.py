@@ -18,6 +18,60 @@ from send_telegram_news import load_env, parse_items
 
 MAX_ITEMS = 15
 
+# (keywords_em_minúsculo, hashtag) — ordem importa: mais específico primeiro
+_TAG_RULES: list[tuple[list[str], str]] = [
+    (["openai", "chatgpt", "gpt-4", "gpt-5", "o1", "o3", "o4", "sora"], "#OpenAI"),
+    (["anthropic", "claude"], "#Anthropic"),
+    (["google", "gemini", "deepmind", "notebooklm", "bard"], "#Google"),
+    (["microsoft", "copilot", "azure"], "#Microsoft"),
+    (["meta", "llama", "whatsapp ia"], "#Meta"),
+    (["apple", "siri"], "#Apple"),
+    (["amazon", "aws", "alexa"], "#Amazon"),
+    (["nvidia", "gpu", "chip", "semicondutor"], "#Hardware"),
+    (["agente", "agent", "multi-agent", "multiagente"], "#Agentes"),
+    (["open source", "código aberto", "hugging face", "ollama", "mistral"], "#OpenSource"),
+    (["llm", "modelo de linguagem", "foundation model", "fine-tun", "treinamento"], "#LLM"),
+    (["demiss", "layoff", "corte de funcionário", "redução de quadro"], "#Mercado"),
+    (["invest", "funding", "capta", "rodada", "bilhão", "milhão", "valuation", "ipo"], "#Investimento"),
+    (["regulaç", "regulament", "lei ", "governo", "congresso", "gdpr", "ai act", "política pública"], "#Regulação"),
+    (["segurança", "security", "hack", "vazamento", "privacidade", "deepfake", "desinform"], "#Segurança"),
+    (["produtividade", "workflow", "automação", "automate", "eficiência"], "#Produtividade"),
+    (["código", "developer", "programaç", "engenharia de software", "copilot"], "#Desenvolvimento"),
+    (["imagem", "vídeo", "áudio", "geração de conteúdo", "midjourney", "stable diffusion"], "#IAGenerativa"),
+    (["saúde", "médico", "hospital", "medicina", "diagnóstico"], "#Saúde"),
+    (["educaç", "escola", "universidade", "ensino", "aprendizado"], "#Educação"),
+    (["robô", "robótica", "física", "hardware"], "#Robótica"),
+    (["startup", "empreendedor"], "#Startups"),
+    (["pesquisa", "research", "estudo", "paper", "benchmark"], "#Pesquisa"),
+]
+
+
+def generate_tags(item: dict, min_tags: int = 5, max_tags: int = 8) -> list[str]:
+    text = " ".join([
+        item.get("titulo", ""),
+        item.get("aconteceu", ""),
+        item.get("significa", ""),
+    ]).lower()
+
+    tags: list[str] = ["#IA"]  # sempre presente
+    for keywords, tag in _TAG_RULES:
+        if tag in tags:
+            continue
+        if any(kw in text for kw in keywords):
+            tags.append(tag)
+        if len(tags) == max_tags:
+            break
+
+    # Completa até min_tags com tags genéricas de fallback
+    fallbacks = ["#Tecnologia", "#Inovação", "#FuturoDoTrabalho", "#TransformaçãoDigital", "#MachineLearning"]
+    for fb in fallbacks:
+        if len(tags) >= min_tags:
+            break
+        if fb not in tags:
+            tags.append(fb)
+
+    return tags
+
 
 _HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
 
@@ -114,6 +168,7 @@ def main() -> None:
             descartados.append((item["titulo"][:50], "sem fonte"))
             continue
         if url_ok(item["fonte"]):
+            item["tags"] = generate_tags(item)
             items.append(item)
             if len(items) == MAX_ITEMS:
                 break

@@ -88,6 +88,8 @@ def format_message(item: dict) -> str:
         parts += ["", "💡 <b>O que isso significa pra você:</b>", f"<b>{esc(item['significa'])}</b>"]
     if item.get("fonte"):
         parts += ["", f"🔗 {item['fonte']}"]
+    if item.get("tags"):
+        parts += ["", " ".join(item["tags"])]
     return "\n".join(parts)
 
 
