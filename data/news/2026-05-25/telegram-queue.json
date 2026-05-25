@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-25",
+  "items": [
+    {
+      "titulo": "O Copilot está inventando diferenças nos seus dados — e entregando como análise real",
+      "aconteceu": "Testes publicados mostraram que o Microsoft Copilot, no modo automático (padrão), \"descobre\" diferenças entre grupos em planilhas completamente idênticas. Ele aplica estereótipos aprendidos no treinamento em vez de analisar o que está escrito. No experimento, italianos e britânicos receberam dados iguais — e o Copilot reportou que italianos se interessam 3x mais por artes. Dado inventado.",
+      "significa": "Se você ou alguém da sua equipe usa Copilot (ou Gemini) para análises de pesquisa de mercado, segmentação de clientes ou qualquer relatório com dados, os resultados podem estar contaminados por estereótipos invisíveis. A solução: use modelos com raciocínio explícito ativado (Claude Opus, GPT com \"thinking\") para análises críticas, nunca o modo automático.",
+      "fonte": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#LLM",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "IA acerta a resposta — mas inventa a citação. Um risco invisível para quem usa em documentos",
+      "aconteceu": "Pesquisa publicada esta semana mostrou que modelos como GPT e Gemini frequentemente apontam trechos de documentos como \"evidência\" de suas respostas — mas os trechos não existem na fonte. A resposta pode estar correta; a citação, não.",
+      "significa": "Quem usa IA para pesquisa jurídica, consultoria, jornalismo investigativo ou qualquer documento formal com necessidade de rastreabilidade precisa verificar manualmente cada citação antes de usar. Uma citação falsa em petição judicial é inadmissível. Um dado \"referenciado\" que não existe numa fonte pode derrubar um relatório inteiro.",
+      "fonte": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma chave de API comprometida gerou fatura de $10 mil em 30 minutos — e o Google não bloqueou",
+      "aconteceu": "Desenvolvedores ao redor do mundo estão relatando incidentes onde chaves de API de IA (os \"senhas de acesso\" às ferramentas) comprometidas geraram cobranças absurdas em minutos: $10.138 em 30 minutos em um caso, AUD $17.000 em outro. O Google silenciosamente aumentou o limite automático de gastos de $250 para até $100.000. Agravante: chaves deletadas continuam ativas por 23 minutos após exclusão.",
+      "significa": "Se sua empresa distribui chaves de API de IA para equipes internas sem governança formal, isso é um risco financeiro real, não só um problema de TI. Uma chave vazada acidentalmente (via repositório de código ou email) pode gerar uma fatura de dezenas de milhares de reais antes que alguém perceba.",
+      "fonte": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Agentes de IA se degradam em tarefas complexas — o que funcionou no demo pode falhar em produção",
+      "aconteceu": "Estudo acadêmico publicado esta semana documentou que sistemas de IA autônomos (agentes que tomam decisões e agem sem supervisão humana constante) perdem qualidade progressivamente quando lidam com tarefas encadeadas e complexas. A degradação aumenta com o número de etapas e a complexidade de cada uma.",
+      "significa": "A confiabilidade prometida em demonstrações de agentes de IA não se mantém em uso contínuo. Antes de automatizar processos críticos de negócio com agentes de IA, empresas precisam testar rigorosamente em condições de produção — não só num piloto controlado.",
+      "fonte": "https://arxiv.org/abs/2605.06445",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic vai continuar vendendo IA para a espionagem americana — mesmo classificada como risco pelo Pentágono",
+      "aconteceu": "A Anthropic continuará fornecendo sua IA (Claude) para a NSA (agência de espionagem dos EUA), com aprovação da Casa Branca — mesmo após ter sido formalmente classificada como risco de cadeia de fornecimento pelo Departamento de Defesa americano. O contrato segue em vigor.",
+      "significa": "Para empresas clientes da Anthropic em setores regulados (financeiro, saúde, governo), o caso levanta perguntas práticas: onde os dados de uso são armazenados? Quem pode acessar os logs de interação? A resposta \"usamos uma empresa de IA americana confiável\" pode não ser suficiente para um auditor de conformidade.",
+      "fonte": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Ferrari usou IA da IBM para personalizar o app de fãs — e dobrou o engajamento nos dias de corrida",
+      "aconteceu": "A Ferrari implementou IA da IBM no seu aplicativo de torcedores para personalizar conteúdo, games e assistente de IA em tempo real durante corridas de F1. O resultado: engajamento no app cresceu 62% nos finais de semana de corrida. O sistema coleta dados operacionais do usuário e gera experiências adaptadas individualmente.",
+      "significa": "O modelo é replicável: coletar dados de comportamento do usuário → processar com IA → gerar conteúdo/experiência personalizada em tempo real. Qualquer empresa com app de relacionamento ou base de clientes ativa pode aplicar o mesmo princípio, em escala menor, com ferramentas disponíveis hoje.",
+      "fonte": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Empresas estão se rebranding como \"empresas de IA\" sem mudar nada — e analistas estão documentando",
+      "aconteceu": "O The Guardian documentou o fenômeno chamado \"AI washing\" (equivalente ao greenwashing, mas com IA): empresas tradicionais — incluindo grandes agências de relações públicas e consultorias — estão mudando toda a comunicação para se apresentar como \"empresas de IA\" ou \"orientadas por IA\" sem ter alterado nada substancial em seus produtos ou processos. O termo está ganhando tração com analistas e investidores.",
+      "significa": "Em dois sentidos: (1) Se você está avaliando fornecedores ou parceiros que \"fazem IA\", o marketing de IA virou ruído — exija demostração ou dados concretos. (2) Se sua empresa está comunicando IA interna ou externamente, garanta que há substância atrás das palavras — o ceticismo do mercado está crescendo.",
+      "fonte": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
