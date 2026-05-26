@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-26",
+  "items": [
+    {
+      "titulo": "ClickUp demitiu 22% dos funcionários e botou 3.000 agentes de IA no lugar",
+      "aconteceu": "A startup ClickUp (ferramenta de gestão de tarefas usada por milhões de empresas) cortou 22% do quadro e substituiu por cerca de 3 mil agentes de IA rodando tarefas operacionais internas. Pesquisa do Gartner citada na matéria avisa que o ganho financeiro não vem automático — quem corta mal pode perder qualidade no atendimento complexo.",
+      "significa": "Esse vai virar o \"caso de referência\" que conselho e CFO vão usar pra perguntar \"por que a gente não tá fazendo isso?\". Vale chegar antes com um plano de qual função é candidata a agente e qual exige humano — em vez de reagir à pergunta no meio da reunião.",
+      "fonte": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Startups",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Microsoft reporta: rodar IA já tá mais caro que pagar funcionário humano",
+      "aconteceu": "Relatório interno da própria Microsoft (publicado pela Fortune) mostra que, pra certas tarefas, o custo dos tokens dos agentes de IA já supera o salário de quem faria a mesma coisa. O argumento de venda \"IA é mais barato que gente\" não cola em tudo.",
+      "significa": "Se você fez business case de transformação digital baseado em \"IA = redução de custo\", revise. Em particular pra tarefas que precisam muitos tokens (análise longa, agente que pesquisa em vários sistemas), o ROI pode ter virado negativo nos últimos 6 meses.",
+      "fonte": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "ChatGPT agora mostra notícias da Folha e do UOL com fonte e crédito",
+      "aconteceu": "A OpenAI fechou parceria com Folha de S.Paulo e UOL — os dois maiores grupos de mídia do Brasil. Quem perguntar de política, economia ou negócios no ChatGPT vai passar a receber resposta ancorada em reportagem real desses veículos, com link pra fonte.",
+      "significa": "Se você usa ChatGPT pra ler resumo de notícia do Brasil, a qualidade da resposta sobe (menos chute, mais matéria checada). Pra empresas brasileiras: agora vale apostar que os concorrentes vão começar a se informar pelo ChatGPT, não só pelo jornal.",
+      "fonte": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "MIT: vagas pra jovem profissional caíram 16% nas áreas que IA pegou",
+      "aconteceu": "Pesquisa do MIT Tech Review com dados do mercado americano mostra queda de 16% nos postos de trabalho de entrada (22-25 anos) nas áreas onde a IA já entrega — enquanto o emprego total ainda nem sentiu. Desemprego em jovens graduados subiu pra 5,6%.",
+      "significa": "O sênior de daqui a 5 anos é o júnior que você contrata hoje. Se sua empresa parou de contratar júnior por \"agora a IA faz\", você está cortando seu próprio pipeline de talento. Vale recriar o programa de júnior com \"IA como ferramenta obrigatória\" — não substituí-los.",
+      "fonte": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresas que cortam gente pra colocar IA vão perder pra quem usou IA pra turbinar o time",
+      "aconteceu": "Artigo que viralizou no Hacker News (202 pontos) argumenta com dados que empresas que demitiram pra substituir por IA estão perdendo competitividade pra quem manteve o time e usou IA pra amplificar. A tese: vantagem estrutural fica com quem amplifica, não com quem enxuga.",
+      "significa": "Combina com a notícia do MIT acima — vira um par. Se sua empresa fez corte recente justificado por IA, vale ter pronto o argumento de \"como vamos recuperar capacidade\" antes que isso vire problema de retenção e moral do time.",
+      "fonte": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA acerta a resposta mas cita a fonte errada — risco pesado pra advogado, médico, analista",
+      "aconteceu": "Benchmark novo (CiteVQA) testou modelos em \"responde certo e cita a fonte certa\". O melhor (Gemini) acertou só 76% das citações; modelos open-source ficaram abaixo de 10%. Ou seja: a resposta tá certa, mas a fonte que ele te dá tá errada.",
+      "significa": "Se você usa IA pra pesquisa jurídica, médica ou financeira, e copia a citação como se fosse fonte real, está num campo minado. Toda citação gerada por IA precisa ser verificada manualmente antes de virar entrega pro cliente ou pro tribunal.",
+      "fonte": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Copilot e Gemini no modo \"automático\" estão inventando análise",
+      "aconteceu": "Experimento mostrou que o Copilot da Microsoft, no modo padrão, fabricou diferenças demográficas entre grupos quando os dados eram idênticos — ou seja, inventou análise estereotipada em vez de olhar os números. Solução: trocar manualmente pra um modelo de raciocínio avançado e nunca confiar no padrão.",
+      "significa": "Se seu time usa Copilot ou Gemini pra resumo de pesquisa de mercado, análise de cliente ou relatório gerencial, a chance de a decisão estar baseada em invenção é real. Vale travar nas ferramentas qual modelo é o default e bater check em pelo menos uma amostra por semana.",
+      "fonte": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "KPMG colocou Claude (da Anthropic) na mão de 276 mil funcionários do mundo todo",
+      "aconteceu": "A KPMG — uma das Big Four da consultoria — fechou aliança global com a Anthropic. O Claude vai estar disponível pra todos os 276 mil funcionários da KPMG e embutido nos serviços que ela vende pra clientes (auditoria, impostos, jurídico, private equity).",
+      "significa": "Se sua empresa contrata Big Four, espere ver IA aparecendo nos entregáveis nos próximos meses. Vale perguntar nas reuniões: \"Quem está revisando o que a IA gerou aqui?\" — porque o ônus de checar vai migrar do consultor pra você.",
+      "fonte": "https://www.anthropic.com/news/anthropic-kpmg",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Memória já é 2/3 do custo do chip de IA — conta vai continuar subindo",
+      "aconteceu": "Relatório da Epoch AI mostra que a memória (componente que deixa a IA \"pensar em paralelo\") virou quase dois terços do custo de hardware de IA. Isso encarece tudo: data center, SaaS com IA embutida, API que sua empresa paga.",
+      "significa": "Se você assinou contrato anual de plataforma \"all-you-can-eat\" com IA embutida em 2025, prepare pra negociar reajuste pesado na renovação. E se está montando business case, considere 20-30% de inflação no custo de IA por ano nos próximos 2 anos.",
+      "fonte": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic comprou a Stainless — vai ficar muito mais fácil ligar agente em CRM/ERP",
+      "aconteceu": "A Anthropic adquiriu a Stainless, empresa especializada em fazer agente de IA conversar com qualquer sistema via API. Era a parte \"chata e cara\" de qualquer projeto de agente corporativo.",
+      "significa": "Se sua empresa tava parada no PoC de agente porque integrar no Salesforce/SAP era impossível, isso desbloqueia. Espere ofertas de integração mais maduras nos próximos meses. Hora boa de revisitar projetos que ficaram engavetados.",
+      "fonte": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Todos os grandes labs de IA viraram \"labs de agentes\" — risco de lock-in pra quem usa API",
+      "aconteceu": "Análise do Latent Space (boletim referência do setor) aponta que OpenAI, DeepSeek, AI21 e outros pararam de competir só com modelo e estão construindo plataformas inteiras de agentes. Tradução: a API solta que sua empresa usa hoje pode ser empurrada pra uma plataforma fechada (com markup) amanhã.",
+      "significa": "Se sua empresa construiu produto em cima de API de IA de um fornecedor só, agora é hora de checar plano B. Diversificar fornecedor não é mais paranoia — é higiene.",
+      "fonte": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"AI washing\": empresas se rebatizam como \"tech de IA\" sem ter entrega real",
+      "aconteceu": "Reportagem do Guardian mostra que firmas de RP, consultoria e SaaS estão se reposicionando como \"empresa de IA\" pra parecer relevantes — mesmo sem produto baseado em IA. Análogo ao \"greenwashing\" das empresas de sustentabilidade.",
+      "significa": "Se você está avaliando fornecedor ou parceiro novo que se vende como \"powered by AI\", peça demonstração técnica, não pitch deck. A bolha de marketing tá brutal.",
+      "fonte": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Nasce o \"AIO\": otimizar conteúdo pra IA ler, não pro Google rankear",
+      "aconteceu": "Post viral no Hacker News (882 pontos) defende que empresas precisam preparar páginas e documentos pra serem lidos por sistemas de IA — não só por humano e Google. É o nascimento de uma nova disciplina, análoga ao SEO de 20 anos atrás.",
+      "significa": "Casa com a notícia do Google ads-em-IA aqui em cima. Quando seus clientes começarem a perguntar pra IA \"qual é a melhor empresa de X?\", o que a IA responde vai depender de como seu site foi escrito. Vale começar a aprender o que é \"llms.txt\" e como estruturar conteúdo pra IA citar.",
+      "fonte": "https://annas-archive.gl/blog/llms-txt.html",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#LLM",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "IA não substitui talento — ela amplifica quem já é bom (e expõe quem não é)",
+      "aconteceu": "Post com 341 pontos no HN defende, com dados, que IA não nivela a competência: ela multiplica a produtividade de quem já tem skill, mas não compensa a falta dela. Quem sabe mais ganha desproporcionalmente mais com IA.",
+      "significa": "Tem implicação dupla: (1) a estratégia de \"vou contratar mais barato porque IA equaliza\" não cola, e (2) reter seu top performer ficou mais crítico — porque a curva de valor que ele entrega com IA é muito mais inclinada que a dos demais.",
+      "fonte": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Nvidia vai separar receita em \"negócio em risco\" vs \"negócio dominante\"",
+      "aconteceu": "Stratechery (Ben Thompson, analista referência do setor) reportou que a Nvidia vai dividir o relatório financeiro em dois segmentos: vendas pras grandes tech (onde tem concorrência crescente) e vendas pro resto do mercado (onde ainda domina).",
+      "significa": "Se sua empresa compra infra de IA em escala, isso te dá munição pra negociar. O lado \"commoditizado\" vai ter pressão de preço crescente — chegou a hora de renegociar contratos longos antes de virar dependência.",
+      "fonte": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
