@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-28",
+  "items": [
+    {
+      "titulo": "Vagas de início de carreira caíram 16% nas áreas que mais usam IA",
+      "aconteceu": "Pesquisa mostra que profissionais de 22 a 25 anos em desenvolvimento de software perderam 16% das oportunidades de emprego — exatamente nas funções onde a IA substitui tarefas iniciais de aprendizado. Na mesma área, vagas senior cresceram.",
+      "significa": "Se a sua empresa contrata juniors pra crescer o time, o pipeline de novos talentos está secando. RH precisa redesenhar onboarding pra que o profissional novo aprenda usando IA, não substituído por ela — ou daqui a 3 anos não vai existir senior pra contratar.",
+      "fonte": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Cisco usou IA da OpenAI pra automatizar correção de falhas de segurança",
+      "aconteceu": "Cisco e OpenAI fecharam parceria usando o Codex (ferramenta de programação por IA) pra detectar vulnerabilidades de segurança no código e gerar a correção sozinho — o que antes era horas de engenheiro vira minutos.",
+      "significa": "Se a sua empresa tem backlog de falhas de segurança esperando o time de dev priorizar, esse fluxo \"IA acha o bug + propõe o patch\" é replicável. Reduz tempo de exposição a risco de segurança sem precisar contratar mais engenheiro.",
+      "fonte": "https://openai.com/index/cisco",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "OpenAI fez agente de imposto que aprende sozinho com os próprios erros",
+      "aconteceu": "OpenAI, junto com Thrive e Crete, criou um agente de IA que automatiza declarações fiscais, aprende com correções feitas por contadores humanos e melhora a precisão ao longo do tempo — sem precisar reprogramar.",
+      "significa": "Para escritórios contábeis, é a primeira versão concreta de \"IA que tira o trabalho mecânico de declaração\" sem virar caos. Para outros setores, o modelo de \"agente que aprende com correção humana\" é replicável em qualquer função onde existe revisão por especialista.",
+      "fonte": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic e OpenAI viraram negócios de verdade — receita explodiu",
+      "aconteceu": "Análise do Simon Willison (referência em IA) mostra que Anthropic e OpenAI finalmente acharam \"product-market fit\" — Anthropic está projetada em US$ 10,9 bilhões de receita só no segundo trimestre de 2026. As duas eliminaram desconto pra cliente corporativo e turbinaram time de vendas enterprise.",
+      "significa": "Se ainda restava dúvida se IA generativa era hype ou negócio real — acabou. Quem decide stack hoje pode confiar que essas plataformas vão estar de pé daqui a 5 anos. Mas espere preço subir: os descontos enterprise estão saindo.",
+      "fonte": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "CEO da AWS detonou empresas que demitiram júnior pra economizar com IA",
+      "aconteceu": "O CEO da AWS (divisão de nuvem da Amazon, uma das maiores empresas de tecnologia do mundo) chamou publicamente de \"a coisa mais burra que ouvi\" a prática de substituir profissionais de início de carreira por IA. Argumento: corta o pipeline de formação de senior pro futuro.",
+      "significa": "Quando o CEO da AWS — que vende a infraestrutura que faz IA rodar — diz que cortar júnior por IA é miopia, isso reforça o que outras pesquisas (vide queda de 16% nas vagas júnior) estão mostrando. Otimização de custo agora vira buraco de capacidade depois.",
+      "fonte": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Cofundador da Anthropic: programador agora passa 80% do tempo revisando código de IA",
+      "aconteceu": "Jack Clark (cofundador da Anthropic, criadora do Claude) descreveu no próprio blog como a empresa mudou internamente — programadores não escrevem mais código do zero, eles gerenciam código gerado por IA. Está acontecendo em todas as empresas que adotaram IA com agressividade.",
+      "significa": "Se o seu time usa IA mas você ainda mede produtividade por \"linhas escritas\" ou \"tarefas concluídas pelo programador\", a métrica está obsoleta. Cargos e processos precisam ser redesenhados — senão o time fica revisando IA com pé na frustração.",
+      "fonte": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Cognition (do Devin) levantou US$ 1 bilhão — avaliação dobrou em 9 meses",
+      "aconteceu": "A Cognition, dona do Devin (agente de IA que programa sozinho), captou US$ 1 bilhão em rodada nova. Avaliação saltou pra US$ 26 bilhões — mais que dobrou em 9 meses. Receita anual já declarada: US$ 492 milhões.",
+      "significa": "Capital institucional está apostando que agente de IA pra programação é produto real, não demo. Mesmo que sua empresa não compre Devin agora, o concorrente que está investindo nessas ferramentas vai entregar features mais rápido nos próximos 12 meses.",
+      "fonte": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Meta vai cobrar por IA — fim da \"IA grátis\" no Facebook, Instagram e WhatsApp",
+      "aconteceu": "A Meta (dona do Facebook, Instagram e WhatsApp) anunciou que vai criar produto de IA pago separado e adicionar funções de IA com cobrança dentro dos próprios apps. Até agora a IA delas era grátis como atrativo.",
+      "significa": "Se sua empresa usa ferramentas da Meta pra marketing (Meta Ads, criação de criativo, atendimento via WhatsApp Business), prepare-se pra custo novo nas funções de IA — geração de imagem, automação de resposta e variação de criativo provavelmente ficam pagas em breve.",
+      "fonte": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Produtividade",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "YouTube vai marcar vídeos com IA automaticamente — mesmo sem o criador declarar",
+      "aconteceu": "O YouTube anunciou que vai detectar e exibir aviso de \"conteúdo gerado por IA\" em vídeos automaticamente, sem depender de o criador declarar. Inclui rostos e vozes sintéticas.",
+      "significa": "Se a sua empresa faz vídeo institucional, treinamento ou marketing usando IA, prepare-se pro selo aparecer automaticamente. Em conteúdo que depende de credibilidade (testemunho, treinamento, comunicação executiva), isso muda a percepção. Revisar política interna de uso de IA em vídeo.",
+      "fonte": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Se a IA me deixa 10x mais produtivo, me dá um dia de folga\" — post viralizou no HN",
+      "aconteceu": "Post de um trabalhador no Hacker News (comunidade de tecnologia) argumenta: se a IA realmente multiplica produtividade por 10x como prometem, então os colaboradores deveriam ganhar dia de folga, não só produzir mais pelo mesmo salário. 1.053 pontos de aprovação.",
+      "significa": "Trabalhadores começaram a usar o próprio discurso das empresas (\"IA te deixa mais produtivo\") como argumento de barganha. RH vai começar a ouvir esse pedido em revisão salarial e em negociação de jornada flexível. Pensar em narrativa interna agora, antes da pergunta chegar.",
+      "fonte": "https://mlsu.io/posts/day-off/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Cansei de falar com IA\" — artigo viral mostra fadiga real do usuário",
+      "aconteceu": "Artigo no Hacker News com 1.900 pontos documenta a fadiga crescente de usuários com respostas geradas por IA — texto genérico, sem personalidade, fácil de identificar. Usuário experiente está rejeitando produto que parece \"feito com IA\".",
+      "significa": "Se sua empresa usa IA pra escrever email pro cliente, resposta de suporte ou post em rede social, esteja ciente: cliente cada vez mais reconhece e rejeita texto IA padrão. IA bem usada é invisível — ajuda você, não substitui sua voz.",
+      "fonte": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Funcionário do Google indiciado: usou info interna de IA pra apostar US$ 1 milhão",
+      "aconteceu": "Um funcionário do Google foi indiciado por insider trading. Usou informação confidencial sobre roadmap interno (especificamente: quando o Google removeria o termo \"AI Overviews\" da busca) pra apostar US$ 1 milhão numa plataforma de previsões.",
+      "significa": "Tem um vetor de vazamento novo de informação privilegiada que política tradicional de compliance não cobre — mercados de previsão e plataforma de apostas. Empresa com roadmap de IA em desenvolvimento precisa revisar política de uso de info interna pelos funcionários.",
+      "fonte": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Snowflake fechou contrato de US$ 6 bilhões com AWS por chips de IA",
+      "aconteceu": "A Snowflake (uma das plataformas de dados em nuvem mais usadas por empresas) assinou contrato de US$ 6 bilhões com a AWS (Amazon Web Services) pra usar chips de IA da Amazon ao longo de 5 anos.",
+      "significa": "Empresa cliente do Snowflake vai ter mais capacidade de IA acoplada aos dados — análise que hoje demora horas pode rodar em minutos. Se a sua empresa já é cliente, vale acompanhar o calendário de release pra saber quando começa a aparecer no painel.",
+      "fonte": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Mistral lança \"Vibe\": modo planejamento + modo programação no mesmo produto",
+      "aconteceu": "A Mistral (a maior empresa europeia de IA, concorrente da OpenAI/Anthropic) lançou o Vibe — produto unificado com dois modos: um pra planejar tarefas (gestor) e outro pra programar (dev), além de extensão pro VS Code.",
+      "significa": "Pra empresa europeia ou que precisa de fornecedor de IA não-americano (privacidade, regulação), a Mistral está se equiparando rapidamente. Se está avaliando alternativa europeia, vale testar.",
+      "fonte": "https://mistral.ai/news/vibe-agent",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#OpenSource",
+        "#Regulação",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "NVIDIA apresenta \"AI Factories\" — data center desenhado pra rodar agentes",
+      "aconteceu": "A NVIDIA (líder mundial de chips de IA) lançou o conceito de \"AI Factories\" — data centers especificamente otimizados pra rodar agentes de IA 24/7, com foco em reduzir o custo por resposta gerada pelo agente.",
+      "significa": "Empresa que está implementando agente de IA em produção (não em piloto) vai começar a ver oferta de \"infra de IA dedicada\" no mercado. Se o custo por transação do seu agente está alto, essa categoria de infraestrutura pode ser a próxima alternativa.",
+      "fonte": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
