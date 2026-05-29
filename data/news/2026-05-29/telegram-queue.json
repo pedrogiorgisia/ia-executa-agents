@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-29",
+  "items": [
+    {
+      "titulo": "A Anthropic lançou o Claude Opus 4.8 — modelo mais forte, mesmo preço",
+      "aconteceu": "A Anthropic colocou no ar uma nova versão do seu modelo mais avançado (o Claude Opus), com salto de qualidade em tarefas complexas e código. Quem usa pelo site Claude.ai já recebeu a atualização automática; quem usa via integração só troca o nome do modelo.",
+      "significa": "Se você já paga por Claude, ganhou um modelo melhor sem pagar a mais — vale reabrir tarefas que antes davam resultado mediano e testar de novo.",
+      "fonte": "https://www.anthropic.com/news/claude-opus-4-8",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Asana comprou uma ferramenta de criar \"robôs de IA\" sem programar",
+      "aconteceu": "A Asana (aquele app de gestão de projetos e tarefas) comprou a Stack AI, que permite montar agentes de IA arrastando blocos, sem escrever código.",
+      "significa": "Se sua equipe vive no Asana, em breve dá pra automatizar coisas chatas — revisar documento, aprovar despesa, avisar quem precisa ser avisado — sem depender do time de TI.",
+      "fonte": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Amazon criou um ranking de uso de IA — e os funcionários fraudaram",
+      "aconteceu": "A Amazon montou um placar interno premiando quem mais usava IA. O resultado: gente fazendo tarefa inútil só pra subir no ranking, gastando dinheiro sem gerar valor. A empresa acabou cancelando o placar.",
+      "significa": "Se você pensou em medir \"adoção de IA\" pela quantidade de uso, cuidado — isso incentiva teatro. Meça resultado real (tempo economizado, tarefa concluída), não cliques.",
+      "fonte": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Cheiros ruins\" de IA: quando ela parece funcionar mas está errando calada",
+      "aconteceu": "Um artigo muito comentado catalogou as falhas silenciosas mais comuns de IA em produção — situações em que o sistema entrega resposta com cara de certa, mas inconsistente ou errada, sem avisar ninguém.",
+      "significa": "Se você já colocou IA pra rodar em algum processo, ela pode estar errando sem você ver. Precisa de alguém conferindo amostras e de um jeito de medir qualidade — não dá pra confiar cegamente.",
+      "fonte": "https://shvbsle.in/various-llm-smells/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Google Cloud lança \"porteiro\" que corrige falhas de segurança em minutos",
+      "aconteceu": "O Google Cloud lançou o AI Threat Defense, uma plataforma que detecta, avalia e corrige vulnerabilidades de segurança automaticamente — em minutos, em vez dos dias que isso costuma levar.",
+      "significa": "Empresa que demora semanas pra tapar um buraco de segurança fica exposta esse tempo todo. Ferramentas assim encurtam essa janela — vale avaliar se você está no Google Cloud.",
+      "fonte": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Visa entra na jogada de \"agente de IA que paga sozinho\"",
+      "aconteceu": "A Visa investiu na Replit (plataforma de desenvolvimento) para viabilizar que agentes de IA façam pagamentos de forma autônoma, sem clique humano em cada transação.",
+      "significa": "O \"agente que compra por você\" está saindo do papel com a maior bandeira de cartão do mundo atrás. Quem tem produto com cobrança ou marketplace deveria começar a pensar nesse cenário agora.",
+      "fonte": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Busca corporativa com IA vira argumento de corte de custo (Glean passa de US$ 300M)",
+      "aconteceu": "A Glean, ferramenta que usa IA pra buscar informação dentro da empresa, triplicou a receita para mais de US$ 300 milhões — vendendo a ideia de juntar várias ferramentas de busca dispersas (Slack, SharePoint, Confluence) numa só.",
+      "significa": "Se seu time perde tempo caçando documento em cinco lugares diferentes, consolidar a busca num só ponto vira economia mensurável — não é só conveniência.",
+      "fonte": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Agente de IA já gera 80% do código em alguns times (era 16%)",
+      "aconteceu": "Relato de empresas usando agentes que trabalham sozinhos em segundo plano: o Devin (da Cognition) pulou de gerar 16% para 80% dos commits de código em alguns times em poucos meses.",
+      "significa": "Programação está virando \"delego a tarefa e recebo o resultado pronto depois\". Muda o papel do time técnico — de digitar código pra revisar e decidir arquitetura. Vale ajustar expectativa de quanto uma equipe pequena consegue entregar.",
+      "fonte": "https://www.latent.space/p/cognition",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ser educado (ou não) com a IA muda a qualidade da resposta",
+      "aconteceu": "Um estudo investigou como o jeito de escrever o pedido — tom, polidez, estrutura — afeta o acerto da IA. A diferença é real e às vezes contra-intuitiva.",
+      "significa": "A maioria das pessoas usa IA como buscador, jogando palavras-chave. Quem escreve melhor o pedido tira respostas melhores — treinar a equipe nisso é ganho barato e imediato.",
+      "fonte": "https://arxiv.org/abs/2510.04950",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Seu carro coleta muito mais dado sobre você do que parece",
+      "aconteceu": "Reportagem mostra que carros conectados coletam dados pessoais detalhados — localização, hábitos de direção, até conversas dentro do carro — e a tendência é piorar com mais sensores e IA.",
+      "significa": "Se sua empresa tem frota ou dá carro como benefício, isso é um risco de privacidade que provavelmente ninguém mapeou. Vale a área jurídica/compliance dar uma olhada nos contratos.",
+      "fonte": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Anthropic levanta US$ 65 bilhões e chega a US$ 965 bi de avaliação",
+      "aconteceu": "Junto do lançamento do Opus 4.8, a Anthropic (dona do Claude) fechou uma rodada de US$ 65 bilhões, atingindo avaliação de quase US$ 1 trilhão.",
+      "significa": "Mesmo com o discurso de \"bolha de IA\", o dinheiro institucional segue apostando pesado nos modelos de ponta. Pra quem depende dessas ferramentas, é sinal de fôlego — elas não vão sumir tão cedo.",
+      "fonte": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Donos de conteúdo começam a \"escrever cartas\" direto pras IAs",
+      "aconteceu": "Um manifesto muito comentado mostra sites e produtores de conteúdo publicando regras explícitas, endereçadas aos robôs de IA, sobre o que pode ou não ser usado pra treinar modelos.",
+      "significa": "Se sua empresa produz conteúdo (blog, base de conhecimento, cursos), isso prefigura uma onda de regras e processos sobre uso de dados por IA. Começar a definir sua posição agora evita dor de cabeça jurídica depois.",
+      "fonte": "https://annas-archive.gl/blog/llms-txt.html",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um modelo de IA misterioso lidera o ranking — e ninguém sabe de quem é",
+      "aconteceu": "Um modelo sem identidade pública clara (apelidado \"Hy3\") apareceu do nada no topo de um ranking público de desempenho, superando os modelos consagrados da OpenAI e da Anthropic.",
+      "significa": "O \"melhor modelo\" muda rápido e entrantes anônimos aparecem do nada. Apostar todas as fichas num único fornecedor de IA tem risco de ficar pra trás — vale manter a estratégia flexível.",
+      "fonte": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
