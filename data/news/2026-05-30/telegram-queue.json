@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-30",
+  "items": [
+    {
+      "titulo": "Uma empresa gastou US$ 500 milhões com IA em UM mês porque esqueceu de pôr limite de gasto",
+      "aconteceu": "Uma companhia (não identificada) deixou um sistema de IA rodando ligado à API do Claude sem configurar teto de gastos e acumulou meio bilhão de dólares em 30 dias.",
+      "significa": "Se você usa qualquer ferramenta de IA que cobra por uso (e não mensalidade fixa), configure alerta e limite de gasto HOJE. Um agente rodando sozinho, sem freio, queima caixa numa velocidade que ninguém imagina até a fatura chegar.",
+      "fonte": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Salesforce fez em 13 dias uma migração que levaria 231 — usando agentes de IA",
+      "aconteceu": "A Salesforce relatou ter usado agentes de IA (Claude Code) para automatizar uma migração técnica interna: 13 dias no lugar dos 231 estimados, com menos erros que o normal.",
+      "significa": "Aqueles projetos de TI eternos — trocar sistema, migrar dados, modernizar o legado — agora são candidatos reais a automação. Antes de orçar uma consultoria de meses, vale perguntar quanto disso um agente de IA faz em semanas.",
+      "fonte": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"AI sticker shock\": empresas estão levando susto com o custo real da IA",
+      "aconteceu": "Reportagem da Axios mostra que empresas americanas estão descobrindo na prática que implementar IA custa muito mais do que o previsto — e revisando as projeções de economia que tinham vendido internamente.",
+      "significa": "Se você vai aprovar (ou já recebeu) uma proposta de projeto de IA prometendo ROI rápido, desconfie do número. Some infra, licença, treinamento e governança — o custo total quase sempre vem maior que o slide inicial.",
+      "fonte": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Os chefes da OpenAI e da Anthropic recuaram da previsão de \"IA vai destruir os empregos\"",
+      "aconteceu": "Sam Altman (OpenAI) e Dario Amodei (Anthropic), que meses atrás previam eliminação massiva de empregos, suavizaram o discurso — justo agora, perto de abrir capital na bolsa.",
+      "significa": "Cuidado ao tomar decisão de equipe baseado em profecia de CEO de IA. O mesmo discurso que serviu pra levantar bilhões muda quando o interesse muda. Decida headcount pelos números da SUA operação, não pela manchete.",
+      "fonte": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Texto viral: \"Por favor, use IA\" — a pressão por adoção virou social",
+      "aconteceu": "Um artigo defendendo que profissionais e empresas parem de resistir e comecem a usar IA no dia a dia viralizou (746 pontos, quase 400 comentários no fórum dos devs).",
+      "significa": "O debate deixou de ser \"a IA vai chegar?\" e virou \"por que você ainda não usa?\". Continuar adiando hoje tem custo de imagem e de competitividade — não só de produtividade.",
+      "fonte": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Okta criou um \"botão de desligar\" pra agentes de IA que saem do controle",
+      "aconteceu": "A Okta (empresa de controle de acesso) lançou uma ferramenta que revoga na hora o acesso de um agente de IA que comece a fazer coisa indevida — um kill switch central.",
+      "significa": "Se você tem (ou vai ter) agente de IA plugado em sistema de verdade — financeiro, e-mail, banco de dados — precisa de um jeito de desligar na emergência. Pergunte ao seu time de TI: \"se esse agente enlouquecer, como a gente corta o acesso em 1 minuto?\"",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/29/okta-writes-its-own-license-to-kill-rogue-ai-agents/5248766",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA gratuita e aberta já está só 4 meses atrás das pagas de ponta",
+      "aconteceu": "Análise mostra que os modelos open-source (gratuitos, que rodam no seu próprio servidor) encurtaram a distância pros modelos pagos de elite: de 1-2 anos pra cerca de 4 meses.",
+      "significa": "Pra muita tarefa de empresa, dá pra usar IA de qualidade quase de ponta pagando só o servidor, sem mensalidade de API e sem mandar seus dados pra fora. Vale reavaliar onde você realmente precisa do modelo mais caro.",
+      "fonte": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Robinhood agora deixa agentes de IA comprarem e venderem ações sozinhos",
+      "aconteceu": "A corretora Robinhood liberou que sistemas de IA executem compra e venda de ações sem um humano aprovar cada operação em tempo real.",
+      "significa": "A IA que age sozinha (não só \"responde pergunta\") está chegando ao dinheiro do consumidor comum. Se entra no seu mercado, abre questão séria de risco e de quem responde quando a IA erra uma operação.",
+      "fonte": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Engenheiros debatem: a IA está criando uma \"década perdida\" no software?",
+      "aconteceu": "Um artigo muito comentado (350 pontos) argumenta que escrever código rápido com IA pode estar repetindo um erro do passado — muito código gerado às pressas, pouca gente entendendo o que ele faz, dívida técnica acumulando.",
+      "significa": "Se você mede seu time de tecnologia só por \"velocidade de entrega\", cuidado. A IA acelera a entrega e esconde problemas que só aparecem (caros) meses depois. Velocidade sem revisão não é produtividade.",
+      "fonte": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Amazon quer colocar a IA do Elon Musk (Grok) na sua nuvem — mas ninguém pediu",
+      "aconteceu": "A AWS está negociando incluir o Grok (modelo da xAI, de Elon Musk) na sua plataforma corporativa de IA. Executivos de grandes empresas dizem não ter nenhuma demanda interna por isso.",
+      "significa": "Nem todo lançamento de IA das big techs nasce de necessidade do cliente — muito é jogada estratégica entre gigantes. Não se sinta obrigado a adotar uma ferramenta só porque apareceu no catálogo do seu fornecedor.",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Groq levantou US$ 650 milhões pra deixar a IA mais rápida e barata",
+      "aconteceu": "A Groq, fabricante de chips concorrente da Nvidia, está captando US$ 650 milhões pra focar em \"inferência\" — a parte que torna as respostas de IA mais rápidas e baratas pra quem usa.",
+      "significa": "Mais competição nos chips tende a derrubar o preço de quem usa IA em volume nos próximos 6-12 meses. Se hoje sua conta de IA é alta por muitas requisições, o custo deve cair — vale acompanhar antes de fechar contrato longo.",
+      "fonte": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Claude Code ganhou \"plugins\" e agora roda nas nuvens que sua empresa já usa",
+      "aconteceu": "A ferramenta de programação por IA da Anthropic passou a aceitar plugins que carregam sozinhos de uma pasta do projeto, e o modo automático agora funciona dentro de Amazon, Google e Microsoft (além da própria Anthropic).",
+      "significa": "Quem usa Claude Code no time pode padronizar o jeito de trabalhar num plugin que vale pra todo mundo — e rodar dentro da nuvem corporativa que já tem contrato, sem abrir exceção de segurança.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.157",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Startup levanta US$ 135 milhões apostando que o gargalo da IA é memória, não processador",
+      "aconteceu": "A coreana XCENA captou US$ 135 milhões defendendo que a IA é lenta não por falta de processamento, mas por falta de memória rápida disponível pros modelos.",
+      "significa": "Se sua empresa roda IA em servidor próprio e reclama de lentidão, o problema (e a solução) pode estar na memória, não em trocar tudo. Vale levar essa pergunta pro time de infraestrutura antes de aprovar um upgrade caro.",
+      "fonte": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
