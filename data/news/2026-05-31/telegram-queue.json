@@ -1,0 +1,188 @@
+{
+  "date": "2026-05-31",
+  "items": [
+    {
+      "titulo": "A Netflix soltou de graça uma ferramenta que corta até 90% da conta de IA",
+      "aconteceu": "Um engenheiro da Netflix abriu o código do \"Project Headroom\" — uma ferramenta que limpa dados repetidos antes de mandar o pedido pro modelo de IA, reduzindo o que você paga por uso. Já tem 2.000 estrelas no GitHub.",
+      "significa": "Se sua empresa paga ChatGPT, Claude ou Gemini por uso (via API), dá pra reduzir a fatura sem trocar de ferramenta — só cortando desperdício na hora de mandar a pergunta.",
+      "fonte": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Os \"agentes de busca\" de IA quase não acertam fato recente — eles chutam pelo que já sabiam",
+      "aconteceu": "Pesquisadores testaram os principais modelos (incluindo GPT e Gemini) com perguntas sobre fatos dos últimos 90 dias. Todos ficaram abaixo de 2% de acerto — ou seja, em vez de pesquisar na internet de verdade, eles respondem com o que aprenderam no treino antigo.",
+      "significa": "Se você usa ou contrata uma IA que promete \"pesquisa atualizada\", teste com algo recente antes de confiar. A resposta sobre \"o mercado hoje\" pode estar usando dados de 2024.",
+      "fonte": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Pediu pro ChatGPT resumir um site? Ele pode te entregar um golpe junto",
+      "aconteceu": "Um pesquisador mostrou que o ChatGPT não consegue separar o conteúdo real de uma página de instruções maliciosas escondidas no código dela. Ao resumir um site, ele pode incluir um \"aviso de segurança\" falso com link de phishing — e você vê como se fosse resposta legítima do ChatGPT. A OpenAI ainda não confirmou correção.",
+      "significa": "Se sua equipe usa ChatGPT pra resumir relatórios, sites de fornecedor ou documentos de fora, há risco de cair em link malicioso achando que é resposta da IA. Vale orientar o time a desconfiar de links que aparecem em resumos.",
+      "fonte": "https://www.theregister.com/research/2026/05/29/chatgpt-prompt-injection-turns-web-pages-into-phishing-lures/5248137",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Codex (IA da OpenAI) agora opera o Windows sozinho — testa programas e caça bugs sem ninguém olhando",
+      "aconteceu": "O Codex ganhou a capacidade de controlar um PC com Windows 11 de forma autônoma: abre programas, testa aplicações e encontra erros sem supervisão, e você acompanha pelo celular.",
+      "significa": "Equipes de teste de software podem deixar a IA rodando à noite verificando cenários que antes consumiam horas manuais — sem aumentar a equipe.",
+      "fonte": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Luto profissional\": profissionais de tech estão adoecendo com medo de serem substituídos por IA",
+      "aconteceu": "Um texto com bastante repercussão descreve a angústia de profissionais que sentem a carreira ameaçada pela IA — mesmo sem terem sido demitidos. É um sofrimento real, antecipado.",
+      "significa": "Se você lidera equipe, esse impacto na saúde mental aparece antes de qualquer demissão e derruba produtividade e retenção. Conversar abertamente sobre o papel da IA no time vale mais que fingir que está tudo normal.",
+      "fonte": "https://jackmaguire.org/blog/ai-job-grief/",
+      "tags": [
+        "#IA",
+        "#Mercado",
+        "#Produtividade",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Empresa quer fugir de depender de uma única IA — e investiram US$ 113 milhões nisso",
+      "aconteceu": "A OpenRouter, um \"balcão único\" que dá acesso a vários modelos de IA (ChatGPT, Claude, Gemini) por uma só conexão, levantou US$ 113 milhões. O investimento confirma que empresas querem trocar ou combinar modelos sem ficar presas a um fornecedor.",
+      "significa": "Antes de fechar contrato fechado com um único fornecedor de IA, vale considerar uma camada que te deixe trocar de modelo conforme preço e qualidade — evita ficar refém.",
+      "fonte": "https://openrouter.ai/announcements/series-b",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "Conhecimento profundo de um assunto continua sendo o verdadeiro diferencial — IA não muda isso",
+      "aconteceu": "Um artigo muito discutido argumenta que dominar de verdade uma área (medicina, direito, finanças, logística) segue sendo a vantagem mais difícil de copiar — e que usar IA, sozinho, não cria vantagem sustentável, porque todo concorrente tem acesso às mesmas ferramentas.",
+      "significa": "Não adianta apostar tudo em \"ter IA\". O diferencial é juntar IA com o conhecimento específico do seu negócio que o concorrente não tem.",
+      "fonte": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quem critica IA no trabalho está virando \"o chato\" — e isso é um risco escondido",
+      "aconteceu": "Um texto com boa repercussão relata que profissionais que questionam o uso de IA (por ética, privacidade ou meio ambiente) sofrem pressão pra se calar e acabam isolados no trabalho.",
+      "significa": "Quando ninguém pode levantar a mão e dizer \"espera, isso tem risco\", a empresa toma decisões de IA sem freio — e descobre os problemas tarde demais. Manter espaço pra dúvida é proteção, não atraso.",
+      "fonte": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Golpistas usam IA pra criar pessoas falsas e vender porcaria no TikTok Shop",
+      "aconteceu": "Esquemas de venda online estão usando IA pra gerar rostos e identidades falsas de pessoas e empurrar produtos de baixa qualidade em plataformas como o TikTok Shop.",
+      "significa": "Se sua marca anuncia nessas plataformas, ela pode acabar aparecendo ao lado (ou sendo confundida) com esse tipo de fraude. Vale checar onde seus anúncios estão sendo exibidos.",
+      "fonte": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Japão vai botar €75 bilhões em data centers de IA na Europa",
+      "aconteceu": "O SoftBank (gigante japonês de investimento) anunciou a construção de data centers de grande porte na França pra rodar IA na Europa.",
+      "significa": "Empresas europeias (ou que atendem a Europa) vão poder processar IA dentro do continente, sem mandar dados pros EUA — o que ajuda quem tem regra rígida de privacidade (saúde, jurídico, financeiro).",
+      "fonte": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora roda no \"modo automático\" dentro das nuvens que a sua empresa já usa",
+      "aconteceu": "O Claude Code (ferramenta de programação com IA da Anthropic) passou a oferecer o modo automático — que executa tarefas sem pedir aprovação a cada passo — dentro de AWS, Google Cloud e Azure.",
+      "significa": "Empresa que já é cliente dessas nuvens consegue usar a IA de programação de forma autônoma sem abrir um contrato novo direto com a Anthropic — menos atrito jurídico e de compras.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.158",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Office para Mac vira \"somente leitura\" — quem comprou licença vai ter que pagar de novo",
+      "aconteceu": "A Microsoft vai transformar as licenças permanentes do Office 2019 e 2021 para Mac em \"somente leitura\" após uma data-limite. Quem comprou o software não poderá mais editar documentos sem migrar pra assinatura.",
+      "significa": "Se sua empresa tem Macs com Office comprado de uma vez (não assinatura), vai precisar abrir o bolso. Sinal mais amplo: a era da \"compra única\" de software está acabando — tudo vira mensalidade.",
+      "fonte": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Agora dá pra criar \"extensões\" do Claude Code e guardar dentro do próprio projeto",
+      "aconteceu": "O Claude Code passou a permitir salvar plugins (extensões que adicionam habilidades à ferramenta) direto na pasta do projeto, sem depender de loja externa, e ganhou um comando pra criar um plugin do zero.",
+      "significa": "Um time pode montar um atalho personalizado pro seu jeito de trabalhar e deixá-lo junto do projeto — todo mundo usa sem instalar nada.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.157",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A IA já está começando a melhorar a si mesma — e isso encurta a \"validade\" de cada modelo",
+      "aconteceu": "Segundo o analista Jack Clark, modelos de IA já conseguem conduzir parte da pesquisa que cria modelos novos, acelerando o ritmo de evolução da tecnologia.",
+      "significa": "A vantagem de \"ter o melhor modelo\" dura cada vez menos. A estratégia certa é montar sua operação pra trocar de modelo rápido, não casar com um único.",
+      "fonte": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
