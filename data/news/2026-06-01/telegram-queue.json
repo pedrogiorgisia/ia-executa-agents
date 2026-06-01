@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-01",
+  "items": [
+    {
+      "titulo": "Uma extensão de IA pra Google Sheets foi pega vazando suas planilhas",
+      "aconteceu": "Uma extensão popular de \"ChatGPT para Google Sheets\" foi flagrada mandando o conteúdo das planilhas pra fora da empresa, sem o usuário perceber.",
+      "significa": "Não é só o produto oficial que é risco — qualquer pluginzinho de IA que um funcionário instala sozinho na planilha pode estar vazando dado sensível. Vale uma regra clara sobre o que pode ou não ser instalado.",
+      "fonte": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Microsoft e Nvidia preparam PCs que rodam agentes de IA sem internet",
+      "aconteceu": "As duas estão desenvolvendo computadores que executam agentes de IA direto no aparelho, sem mandar nada pra nuvem — uma evolução do Copilot pra algo mais autônomo e privado.",
+      "significa": "Quem não podia usar IA por sigilo (advogado, médico, financeiro) passa a ter um caminho: a IA analisa o documento sem que nenhum dado saia da máquina.",
+      "fonte": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Hardware",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Grandes empresas dos EUA começaram a \"racionar\" IA porque o custo explodiu",
+      "aconteceu": "Segundo o Wall Street Journal, corporações americanas estão limitando o uso interno de IA — o que prometia cortar custo virou um novo centro de custo fora de controle.",
+      "significa": "A fase do \"todo mundo usa à vontade\" está acabando. Sem regra de governança e medição de ROI, a conta de IA escala mais rápido que o benefício. Vale colocar limite e medir antes que o susto chegue.",
+      "fonte": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Profissional cancelou a assinatura de IA — e o texto viralizou",
+      "aconteceu": "Um post muito compartilhado de alguém que cancelou sua assinatura de IA ao perceber que tinha virado dependência, sem ganho real de produtividade.",
+      "significa": "O hype está dando lugar à pergunta \"quanto isso me entrega de verdade?\". Se você implantou IA no time, é hora de medir resultado concreto — antes que essa pergunta chegue de cima.",
+      "fonte": "https://thoughts.hmmz.org/2026-05-31.html",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Com IA, dá pra validar uma ideia em horas — não em semanas",
+      "aconteceu": "Texto em alta relatando que protótipos que levavam semanas agora saem em horas ou dias com ajuda de IA.",
+      "significa": "Se seu processo de aprovação e ciclo de produto continua no ritmo antigo, você perde velocidade pra quem já testa rápido. O gargalo deixou de ser \"construir\" e virou \"decidir\".",
+      "fonte": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "E se o culpado pela falta de vaga júnior for o home office, não a IA?",
+      "aconteceu": "Artigo do Financial Times questiona se a queda na contratação de juniores é mesmo culpa da IA — ou do trabalho remoto, que tira do júnior a convivência com o sênior pra aprender.",
+      "significa": "Antes de cortar vaga júnior \"porque a IA faz\", vale checar se o problema real é o modelo de trabalho. Decisão errada agora seca o pipeline de talento dos próximos anos.",
+      "fonte": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "OpenAI reabriu sua divisão de robótica",
+      "aconteceu": "A OpenAI recriou a área de robótica que tinha fechado em 2021, começando por robôs industriais, com a meta declarada de \"um robô pessoal pra cada pessoa\".",
+      "significa": "O maior nome de IA está apostando que o próximo salto é físico, não só digital. No curto prazo, logística, construção e manufatura são os primeiros a sentir.",
+      "fonte": "https://the-decoder.com/openai-starts-with-infrastructure-robots-but-aims-for-everyone-having-a-personal-robot-doing-anything-they-need/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Mistral lançou um \"modo trabalho\" que faz tarefa administrativa pra você",
+      "aconteceu": "A Mistral (lab europeu de IA, dona do chat.mistral.ai) ativou o \"Work Mode\": ele acessa seu Google Workspace ou Outlook e faz tarefas chatas — revisar emails, compilar relatório, agendar reunião — a partir de um único pedido.",
+      "significa": "Se você perde a manhã processando email e montando relatório de equipe, dá pra delegar isso num comando só, sem trocar de ferramenta.",
+      "fonte": "https://mistral.ai/news/vibe-agent",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Foxconn cortou 80% do tempo de achar falha na fábrica com agente de IA",
+      "aconteceu": "A NVIDIA lançou o \"FOX\", um sistema de agentes de IA pra monitorar fábrica em tempo real. A Foxconn já usa e reduziu em 80% o tempo de análise de falhas.",
+      "significa": "Em vez de horas pra descobrir por que uma máquina parou, um agente cruza sensores e histórico em segundos e aponta a causa. Reduz parada e custo de manutenção. (Ainda não liberado ao público — dá pra entrar na fila.)",
+      "fonte": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA agora tem parceiro de nuvem de IA na América do Sul",
+      "aconteceu": "A NVIDIA expandiu sua rede de parceiros de nuvem de IA pra seis continentes, incluindo novos provedores na América do Sul.",
+      "significa": "Empresa brasileira que precisa rodar IA sem depender de servidor nos EUA (latência, custo de transferência, exigência de dado em solo nacional) passa a ter opção local certificada.",
+      "fonte": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
