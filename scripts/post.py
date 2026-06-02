@@ -133,17 +133,21 @@ def gen_photo_gemini(prompt: str, out_dir: Path, slug: str) -> Path:
         "model": "google/gemini-3.1-flash-image-preview",
         "messages": [{"role": "user", "content": prompt}],
         "modalities": ["image", "text"],
+        "usage": {"include": True},  # pede o custo REAL cobrado pelo OpenRouter
     })
     if status >= 300:
         raise RuntimeError(f"Gemini failed {status}: {raw.decode()[:400]}")
     resp = json.loads(raw.decode())
     msg = resp["choices"][0]["message"]
-    # Registra gasto (Gemini 3.1 Image: ~$0.01-0.02 por imagem)
-    usage = resp.get("usage", {})
+    usage = resp.get("usage", {}) or {}
     tokens_in = usage.get("prompt_tokens", 0)
     tokens_out = usage.get("completion_tokens", 0)
-    # Pricing aprox: $0.0000005 input + $0.000003 output. Imagem ~1.5k tokens output.
-    cost_usd = (tokens_in * 0.0000005) + (tokens_out * 0.000003)
+    # Custo REAL do OpenRouter (usage.cost em USD). Só cai na estimativa por token se faltar.
+    real_cost = usage.get("cost")
+    if isinstance(real_cost, (int, float)) and real_cost > 0:
+        cost_usd = float(real_cost)
+    else:
+        cost_usd = (tokens_in * 0.0000005) + (tokens_out * 0.000003)
     register_cost(
         script="post.py",
         model="google/gemini-3.1-flash-image-preview",

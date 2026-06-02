@@ -222,7 +222,11 @@ sans (Montserrat). Sempre contraste alto.
   as próprias milhas** — só paga mais barato pela mesma passagem.
   🚫 NUNCA escrever "use suas milhas", "acumule milhas com a gente", "suas milhas
   vencendo" como oferta da PP. (O cliente paga; a milha é nossa.)
-- **Economia:** "até 47% de desconto" vs. tarifa balcão. Não usar outro número.
+- **Economia (CUIDADO — não é promessa de todo post):** "até 47%" é **TETO**, não
+  regra — o desconto varia caso a caso. **NÃO** carimbar "-47%" / "metade do preço" /
+  "mesma poltrona, metade do preço" em toda peça (vira promessa falsa). Usar esses
+  números **vez ou outra**, e sempre como possibilidade ("às vezes até", "pode chegar
+  a"), nunca como garantia. Na maioria dos posts, falar do benefício sem cravar %.
 
 ---
 
@@ -255,6 +259,8 @@ sans (Montserrat). Sempre contraste alto.
 ❌ **"Pacote completo"** — PP NÃO vende pacote, vende passagem
 ❌ **"Reserva online já!"** — PP atende via consultoria, não self-service
 ❌ **"Promoção imperdível"** — clickbait gasto
+❌ **Cravar "-47%" / "metade do preço" em todo post** — é teto e varia; repetir vira
+   promessa falsa. Usar com parcimônia e como possibilidade, não garantia.
 ❌ Emoji de avião no início da frase ✈️ (use no meio/fim, soft)
 ❌ Caixa alta na headline inteira (BARATÍSSIMO)
 ❌ **1ª pessoa do SINGULAR** ("eu monto", "eu te ajudo", "me chama que eu vejo") —
