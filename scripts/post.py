@@ -45,7 +45,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(Path(__file__).parent))
-from cost_tracker import register_cost
+from cost_tracker import register_cost, log_call
 
 # Carrega .env
 for line in (ROOT / ".env").read_text(encoding="utf-8").splitlines():
@@ -156,6 +156,14 @@ def gen_photo_gemini(prompt: str, out_dir: Path, slug: str) -> Path:
         tokens_in=tokens_in,
         tokens_out=tokens_out,
     )
+    log_call(
+        kind="gemini_photo",
+        model="google/gemini-3.1-flash-image-preview",
+        prompt=prompt,
+        result=json.dumps({"usage": usage, "has_image": bool(msg.get("images"))}, ensure_ascii=False),
+        cost_usd=cost_usd, tokens_in=tokens_in, tokens_out=tokens_out,
+        duration_ms=int((time.time() - t0) * 1000),
+    )
     for img in (msg.get("images") or []):
         url = img.get("image_url", {}).get("url", "")
         if url.startswith("data:image"):
@@ -205,6 +213,13 @@ def gen_video_veo(prompt: str, out_dir: Path, slug: str, duration: int = 6) -> P
                 purpose=f"reel reflexivo: {slug}",
                 cost_usd=cost_usd,
                 extra={"duration_s": duration, "aspect": "9:16"},
+            )
+            log_call(
+                kind="veo_video",
+                model="google/veo-3.1-lite",
+                prompt=prompt,
+                result=json.dumps(info, ensure_ascii=False),
+                cost_usd=cost_usd, duration_ms=int(elapsed * 1000),
             )
             break
         if cur in ("failed", "error"):

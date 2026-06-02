@@ -32,6 +32,29 @@ USD_TO_BRL = 6.0  # cotacao aprox
 # após cada geração pra registrar no banco com job_id/brand_id. NÃO substitui o CSV.
 SESSION_COSTS: list[dict] = []
 
+# Log COMPLETO de cada chamada de IA (prompt + resultado + modelo + custo) pra
+# estudar/melhorar depois. A plataforma drena e grava em call_logs.
+SESSION_LOGS: list[dict] = []
+
+
+def log_call(kind: str, model: str, prompt: str | None = None, result: str | None = None,
+             cost_usd: float = 0.0, tokens_in: int | None = None, tokens_out: int | None = None,
+             duration_ms: int | None = None, ok: bool = True, error: str | None = None) -> None:
+    """Registra uma chamada de IA pra auditoria (drena pela plataforma)."""
+    SESSION_LOGS.append({
+        "kind": kind,
+        "model": model,
+        "prompt": (prompt or "")[:60000],
+        "result": (result or "")[:60000],
+        "cost_usd": round(float(cost_usd or 0), 6),
+        "cost_brl": round(float(cost_usd or 0) * USD_TO_BRL, 4),
+        "tokens_in": tokens_in,
+        "tokens_out": tokens_out,
+        "duration_ms": duration_ms,
+        "ok": ok,
+        "error": error,
+    })
+
 HEADERS = [
     "timestamp",
     "script",
