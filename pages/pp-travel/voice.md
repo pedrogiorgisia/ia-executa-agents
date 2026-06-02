@@ -1,8 +1,10 @@
 # Voice — PP Travel Infinite
 
 > Como a marca fala. Toda peça gerada pelo motor passa por esse filtro.
-> Fonte primária: `Texto sobre a PP Travel.gdoc` + `Briefing Influenciadores.gdoc`
-> (no Google Drive, pasta `04-pp-travel/1- Marketing/`).
+> Fonte primária: [`sobre-a-empresa.md`](sobre-a-empresa.md) (documento institucional
+> completo: história, missão/visão/valores, FAQ, 20 objeções) + `Briefing
+> Influenciadores.gdoc` (Google Drive, `04-pp-travel/1- Marketing/`).
+> **Sempre que precisar entender o "porquê" da marca, ler `sobre-a-empresa.md`.**
 
 ---
 
@@ -62,6 +64,9 @@ Quando precisar reforçar autoridade, usar estes pontos verificáveis:
 5. **1.247+ famílias atendidas** em 2025 (atualizar números trimestralmente)
 6. **Mesma poltrona, metade do preço** — você voa pela mesma cia
 7. **Pagamento parcelado** (importante pra ticket alto)
+8. **Honestidade radical** — se a oferta da PP não for a melhor pra você, a gente
+   te diz onde está a melhor. O compromisso é com o cliente, não com a venda.
+   (diferencial forte de confiança — usar com parcimônia, sem soar pregação)
 
 ---
 
