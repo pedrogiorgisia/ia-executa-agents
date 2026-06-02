@@ -198,9 +198,16 @@ SOMENTE estas cores** — nada de azul genérico, amarelo neon ou cores fora da 
 | Secundárias (usar com parcimônia) | Coral / vinho | `#F96567` · `#6B0B0C` |
 | Texto sobre navy | Branco | `#FFFFFF` |
 
+**Fundo:** dois modos on-brand, **alternar** entre eles (não usar sempre o mesmo):
+- **Navy** `#01051C` com texto branco + realce dourado, OU
+- **Branco** `#FFFFFF` com texto navy `#01051C` + realce dourado `#B0936A`.
+
+Branco NÃO está no guide como "fundo", mas o inverso (navy/dourado sobre branco) é
+on-brand e ajuda a variar o feed. Escolher o que fica melhor por peça.
+
 **Tipografia da marca:** wordmark "PP TRAVEL" e "INFINITE" em serifada
 (**Vidaloka** / **Viaoda Libre**, dourado `#B0936A`). Corpo/labels podem usar
-sans (Montserrat). Sempre contraste alto (texto claro sobre navy escuro).
+sans (Montserrat). Sempre contraste alto.
 
 ---
 
