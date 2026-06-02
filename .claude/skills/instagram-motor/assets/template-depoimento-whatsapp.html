@@ -1,0 +1,88 @@
+<!--
+TEMPLATE — Depoimento estilo "print de WhatsApp" (Prova Social)
+===============================================================
+Formato visual alternativo pro pilar prova_social. Conversa real entre
+cliente e a PP — nativo, crível, quebra o padrão do feed.
+
+Placeholders (cada mensagem do cliente é uma bolha branca à esquerda;
+a resposta da PP é bolha verde à direita):
+  __MSG1__   — 1ª msg do cliente
+  __MSG2__   — 2ª msg do cliente (pode ser vazio)
+  __REPLY__  — resposta da PP (verde, direita)
+  __TIME__   — horário (ex: "14:32")
+
+Saída: 1080×1080 (device_scale_factor=2).
+-->
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  width: 1080px; height: 1080px; overflow: hidden;
+  font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+/* Header WhatsApp */
+.wa-header {
+  background: #008069; color: #fff; display: flex; align-items: center;
+  gap: 18px; padding: 34px 36px; flex-shrink: 0;
+}
+.wa-back { font-size: 38px; line-height: 1; font-weight: 300; }
+.wa-pic { width: 78px; height: 78px; border-radius: 50%; background: #ffffff22;
+  display: grid; place-items: center; overflow: hidden; flex-shrink: 0; }
+.wa-pic span { font-size: 34px; }
+.wa-info { display: flex; flex-direction: column; gap: 3px; flex: 1; }
+.wa-name { font-size: 30px; font-weight: 600; display: flex; align-items: center; gap: 9px; }
+.wa-name .vf { width: 24px; height: 24px; }
+.wa-status { font-size: 19px; opacity: .85; }
+.wa-icons { display: flex; gap: 30px; font-size: 28px; opacity: .95; }
+/* Corpo do chat com papel de parede clássico */
+.wa-body {
+  flex: 1; background-color: #efeae2;
+  background-image:
+    radial-gradient(rgba(0,0,0,.025) 1.4px, transparent 1.4px),
+    radial-gradient(rgba(0,0,0,.025) 1.4px, transparent 1.4px);
+  background-size: 46px 46px; background-position: 0 0, 23px 23px;
+  padding: 44px 40px; display: flex; flex-direction: column; gap: 20px; justify-content: flex-end;
+}
+.daystamp { align-self: center; background: #ffffff; color: #54656f; font-size: 17px;
+  padding: 7px 16px; border-radius: 9px; box-shadow: 0 1px 1px rgba(0,0,0,.06); margin-bottom: 6px; }
+.bubble { max-width: 76%; padding: 18px 22px 26px; border-radius: 16px; position: relative;
+  font-size: 28px; line-height: 1.42; color: #111b21; box-shadow: 0 1px 1.5px rgba(0,0,0,.13); }
+.bubble .t { position: absolute; right: 16px; bottom: 9px; font-size: 16px; color: #667781; }
+.in { align-self: flex-start; background: #fff; border-top-left-radius: 4px; }
+.out { align-self: flex-end; background: #d9fdd3; border-top-right-radius: 4px; }
+.out .t { color: #5b876e; display: flex; align-items: center; gap: 5px; }
+.out .t svg { width: 22px; height: 16px; }
+.handle { background: #008069; color: rgba(255,255,255,.9); text-align: center;
+  font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 19px;
+  letter-spacing: .06em; padding: 16px; flex-shrink: 0; }
+</style>
+</head>
+<body>
+  <div class="wa-header">
+    <span class="wa-back">‹</span>
+    <div class="wa-pic"><span>✈️</span></div>
+    <div class="wa-info">
+      <span class="wa-name">PP Travel Infinite
+        <svg class="vf" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="#34B7F1"/><path d="M10.3 15.1l-3-3 1.4-1.4 1.6 1.6 4.1-4.1L15.8 9z" fill="#fff"/></svg>
+      </span>
+      <span class="wa-status">online</span>
+    </div>
+    <div class="wa-icons"><span>📹</span><span>📞</span></div>
+  </div>
+  <div class="wa-body">
+    <div class="daystamp">HOJE</div>
+    <div class="bubble in">__MSG1__<span class="t">__TIME__</span></div>
+    <div class="bubble in">__MSG2__<span class="t">__TIME__</span></div>
+    <div class="bubble out">__REPLY__
+      <span class="t">__TIME__
+        <svg viewBox="0 0 18 12" fill="none"><path d="M1 7l3 3 7-8" stroke="#53bdeb" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 7l3 3 7-8" stroke="#53bdeb" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+    </div>
+  </div>
+  <div class="handle">@pptravelinfinite</div>
+</body>
+</html>
