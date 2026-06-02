@@ -182,6 +182,21 @@ Essas frases têm peso emocional + diferenciação. Bons fechos pra carrosséis.
 
 ---
 
+## ✅ Fatos da agência (verdade — não inventar fora disto)
+
+- **Só passagens aéreas.** A PP NÃO vende: pacote, seguro-viagem, hospedagem,
+  programa de pontos/fidelidade. Quem citar isso está errando.
+- **Sem suporte 24/7.** Nunca prometer plantão 24h. O diferencial é atendimento
+  humanizado e resolutivo, não disponibilidade ininterrupta.
+- **As milhas são da PP, não do cliente.** A PP **compra milhas** com milheiros
+  confiáveis e emite a passagem. O cliente **não precisa ter milhas** e **não usa
+  as próprias milhas** — só paga mais barato pela mesma passagem.
+  🚫 NUNCA escrever "use suas milhas", "acumule milhas com a gente", "suas milhas
+  vencendo" como oferta da PP. (O cliente paga; a milha é nossa.)
+- **Economia:** "até 47% de desconto" vs. tarifa balcão. Não usar outro número.
+
+---
+
 ## ⛔ HARD BANS — nunca, em nenhuma circunstância
 
 🚫 **POLÍTICA** — zero. Nem citar político (de qualquer lado), nem usar tweet/declaração de

@@ -8,18 +8,18 @@
 >
 > Importado de `Sobre a PP Travel.gdoc` (Google Drive) em 2026-06-04.
 
-> ⚠️ **Conflitos a resolver com o Pedro** (encontrados na importação — NÃO usar
-> como fato até confirmar; enquanto isso, vale o que está na `voice.md`):
-> 1. **Suporte 24/7:** a seção de marketing ("Sobre a PP Travel", no fim) diz
->    *"suporte 24 horas por dia, 7 dias por semana"*, mas o FAQ e as objeções
->    (#7, #3, #9) dizem o oposto: *"não oferecemos suporte 24/7"*. A `voice.md`
->    trata como **NÃO 24/7** (atendimento humanizado, não plantão). Confirmar.
-> 2. **Economia:** a seção de marketing cita *"em média 20%"*; a `voice.md` usa
->    *"até 47% de desconto"*. São métricas diferentes (média vs teto). Definir
->    qual número usar em copy pública.
-> 3. **Seguro-viagem e programa de pontos/fidelidade:** citados na seção de
->    marketing. Confirmar se são serviços reais oferecidos hoje antes de
->    mencioná-los em post (HARD BAN da `voice.md`: nada de dado sem verificar).
+> ✅ **Fatos confirmados pelo Pedro em 2026-06-04** (estes valem; partes do texto
+> abaixo que os contrariam estão DESATUALIZADAS — não usar):
+> 1. **Suporte 24/7: NÃO existe.** Não citar "24/7" em lugar nenhum. O diferencial
+>    é atendimento humanizado e eficaz, não plantão 24h.
+> 2. **Economia:** usar o número da `voice.md` — **"até 47% de desconto"** (ignorar
+>    o "média de 20%" do texto de marketing).
+> 3. **Escopo: só passagens aéreas.** A PP **NÃO** vende seguro-viagem, **NÃO** tem
+>    programa de pontos/fidelidade, **NÃO** vende pacotes.
+> 4. **Como funcionam as milhas (importante):** a PP **compra as milhas dela mesma**
+>    com milheiros confiáveis e emite a passagem pra você. **O cliente NÃO precisa
+>    ter milhas** nem usa as próprias milhas. Nunca escrever copy do tipo "use suas
+>    milhas" — é a PP que tem as milhas; o cliente só paga (mais barato).
 
 ---
 
