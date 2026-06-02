@@ -1,0 +1,53 @@
+{
+  "data": "2026-06-16",
+  "dia_semana": "terca-feira",
+  "conta": {
+    "phase": "testing",
+    "account_id": "6a1df37a2b2567671a8f620e",
+    "handle_postagem": "@ia.executa",
+    "handle_visivel": "@pptravelinfinite"
+  },
+  "pilar": "inspiracao",
+  "formato": "single_photo",
+  "template": "card-fullbleed-v2",
+  "dimensao": "1080x1350",
+  "tema": "Lisboa em junho — verao europeu, esplanadas e o sol que so se poe as dez da noite",
+  "destino": "Lisboa (Portugal)",
+  "kicker": "DESTINO DE JUNHO",
+  "headline_html": "Em junho, <i>Lisboa</i> só escurece <b>às dez da noite</b>.<br>E a cidade inteira <b>janta na rua</b>.",
+  "sub_pill": "O verão europeu é de graça. A passagem, a gente resolve com milhas.",
+  "photo_prompt": "Professional travel photography of Lisbon, Portugal, on a warm June summer evening at golden hour. View over the terracotta rooftops of the Alfama district descending toward the Tagus river, with the dome of the National Pantheon and a vintage yellow tram line hinted among the narrow streets below. Strings of small festive lights and a few colorful paper garlands stretch between the old buildings, evoking the lingering spirit of the June street festivals. Warm low golden sunlight rakes across the pastel facades and tiled azulejo walls, long soft shadows, the river glowing amber in the distance. Composition: the rooftops, river and tram occupy the lower-right two thirds of the frame, leaving large generous negative space in the upper-left (open warm evening sky) for text overlay. Cinematic atmosphere, shallow depth of field, shot on 35mm full-frame. Color palette: warm terracotta and amber, soft pastel facades, golden river light, gentle blue-lilac evening sky. No people facing camera, faces not visible. No text in the image, no logos, no watermark. Editorial travel magazine quality. Aspect ratio: 4:5 portrait (1080x1350).",
+  "photo_prompt_variacoes": [
+    "Variacao A (esplanada / mesa na rua): Closer scene of a cobblestone Lisbon street on a warm June evening, an outdoor cafe esplanade with small tables, a glass of vinho verde and grilled sardines softly out of focus in the foreground, warm string lights overhead, pastel buildings and a sliver of the Tagus glowing at golden hour behind. Large negative space in the upper-left (evening sky and lights) for text overlay. 35mm full-frame, shallow depth of field, editorial. No faces visible, no text, no logos. 4:5 portrait (1080x1350).",
+    "Variacao B (miradouro / vista ampla): Wider establishing shot from a Lisbon miradouro (viewpoint) at sunset — the whole city of terracotta rooftops cascading toward the wide Tagus river and the 25 de Abril bridge in the warm distance, soft summer haze. Even larger negative space in the upper-left (open golden sky). 35mm, warm golden hour light. No people facing camera, no text, no logos. 4:5 portrait (1080x1350).",
+    "Variacao C (silhueta de costas p/ escala): Same Lisbon golden-hour rooftop-and-Tagus scene, with a single traveler seen from behind in silhouette (face not visible) leaning on a tiled miradouro railing in the lower-right, gazing over the city and river, giving human scale and emotion. Warm festive evening light, generous negative space upper-left. 35mm full-frame, cinematic. No text, no logos. 4:5 portrait (1080x1350)."
+  ],
+  "aspect_ratio": "4:5 portrait (1080x1350)",
+  "caption": "Em junho, Lisboa só escurece às dez da noite — e a cidade inteira janta na rua.\n\nÉ esplanada cheia, cheiro de sardinha na brasa, fado vindo de alguma esquina e o Tejo dourado enquanto o sol não vai embora. O verão europeu começa, os dias ficam enormes e dá tempo de viver tudo num só passeio. Pra quem tem família ou gente querida do outro lado do Atlântico, junho é a desculpa perfeita.\n\nO verão a Europa entrega de graça. A passagem, a gente resolve com milhas — pela mesma cia, por bem menos do que você imagina, e parcelado.\n\nMarca aqui aquela pessoa com quem você jantaria nessa rua 👇\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #Lisboa #Portugal #VeraoEuropeu",
+  "first_comment": "Detalhe que muda a viagem: em junho Lisboa pega o começo do verão europeu, com dias que vão até quase às 22h — rende muito mais passeio por dia do que parece. ☀️\n\nE pra quem já tá montando o orçamento: dá pra emitir Lisboa via milhas pela mesma companhia, parcelado. Manda 'LISBOA' na DM que a gente monta a cotação sem compromisso.",
+  "hook_source": "ideias_disponiveis:lisboa_portugal_verao_europeu + sazonal_junho + guia_pilar2_inspiracao",
+  "por_que_funciona": "Contraste emocional + projecao futura ancorados num detalhe sensorial concreto ('so escurece as dez da noite, a cidade janta na rua') que faz a pessoa se ver na cena, em vez de um clichê de destino. Sazonalidade real (junho abre o verao europeu) da razao pra agir agora. Lisboa e destino-core da PP e atinge em cheio as personas 'brasileiro no exterior' e 'familias/grupos' (ticket alto = milhas brilham mais), alem de ser altamente fotogenico pro template full-bleed.",
+  "checklist_pilar_inspiracao": {
+    "visual_impactante": "OK — Alfama/Tejo golden hour, luzes de festa, espaco negativo p/ overlay; prompt especifico do destino (nao stock generico)",
+    "gatilho_aspiracional": "OK — 'a cidade inteira janta na rua', 'o Tejo dourado enquanto o sol nao vai embora' projeta a pessoa na cena",
+    "tom_emocional_sensorial": "OK — cheiro de sardinha, fado na esquina, dias enormes; sensorial, leve, nao manchete",
+    "equilibrio_sonho_realidade": "OK — 'por bem menos do que voce imagina' + milhas + mesma cia + parcelado",
+    "link_sutil_pp": "OK — 'a passagem, a gente resolve com milhas' (sutil, nao publicidade)",
+    "cta_emocional_social": "OK — 'Marca aqui aquela pessoa com quem voce jantaria nessa rua'",
+    "hook_125_chars": "OK — 'Em junho, Lisboa só escurece às dez da noite — e a cidade inteira janta na rua.' (~79 chars) cabe antes do 'ver mais'",
+    "acentos_e_hard_bans": "OK — acentos pt-BR corretos, sem politica/religiao/tragedia/concorrente, headline mistura pesos, sem caixa-alta gritada, sem emoji de aviao inicial"
+  },
+  "dedup_check": {
+    "destino_unico_60d": "Lisboa/Portugal nao aparece no historico nem em usadas.md — OK (Lencois, Italia, Cusco/Peru, Bariloche/Argentina sao destinos diferentes)",
+    "ganchos_recentes_evitados": "nao reusa 'Imagine acordar com essa vista' (06-01), 'Voce vai pelo X, fica pelo Y' (06-02 Italia), nem a estrutura climatica-de-foto do Cusco/Bariloche — aqui o gancho e sensorial-cultural ('so escurece as dez, janta na rua')",
+    "headline_nao_identica": "OK — nenhuma headline igual no historico",
+    "sub_pill_diferenciada": "OK — evita repetir verbatim 'a montanha abre... as milhas abrem' (Cusco/Bariloche); usa 'O verao europeu e de graca. A passagem, a gente resolve com milhas'",
+    "ideia_disponivel": "lisboa_portugal_verao_europeu estava em disponiveis.md (adicionada 2026-06-02) e nao consta em usadas.md — pronta pra consumo"
+  },
+  "gerado_por": {
+    "copy": "post-generator headless — copy ancorada em voice.md, guia-objetivos.md (checklist pilar Inspiracao) e banco de ideias",
+    "visual": "post-generator headless — photo_prompt + 3 variacoes seguindo template card-fullbleed-v2 e formatos.md (Single Photo)",
+    "escolha": "Lisboa entre as ideias inspiracao disponiveis — vencedor por fit de marca (destino-core PP), persona (brasileiro no exterior + familias) e sazonalidade real de junho"
+  },
+  "status": "gerado — NAO postado. Aguardando geracao de midia (post.py) e revisao humana."
+}

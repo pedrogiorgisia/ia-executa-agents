@@ -1,0 +1,122 @@
+{
+  "data_auditoria": "2026-06-02",
+  "modo": "audit_only_zero_custo",
+  "midia_alvo": "data/instagram/pp-travel/2026-06-02/foto-it-lia-gastronomia-outubro.png",
+  "midia_ja_gerada": true,
+  "midia_aprovada_visualmente_pelo_pedro": true,
+
+  "prompt_atual": "Professional travel photography in a rustic Italian trattoria in Tuscany at golden hour. Close-up overhead shot of a wooden table with handmade pasta (pici cacio e pepe or carbonara), a glass of red wine, fresh bread, olive oil, scattered grated parmesan. Warm sunlight streaming from a side window, rich golden tones, shallow depth of field, shot on 50mm lens. Cinematic editorial atmosphere, premium magazine quality. No people visible. No text. Aspect ratio 4:5 portrait. Background slightly blurred showing stone walls and warm interior lighting.",
+
+  "checklist_passou": {
+    "universal": {
+      "subject_especifico": {
+        "passou": true,
+        "nota": "Trattoria toscana com pasta (pici/carbonara), vinho, pao, parmesao — nao e 'italian food' generico. Cena claramente localizavel."
+      },
+      "lighting_definido": {
+        "passou": true,
+        "nota": "Golden hour + warm sunlight side window + rich golden tones. Tres descritores reforcam o mesmo mood — bom."
+      },
+      "composition_com_espaco_pra_overlay": {
+        "passou": "parcialmente",
+        "nota": "'Close-up overhead shot' + 'background slightly blurred' nao especifica EM QUE TERCO a comida fica. Nao pediu negative space superior/inferior. Pro overlay em 3 linhas (Coliseu/fica/carbonara) na parte de cima, o ideal seria 'subject occupying lower two-thirds of the frame, leaving negative space upper-third for overlay'. ATENUANTE: overhead shot natural ja cria peso visual no centro/baixo da mesa; o post-final.png demonstra que o overlay coube."
+      },
+      "aspect_ratio_explicito": {
+        "passou": true,
+        "nota": "4:5 portrait declarado."
+      },
+      "no_text_in_image": {
+        "passou": true,
+        "nota": "'No text' presente. Bom — Gemini erra muito com texto."
+      },
+      "no_people_facing_camera": {
+        "passou": true,
+        "nota": "'No people visible' e ate mais forte que 'no faces' — zero risco de pessoa generica enquadrada."
+      },
+      "editorial_quality": {
+        "passou": true,
+        "nota": "'Cinematic editorial atmosphere, premium magazine quality' — dois descritores reforcando."
+      },
+      "cena_bate_com_overlay": {
+        "passou": true,
+        "nota": "Overlay diz 'carbonara' e a foto LITERALMENTE tem carbonara (ou pici cacio e pepe — ambos macarrao italiano em prato fundo, indistinguivel pro publico leigo a essa distancia). Concretude visual maxima."
+      }
+    },
+    "gemini_image_especifico": {
+      "lens_specificado": {
+        "passou": true,
+        "nota": "50mm lens — coerente com close-up overhead de mesa."
+      },
+      "shallow_dof": {
+        "passou": true,
+        "nota": "'Shallow depth of field' + 'background slightly blurred' = consistente."
+      },
+      "paleta_nomeada": {
+        "passou": "parcialmente",
+        "nota": "'Rich golden tones' + 'warm sunlight' + 'stone walls' implica paleta amber/cream/stone. Nao foi declarada explicitamente com 3-4 cores como nos exemplos aprovados ('deep amber, navy blue, soft pinks'). Funcionou aqui porque trattoria toscana golden hour ja e uma paleta canonica e estavel; mas e uma melhoria possivel."
+      }
+    },
+    "anti_patterns_evitados": {
+      "foto_generica_pais_sem_cidade_cena": {
+        "evitou": true,
+        "nota": "Tuscany trattoria + 50mm overhead + mesa montada e MUITO mais especifico que 'Italy food'."
+      },
+      "pediu_texto_na_imagem": {
+        "evitou": true
+      },
+      "composicao_centralizada_sem_espaco_pra_overlay": {
+        "evitou": "parcialmente",
+        "nota": "Overhead shot pode acabar centralizado. Nao foi catastrofico pois funcionou no preview, mas e o ponto mais fragil do prompt."
+      },
+      "emoji_decorativo_boiando": {
+        "evitou": true
+      }
+    }
+  },
+
+  "tensao_semantica_copy_visual": {
+    "match_score": "9/10",
+    "analise": "Match excelente. A subversao 'Voce vai pelo Coliseu, voce fica pela carbonara' depende inteiramente do espectador VER carbonara real na mesa — e ve. A copy fala em nonna/trattoria/vinho de €4/luz das 17h, e a foto entrega exatamente: trattoria rustica + golden hour (luz das 17h) + vinho + pasta. Nao ha desencaixe.",
+    "unico_pontinho": "Headline menciona 'carbonara' mas o prompt diz 'pici cacio e pepe OR carbonara'. Se Gemini renderizou pici (sem ovo/bacon visiveis), tecnicamente seria um leve desalinhamento. Como Pedro ja aprovou a foto visualmente, irrelevante na pratica — pasta longa em prato fundo com queijo ralado por cima passa como carbonara pra 99% do publico."
+  },
+
+  "veredicto_final": "aprovar",
+  "razao_veredicto": "Prompt cobre 9 dos 10 itens do checklist universal + 3/3 anti-patterns. O unico atenuante real (espaco negativo nao declarado explicitamente) ja foi resolvido pela natureza do overhead shot + foto ja aprovada. Custo de regerar (R$ 0,01) nao se justifica diante de uma foto aprovada que casa com a copy. Manter como esta.",
+
+  "melhorias_pra_proxima_iteracao_italia": {
+    "ja_aplicaveis_no_template": [
+      "Declarar negative space explicito: 'subject occupies lower two-thirds, upper third reserved for headline overlay'",
+      "Declarar paleta com 3-4 cores nomeadas: 'Color palette: warm amber, cream, terracotta, deep wine red'",
+      "Escolher UMA pasta especifica em vez de OR (evita ambiguidade Gemini): 'spaghetti carbonara with visible egg yolk, guanciale and black pepper' ou 'pici cacio e pepe with thick handmade noodles'",
+      "Reforcar 'editorial food photography, Conde Nast Traveler style' como ancora de qualidade alem de generic 'magazine'"
+    ]
+  },
+
+  "alternativas_pra_proximas_italias": [
+    {
+      "id": "roma_carbonara_overhead_v2",
+      "cena": "Trattoria romana, carbonara classica",
+      "prompt": "Professional editorial food photography in a centuries-old Roman trattoria. Overhead shot of a hand-thrown ceramic plate of spaghetti carbonara with visible glossy egg yolk, crispy guanciale, cracked black pepper, and a dusting of pecorino. Side of crusty bread, a small carafe of house red wine, worn wooden table with patina. Warm late-afternoon golden hour light spilling diagonally from a side window onto the right of the frame. Shot on 50mm lens, shallow depth of field, Conde Nast Traveler editorial style. Composition: plate and props occupy lower two-thirds, upper third left as soft out-of-focus negative space for headline overlay. No people visible. No text in image. No logos. Color palette: warm amber, cream, deep wine red, terracotta. Aspect ratio 4:5 portrait.",
+      "critique": "Mais especifico que o atual em 4 eixos: (1) destino concreto (Roma vs Tuscany), (2) prato unico sem ambiguidade, (3) espaco negativo declarado, (4) paleta nomeada. Risco: pode soar 'over-specified' e Gemini ignorar metade. Mitigacao: o nivel de detalhe ainda esta dentro do limite que o template aprovado de Lencois usa."
+    },
+    {
+      "id": "bolonha_mortadela_mercato",
+      "cena": "Mercado coberto de Bolonha, balcao de salumeria",
+      "prompt": "Professional travel photography inside the Quadrilatero food market in Bologna, Italy. Eye-level close-up of a marble salumeria counter with thick slices of mortadella pistacchio, hanging prosciutto behind, a wheel of Parmigiano Reggiano, fresh tortellini in a wicker basket. Diffused warm afternoon light from arched market windows. Shot on 35mm lens, slightly shallow depth of field. Composition: counter and salumi fill the lower-right two-thirds, leaving the upper-left blurred background open for headline overlay. Editorial travel magazine quality, Conde Nast Traveler aesthetic. No people facing camera (only a vendor's hands visible slicing). No text in image. No logos. Color palette: cream, pink-coral mortadella, deep amber prosciutto, warm marble white. Aspect ratio 4:5 portrait.",
+      "critique": "Quebra o padrao 'mesa de trattoria' — bom pra diversificar nas proximas execucoes de Italia. Hands-only e aprovado pelo guia (humano sem rosto). Risco: Gemini pode renderizar maos esquisitas — manter 'subtle hands slicing' opcional, nao central."
+    },
+    {
+      "id": "florenca_vinheria_blue_hour",
+      "cena": "Vinheria florentina ao entardecer, taca contraluz",
+      "prompt": "Professional travel photography inside a tiny Florentine wine bar at blue hour. Medium-close shot of a single glass of Chianti red wine on a marble counter, soft candlelight reflecting on the glass, bottles of Tuscan wines blurred in the background. Through a window behind, the silhouette of the Duomo against a dusky violet sky. Shot on 50mm lens, shallow depth of field. Composition: wine glass on lower-right third, leaving generous negative space upper-left where the dusky sky frames headline overlay. Editorial cinematic mood, Conde Nast Traveler style. No people visible. No text in image. No logos. Color palette: deep wine red, candlelight amber, dusky violet, warm cream. Aspect ratio 4:5 portrait.",
+      "critique": "Mood completamente diferente do golden hour atual — contemplativo, reflexivo, casaria com headline mais filosofica (tipo 'Tem cidade que voce nao visita. Voce escuta.'). NAO usar com headline da carbonara (mood errado). Bom pra rodizio de Italia em pilar Reflexivo."
+    }
+  ],
+
+  "recomendacao_orquestrador": {
+    "acao_imediata": "manter_prompt_atual_e_foto_atual",
+    "regerar": false,
+    "motivo": "Foto aprovada visualmente + match copy-visual forte + custo de regerar nao justificado.",
+    "atualizar_template_global": "Sim — adicionar ao formatos.md / midias.md como exemplo aprovado da categoria 'Inspiracao Single — Gastronomia destino europeu', com as 4 melhorias do template aplicadas pra proximas iteracoes."
+  }
+}

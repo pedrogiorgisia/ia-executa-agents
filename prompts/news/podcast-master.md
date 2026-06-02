@@ -40,6 +40,22 @@ Crie a pasta `data/podcasts-publicos/` se não existir.
 
 **Validar:** confirme que `data/news/$HOJE/top.md` existe. Se não existir, **aborte** com mensagem clara — sem `top.md` não tem o que virar podcast.
 
+### Passo 1.5 — Renovar token do NotebookLM (antes de tudo)
+
+Antes de qualquer operação no NotebookLM, tente renovar o token silenciosamente:
+
+```bash
+notebooklm auth refresh --quiet
+```
+
+Se falhar, tente extrair cookies do Chrome:
+
+```bash
+notebooklm auth refresh --browser-cookies chrome
+```
+
+Se ambos falharem, **não aborte ainda** — siga pro Passo 2. O token pode ainda estar válido mesmo que o refresh falhe. Só acione o fallback (Passo 9.4) se o Passo 2 em diante retornar erro de autenticação.
+
 ### Passo 2 — Criar notebook do dia no NotebookLM
 
 Use a Skill `notebooklm`:
@@ -62,7 +78,7 @@ notebooklm add-source <notebook_id> --file data/news/$HOJE/top.md
 
 ```
 notebooklm generate audio <notebook_id> \
-  --instructions "Português brasileiro. Dois apresentadores com papéis distintos: (1) Apresentador/jornalista — voz feminina — apresenta cada notícia de forma objetiva e direta. (2) Especialista em IA — voz masculina — comenta cada notícia trazendo perspectiva analítica, contexto de mercado e implicações práticas pra empresas. Ritmo DINÂMICO E ÁGIL — sem pausas longas, sem voltar atrás, sem floreio. Falem rápido, em ritmo de podcast informativo profissional (NÃO em ritmo lento de podcast contemplativo). Cobra TODOS os itens do top.md, não só 4-5 — cada notícia ganha 20-40 segundos: a apresentadora descreve em 1-2 frases, o especialista comenta em 2-3 frases. Duração total 5-8 minutos. Comece com 'O que rolou no mundo da IA hoje, em poucos minutos.' Termine com uma observação curta do especialista sobre a notícia mais importante do dia." \
+  --instructions "IDIOMA OBRIGATÓRIO: PORTUGUÊS BRASILEIRO. NÃO USE INGLÊS EM HIPÓTESE ALGUMA. Todo o podcast deve ser em português do Brasil, do início ao fim. Dois apresentadores com papéis distintos: (1) Apresentadora/jornalista — voz feminina — apresenta cada notícia de forma objetiva e direta em português. (2) Especialista em IA — voz masculina — comenta cada notícia trazendo perspectiva analítica, contexto de mercado e implicações práticas pra empresas, também em português. Ritmo DINÂMICO E ÁGIL — sem pausas longas, sem voltar atrás, sem floreio. Falem rápido, em ritmo de podcast informativo profissional (NÃO em ritmo lento de podcast contemplativo). Cobra TODOS os itens do top.md, não só 4-5 — cada notícia ganha 20-40 segundos: a apresentadora descreve em 1-2 frases, o especialista comenta em 2-3 frases. Duração total 5-8 minutos. Comece com 'O que rolou no mundo da IA hoje, em poucos minutos.' Termine com uma observação curta do especialista sobre a notícia mais importante do dia. LEMBRE: TODO o áudio deve ser em PORTUGUÊS BRASILEIRO." \
   --wait
 ```
 

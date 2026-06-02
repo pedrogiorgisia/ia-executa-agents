@@ -1,0 +1,247 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<title>Dashboard PP-Travel Instagram</title><style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; background: #0a0a0d; color: #fdfcfb; line-height: 1.5; padding: 40px 20px; }
+.container { max-width: 1100px; margin: 0 auto; }
+h1, h2, h3 { font-weight: 700; }
+h1 { font-size: 32px; margin-bottom: 8px; }
+h2 { font-size: 22px; margin: 32px 0 16px; color: #e0b87a; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 8px; }
+h3 { font-size: 18px; margin-bottom: 12px; }
+a { color: #2dd4bf; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.subtitle { color: #a19fad; margin-bottom: 32px; }
+.card { background: #14141a; border-radius: 12px; padding: 24px; margin-bottom: 24px; border: 1px solid rgba(255,255,255,0.05); }
+.media-wrap { background: #000; border-radius: 8px; overflow: hidden; margin-bottom: 16px; max-width: 600px; }
+.media-wrap img, .media-wrap video { width: 100%; display: block; }
+.meta-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 16px; }
+.meta { background: rgba(224,184,122,0.06); border-radius: 8px; padding: 10px 14px; }
+.meta-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: #a19fad; margin-bottom: 4px; }
+.meta-value { font-size: 14px; color: #fdfcfb; font-weight: 600; }
+.tag { display: inline-block; background: rgba(45,212,191,0.12); color: #2dd4bf; padding: 4px 10px; border-radius: 999px; font-size: 12px; font-weight: 600; margin-right: 6px; }
+.tag.pilar { background: rgba(224,184,122,0.15); color: #e0b87a; }
+.tag.format { background: rgba(168,85,247,0.12); color: #c084fc; }
+pre.caption { background: rgba(255,255,255,0.04); padding: 16px; border-radius: 8px; font-family: 'Segoe UI', sans-serif; white-space: pre-wrap; font-size: 14px; line-height: 1.6; color: #fdfcfb; border-left: 3px solid #e0b87a; }
+.hashtags { color: #2dd4bf; font-weight: 600; }
+.first-comment { background: rgba(45,212,191,0.06); border-left: 3px solid #2dd4bf; padding: 16px; border-radius: 8px; font-size: 14px; margin-top: 12px; }
+.empty { color: #a19fad; font-style: italic; }
+.row { display: flex; gap: 24px; flex-wrap: wrap; }
+.col-img { flex: 0 0 auto; }
+.col-txt { flex: 1; min-width: 300px; }
+.day-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
+.day-card { background: #14141a; border-radius: 10px; padding: 20px; border: 1px solid rgba(255,255,255,0.05); display: flex; flex-direction: column; gap: 14px; }
+.day-card:hover { border-color: rgba(224,184,122,0.4); }
+.day-card-head { display: flex; gap: 16px; align-items: flex-start; }
+.day-card a.date-link { color: #fdfcfb; font-weight: 700; font-size: 18px; }
+.day-card a.date-link:hover { color: #e0b87a; }
+.day-thumb { width: 160px; height: 160px; flex: 0 0 160px; background: #000; border-radius: 6px; overflow: hidden; }
+.day-thumb img, .day-thumb video { width: 100%; height: 100%; object-fit: cover; }
+.day-meta { flex: 1; min-width: 0; }
+.day-section-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.12em; color: #a19fad; margin: 4px 0 6px; font-weight: 600; }
+.day-caption { background: rgba(255,255,255,0.03); border-left: 3px solid #e0b87a; padding: 12px 14px; border-radius: 6px; font-size: 13px; line-height: 1.55; max-height: 220px; overflow: hidden; position: relative; }
+.day-caption.expanded { max-height: none; }
+.day-caption::after { content: ""; position: absolute; bottom: 0; left: 0; right: 0; height: 32px; background: linear-gradient(transparent, #14141a); pointer-events: none; }
+.day-caption.expanded::after { display: none; }
+.day-firstcomment { background: rgba(45,212,191,0.06); border-left: 3px solid #2dd4bf; padding: 12px 14px; border-radius: 6px; font-size: 13px; line-height: 1.55; }
+.day-status { display: inline-block; font-size: 11px; padding: 3px 10px; border-radius: 999px; font-weight: 700; letter-spacing: 0.05em; }
+.day-status.draft { background: rgba(252,211,77,0.15); color: #fcd34d; }
+.day-status.published { background: rgba(45,212,191,0.15); color: #2dd4bf; }
+.cost-bar { display: flex; gap: 16px; font-size: 13px; color: #a19fad; padding: 12px 16px; background: rgba(255,255,255,0.02); border-radius: 6px; margin-bottom: 16px; }
+.cost-bar strong { color: #fdfcfb; }
+</style></head><body>
+<div class="container">
+<h1>PP-Travel · Instagram Motor</h1>
+<p class="subtitle">7 dias com conteúdo gerado · gerado em 2026-06-02 14:06</p>
+
+<h2>Posts</h2>
+<div class="day-list">
+<div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"></div>
+    <div class="day-meta">
+      <a href="2026-06-16/preview.html" class="date-link">2026-06-16</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">filosofia-de-viagem</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao_reflexiva</span>
+        <span class="tag format">reel_reflexivo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">A mala volta igual. Você não.
+Tem viagem que mexe em algo lá no fundo — e é isso que fica.
+Mario Quintana já tinha entendido isso muito antes da gente.
+Marca alguém que voltou diferente de uma viagem 👇</div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">Tem destino que a gente esquece. E tem viagem que vira parte de quem você é. 🫶
+
+#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #FilosofiaDeViagem #ExperienciasQueValem #MarioQuintana #FrasesDeViagem</div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"></div>
+    <div class="day-meta">
+      <a href="2026-06-09/preview.html" class="date-link">2026-06-09</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">Bariloche em junho — a primeira neve dos Andes e o brasileiro que nunca viu neve cair</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao</span>
+        <span class="tag format">single_photo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">Tem brasileiro que chega aos 40 sem nunca ter visto a neve cair de verdade.
+
+Não a neve da foto na internet — a neve de verdade, caindo devagar, pousando no seu casaco, no silêncio da montanha. Junho é quando Bariloche abre a temporada e os Andes ficam brancos. É perto, é nosso vizinho, e é mais fácil de chegar do que você pensa.
+
+A montanha o inverno entrega. A passagem, a gente resolve com milhas — pela mesma cia, por bem menos do que você imagina.
+
+Marca aqui aquela pessoa com quem você veria a primeira neve 👇
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#PassagensAéreas</span> <span class="hashtags">#DicasDeViagem</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#DestinoCerto</span> <span class="hashtags">#MilhasComSegurança</span> <span class="hashtags">#Bariloche</span> <span class="hashtags">#Patagonia</span> <span class="hashtags">#Argentina</span></div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">Detalhe que muda a viagem: a temporada de neve em Bariloche costuma firmar de junho a agosto — junho pega o começo, com menos gente e a montanha já branca. ❄️
+
+E pra quem já tá montando o orçamento: dá pra emitir Bariloche via milhas pela mesma companhia, parcelado. Manda 'BARILOCHE' na DM que a gente monta a cotação sem compromisso.</div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"><video src="2026-06-06/reel-final.mp4" muted loop playsinline autoplay></video></div>
+    <div class="day-meta">
+      <a href="2026-06-06/preview.html" class="date-link">2026-06-06</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">filosofia-de-viagem</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao_reflexiva</span>
+        <span class="tag format">reel_reflexivo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">Não viajamos pra escapar da vida.
+
+A gente viaja pra que a vida não escape da gente.
+
+Qual viagem te fez sentir isso? 👇
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#ExperienciasQueValem</span> <span class="hashtags">#DicasDeViagem</span></div>
+  </div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"><video src="2026-06-04/reel-final.mp4" muted loop playsinline autoplay></video></div>
+    <div class="day-meta">
+      <a href="2026-06-04/preview.html" class="date-link">2026-06-04</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">Acumular janela de aviao - frase reflexiva</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao_reflexiva</span>
+        <span class="tag format">reel_reflexivo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">A gente acumula objeto.
+
+Devia acumular janela de avião.
+
+Qual foi sua melhor vista de janela? 👇
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#Reels</span> <span class="hashtags">#ExperienciasQueValem</span> <span class="hashtags">#VidaDeViajante</span></div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">Aqui em casa, a minha favorita é a chegada em Lisboa, com o Tejo cortando a cidade no pôr-do-sol. Conta a sua aí pra gente.</div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"><img src="2026-06-03/post-final.png" alt=""></div>
+    <div class="day-meta">
+      <a href="2026-06-03/preview.html" class="date-link">2026-06-03</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">Reclinar poltrona voo curto - polemica leve</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">engajamento</span>
+        <span class="tag format">single_photo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">A pergunta que divide brasileiro:
+
+Voo de até 2 horas: você reclina a poltrona ou deixa em pé?
+
+Tem gente que paga pra ter conforto. Tem gente que acha babação. E tem aquele que faz silêncio mas julga.
+
+Conta nos comentários:
+
+A) Reclino sim, paguei pra reclinar 💺
+B) Só se for noturno 🌙
+C) Nunca, é desrespeito 🚫
+D) Depende de quem tá atrás 👀
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#DicasDeViagem</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#EtiquetaDeViagem</span> <span class="hashtags">#VidaDeViajante</span></div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">A gente é time A (paguei pra reclinar, né?) 😅 mas curioso pra saber qual o time mais forte aqui. Marca aquele amigo que tem opinião certeira sobre etiqueta de viagem.</div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"><img src="2026-06-02/post-final.png" alt=""></div>
+    <div class="day-meta">
+      <a href="2026-06-02/preview.html" class="date-link">2026-06-02</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">Cusco / Machu Picchu em junho — o unico mes de ceu limpo nos Andes</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao</span>
+        <span class="tag format">single_photo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">Junho é o mês que os Andes ficam de céu limpo o ano inteiro.
+
+É acordar de madrugada, subir a montanha no frio seco e ver Machu Picchu inteira aparecer na neblina — sem chuva, sem nuvem tapando. Quem foi em janeiro sabe a diferença.
+
+A estação seca é a parte que o clima entrega. A passagem, a gente resolve com milhas — pela mesma cia, por bem menos do que você imagina.
+
+Marca aqui aquela pessoa com quem você subiria essa montanha 👇
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#PassagensAéreas</span> <span class="hashtags">#DicasDeViagem</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#DestinoCerto</span> <span class="hashtags">#MilhasComSegurança</span> <span class="hashtags">#MachuPicchu</span> <span class="hashtags">#Cusco</span> <span class="hashtags">#Peru</span></div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">Pequeno detalhe que muda a viagem: na estação seca (junho-agosto) o nascer do sol em Machu Picchu costuma ser de céu aberto — a melhor luz do ano pra foto. 📸
+
+E pra quem tá montando o orçamento: dá pra emitir Cusco via milhas pela mesma companhia, parcelado. Manda 'CUSCO' na DM que a gente monta a cotação sem compromisso.</div>
+</div><div class="day-card">
+  <div class="day-card-head">
+    <div class="day-thumb"><img src="2026-06-01/post-final.png" alt=""></div>
+    <div class="day-meta">
+      <a href="2026-06-01/preview.html" class="date-link">2026-06-01</a>
+      <p style="margin:4px 0 8px;font-size:14px;color:#fdfcfb;font-weight:500;">Lencois Maranhenses</p>
+      <p style="margin-bottom:8px;">
+        <span class="tag pilar">inspiracao</span>
+        <span class="tag format">single_photo</span>
+      </p>
+      <span class="day-status draft">DRAFT (aguarda aprovação)</span>
+    </div>
+  </div>
+  <div>
+    <div class="day-section-label">Caption</div>
+    <div class="day-caption">Junho é a única janela do ano pros Lençóis com as lagoas cheias.
+
+Depois disso, seca até fevereiro.
+
+Você já foi pra esse pedaço do Brasil que parece outro planeta? 👇
+
+<span class="hashtags">#PPTravelInfinite</span> <span class="hashtags">#PassagensAéreas</span> <span class="hashtags">#DicasDeViagem</span> <span class="hashtags">#ViajarÉPreciso</span> <span class="hashtags">#DestinoCerto</span> <span class="hashtags">#MilhasComSegurança</span> <span class="hashtags">#LençóisMaranhenses</span> <span class="hashtags">#Maranhão</span> <span class="hashtags">#BrasilDeNorteASul</span></div>
+  </div>
+  <div class="day-section-label">1º comentário (auto)</div>
+  <div class="day-firstcomment">Quer cotar passagem pro Maranhão com milhas? Manda 'LENÇÓIS' no direct que a gente faz a conta pra você.</div>
+</div>
+</div>
+
+</div></body></html>

@@ -1,0 +1,123 @@
+<!--
+TEMPLATE V2 — Single Photo PP-Travel
+=====================================
+Validado e aprovado pelo Pedro em 2026-06-01.
+
+Placeholders substituídos pelo post.py em runtime:
+  __MIME__       — "png" ou "jpeg"
+  __B64__        — base64 da foto Gemini
+  __KICKER__     — texto da pílula amarela (ex: "Inspiração do dia")
+  __HEADLINE__   — headline_html com <strong>/<em>/regular (3-4 linhas)
+  __PILL__       — sub_pill (texto da pílula branca)
+  __SWIPE__      — "arrasta →" para carrosséis, vazio para single
+
+Saída: 1080×1080 (device_scale_factor=2 → 2160×2160 PNG final)
+
+NÃO editar este arquivo sem revisar tipografia + paleta em
+pages/pp-travel/page.yaml e referencias/templates.md.
+-->
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,700&display=swap');
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Fonte unica: Montserrat (alternativa Google Fonts de Proxima Nova). */
+body {
+  width: 1080px; height: 1080px;
+  position: relative; overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg {
+  position: absolute; inset: 0;
+  background-image: url('data:image/__MIME__;base64,__B64__');
+  background-size: cover; background-position: center;
+}
+
+/* Gradient escuro pro texto contrastar */
+.bg::after {
+  content: ""; position: absolute; inset: 0;
+  background:
+    linear-gradient(180deg, rgba(0,10,30,0.55) 0%, rgba(0,10,30,0.05) 30%, rgba(0,10,30,0.10) 50%, rgba(0,10,30,0.85) 100%),
+    linear-gradient(90deg, rgba(0,10,30,0.35) 0%, rgba(0,10,30,0.05) 60%);
+}
+
+.brand-top {
+  position: absolute; top: 50px; left: 0; right: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif; font-weight: 500;
+  font-size: 26px; letter-spacing: 0.32em;
+  color: #fff; text-shadow: 0 2px 12px rgba(0,0,0,0.5); z-index: 2;
+}
+
+.content {
+  position: absolute; left: 70px; right: 70px; bottom: 230px;
+  z-index: 2; color: #fff;
+}
+
+.kicker {
+  display: inline-block; font-size: 14px; font-weight: 700;
+  letter-spacing: 0.28em; text-transform: uppercase;
+  color: #fcd34d; margin-bottom: 24px;
+  padding: 8px 16px; background: rgba(0,10,30,0.45);
+  border-radius: 999px; backdrop-filter: blur(6px);
+}
+
+.headline {
+  font-family: 'Montserrat', sans-serif; font-weight: 500;
+  font-size: 60px; line-height: 1.08;
+  letter-spacing: -0.02em; color: #fff;
+  text-shadow: 0 4px 18px rgba(0,0,0,0.5);
+  margin-bottom: 32px;
+  /* rede de segurança p/ headline longa: quebra palavra e limita altura */
+  overflow-wrap: break-word; word-break: break-word; hyphens: auto;
+}
+.headline strong { font-weight: 900; }
+.headline em { font-style: italic; font-weight: 500; }
+
+.pill {
+  display: inline-block; background: #fff;
+  color: #0a1a52; padding: 16px 26px;
+  border-radius: 12px; font-family: 'Montserrat', sans-serif;
+  font-weight: 600; font-size: 22px; letter-spacing: 0.02em;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+}
+
+/* Rodapé: handle SEMPRE centralizado (espelha o .brand-top). O swipe-hint
+   dos carrosséis fica ancorado à direita pra não empurrar o handle do centro. */
+.bottom {
+  position: absolute; left: 0; right: 0; bottom: 60px;
+  z-index: 2; text-align: center;
+}
+
+.handle {
+  font-family: 'Montserrat', sans-serif; font-weight: 700;
+  font-size: 18px; color: rgba(255,255,255,0.85);
+  letter-spacing: 0.06em;
+}
+
+.swipe-hint {
+  position: absolute; right: 70px; bottom: 0;
+  font-family: 'Montserrat', sans-serif; font-weight: 500;
+  font-size: 16px; color: rgba(255,255,255,0.6);
+  letter-spacing: 0.08em;
+}
+</style>
+</head>
+<body>
+  <div class="bg"></div>
+  <div class="brand-top">PP TRAVEL</div>
+  <div class="content">
+    <div class="kicker">__KICKER__</div>
+    <div class="headline">__HEADLINE__</div>
+    <div class="pill">__PILL__</div>
+  </div>
+  <div class="bottom">
+    <div class="handle">@pptravelinfinite</div>
+    <div class="swipe-hint">__SWIPE__</div>
+  </div>
+</body>
+</html>

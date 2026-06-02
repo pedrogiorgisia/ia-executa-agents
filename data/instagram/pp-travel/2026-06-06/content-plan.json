@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "date": "2026-06-06",
+    "brand": "ia-executa",
+    "conta": "@pptravelinfinite",
+    "pilar": "inspiracao_reflexiva",
+    "subtopico": "Filosofia de viagem",
+    "formato": "reel_reflexivo",
+    "mode": "content-only",
+    "frase_banco": "#5 — banco-frases/reflexivas-disponiveis.md",
+    "status": "aguarda_midia"
+  },
+  "copy": {
+    "frase_overlay": "Não viajamos pra escapar da vida, mas pra que a vida não nos escape.",
+    "frase_fonte": "Anônimo (quiasmo — viraliza sazonalmente)",
+    "headline_html": "<span>Não viajamos</span><br><span>pra <strong>escapar</strong> da vida.</span><br><span>Mas pra que</span><br><span>a vida não nos <em>escape.</em></span>",
+    "sub_pill": "Filosofia de viagem",
+    "linhas_frase": [
+      "Não viajamos",
+      "pra escapar da vida.",
+      "Mas pra que",
+      "a vida não nos escape."
+    ],
+    "caption": "Você não viaja pra descansar da vida.\n\nViaja pra lembrar que ela existe.\n\nManda esse vídeo pra alguém que precisa ouvir isso hoje. ✈️",
+    "first_comment": "#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #FilosofiaDeViagem #ExperienciasQueValem #ViajarÉViver #FrasesDeViagem",
+    "caption_chars_hook": 38,
+    "caption_total_chars": 132,
+    "_copy_candidatos": {
+      "A": "Quanto tempo você ainda vai deixar a viagem pra depois? / A vida não espera placar fechar. / A gente cuida da passagem pra você.",
+      "B": "Uma viagem não é fuga. É reencontro. / Às vezes a clareza que você procura tá em outro fuso. / Conta pra gente onde você quer encontrar essa clareza.",
+      "C": "[ESCOLHIDO] Você não viaja pra descansar da vida. Viaja pra lembrar que ela existe. / Manda esse vídeo pra alguém que precisa ouvir isso hoje.",
+      "D": "A rotina passa. As lembranças ficam. / A próxima viagem pode ser mais perto do que você imagina — e mais barata também. / Manda um 'oi' no direct que a gente te mostra.",
+      "E": "Aquela vontade de viajar que você engaveta? Ela tem razão. / A gente ajuda a destravar isso sem surpresa no bolso. / DM aberto."
+    },
+    "_candidato_vencedor": "C",
+    "_justificativa_escolha": "Para Reel Reflexivo (pilar inspiracao_reflexiva), o objetivo primário é viralidade/compartilhamento, não conversão. Option C tem o CTA de compartilhamento mais forte ('Manda esse vídeo pra alguém que precisa ouvir isso hoje') e ressignifica a motivação de viajar de forma complementar — não repetitiva — à frase do overlay. Recomendado pelo copy-specialist para viralidade orgânica.",
+    "_audit_log": {
+      "hard_bans_check": "PASSOU — sem política, religião, concorrentes, tragédias",
+      "moralizante_check": "PASSOU — sem 'Você TEM que viajar'",
+      "cliche_check": "PASSOU — sem 'Sonhe alto', 'Acredite', etc.",
+      "hook_chars": "38 chars ≤ 60 ✓",
+      "dedup_check": "PASSOU — sem destinos repetidos, sem frases usadas nos últimos 7 dias",
+      "frase_overlay_preservada": "PASSOU — frase do banco #5 não alterada",
+      "cta_suave": "PASSOU — 'Manda esse vídeo pra alguém' (não imperativo agressivo)"
+    }
+  },
+  "visual": {
+    "video_prompt": "A 6-second cinematic vertical 9:16 video. A person in their 60s seen from behind, sitting on a low weathered stone ledge at the edge of a vast open landscape — rolling golden grasslands stretching to the horizon, no specific landmark recognizable. The figure is small, leaning slightly forward with elbows on knees, fully absorbed in watching the world spread out before them. The sky fills the upper two thirds of the frame: dramatic slow-moving cumulus clouds lit from below by warm late-afternoon light, amber and deep gold at the horizon fading to steel blue above. Camera: very slow continuous push-in toward the horizon, smooth and steady, no jumps or cuts. Lighting: late golden hour, the sun just below the horizon line, casting a warm diffused amber glow across the plain and catching the edges of the clouds. Mood: philosophical, contemplative, presence over escape — 'life is happening and I am here for it'. Color palette: deep warm amber horizon, slate-blue and charcoal clouds, muted golden grassland, earth tones. No on-screen text. No logos. No recognizable face. Face completely out of frame. Editorial cinema quality, 35mm shallow depth of field equivalent. 1080x1920, 30fps.",
+    "tipo_escolhido": "C",
+    "justificativa_tipo": "A frase é um quiasmo filosófico sobre presença na vida — não sobre destino turístico nem aspiração jovem. Tipo C (figura contemplativa em paisagem anônima) traduz visualmente 'pertencer à vida em vez de fugir dela'. Tipo A (janela de avião) usado 2x nos últimos Reels — dedup bloqueia. Tipo B (pessoa de costas em fjord norueguês) também já gerado. Tipo C nunca gerado. Pessoa em seus 60s reforça urgência implícita da frase: não é aspiração futura, é presença agora. Paisagem anônima e vasta (sem landmark) garante universalidade — o espectador não pensa em destino, pensa em presença.",
+    "video_prompt_alternativo": "A 6-second cinematic vertical 9:16 video. A person in their 50s, seen from behind, standing alone at the bow of a slow wooden river boat drifting through a wide, calm river at dusk. The figure is small against the immensity of water and sky — the river stretches ahead to the vanishing point, banks lined with low vegetation. Camera: very slow push-in toward the horizon ahead, smooth. Lighting: golden hour fading to blue dusk — warm amber reflected on the water surface, deep teal and lavender sky. Mood: life moving forward, contemplative, unhurried presence. Color palette: warm ambers on water, deep teal sky, muted earth-toned vegetation. No on-screen text. No faces visible. No logos. Editorial cinema quality. 1080x1920, 30fps.",
+    "duracao": "6s",
+    "_visual_audit": {
+      "templates_consultados": [
+        "formatos.md §6 Reel Reflexivo (Tipo A/B/C)",
+        "midias.md §2 Veo 3.1 Lite"
+      ],
+      "variacoes_avaliadas": 5,
+      "iteracoes": 2,
+      "checklist_passed": [
+        "sujeito específico (pessoa 60s em stone ledge)",
+        "lighting definido (golden hour fading, amber-to-steel-blue)",
+        "sem destino reconhecível (universalidade da frase filosófica)",
+        "sem rostos (face completely out of frame)",
+        "sem texto no vídeo (no on-screen text)",
+        "9:16 especificado (1080x1920)",
+        "duração 6s (Veo Lite suporta 4/6/8 — corrigido de 7s do brief)",
+        "movimento slow contínuo (evita frame estático)",
+        "mood contemplativo-filosófico bate com quiasmo da frase",
+        "editorial cinema quality",
+        "1 ação contínua (sem cortes)",
+        "dedup OK (Tipo C nunca gerado)"
+      ],
+      "correcoes_aplicadas": [
+        "duração 7s → 6s (Veo Lite não suporta 7s, suporta 4/6/8)",
+        "postura mão-no-colo → cotovelos-no-joelho (presença ativa vs passividade)",
+        "Mediterranean coast → paisagem anônima sem landmark (universalidade filosófica)",
+        "mulher jovem (Tipo B) → pessoa 60s Tipo C (urgência temporal da frase)"
+      ]
+    }
+  }
+}

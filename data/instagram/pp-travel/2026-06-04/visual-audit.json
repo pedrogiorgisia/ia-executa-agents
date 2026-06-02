@@ -1,0 +1,108 @@
+{
+  "data_auditoria": "2026-06-02",
+  "auditor": "visual-specialist (subagent)",
+  "custo_runtime": "R$ 0,00 (somente leitura/escrita de texto)",
+  "midia_existente": "video-acumular-janela-de-aviao---frase-reflexi-raw.mp4",
+  "contexto": "Vídeo Veo Lite já gerado pelo prompt original (content.json v1). Copy-specialist trocou a frase pra Amyr Klink em content-v3.json, mas o video_prompt permaneceu IGUAL (a cena de janela de avião descendo sobre cidade noturna). Auditoria avalia se essa mídia pré-existente atende ao novo copy travado.",
+
+  "prompt_atual": "A 6-second cinematic vertical 9:16 video. View from an airplane window during descent over a large city at night. Below, twinkling city lights spread out like stars on the ground, with rivers reflecting moonlight. The window frame is visible at the edges, slightly fogged with subtle reflections of the dim cabin interior. Camera: very subtle gentle descent, smooth, no jumps or cuts. Lighting: deep dark blue night sky outside, warm amber and yellow city lights below, soft purple-pink gradient on the horizon line. Mood: contemplative, romantic, 'the journey is the destination'. Color palette: deep blacks, warm amber city lights, cool purple-blue horizon. No on-screen text. No people visible. Editorial cinema quality. 1080x1920, 30fps.",
+
+  "templates_consultados": [
+    "visual-specialist.md §Fase 3 Template Veo Lite",
+    "visual-specialist.md §Exemplos aprovados → 'Reel Reflexivo · Janela de avião noturna' (template aprovado pelo Pedro em 2026-06-01)"
+  ],
+
+  "checklist_passou": {
+    "subject_especifico": true,
+    "subject_detalhe": "'View from an airplane window during descent over a large city at night' — cena específica, não genérica.",
+    "lighting_definido": true,
+    "lighting_detalhe": "'Deep dark blue night sky, warm amber/yellow city lights, soft purple-pink gradient horizon' — três camadas de luz nomeadas.",
+    "composition_espaco_negativo": true,
+    "composition_detalhe": "Por natureza da cena (céu escuro ocupando metade superior), há espaço negativo natural pro overlay de 4 linhas. Adequado pra texto centralizado/superior.",
+    "aspect_ratio_explicito": true,
+    "aspect_ratio_detalhe": "'vertical 9:16' + '1080x1920, 30fps' — duplo reforço.",
+    "no_on_screen_text": true,
+    "no_on_screen_text_detalhe": "'No on-screen text' explicitado.",
+    "no_faces": true,
+    "no_faces_detalhe": "'No people visible' — vai além do exigido (nem pessoa de costas).",
+    "editorial_quality": true,
+    "editorial_quality_detalhe": "'Editorial cinema quality' explicitado.",
+    "match_overlay_copy": "parcial",
+    "match_overlay_copy_detalhe": "VER seção tensao_semantica abaixo. Tem mismatch potencial entre 'partir' (frase Klink) e visual de 'descer/chegar' (cena). Copy-specialist trata isso como FEATURE (leitura dupla = save), mas é uma escolha autoral, não uma garantia.",
+    "movimento_slow": true,
+    "movimento_detalhe": "'Very subtle gentle descent, smooth, no jumps or cuts' — atende regra Veo.",
+    "duracao_suportada": true,
+    "duracao_detalhe": "6 segundos, dentro dos suportados (4/6/8s).",
+    "mood_bate_com_frase": "parcial",
+    "mood_detalhe": "'Contemplative, romantic, the journey is the destination' bate parcialmente. 'Contemplative' casa com Klink. Mas 'romantic / journey is destination' é tom de CHEGADA/destino, e a frase Klink é tom de PARTIDA/decisão. Tem um leve descompasso semântico.",
+    "uma_acao_continua": true,
+    "uma_acao_detalhe": "Descida lenta, uma ação só."
+  },
+
+  "tensao_semantica_copy_visual": {
+    "diagnostico": "Há tensão semântica REAL entre o visual (descida/chegada/destino) e a frase (decisão de partir). O copy-specialist explicitamente assume isso como feature: 'ironia partir vs descer cria leitura dupla poética que gera save' (ver _top_3_candidatos[0].ponto_forte do content-v3.json).",
+    "veredicto": "É uma escolha autoral defensável MAS arriscada. Em prosa publicitária, normalmente queremos coerência visual-texto. A aposta aqui é que o leitor sofisticado lê a ironia como 'a viagem que você ainda não fez chega no fim'. Pode passar de poesia pra confusão se a maioria do público não captar a camada dupla.",
+    "risco_de_misinterpretacao": "Médio. Maioria dos viewers em scroll de Instagram lê literal: vídeo de avião descendo + texto 'partir' = pode parecer descuido de quem fez o post, não escolha intencional.",
+    "mitigacao_no_overlay": "A quebra das 4 linhas ajuda — 'Um dia é preciso / parar de sonhar. / E, de algum modo, / partir.' — o ritmo entrega a intenção poética antes do palato literal kicar.",
+    "alternativa_seria_melhor_match": "Se fosse gerar de zero, uma cena de DECOLAGEM noturna (avião subindo, luzes da cidade ficando pra trás, asa cortando céu) bateria MUITO mais com 'partir'. Ou plano de pessoa de costas em janela de aeroporto vendo aviões taxiando."
+  },
+
+  "veredicto_final": "aprovar_com_ressalva",
+  "veredicto_detalhe": "O prompt cumpre 11 de 12 itens do checklist tecnicamente. A tensão semântica copy↔visual é real mas explicitamente assumida pelo copy-specialist como ferramenta poética. Como o vídeo JÁ FOI GERADO (R$ 2,88 sunk cost) e o template 'Janela de avião noturna' está na lista de APROVADOS PELO PEDRO em 2026-06-01, faz sentido publicar essa execução. Recomendação ao orquestrador: aprovar essa execução, MAS registrar no historico.md a nota de que 'partir + descida' é uma combinação não-óbvia que deve ser monitorada (save rate, comentários captando ou não a leitura dupla).",
+
+  "alternativas_pra_proximo_sabado": [
+    {
+      "rank": 1,
+      "nome": "Decolagem noturna vista do solo",
+      "prompt": "A 6-second cinematic vertical 9:16 video. Wide low-angle shot of a commercial airplane taking off at night, climbing into a deep indigo sky with scattered stars. Below in the foreground, blurred airport runway lights stretch into the distance, warm amber and red navigation beacons glowing. The plane's silhouette cuts upward across the frame from lower-left to upper-right, its wing-tip strobe blinking softly. Camera: very slow vertical tilt-up following the plane, smooth, no jumps. Lighting: deep midnight blue sky, warm tungsten runway lights, cool moonlight on aluminum fuselage. Mood: decisive, hopeful, point-of-no-return. Color palette: midnight blue, warm amber, soft silver. No on-screen text. No people visible. Editorial cinema quality, anamorphic feel. 1080x1920, 30fps.",
+      "critique": "Match perfeito com frase de Klink: a cena É partir, não chegar. Mantém estética blue hour + amber que o Pedro já aprovou. Risco baixo de mal-interpretação. Espaço negativo no céu superior pra overlay. ÚNICA ressalva: é cena mais 'gerada' (com avião como sujeito) — Veo Lite às vezes erra plano de aeronave em movimento. Mitigado pedindo low-angle + slow tilt-up (não tracking complexo).",
+      "uso_recomendado": "Use quando a frase reflexiva for sobre DECISÃO/PARTIDA/COMEÇO."
+    },
+    {
+      "rank": 2,
+      "nome": "Mãos com café em janela de hotel ao amanhecer",
+      "prompt": "A 6-second cinematic vertical 9:16 video. Close-up over-the-shoulder shot of hands holding a white ceramic coffee cup, steam rising softly, framed by an open hotel window. Beyond the window, a city skyline at golden hour — soft amber sunrise, distant mountains silhouetted, a few birds drifting. The cup is in the lower-right third of the frame, leaving the upper-left two thirds open with the sky and skyline. Camera: extremely subtle slow push-in toward the window, almost imperceptible. Lighting: warm golden hour sunrise, soft side-light on the hands and cup, no harsh shadows. Mood: contemplative, slow, present-moment. Color palette: warm amber, soft cream, dusty blue sky, pale gold. No face visible. No on-screen text. Editorial cinema quality, 50mm lens shallow depth of field. 1080x1920, 30fps.",
+      "critique": "Match universal pra qualquer frase contemplativa. Composição com espaço negativo upper-left intencional (overlay encaixa). 'No face visible' atende regra LGPD. Único risco: cena de café em janela é meio batida no Instagram travel — pode parecer estoque. Mitigado pelo over-the-shoulder específico (não front-shot clichê).",
+      "uso_recomendado": "Use pra frases sobre PRESENÇA / DESACELERAR / MOMENTO. Não usar pra frases de ação/decisão."
+    },
+    {
+      "rank": 3,
+      "nome": "Pessoa de costas em mirante ao crepúsculo (template B já aprovado, variação BR)",
+      "prompt": "A 6-second cinematic vertical 9:16 video. Wide shot of a young person seen from behind, standing on a wooden mirante platform overlooking a vast Brazilian landscape — Chapada Diamantina at blue hour, deep canyon dropping below, distant mesas catching last light. The person wears a simple linen shirt, no logos. Camera: very slow push-in toward the horizon over their shoulder, smooth, no jumps. Lighting: blue hour just after sunset, soft pink-amber afterglow on the horizon, cool slate-blue on the canyon walls. Mood: introspective, expansive, decisive. Color palette: deep slate blue, dusty pink horizon, warm cream of the shirt. No face visible, person centered in lower-third, vast sky and landscape filling upper two-thirds for text overlay. No on-screen text. Editorial cinema quality. 1080x1920, 30fps.",
+      "critique": "Variação BR do template B (que o Pedro já aprovou pra Noruega em 2026-06-01). Vantagem: paisagem brasileira (Chapada) reforça identidade PP-Travel Brasil. Composição com espaço negativo upper 2/3 é a melhor pra overlay de 4 linhas longas. Risco: Veo Lite às vezes erra detalhes de roupa/cabelo da figura humana — mitigado mantendo wide shot e iluminação back-lit.",
+      "uso_recomendado": "Use pra frases sobre DECISÃO / OLHAR PRA FRENTE / IMENSIDÃO. Versátil. Bom default pra Pilar 2 quando faltar ideia."
+    }
+  ],
+
+  "recomendacao_pro_orquestrador": {
+    "executar_post_atual": true,
+    "razao": "Vídeo já gerado, prompt aprovado em template, tensão semântica copy↔visual é feature autoral assumida pelo copy-specialist. Custo de regerar (R$ 2,88) não se justifica.",
+    "monitorar_metricas": ["save_rate (sinal de leitura dupla captada)", "comentarios_qualitativos (gente apontando 'descer/partir' como contradição vs poesia)"],
+    "proxima_iteracao": "No próximo sábado, se a frase reflexiva for de PARTIDA/DECISÃO, usar Alternativa 1 (decolagem noturna). Se for de PRESENÇA/CONTEMPLAÇÃO, manter família 'janela de avião descendo' OU usar Alternativa 2 (café em janela)."
+  },
+
+  "_visual_audit": {
+    "templates_consultados": [
+      "visual-specialist.md §Reel Reflexivo · Janela de avião noturna (template aprovado)",
+      "visual-specialist.md §Reel Reflexivo · Pessoa de costas (template B)"
+    ],
+    "variacoes_avaliadas": 3,
+    "iteracoes": 2,
+    "checklist_passed": [
+      "subject_especifico",
+      "lighting_definido",
+      "composition_espaco_negativo",
+      "aspect_ratio_explicito",
+      "no_on_screen_text",
+      "no_faces",
+      "editorial_quality",
+      "movimento_slow",
+      "duracao_suportada",
+      "uma_acao_continua"
+    ],
+    "checklist_parcial": ["match_overlay_copy", "mood_bate_com_frase"],
+    "espaco_negativo_compativel_com_overlay": true,
+    "decisao_humana_necessaria": false,
+    "decisao_humana_opcional": "Pedro pode optar por regerar com Alternativa 1 (decolagem) se quiser eliminar a tensão partir↔descer. Custo: R$ 2,88. Default: publicar como tá."
+  }
+}

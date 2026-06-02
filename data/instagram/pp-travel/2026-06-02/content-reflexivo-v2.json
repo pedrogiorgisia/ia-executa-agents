@@ -1,0 +1,49 @@
+{
+  "pilar": "inspiracao_reflexiva",
+  "formato": "reel_reflexivo",
+  "tema": "Filosofia de viagem",
+  "conta_instagram": "@ia.executa",
+
+  "frase_origem": "Mark Twain (atribuição clássica, patrimônio público) — banco-frases/reflexivas #1",
+  "hook_source": "banco_frases_reflexivas:reflexivas#1 (Mark Twain — arrependimento / filosofia de viagem)",
+
+  "headline_html": "Em 20 anos não vai te pesar <strong>o que você fez</strong>.<br><em>Vai pesar o que você adiou.</em>",
+  "frase_completa": "Em 20 anos, não vai te pesar o que você fez. Vai pesar o que você adiou.",
+
+  "linhas_frase": [
+    "Em 20 anos",
+    "não vai te pesar",
+    "o que você fez.",
+    "Vai pesar o que adiou."
+  ],
+
+  "caption": "Em 20 anos, não vai te pesar o que você fez. Vai pesar o que você adiou.\n\nMark Twain já avisava.\n\nQual viagem você vive adiando? 👇\n\n#PPTravelInfinite #ViajarÉPreciso #ExperienciasQueValem #DicasDeViagem",
+
+  "first_comment": "A gente vê isso direto: quem espera \"a hora certa\" costuma esperar pra sempre. Se quiser, manda no nosso direct o destino que tá engavetado aí — a gente te mostra que cabe mais cedo do que você imagina. ✈️\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #VidaDeViajante",
+
+  "video_prompt": "A 6-second cinematic vertical 9:16 video. An empty country road stretching dead-straight toward a distant horizon at dawn, cutting through soft golden rolling hills with faint mountains far in the background. The vanishing point of the road is centered and sits low in the lower third of the frame; above it, a vast soft glowing dawn sky fills the entire center and center-bottom of the frame with smooth low-contrast warm light — large negative space in the center for a text overlay. A single sun is rising exactly on the centered horizon line, with a gentle subtle lens flare creating perfect symmetry (visual pattern interrupt in the first second). Camera: extremely slow, barely perceptible forward dolly gliding down the center of the road, meditative pace, smooth, no jumps and no cuts. Lighting: warm golden-hour sunrise, hazy and dreamy. Mood: contemplative, aspirational, the quiet feeling of setting off on a journey. Color palette: warm ambers, soft gold, pale peach sky, muted green-gold hills. Shot on 35mm full-frame, shallow depth of field, editorial cinema quality. Subtle ambient audio only — soft morning wind, no music. The video ends in a composition almost identical to the opening, so it loops seamlessly. No on-screen text. No people. No logos. 1080x1920, 30fps.",
+  "video_duration": 6,
+
+  "video_prompt_alternativas": [
+    "A 6-second cinematic vertical 9:16 video. A long wooden pier extending straight out over perfectly calm water toward a distant horizon at blue hour, just before sunrise. The pier's vanishing point is centered and low in the lower third of the frame; above and around it a vast smooth gradient sky (deep blue to soft pink) fills the center and center-bottom with low-contrast light — large negative space in the center for a text overlay. Far in the distance, a single small boat is slowly leaving toward the horizon, a tiny silhouette. Camera: extremely slow, barely perceptible forward glide along the pier, meditative pace, smooth, no jumps and no cuts. Lighting: tranquil blue hour with warm pink hints on the horizon. Mood: contemplative, the quiet ache of departure, 'leave now'. Color palette: deep blues, slate, soft pinks, faint amber. Shot on 35mm, shallow depth of field, editorial cinema quality. Subtle ambient audio only — gentle lapping water, no music. The video ends in a composition almost identical to the opening, so it loops seamlessly. No on-screen text. No recognizable faces. No logos. 1080x1920, 30fps.",
+    "A 6-second cinematic vertical 9:16 video. A pair of railway tracks running dead-straight and converging toward a distant horizon at golden hour, crossing a wide quiet plain. The convergence point of the tracks is centered and low in the lower third of the frame; above it a vast soft warm sky fills the center and center-bottom with smooth low-contrast light — large negative space in the center for a text overlay. The rising sun sits on the centered horizon with a gentle lens flare and the steel rails catch a thin line of golden light, creating strong symmetry. Camera: extremely slow, barely perceptible forward dolly along the center between the rails, meditative pace, smooth, no jumps and no cuts. Lighting: warm golden hour, hazy. Mood: contemplative, the passing of time, journeys not yet taken. Color palette: warm ambers, soft gold, dusty earth tones. Shot on 35mm, shallow depth of field, editorial cinema quality. Subtle ambient audio only — faint wind, no music. The video ends in a composition almost identical to the opening, so it loops seamlessly. No on-screen text. No people. No logos. 1080x1920, 30fps."
+  ],
+
+  "status": "content_ready",
+  "_audit": {
+    "tentativa": 2,
+    "correcoes_vs_tentativa_1": [
+      "formato: 'reel' -> 'reel_reflexivo' (post.py so renderiza overlay ffmpeg pra reel_reflexivo)",
+      "schema achatado: video_prompt/linhas_frase/caption no topo (post.py nao le copy.* nem visual.* aninhados)",
+      "frase trocada: #5 (RESERVADA p/ 06-06) -> #1 Mark Twain (filosofia de viagem, regret aversion)",
+      "overlay corrigido: pensamento COMPLETO (contraste 'fez x adiou'), antes terminava incompleto"
+    ],
+    "pilar_confirmado": "inspiracao_reflexiva",
+    "tema_confirmado": "Filosofia de viagem",
+    "copy_specialist": "2 iteracoes; skills copywriting+marketing-psychology+copy-editing",
+    "visual_specialist": "2 iteracoes; 3 variacoes; cena nova (estrada ao amanhecer) fora da lista de dedup",
+    "hard_bans_verificados": true,
+    "lgpd_verificado": "sem rosto, sem pessoas",
+    "dedup_cenas_evitadas": ["janela de aviao (06-04)", "penhasco/fjord (06-04)", "mirante/vale zoom-out (tentativa 1)", "lagoa-espelho / terraco-vila (alternativas tentativa 1)"]
+  }
+}

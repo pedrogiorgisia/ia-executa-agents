@@ -1,0 +1,59 @@
+{
+  "data": "2026-06-16",
+  "dia_semana": "terca-feira",
+  "_nota_pilar": "OVERRIDE explícito do usuário (TENTATIVA 2): pilar=inspiracao_reflexiva / formato=reel_reflexivo / tema=Filosofia de viagem. A geração anterior saiu errada como single_photo/inspiracao (Lisboa) — preservada em content-WRONG-inspiracao-lisboa.json.",
+  "conta": {
+    "phase": "testing",
+    "account_id": "6a1df37a2b2567671a8f620e",
+    "handle_postagem": "@ia.executa",
+    "handle_visivel": "@pptravelinfinite"
+  },
+  "pilar": "inspiracao_reflexiva",
+  "formato": "reel_reflexivo",
+  "template": "reel-overlay-frase-v1",
+  "dimensao": "1080x1920",
+  "tema": "filosofia-de-viagem",
+  "subtopico": "Filosofia de viagem",
+  "hook_source": "banco_frases_reflexivas:reflexivas-disponiveis.md#2 (Mario Quintana — Filosofia de viagem)",
+  "frase_banco_id": 2,
+  "frase_completa": "Viajar é trocar a roupa da alma.",
+  "frase_autor": "Mario Quintana",
+  "linhas_frase": [
+    "Viajar é",
+    "trocar a roupa",
+    "da alma."
+  ],
+  "caption": "A mala volta igual. Você não.\nTem viagem que mexe em algo lá no fundo — e é isso que fica.\nMario Quintana já tinha entendido isso muito antes da gente.\nMarca alguém que voltou diferente de uma viagem 👇",
+  "first_comment": "Tem destino que a gente esquece. E tem viagem que vira parte de quem você é. 🫶\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #FilosofiaDeViagem #ExperienciasQueValem #MarioQuintana #FrasesDeViagem",
+  "video_prompt": "A 6-second cinematic vertical 9:16 video. A person seen only from behind in soft silhouette, standing at an open balcony doorway as warm dawn light floods into a dim, simple room. A sheer white curtain drifts gently in the morning breeze, and the light slowly grows and spreads across the floor and walls as if the room is being renewed. Beyond the doorway, an unidentifiable soft landscape of hills and sky out of focus — no recognizable landmark. Camera: extremely slow push-in toward the doorway and the light, smooth and continuous, no jumps or cuts. Lighting: warm golden-hour sunrise, light transitioning from cool shadow to warm amber glow, atmospheric haze in the air. Mood: contemplative, transformative, peaceful, a sense of inner renewal and quiet awakening. Color palette: deep cool shadow blues fading into warm ambers and soft golden whites. Composition: the silhouette and doorway sit on the lower-left third, leaving large negative space in the upper-center and right for text overlay. Subtle ambient audio only — gentle breeze, distant birds — no music. No on-screen text. No faces visible, not recognizable. No logos. Editorial cinema quality, 35mm lens, shallow depth of field. 1080x1920, 30fps.",
+  "video_prompt_alternativo": "A 6-second cinematic vertical 9:16 video. A perfectly still mirror-calm mountain lake at first light, with soft morning mist slowly lifting off the water's surface and revealing the reflection of distant hills — no recognizable landmark. A single small figure stands at the far edge of the lake, seen from behind in silhouette, motionless, breathing in the landscape. Camera: very slow continuous push-in across the water toward the figure, smooth, no jumps or cuts. Lighting: tranquil blue hour blending into warm sunrise, soft pink and amber light breaking over the horizon as the mist clears. Mood: contemplative, renewing, serene, a quiet sense of transformation. Color palette: cool dawn blues and slate grays warming into soft pinks and pale gold. Composition: the figure and shoreline rest on the lower-right third, leaving large negative space in the upper-left and center for text overlay. Subtle ambient audio only — faint water and morning stillness — no music. No on-screen text. Face not visible, not recognizable. No logos. Editorial cinema quality, shallow depth of field. 1080x1920, 30fps.",
+  "video_duration": 6,
+  "aspect_ratio": "9:16 vertical (1080x1920)",
+  "por_que_funciona": "Frase clássica de Mario Quintana (autoridade + patrimônio público) com metáfora concreta de transformação interna ('trocar a roupa da alma'). Caption ancorada no paradoxo eu-antes/eu-depois ('A mala volta igual. Você não.') e CTA de compartilhamento — objetivo é viralidade orgânica, não conversão. Ângulo de transformação interna, distinto do ângulo presença-vs-fuga do reel filosofia de 2026-06-06 (frase #5).",
+  "dedup_check": {
+    "frase_unica": "Frase #2 (Quintana) nunca usada. #5 (06-06) e #4 Klink (06-04) são frases e ângulos diferentes.",
+    "autor_unico_mes": "Quintana não usado em junho — OK (1 frase/autor/mês).",
+    "angulo_diferente_do_06_06": "06-06 = presença vs fuga; aqui = transformação interna. Sem repetição de estrutura de caption.",
+    "cena_visual_distinta": "Tipo A (janela de avião) e Tipo B (fjord/cliff) bloqueados; cena 06-06 (stone ledge + planície dourada) evitada. Cena nova: interior em penumbra → luz do amanhecer (threshold de luz)."
+  },
+  "checklist_pilar_inspiracao_reflexiva": {
+    "frase_contemplativa_nao_cliche": "OK — Quintana, sem 'Sonhe alto/Acredite'",
+    "overlay_curto_4_linhas_max": "OK — 3 linhas, ≤5 palavras cada",
+    "video_sem_texto_sem_rosto": "OK — no on-screen text, face not recognizable (LGPD)",
+    "video_sem_landmark": "OK — paisagem desfocada não-reconhecível (universalidade)",
+    "movimento_lento_continuo": "OK — push-in suave sem cortes",
+    "audio_neutro": "OK — ambient only, no music (Veo tende a injetar música carregada)",
+    "caption_curta_cta_share": "OK — CTA de compartilhamento, não conversão",
+    "acentos_e_hard_bans": "OK — acentos pt-BR, sem política/religião/tragédia/concorrente"
+  },
+  "gerado_por": {
+    "copy": "copy-specialist (subagent) — frase travada do banco #2, caption/first_comment iterados 2 ciclos via copywriting+marketing-psychology+copy-editing",
+    "visual": "visual-specialist (subagent) — video_prompt threshold-de-luz iterado 2 ciclos, dedup vs Tipos A/B e reel 06-06",
+    "retry": "TENTATIVA 2 — corrige geração anterior que saiu como single_photo/inspiracao (Lisboa)"
+  },
+  "operacional_post_py": {
+    "overlay_timing": "viralizacao.md §timing: T_IN_START=0.0, T_IN_END=0.3, T_OUT_START=5.0, T_OUT_END=5.9",
+    "nunca_publicar_veo_cru": "Sempre renderizar overlay da frase via ffmpeg antes de postar (lição rejeitado #6)"
+  },
+  "status": "gerado — NAO postado. Aguardando geracao de midia (Veo Lite via post.py) + render overlay + revisao humana."
+}

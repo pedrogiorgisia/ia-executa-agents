@@ -1,0 +1,108 @@
+<!--
+TEMPLATE Carousel Slide — PP-Travel
+====================================
+Pra carrosséis educativos (Pilar Educação) e storytelling (Pilar Prova Social).
+Usado pelo scripts/render_carousel.py.
+
+Placeholders:
+  __MIME__ / __B64__  — foto Gemini de cada slide
+  __KICKER_BLOCK__    — pílula com texto (ex: "Dúvida frequente") ou vazio
+  __HEADLINE__        — title do slide (Montserrat dourado)
+  __BODY__            — corpo do slide (Inter regular)
+  __INDICATOR__       — "1 / 7", "2 / 7" etc.
+
+Saída: 1080×1080 por slide (até 10 slides por carrossel).
+-->
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,700&display=swap');
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Fonte unica: Montserrat (alternativa Google Fonts de Proxima Nova). */
+body {
+  width: 1080px; height: 1080px;
+  position: relative; overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+  background: #0a1a52;
+}
+
+.bg {
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 540px;
+  background-image: url('data:image/__MIME__;base64,__B64__');
+  background-size: cover; background-position: center;
+}
+
+.bg::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,10,30,0.10) 0%, rgba(10,26,82,0.40) 70%, rgba(10,26,82,1) 100%);
+}
+
+.brand-top {
+  position: absolute; top: 30px; left: 0; right: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif; font-weight: 500;
+  font-size: 22px; letter-spacing: 0.32em;
+  color: #fff; text-shadow: 0 2px 12px rgba(0,0,0,0.5); z-index: 2;
+}
+
+.body-block {
+  position: absolute; top: 540px; left: 0; right: 0; bottom: 0;
+  padding: 60px 70px 100px;
+  color: #fff;
+}
+
+.kicker {
+  display: inline-block; font-size: 13px; font-weight: 700;
+  letter-spacing: 0.28em; text-transform: uppercase;
+  color: #c9a961; margin-bottom: 24px;
+  padding: 6px 14px; background: rgba(255,255,255,0.08);
+  border-radius: 999px;
+}
+
+.slide-headline {
+  font-family: 'Montserrat', sans-serif; font-weight: 800;
+  font-size: 48px; line-height: 1.1;
+  letter-spacing: -0.01em; color: #c9a961;
+  margin-bottom: 24px;
+}
+.slide-headline strong { font-weight: 900; }
+.slide-headline em { font-style: italic; font-weight: 700; }
+
+.slide-body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px; line-height: 1.5;
+  color: rgba(255,255,255,0.92);
+  max-width: 920px;
+}
+
+.slide-indicator {
+  position: absolute; bottom: 30px; right: 70px;
+  font-size: 14px; font-weight: 700;
+  color: rgba(255,255,255,0.6);
+  letter-spacing: 0.1em;
+}
+
+.handle {
+  position: absolute; bottom: 30px; left: 70px;
+  font-size: 14px; font-weight: 700;
+  color: rgba(255,255,255,0.65);
+  letter-spacing: 0.08em;
+}
+</style>
+</head>
+<body>
+  <div class="bg"></div>
+  <div class="brand-top">PP TRAVEL</div>
+  <div class="body-block">
+    __KICKER_BLOCK__
+    <div class="slide-headline">__HEADLINE__</div>
+    <div class="slide-body">__BODY__</div>
+  </div>
+  <div class="handle">@pptravelinfinite</div>
+  <div class="slide-indicator">__INDICATOR__</div>
+</body>
+</html>

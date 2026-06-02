@@ -1,0 +1,73 @@
+{
+  "pilar": "inspiracao",
+  "formato": "single_photo",
+  "destino": "Itália",
+  "tema": "Itália gastronomia outubro",
+  "kicker": "Inspiração do dia",
+  "headline_html": "Você <em>vai</em> pelo <strong>Coliseu</strong>.<br>Você <strong>fica</strong><br>pela <em>carbonara</em>.",
+  "sub_pill": "Outubro: clima certo, multidão indo embora, tarifa do seu lado.",
+  "photo_prompt": "Professional travel photography in a rustic Italian trattoria in Tuscany at golden hour. Close-up overhead shot of a wooden table with handmade pasta (pici cacio e pepe or carbonara), a glass of red wine, fresh bread, olive oil, scattered grated parmesan. Warm sunlight streaming from a side window, rich golden tones, shallow depth of field, shot on 50mm lens. Cinematic editorial atmosphere, premium magazine quality. No people visible. No text. Aspect ratio 4:5 portrait. Background slightly blurred showing stone walls and warm interior lighting.",
+  "caption": "Acontece de novo e de novo.\n\nA pessoa marca a viagem pelo Coliseu, pela Sistina, pela foto na Fontana di Trevi.\n\nVolta falando da nonna que serviu pasta na trattoria da esquina. Do vinho que custou €4. Da luz das 17h batendo na mesa.\n\nOutubro é a janela: a multidão de verão já foi embora, o clima ainda colabora, e a tarifa em milhas faz a conta fechar.\n\nQuem da sua vida merece esse prato? Marca aí 👇\n\n#PPTravelInfinite #DicasDeViagem #Itália #ViajarÉPreciso #GastronomiaItaliana #DestinoCerto #MilhasComSegurança",
+  "first_comment": "Outubro tá com janela boa em Smiles e Latam Pass pra Roma, Florença e Bolonha — fechei 3 cotações essa semana abaixo da tarifa balcão. Manda ITÁLIA no direct que monto a sua.",
+  "hook_source": "adaptacao_frase_popular:vim_pelos_pontos_fiquei_pelo_gelato + grok_viral_italia:contexto_sensorial",
+  "_audit_log": {
+    "fontes_pesquisadas": [
+      "voice.md",
+      "guia-objetivos.md (§Pilar 2 Inspiração completo)",
+      "historico.md (últimos 5 posts)",
+      "ideias/usadas.md",
+      "ideias/disponiveis.md",
+      "data/instagram/_research/grok-viral-italia.md (5 virais coletados)",
+      "data/instagram/pp-travel/2026-06-02/content.json (v1 rejeitada)"
+    ],
+    "frase_origem": "Adaptação da frase popular 'Vim para a Itália pelos pontos turísticos, fiquei pelo gelato' — reescrita pra 'Você vai pelo Coliseu, você fica pela carbonara' (mais visual, casa com foto da trattoria + carbonara na mesa). Contexto sensorial inspirado em @leandroneko (3.591 likes) e @fachopxt (2.143 likes).",
+    "skills_invocadas": [
+      "marketing-skills:copywriting (Fase 3: gerei 5 candidatos com gatilhos psicológicos distintos)",
+      "marketing-skills:marketing-psychology (Fase 3: identifiquei gatilho por candidato — projeção futura, contraste, subversão de expectativa)",
+      "marketing-skills:copy-editing (Fase 5: polimento de ritmo, concordância e enxugamento do vencedor)"
+    ],
+    "candidatos_avaliados": 5,
+    "iteracoes": 3,
+    "gatilho_principal": "subversão de expectativa + verdade reconhecida ('caraca, é verdade')",
+    "checklist_passed_at": "2026-06-02T10:30:00",
+    "decisao_humana_necessaria": false,
+    "anti_patterns_evitados": [
+      "v1 rejeitada usava 'ainda dá' suspenso (frase truncada)",
+      "evitado 'Olha que legal'",
+      "evitado 'sonhe alto' / clichês esvaziados",
+      "evitado focar em preço (pilar Inspiração proíbe foco excessivo em economia)",
+      "evitado referência elitista (Calvino/Ferrante na Cand. B — removido)"
+    ],
+    "decisoes_de_design": [
+      "Headline em 3 linhas com mix bold/italic — 'vai' italic vs 'fica' bold cria contraste visual",
+      "Sub_pill estabelece sazonalidade real (outubro) sem ser factual demais",
+      "Caption começa com hook curto ('Acontece de novo e de novo.') antes de 125 chars — passa no teste IG",
+      "Link PP fica no first_comment, não na caption — guia Inspiração pede 'link sutil', não comercial",
+      "CTA emocional 'Quem da sua vida merece esse prato?' = projeção social (marca alguém)",
+      "First_comment usa autoridade ('fechei 3 cotações essa semana') + palavra-chave 'ITÁLIA' pra DM"
+    ]
+  },
+  "_top_3_candidatos": [
+    {
+      "rank": 1,
+      "id": "C_coliseu_carbonara",
+      "headline_html": "Você <em>vai</em> pelo <strong>Coliseu</strong>.<br>Você <strong>fica</strong><br>pela <em>carbonara</em>.",
+      "gatilho": "Subversão de expectativa + verdade reconhecida",
+      "razao_vitoria": "Maior pegada 'caraca, é verdade'. Conecta diretamente com a foto (carbonara está literalmente na mesa). Não soa elitista nem clichê. CTA emocional concreto ('Quem da sua vida merece esse prato?')."
+    },
+    {
+      "rank": 2,
+      "id": "A_massa_meio_dia",
+      "headline_html": "Massa <strong>meio-dia</strong>.<br>Vinho <em>na sombra</em>.<br>Gelato às <strong>cinco</strong>.<br>A Itália <em>não tem pressa</em>.",
+      "gatilho": "Projeção futura + acúmulo sensorial (lista vívida)",
+      "razao_segundo": "Ritmo de leitura excepcional, lista sensorial concreta. Perdeu pro C porque é mais derivado do viral do @leandroneko (menos autoral) e tem 4 linhas (limite máximo)."
+    },
+    {
+      "rank": 3,
+      "id": "E_aperol_varanda",
+      "headline_html": "Aperol <em>na varanda</em>.<br>Pasta <strong>ao meio-dia</strong>.<br>Pizza <em>de noite</em>.<br>Outubro <strong>não tem pressa</strong>.",
+      "gatilho": "Lista sensorial concreta (contraste rotina vs ritmo lento)",
+      "razao_terceiro": "Forte mas mais próximo do viral original do @leandroneko (3.591 likes). Risco de soar 'cópia adaptada'. Aperol na 'varanda' destoa um pouco da foto interna em trattoria."
+    }
+  ]
+}

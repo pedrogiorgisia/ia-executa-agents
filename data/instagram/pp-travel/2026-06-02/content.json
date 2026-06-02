@@ -1,0 +1,50 @@
+{
+  "data": "2026-06-02",
+  "dia_semana": "terca-feira",
+  "conta": {
+    "phase": "testing",
+    "account_id": "6a1df37a2b2567671a8f620e",
+    "handle_postagem": "@ia.executa",
+    "handle_visivel": "@pptravelinfinite"
+  },
+  "pilar": "inspiracao",
+  "formato": "single_photo",
+  "template": "card-fullbleed-v2",
+  "dimensao": "1080x1350",
+  "tema": "Cusco / Machu Picchu em junho — o unico mes de ceu limpo nos Andes",
+  "destino": "Cusco / Machu Picchu (Peru)",
+  "kicker": "DESTINO DE JUNHO",
+  "headline_html": "Em junho, <i>Machu Picchu</i> amanhece <b>sem uma nuvem</b>.<br>É o <b>único mês</b> que os Andes te deixam ver tudo.",
+  "sub_pill": "A estação seca abre a janela. As milhas abrem o resto.",
+  "photo_prompt": "Professional travel photography of Machu Picchu, Peru, at sunrise during the clear dry winter season (June), captured from the classic elevated viewpoint (the Guardian's House angle, slightly above and looking down across the ruins). The ancient Inca stone citadel sits on its green mountain saddle, with the iconic Huayna Picchu peak rising sharply behind it. Low morning mist drifts slowly through the deep valleys below the ruins, while the sky above is completely clear and cloudless — soft first golden light grazing the stone terraces and the surrounding jagged Andean peaks. Composition: the citadel and Huayna Picchu occupy the lower-right two thirds of the frame, leaving large generous negative space in the upper-left (open clear sky and distant mist-wrapped peaks) for text overlay. Cinematic atmosphere, shallow depth of field, shot on 35mm full-frame. Color palette: warm golden sunrise amber, deep green mountain slopes, soft blue-grey valley mist, clear pale-blue sky. No people facing camera, faces not visible. No text in the image, no logos, no watermark. Editorial travel magazine quality. Aspect ratio: 4:5 portrait (1080x1350).",
+  "photo_prompt_variacoes": [
+    "Variacao A (mais wide / atmosferica): Same Machu Picchu sunrise scene but a wider establishing shot — more sky and distant Andean range visible in the upper-left third, the citadel smaller in the lower-right corner, dense low mist filling the valley like a soft sea of clouds below the ruins. Even larger negative space upper-left. Clear winter sky above the mist. 35mm full-frame, golden first light. 4:5 portrait.",
+    "Variacao B (foco nos terracos / textura): Closer composition on the agricultural stone terraces of Machu Picchu catching warm low-angle sunrise light, Huayna Picchu softly out of focus in the background with thin mist around its base, clear cloudless sky filling the upper-left for text overlay. Shallow depth of field, editorial. No people, no text. 4:5 portrait.",
+    "Variacao C (silhueta de costas p/ escala): Same iconic Machu Picchu sunrise viewpoint, with a single distant traveler standing on the lookout terrace in the lower-right, seen from behind in silhouette (face not visible) gazing toward the citadel, giving human scale. Low valley mist, clear winter sky, large negative space upper-left. 35mm, golden hour. No text, no logos. 4:5 portrait."
+  ],
+  "aspect_ratio": "4:5 portrait (1080x1350)",
+  "caption": "Junho é o mês que os Andes ficam de céu limpo o ano inteiro.\n\nÉ acordar de madrugada, subir a montanha no frio seco e ver Machu Picchu inteira aparecer na neblina — sem chuva, sem nuvem tapando. Quem foi em janeiro sabe a diferença.\n\nA estação seca é a parte que o clima entrega. A passagem, a gente resolve com milhas — pela mesma cia, por bem menos do que você imagina.\n\nMarca aqui aquela pessoa com quem você subiria essa montanha 👇\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #MachuPicchu #Cusco #Peru",
+  "first_comment": "Pequeno detalhe que muda a viagem: na estação seca (junho-agosto) o nascer do sol em Machu Picchu costuma ser de céu aberto — a melhor luz do ano pra foto. 📸\n\nE pra quem tá montando o orçamento: dá pra emitir Cusco via milhas pela mesma companhia, parcelado. Manda 'CUSCO' na DM que a gente monta a cotação sem compromisso.",
+  "hook_source": "ideias_disponiveis:cusco_machu_picchu + sazonal_junho + guia_pilar2_inspiracao",
+  "por_que_funciona": "Escassez sazonal legitima + FOMO de janela climatica — 'unico mes de ceu limpo o ano inteiro' transforma um destino aspiracional numa razao real pra agir agora, nao 'algum dia'. Internacional (ticket alto = milhas brilham mais) e altamente fotogenico pro template full-bleed.",
+  "checklist_pilar_inspiracao": {
+    "gatilho_aspiracional": "OK — 'E acordar de madrugada... ver Machu Picchu inteira aparecer' projeta a pessoa na cena",
+    "tom_emocional_sensorial": "OK — frio seco, neblina, montanha; sensorial, nao manchete",
+    "equilibrio_sonho_realidade": "OK — 'por bem menos do que voce imagina' + milhas + parcelado",
+    "link_sutil_pp": "OK — 'a gente resolve com milhas, mesma cia' (sutil, nao publicidade)",
+    "cta_emocional_social": "OK — 'Marca aqui aquela pessoa com quem voce subiria essa montanha'",
+    "acentos_e_hard_bans": "OK — acentos pt-BR corretos, sem politica/religiao/tragedia/concorrente, headline mistura pesos, sem caixa-alta, sem emoji de aviao inicial"
+  },
+  "dedup_check": {
+    "destino_unico_60d": "Cusco/Machu Picchu/Peru/Andes nao aparece no historico — OK",
+    "lencois_evitado": "sim (bloqueado, postado 2026-06-01)",
+    "italia_gastronomia_evitada": "sim (usado 2x na semana — content.json anterior substituido)",
+    "estrutura_hook_evitada": "nao reusa 'Imagine acordar com essa vista' (06-01) nem 'Voce vai pelo X, fica pelo Y' (06-02)"
+  },
+  "gerado_por": {
+    "copy": "subagent copy-specialist (5 candidatos, 2 ciclos)",
+    "visual": "subagent visual-specialist (4 variacoes, 2 ciclos)",
+    "escolha": "candidato 1 de 5 (Cusco) — vencedor por escassez sazonal verdadeira"
+  },
+  "status": "gerado — NAO postado. Aguardando geracao de midia (post.py) e revisao humana."
+}

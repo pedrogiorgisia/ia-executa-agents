@@ -1,0 +1,46 @@
+{
+  "data": "2026-06-09",
+  "dia_semana": "terca-feira",
+  "conta": {
+    "phase": "testing",
+    "account_id": "6a1df37a2b2567671a8f620e",
+    "handle_postagem": "@ia.executa",
+    "handle_visivel": "@pptravelinfinite"
+  },
+  "pilar": "inspiracao",
+  "formato": "single_photo",
+  "template": "card-fullbleed-v2",
+  "dimensao": "1080x1350",
+  "tema": "Bariloche em junho — a primeira neve dos Andes e o brasileiro que nunca viu neve cair",
+  "destino": "Bariloche (Argentina)",
+  "kicker": "DESTINO DE JUNHO",
+  "headline_html": "Tem brasileiro que chega aos <b>40</b><br>sem nunca ter visto a <i>neve cair</i>.<br>Em junho, <b>Bariloche</b> resolve isso.",
+  "sub_pill": "A montanha abre a temporada. As milhas abrem a passagem.",
+  "photo_prompt": "Professional travel photography of Bariloche, Argentine Patagonia, during early winter (June) as the first snow of the season falls. A cozy alpine wooden cabin with warm glowing windows sits in the lower-right of the frame, its roof and surrounding pine trees dusted with fresh snow. Behind and above it rise the snow-capped Andes mountains around Lake Nahuel Huapi, partly veiled by soft falling snowflakes and gentle low cloud. Soft late-afternoon winter light, snowflakes visible drifting in the air, a faint plume of chimney smoke. Composition: the cabin, pines and lake edge occupy the lower-right two thirds, leaving large generous negative space in the upper-left (open snowy sky and distant peaks) for text overlay. Cinematic, atmospheric, shallow depth of field, shot on 35mm full-frame. Color palette: cool white and soft blue-grey snow, deep green pines, warm amber glow from the cabin windows, muted pastel winter sky. No people facing camera, faces not visible. No text in the image, no logos, no watermark. Editorial travel magazine quality. Aspect ratio: 4:5 portrait (1080x1350).",
+  "photo_prompt_variacoes": [
+    "Variacao A (mais wide / paisagem): Wider establishing shot of Bariloche in early winter — the vast Andes range and Lake Nahuel Huapi under softly falling snow filling most of the frame, a small alpine cabin with warm glowing windows tucked in the lower-right corner for scale. Even larger negative space in the upper-left (snowy sky and distant peaks). 35mm full-frame, soft winter light, snowflakes drifting. No people, no text, no logos. 4:5 portrait (1080x1350).",
+    "Variacao B (close cobertor de neve): Closer composition on snow-laden pine branches and a wooden chalet railing in the foreground catching the first soft snowfall, the blurred snowy Andes and lake softly out of focus behind, clear negative space in the upper-left for text overlay. Shallow depth of field, cozy warm-cool contrast, editorial. No people, no text, no logos. 4:5 portrait (1080x1350).",
+    "Variacao C (silhueta de costas p/ escala): Same Bariloche early-winter scene with a single person seen from behind in silhouette (face not visible) standing on a wooden deck in the lower-right, gazing at the snow falling over the Andes and Lake Nahuel Huapi, giving human scale and emotion. Soft snowfall, warm cabin light, large negative space upper-left. 35mm, atmospheric winter light. No text, no logos. 4:5 portrait (1080x1350)."
+  ],
+  "aspect_ratio": "4:5 portrait (1080x1350)",
+  "caption": "Tem brasileiro que chega aos 40 sem nunca ter visto a neve cair de verdade.\n\nNão a neve da foto na internet — a neve de verdade, caindo devagar, pousando no seu casaco, no silêncio da montanha. Junho é quando Bariloche abre a temporada e os Andes ficam brancos. É perto, é nosso vizinho, e é mais fácil de chegar do que você pensa.\n\nA montanha o inverno entrega. A passagem, a gente resolve com milhas — pela mesma cia, por bem menos do que você imagina.\n\nMarca aqui aquela pessoa com quem você veria a primeira neve 👇\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #Bariloche #Patagonia #Argentina",
+  "first_comment": "Detalhe que muda a viagem: a temporada de neve em Bariloche costuma firmar de junho a agosto — junho pega o começo, com menos gente e a montanha já branca. ❄️\n\nE pra quem já tá montando o orçamento: dá pra emitir Bariloche via milhas pela mesma companhia, parcelado. Manda 'BARILOCHE' na DM que a gente monta a cotação sem compromisso.",
+  "hook_source": "ideias_disponiveis:bariloche_neve + sazonal_junho + guia_pilar2_inspiracao",
+  "por_que_funciona": "Validação de sonho + contraste emocional: 'chega aos 40 sem nunca ter visto a neve cair' nomeia uma falta que muita gente sente e transforma um desejo vago num 'agora ou de novo nunca'. Sazonalidade real (junho abre a temporada) dá razão pra agir já, e o destino é internacional (ticket alto = milhas brilham) e altamente fotogênico pro template full-bleed.",
+  "checklist_pilar_inspiracao": {
+    "gatilho_aspiracional": "OK — 'a neve caindo devagar, pousando no seu casaco' projeta a pessoa na cena",
+    "tom_emocional_sensorial": "OK — silêncio da montanha, neve no casaco; sensorial, nao manchete",
+    "equilibrio_sonho_realidade": "OK — 'e perto, e nosso vizinho' + 'por bem menos do que voce imagina' + milhas + parcelado",
+    "link_sutil_pp": "OK — 'a passagem, a gente resolve com milhas, mesma cia' (sutil, nao publicidade)",
+    "cta_emocional_social": "OK — 'Marca aqui aquela pessoa com quem voce veria a primeira neve'",
+    "acentos_e_hard_bans": "OK — acentos pt-BR corretos, sem politica/religiao/tragedia/concorrente, headline mistura pesos, sem caixa-alta gritada, sem emoji de aviao inicial",
+    "hook_125_chars": "OK — 'Tem brasileiro que chega aos 40 sem nunca ter visto a neve cair de verdade.' cabe antes do 'ver mais'"
+  },
+  "dedup_check": {
+    "destino_unico_60d": "Bariloche/Patagonia/Argentina nao aparece no historico — OK (Cusco/Peru e destino e angulo diferentes)",
+    "ganchos_recentes_evitados": "nao reusa 'Imagine acordar com essa vista' (06-01), 'Voce vai pelo X, fica pelo Y' (06-02), nem a estrutura sazonal-climatica identica do Cusco — aqui o gancho e identidade/validacao de sonho ('nunca viu neve cair'), nao janela climatica de foto",
+    "headline_nao_identica": "OK — nenhuma headline igual no historico",
+    "ideia_disponivel": "bariloche_neve estava em disponiveis.md e nao consta em usadas.md — pronta pra consumo"
+  },
+  "status": "gerado — NAO postado. Aguardando geracao de midia (post.py) e revisao humana."
+}

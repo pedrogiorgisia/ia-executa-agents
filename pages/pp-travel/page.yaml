@@ -1,0 +1,106 @@
+# Config da página PP-Travel
+# Lido pelo motor (scripts/post.py pp-travel) em runtime.
+
+name: pp-travel
+display_name: "PP Travel Infinite"
+handle: "@pptravelinfinite"
+
+# Fase atual do motor — controla pra qual conta ele posta.
+# - testing  → posta no test_account_id (@ia.executa)
+# - production → posta no production_account_id (@pptravelinfinite)
+phase: testing
+
+# Conta de teste (já conectada na Zernio)
+test_account_id: "6a1df37a2b2567671a8f620e"  # @ia.executa
+test_account_handle: "@ia.executa"
+
+# Conta de produção (ainda não conectada na Zernio)
+production_account_id: ""  # preencher depois que conectar @pptravelinfinite na Zernio
+production_account_handle: "@pptravelinfinite"
+
+# Schedule diário (Task Scheduler do Windows usa esse valor)
+schedule:
+  cron: "0 10 * * *"
+  timezone: "America/Sao_Paulo"
+  description: "10h BRT todo dia"
+
+# Modelos de IA usados
+models:
+  text: "claude-code-headless"   # eu (Claude) rodando via CLI -p
+  sourcing: "x-ai/grok-4-fast"   # via OpenRouter, com search_parameters x
+  image: "google/gemini-3.1-flash-image-preview"  # via OpenRouter
+  video: "google/veo-3.1-fast"   # via OpenRouter, max 7s
+  fallback_image: "google/gemini-2.5-flash-image"  # se 3.1 falhar
+
+# Identidade visual
+template_id: "card-fullbleed-v2"  # define em scripts/instagram/templates/
+
+palette:
+  navy: "#0a1a52"
+  navy_dark: "#061238"
+  gold: "#c9a961"
+  gold_pill: "#fcd34d"
+  text: "#ffffff"
+  promo_yellow: "#fcd34d"
+
+typography:
+  display: "Playfair Display"  # PP TRAVEL topo
+  body: "Inter"                # tudo mais
+
+# Hashtags fixas (sempre incluídas)
+hashtags_default:
+  - "#PPTravelInfinite"
+  - "#PassagensAéreas"
+  - "#DicasDeViagem"
+  - "#ViajarÉPreciso"
+  - "#DestinoCerto"
+  - "#MilhasComSegurança"
+
+# Mix-meta semanal de formato (motor tenta seguir, não trava)
+format_target:
+  single_photo: 0.50      # 50% dos posts
+  carousel_educational: 0.20
+  carousel_storytelling: 0.10
+  reel: 0.15
+  story: 0.05
+
+# Mix-meta mensal de pilar (auditado dia 30 do mês)
+pilar_target:
+  educacao: 0.35
+  inspiracao: 0.25
+  engajamento: 0.15
+  prova_social: 0.15
+  conversao: 0.10
+
+# Dias da semana → pilar padrão (rotação base, com overrides em pilares.md)
+weekly_rotation:
+  monday: "educacao"
+  tuesday: "inspiracao"
+  wednesday: "engajamento"
+  thursday: "prova_social"
+  friday: "conversao"
+  saturday: "inspiracao"
+  sunday: "engajamento"
+
+# Limites/guardrails
+limits:
+  max_hashtags: 30          # IG limit
+  caption_hook_chars: 125   # primeiros 125 visíveis antes do "...ver mais"
+  max_post_per_day: 1       # NÃO inundar feed
+  dedup_window_days: 60     # histórico que motor lê pra evitar repetir
+
+# Custo por execução (telemetria — apenas estimativa)
+cost_estimate_brl:
+  sourcing: 0.30     # 7 Grok queries
+  text: 0.00         # Claude headless (subscription)
+  image: 0.002       # Gemini Image
+  video_if_reel: 0.80
+  posting: 0.00      # Zernio free
+  total_day_avg: 0.40
+
+# Review/aprovação: HTML estático (gerado por scripts/preview.py)
+# Pedro NÃO usa Telegram — revisa via preview.html
+review:
+  output_html: "data/instagram/pp-travel/YYYY-MM-DD/preview.html"
+  dashboard_html: "data/instagram/pp-travel/_dashboard.html"
+  auto_open_after_post: false   # NÃO abrir automatico (Pedro decide quando abrir)

@@ -1,0 +1,106 @@
+{
+  "pilar": "inspiracao_reflexiva",
+  "formato": "reel_reflexivo",
+  "tema": "Parar de sonhar e partir - frase reflexiva (Amyr Klink) casando com descida noturna",
+  "frase_completa": "Um dia é preciso parar de sonhar e, de algum modo, partir.",
+  "frase_autor": "Amyr Klink, em 'Cem Dias entre Céu e Mar'",
+  "linhas_frase": [
+    "Um dia é preciso",
+    "parar de sonhar.",
+    "E, de algum modo,",
+    "partir."
+  ],
+  "video_prompt": "A 6-second cinematic vertical 9:16 video. View from an airplane window during descent over a large city at night. Below, twinkling city lights spread out like stars on the ground, with rivers reflecting moonlight. The window frame is visible at the edges, slightly fogged with subtle reflections of the dim cabin interior. Camera: very subtle gentle descent, smooth, no jumps or cuts. Lighting: deep dark blue night sky outside, warm amber and yellow city lights below, soft purple-pink gradient on the horizon line. Mood: contemplative, romantic, 'the journey is the destination'. Color palette: deep blacks, warm amber city lights, cool purple-blue horizon. No on-screen text. No people visible. Editorial cinema quality. 1080x1920, 30fps.",
+  "video_duration": 6,
+  "caption": "Quem escreveu isso atravessou o Atlântico sozinho num barco a remo. Sabia do que tava falando.\n\nQual destino tá há tempo demais na sua lista?\n\n#PPTravelInfinite #PassagensAéreas #ViajarÉPreciso #DestinoCerto #MilhasComSegurança",
+  "first_comment": "O barco a remo do Klink levou 100 dias. A sua próxima viagem leva 2h de cotação com a gente — milhas, datas, escala, bagagem, tudo certinho no e-mail antes de pagar. Já fechamos 1.247 famílias em 2025.\n\nManda DM 'PARTIR' com o destino que tá te chamando.",
+  "hook_source": "banco_frases_reflexivas:reflexivas-disponiveis.md#4 (Amyr Klink — Cem Dias entre Céu e Mar)",
+  "_audit_log": {
+    "fontes_pesquisadas": [
+      "pages/pp-travel/voice.md",
+      "pages/pp-travel/guia-objetivos.md (Pilar 2 Inspiração)",
+      "pages/pp-travel/banco-frases/reflexivas-disponiveis.md",
+      "pages/pp-travel/banco-frases/reflexivas-usadas.md",
+      "pages/pp-travel/historico.md (últimos 60d)",
+      "pages/pp-travel/ideias/usadas.md"
+    ],
+    "frase_origem": "Amyr Klink, livro 'Cem Dias entre Céu e Mar' (1985). Frase #4 do banco curado. Patrimônio cultural brasileiro com autoridade emocional embutida.",
+    "skills_invocadas": [
+      "marketing-skills:copywriting (geração de 5 candidatos)",
+      "marketing-skills:copy-editing (polimento sweeps Clarity + Voice/Tone + Specificity no vencedor)"
+    ],
+    "candidatos_avaliados": 5,
+    "iteracoes": 2,
+    "gatilho_principal": "Imperativo emocional (Klink) + tensão poética 'partir' vs cena visual de 'descer/chegar' (leitura dupla que gera save)",
+    "checklist_passed_at": "2026-06-02T22:00:00-03:00",
+    "decisao_humana_necessaria": true,
+    "motivo_decisao_humana": "Empate técnico (41/50 cada) entre Klink e @EudaisioSilva nos critérios match cena/originalidade/tensão. Vencedor por preferência do agente (Klink) pela ironia 'partir vs descer'. Pedro deve confirmar ou trocar pelo C.",
+    "anti_patterns_evitados": [
+      "'A gente acumula objeto. Devia acumular janela de avião.' (v1 reprovada pelo Pedro)",
+      "'Sonhe alto' / 'Acredite' (clichês vazios do voice.md)",
+      "'Tem viagem que muda... ainda dá' (dá suspenso, reprovada)",
+      "Caption começando 'Olha que legal' (soa publicidade)"
+    ],
+    "frase_a_mover_pra_usadas": {
+      "numero_no_banco": 4,
+      "frase": "Um dia é preciso parar de sonhar e, de algum modo, partir.",
+      "executar_movimento_quando": "Pedro aprovar o content-v3.json e o post for publicado. Por ora, MARCAR aqui apenas — não mover."
+    }
+  },
+  "_top_3_candidatos": [
+    {
+      "rank": 1,
+      "tag": "VENCEDOR (preferência do agente)",
+      "fonte": "Amyr Klink (banco #4)",
+      "frase_completa": "Um dia é preciso parar de sonhar e, de algum modo, partir.",
+      "linhas_frase": [
+        "Um dia é preciso",
+        "parar de sonhar.",
+        "E, de algum modo,",
+        "partir."
+      ],
+      "caption": "Quem escreveu isso atravessou o Atlântico sozinho num barco a remo. Sabia do que tava falando.\n\nQual destino tá há tempo demais na sua lista?\n\n#PPTravelInfinite #PassagensAéreas #ViajarÉPreciso #DestinoCerto #MilhasComSegurança",
+      "first_comment": "O barco a remo do Klink levou 100 dias. A sua próxima viagem leva 2h de cotação com a gente — milhas, datas, escala, bagagem, tudo certinho no e-mail antes de pagar. Já fechamos 1.247 famílias em 2025.\n\nManda DM 'PARTIR' com o destino que tá te chamando.",
+      "gatilho": "Imperativo emocional + autoridade brasileira + tensão 'partir vs descer' com a cena",
+      "score": "41/50",
+      "ponto_forte": "A cena mostra DESCER/CHEGAR e a frase fala em PARTIR — cria leitura dupla poética que gera save. Klink é figura culturalmente forte no Brasil (autoridade não-religiosa, não-política).",
+      "ponto_fraco": "Frase clássica, alguns seguidores podem já conhecer."
+    },
+    {
+      "rank": 2,
+      "tag": "FINALISTA EMPATE (UGC vibe)",
+      "fonte": "@EudaisioSilva tweet 6.382 likes (banco #11)",
+      "frase_completa": "Voltar de uma viagem incrível e perceber que agora é apenas uma lembrança.",
+      "linhas_frase": [
+        "Toda viagem acaba.",
+        "Vira lembrança.",
+        "E a lembrança",
+        "fica pra vida."
+      ],
+      "caption": "Tweet do @EudaisioSilva, 6 mil curtidas. A gente entende — desce do avião e a viagem já vira passado.\n\nQual viagem você ainda revisita na cabeça?\n\n#PPTravelInfinite #PassagensAéreas #ViajarÉPreciso #DestinoCerto #DicasDeViagem",
+      "first_comment": "Tem cliente que volta da viagem e já marca a próxima na semana — a gente fica feliz porque sabe que isso significa que entregou a experiência certa. Se você tá nesse momento de 'já quero a próxima', manda DM 'PRÓXIMA'.",
+      "gatilho": "Melancolia universal (tudo passa) + esperança implícita (a lembrança fica)",
+      "score": "41/50",
+      "ponto_forte": "UGC vibe (cita autor anônimo do X com crédito = parece menos institucional). Frase fresca, baixa chance de já-vi-isso. Casa direto com 'descer do avião'.",
+      "ponto_fraco": "Menos peso autoral que o Klink. Vira mais 'post de feed' que 'frase pra salvar'."
+    },
+    {
+      "rank": 3,
+      "tag": "TERCEIRO LUGAR (literal match)",
+      "fonte": "Henry Miller (banco #15, paráfrase popular)",
+      "frase_completa": "O destino não é nunca um lugar, mas uma nova maneira de ver as coisas.",
+      "linhas_frase": [
+        "Destino",
+        "não é lugar.",
+        "É outra",
+        "forma de ver."
+      ],
+      "caption": "Quando o avião começa a descer numa cidade que você não conhece, o que muda não é o mapa. É você.\n\nQual lugar mudou seu jeito de ver as coisas?\n\n#PPTravelInfinite #PassagensAéreas #ViajarÉPreciso #DestinoCerto #DicasDeViagem",
+      "first_comment": "Frase de Henry Miller, mas a gente vê isso toda semana — cliente volta e fala 'não sou mais o mesmo'. Se quiser planejar a próxima, manda DM 'DESTINO'.",
+      "gatilho": "Reframing do conceito de destino + perspectiva aérea ('ver de cima')",
+      "score": "38/50",
+      "ponto_forte": "Match literal com a cena: caption fala 'avião começa a descer'. Reframing forte do conceito 'destino' (palavra-chave da marca).",
+      "ponto_fraco": "Caption explica demais a metáfora. Tensão menor que Klink/Eudaisio."
+    }
+  ]
+}

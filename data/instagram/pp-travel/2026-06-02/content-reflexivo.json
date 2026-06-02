@@ -1,0 +1,60 @@
+{
+  "brand": "ia-executa",
+  "data": "2026-06-02",
+  "pilar": "inspiracao_reflexiva",
+  "subtopico": "Filosofia de viagem",
+  "formato": "reel",
+  "duracao_video_s": 8,
+  "conta_instagram": "@ia.executa",
+
+  "frase_ancora": "Não viajamos pra escapar da vida, mas pra que a vida não nos escape.",
+  "frase_fonte": "Anônimo popular — gatilho: quiasmo (X-Y / Y-X) + inversão da narrativa de escape. Viraliza sazonalmente em pt-BR.",
+  "frase_banco_id": 5,
+
+  "copy": {
+    "headline_html": "Você foge...<br>ou você <strong>chega?</strong>",
+    "sub_pill": "Filosofia de viagem",
+    "linhas_frase": [
+      "Não viajamos",
+      "pra escapar da vida.",
+      "Mas pra que",
+      "a vida não nos escape."
+    ],
+    "caption": "Você lembra de alguma viagem que mudou alguma coisa em você?\n\nNão o destino. O estado de espírito que você trouxe de volta.\n\nA vida não avisa quando passa. Às vezes, a gente precisa ir pra poder ver.\n\nCom quem você faria isso de novo?\n\n#FilosofiaDeViagem #ViagemQueTransforma #ReflexaoDeSabado",
+    "first_comment": "A gente existe pra ajudar essa viagem a acontecer. Manda DM 'QUERO VIAJAR' e a gente começa a planejar junto.\n\n#PPTravelInfinite #PassagensAéreas #DicasDeViagem #ViajarÉPreciso #DestinoCerto #MilhasComSegurança #ViagemComProposito #FilosofiaDaViagem"
+  },
+
+  "visual": {
+    "video_prompt": "A 8-second cinematic vertical 9:16 video. A lone figure seen from behind — a woman in a loose linen blouse, hair loose — sits cross-legged on a wide stone ledge at the edge of a mountain overlook. Below her, a vast valley fills the frame: layered ridges fading into morning haze, a winding river catching the first light. Camera: an extremely slow zoom-out, starting tight on the figure against the landscape and gently pulling back over 8 seconds to reveal the immensity of the valley — the person grows smaller as the world grows larger. Movement is so slow it is almost imperceptible in the first two seconds, creating an impression of stillness before the scale shift registers. Lighting: the transition between the last of blue hour and the very first blush of golden hour — the ridge behind her glows amber while the valley below remains in deep cool blue, creating a warm-to-cool gradient that reads instantly as extraordinary. Mood: contemplative, present, unhurried — the feeling of being completely awake in a place that demands nothing. Color palette: deep slate blue in the valley, warm amber and rose gold on the ridge line, the figure a soft silhouette in warm linen tones. Large negative space in the center and lower-center of the frame for text overlay — the figure occupies the bottom third, the open sky and ridge the upper two-thirds. No on-screen text. Face not visible at any point. No other people. No logos. Editorial cinema quality, 35mm lens, shallow depth of field on the distant landscape. 1080x1920, 30fps.",
+    "conceito": "Figura solitária num mirante de montanha ao amanhecer, com zoom-out lentíssimo que revela a magnitude do mundo ao redor — a escala crescente cria o hook visual nos primeiros 2s e ancora a frase sobre presença total na vida.",
+    "alternativas": [
+      "A 8-second cinematic vertical 9:16 video. An open stone balcony or terrace at the edge of a cliffside village — no furniture, just raw stone — overlooking a deep Mediterranean bay at blue hour. Thin wisps of morning mist drift slowly across the water far below. At the left edge of the lower third, a woman stands with her back to the camera, both hands resting on the stone parapet, completely still. Opening frame: a single shaft of pale golden light breaks through a gap in the cloud bank on the horizon, hitting the water surface and creating a shimmer — this is the pattern interrupt that hooks the viewer in the first 1.5 seconds. Camera: a barely-perceptible slow push-in toward the horizon over 8 seconds, keeping the figure small and the landscape vast. Lighting: deep blue hour transitioning to first light, cool shadows on the stone, one warm beam across the water. Mood: intimate, reverent, suspended in time — the feeling of witnessing something that will not last. Color palette: slate blue stone, deep navy water, one streak of gold on the water, pale sky at the horizon. Center and lower-center of the frame clear for text overlay — figure and parapet occupy bottom-left third. No on-screen text. Face not visible. No other people. No logos. Cinematic editorial quality. 1080x1920, 30fps.",
+      "A 8-second cinematic vertical 9:16 video. A perfectly still lagoon or tidal flat at first light — the water is a mirror, reflecting the pale lavender and rose of the predawn sky above. The horizon line bisects the frame exactly at the center, creating a symmetrical composition of sky and its reflection. A solitary silhouetted figure stands in the shallow water in the lower-left third of the frame, facing the horizon, completely motionless — seen from behind, no features discernible. Camera: an almost imperceptible slow dolly forward, so gentle the water surface does not ripple, sustaining the mirror effect throughout all 8 seconds. The stillness IS the hook — the symmetry of the reflection creates an immediate visual intrigue that reads in the first 1-2 seconds as something extraordinary and rare. Lighting: predawn, the sky moving through pale rose to soft amber at the horizon line; the water below mirrors it exactly. Mood: meditative, timeless, suspended — the feeling that the world has paused and you are fully inside it. Color palette: rose and lavender sky, mirror-still pewter and amber water, deep silhouette. The center of the frame — the horizon line and reflection — is entirely open for text overlay. No on-screen text. Face not visible, figure is pure silhouette. No other people. No logos. Editorial cinema quality, anamorphic lens feel, subtle film grain. 1080x1920, 30fps."
+    ]
+  },
+
+  "status": "content_ready",
+  "proximos_passos": [
+    "1. Pedro revisa e aprova este content-reflexivo.json",
+    "2. Executar: python scripts/post.py --content content-reflexivo.json (gera vídeo Veo + overlay ffmpeg + preview.html)",
+    "3. Pedro abre preview.html e confirma",
+    "4. Executar: python scripts/post.py --content content-reflexivo.json --publish",
+    "5. Motor move frase #5 de reflexivas-disponiveis.md → reflexivas-usadas.md",
+    "6. Motor registra em historico.md"
+  ],
+
+  "_audit": {
+    "copy_iteracoes": 2,
+    "visual_iteracoes": 2,
+    "dedup_frase": "Frase #5 disponível — reflexivas-usadas.md vazio em 2026-06",
+    "dedup_historico": "Nenhum reel reflexivo com tema filosofia de viagem no historico.md",
+    "hard_bans_verificados": true,
+    "lgpd_verificado": true,
+    "cenas_evitadas": [
+      "janela de avião (usado recentemente no historico)",
+      "fjord com pessoa (usado recentemente no historico)"
+    ],
+    "checklist_pilar_passed": true,
+    "acao_banco_frases_pendente": "MOVER frase #5 de reflexivas-disponiveis.md → reflexivas-usadas.md APÓS publicação confirmada"
+  }
+}
