@@ -28,6 +28,10 @@ ROOT = Path(__file__).parent.parent
 LEDGER = ROOT / "data" / "_gastos" / "openrouter.csv"
 USD_TO_BRL = 6.0  # cotacao aprox
 
+# Custos acumulados nesta execução (em memória). A plataforma (worker) drena isto
+# após cada geração pra registrar no banco com job_id/brand_id. NÃO substitui o CSV.
+SESSION_COSTS: list[dict] = []
+
 HEADERS = [
     "timestamp",
     "script",
@@ -71,6 +75,17 @@ def register_cost(
         if new_file:
             writer.writeheader()
         writer.writerow(row)
+
+    # acumula pra plataforma drenar
+    SESSION_COSTS.append({
+        "script": script,
+        "model": model,
+        "purpose": purpose,
+        "tokens_in": tokens_in,
+        "tokens_out": tokens_out,
+        "cost_usd": round(cost_usd, 6),
+        "cost_brl": round(cost_usd * USD_TO_BRL, 4),
+    })
 
 
 def summary(month: str | None = None) -> dict:

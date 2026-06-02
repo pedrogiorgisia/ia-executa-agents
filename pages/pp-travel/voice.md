@@ -182,6 +182,28 @@ Essas frases têm peso emocional + diferenciação. Bons fechos pra carrosséis.
 
 ---
 
+## 🎨 Paleta de marca (OBRIGATÓRIA em toda peça visual)
+
+Fonte: `Logo Color Guide` (logo brand guide PP Travel). **Todo post/arte deve usar
+SOMENTE estas cores** — nada de azul genérico, amarelo neon ou cores fora da paleta.
+
+| Uso | Cor | Hex |
+|---|---|---|
+| Fundo principal | Navy quase-preto | `#01051C` |
+| Fundo/bloco secundário | Navy | `#101957` |
+| Borda/detalhe azul | Azul | `#222D7D` |
+| **Dourado da marca** (wordmark, realce) | Dourado | `#B0936A` |
+| Realce forte / creme | Creme dourado | `#FFCB7C` |
+| Detalhe quente | Âmbar | `#C47D11` |
+| Secundárias (usar com parcimônia) | Coral / vinho | `#F96567` · `#6B0B0C` |
+| Texto sobre navy | Branco | `#FFFFFF` |
+
+**Tipografia da marca:** wordmark "PP TRAVEL" e "INFINITE" em serifada
+(**Vidaloka** / **Viaoda Libre**, dourado `#B0936A`). Corpo/labels podem usar
+sans (Montserrat). Sempre contraste alto (texto claro sobre navy escuro).
+
+---
+
 ## ✅ Fatos da agência (verdade — não inventar fora disto)
 
 - **Só passagens aéreas.** A PP NÃO vende: pacote, seguro-viagem, hospedagem,
