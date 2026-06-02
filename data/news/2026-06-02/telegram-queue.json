@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-02",
+  "items": [
+    {
+      "titulo": "Pequenos negócios já cortam 60-80% do tempo de tarefa chata com IA",
+      "aconteceu": "A MIT Tech Review juntou casos reais de PMEs usando IA no dia a dia — um professor particular que organiza anotações e gera posts, uma loja de artesanato que cortou de 60% a 80% o tempo de catalogar produtos.",
+      "significa": "Não é promessa futurista. Se você toca um negócio pequeno e perde horas catalogando, escrevendo descrição de produto ou resumindo reunião, dá pra recuperar esse tempo essa semana, sem time técnico.",
+      "fonte": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "GitHub Copilot trocou a mensalidade fixa por \"cobrança por uso\" — e a conta pode disparar",
+      "aconteceu": "O GitHub Copilot (assistente de IA pra programadores) acabou com o plano mensal fixo e passou a cobrar por requisição. Um único pedido complexo consumiu 16% da cota mensal de um usuário.",
+      "significa": "Se você tem time de desenvolvimento usando Copilot, a previsibilidade de custo acabou — a conta pode dobrar sem ninguém mudar de hábito. Vale revisar agora e comparar com alternativas (Cursor, Claude Code) antes do próximo ciclo.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O chatbot de suporte do Instagram foi enganado pra entregar conta dos outros",
+      "aconteceu": "Um pesquisador de segurança mostrou que o chatbot de atendimento do Meta (Instagram/WhatsApp) podia ser manipulado pra revelar dados de contas alheias e até ajudar a sequestrar perfis. Virou o post mais comentado do Hacker News (1.805 pontos).",
+      "significa": "Aquele \"robozinho\" de atendimento que parece inofensivo é uma porta nova de ataque. Se você botou IA pra falar com cliente sem teste de segurança sério, está exposto.",
+      "fonte": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic (dona do Claude) entrou com pedido pra abrir capital na bolsa",
+      "aconteceu": "A Anthropic protocolou o pedido confidencial de IPO no regulador americano. A empresa já é avaliada em mais de US$ 965 bilhões.",
+      "significa": "Quem usa Claude em produção deve ficar de olho: historicamente, abertura de capital vem acompanhada de reajuste de preço de API pra sustentar o crescimento prometido. Bom momento pra revisar contrato e orçamento de IA.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Google lançou um \"faz-tudo\" de IA que roda tarefa sozinho sem você montar nada",
+      "aconteceu": "O Google passou a oferecer agentes de IA que, com uma única chamada de API, executam código, mexem em arquivos e resolvem tarefas num ambiente isolado e seguro — sem a empresa precisar construir infraestrutura própria.",
+      "significa": "Dá pra delegar tarefa operacional repetitiva (processar planilha de despesa, categorizar gasto, gerar relatório) sem ter engenheiro de infra no time. A barreira técnica pra automatizar caiu.",
+      "fonte": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "NVIDIA soltou ferramenta pra banco caçar fraude com IA usando os próprios dados",
+      "aconteceu": "A NVIDIA lançou ferramentas que deixam bancos e fintechs montar um único modelo de IA treinado com seus dados de transação, em vez de vários sistemas isolados olhando cada pedaço.",
+      "significa": "O que antes levava semanas pra configurar passa a rodar em horas, analisando horário, dispositivo e histórico do cliente de uma vez — pegando fraude com mais precisão e em tempo real.",
+      "fonte": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Google levantou US$ 80 bilhões pra construir mais IA — e até o Warren Buffett entrou",
+      "aconteceu": "A Alphabet (dona do Google) captou US$ 80 bilhões pra expandir infraestrutura de IA, incluindo US$ 10 bilhões da Berkshire Hathaway — a primeira vez que o Warren Buffett investe na empresa.",
+      "significa": "A corrida de IA virou uma corrida de capital que só os gigantes financiam. Quem depende do Google Cloud pode ver fila/limite de capacidade no curto prazo; e a dependência de poucos fornecedores de infra tende a crescer.",
+      "fonte": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O estado da Flórida processou a OpenAI por risco de segurança",
+      "aconteceu": "A Flórida abriu processo judicial contra a OpenAI e o Sam Altman, alegando que a empresa lançou produtos de IA sem salvaguardas adequadas. É o primeiro processo de um estado americano contra uma grande empresa de IA por negligência.",
+      "significa": "Abre precedente legal que pode se espalhar pra outros estados e países. Se sua empresa usa ou desenvolve IA em produto, o risco de compliance acabou de ficar mais concreto.",
+      "fonte": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Usar uma IA pra fiscalizar outra IA é mais furado do que parece",
+      "aconteceu": "Pesquisadores mostraram que pôr uma IA pra revisar o comportamento de outra é arriscado: os erros que máquina comete não se parecem com os que humano comete, então passam batido sem ninguém perceber.",
+      "significa": "Se você pensou em cortar custo de revisão humana botando \"IA pra auditar IA\", cuidado — em processo crítico (crédito, compliance, saúde) isso pode deixar falha grave passar. Revisão humana ainda é inegociável.",
+      "fonte": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"O mercado aguenta esses IPOs gigantes de IA?\" — pergunta a The Economist",
+      "aconteceu": "A The Economist questionou se a bolsa tem fôlego pra absorver as aberturas de capital de Anthropic, SpaceX e OpenAI, avaliadas em centenas de bilhões — ou se os valores estão inflados demais.",
+      "significa": "Sinal de que o ceticismo financeiro com o hype de IA está crescendo, e investidor institucional começa a cobrar resultado concreto, não promessa. Pesa em decisão de investimento ou parceria baseada em valuation de IA.",
+      "fonte": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "NVIDIA lançou um PC que roda IA \"trancada\" no escritório, sem internet",
+      "aconteceu": "A NVIDIA anunciou o RTX Spark, um computador compacto feito pra rodar agentes de IA 100% offline — nenhum dado sai da máquina pra nuvem.",
+      "significa": "Resolve o velho dilema \"privacidade x IA\". Um escritório de advocacia, clínica ou área financeira pode usar IA em documento sigiloso sem mandar nada pra ChatGPT/Claude na nuvem.",
+      "fonte": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Hardware",
+        "#Agentes",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora avisa antes de mexer em arquivo crítico do seu PC",
+      "aconteceu": "Nova versão do Claude Code (v2.1.160): a ferramenta passou a pedir confirmação antes de alterar arquivos de sistema/configuração, corrigiu o copiar-colar no Windows e deixou as sessões em segundo plano mais estáveis.",
+      "significa": "Mais rede de segurança — a IA não mexe sozinha em arquivo importante do seu computador sem te perguntar antes.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.160",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
