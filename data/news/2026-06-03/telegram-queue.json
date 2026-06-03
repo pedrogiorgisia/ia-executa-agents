@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-03",
+  "items": [
+    {
+      "titulo": "A Uber liberou IA \"à vontade\" e estourou o orçamento do ano inteiro em 4 meses",
+      "aconteceu": "A Uber incentivou os funcionários a usar IA o máximo possível — e o budget anual acabou em 4 meses. Agora impôs teto de US$ 1.500/mês por pessoa nas ferramentas (Claude Code, Cursor) e ainda não viu o retorno em produtividade.",
+      "significa": "Se você liberou ChatGPT/Claude pro time sem teto nem acompanhamento, o custo pode multiplicar calado. Antes de ampliar, defina limite por pessoa/equipe e olhe a fatura toda semana no primeiro mês.",
+      "fonte": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Google passou a bloquear ligações com voz falsa feita por IA",
+      "aconteceu": "O Google lançou detecção automática de chamadas em que a IA clona a voz de um chefe, parente ou autoridade pra aplicar golpe — e barra a ligação antes de você atender.",
+      "significa": "O golpe do \"áudio do chefe pedindo transferência urgente\" agora é trivial de fabricar. Avise quem aprova pagamento por telefone na sua empresa: voz batendo não é mais prova de identidade.",
+      "fonte": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Codex (IA da OpenAI) deixou de ser só pra programador",
+      "aconteceu": "A OpenAI abriu o Codex — agente que executa tarefas no computador sozinho — pra funções não-técnicas: analista, marketing, design, finanças. Hoje 1 em cada 5 usuários já não é programador.",
+      "significa": "Dá pra pedir \"extrai os números desse PDF, monta o gráfico e escreve o resumo\" sem abrir ticket pra TI. Economiza 2-3h por relatório repetitivo.",
+      "fonte": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma seguradora grande botou IA pra abrir sinistro 24h por dia",
+      "aconteceu": "A Travelers (seguradora dos EUA) colocou em produção nacional um assistente de IA que guia o cliente na abertura de sinistro a qualquer hora — faz as perguntas, coleta fotos e documenta tudo.",
+      "significa": "É o modelo replicável pra qualquer negócio com atendimento repetitivo: o assistente absorve o pico (tempestade, Black Friday) sem você contratar mais gente. Não precisa ser seguradora.",
+      "fonte": "https://openai.com/index/travelers",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Pesquisa com 19 mil pessoas: 61% já usam IA pra apoio emocional",
+      "aconteceu": "Estudo da seguradora AXA em 18 países mostrou que 61% das pessoas já recorrem à IA pra saúde mental. Mais grave: 38% confiam mais na IA do que num profissional, e 28% disseram ter seguido conselho da IA que causou dano.",
+      "significa": "Se sua empresa oferece chatbot em contexto sensível (RH, benefícios, saúde), isso virou risco real e tema de regulação. As pessoas já tratam a IA como conselheira — com consequências.",
+      "fonte": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Microsoft lançou modelos de IA próprios — e promete não usar seus dados pra treinar",
+      "aconteceu": "No Build, a Microsoft apresentou 7 modelos próprios (família MAI). O MAI-Thinking-1 acerta 97% de problemas de olimpíada de matemática e escreve código profissional. A empresa garante que nada que você manda é usado pra treinar outros modelos.",
+      "significa": "Empresa de setor regulado (banco, saúde, jurídico) que travava IA por medo de vazar dado sensível agora tem uma opção que promete confidencialidade. Pode afinar o modelo com dado interno sem mandar pra OpenAI ou Google.",
+      "fonte": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Estudo de Stanford: IA dá resposta melhor que professor de direito",
+      "aconteceu": "Em avaliação cega com ~3.000 comparações, professores de direito preferiram as respostas da IA às de colegas humanos em 75% dos casos — e acharam a IA prejudicial só 3,5% das vezes (contra 12% nas humanas).",
+      "significa": "A conversa saiu de \"IA ajuda em tarefa chata\" pra \"IA compete com especialista caro\". Se você paga consultoria jurídica, contábil ou técnica por hora, vale repensar o que ainda precisa de gente.",
+      "fonte": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Documento interno: a Microsoft quer deixar você \"viciado\" na IA dela",
+      "aconteceu": "Documentos internos vazados mostram a Microsoft planejando, com essas palavras, \"tornar as pessoas viciadas\" no novo assistente de IA Scout — num plano de estratégia de três fases.",
+      "significa": "As grandes estão desenhando dependência de propósito. Vale olhar com olho crítico pro quanto seu time depende de uma única ferramenta — e ter plano B antes que o preço ou as regras mudem.",
+      "fonte": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Hospital cortou revisão de seguro de 45 minutos pra 5 com agente de IA",
+      "aconteceu": "Um hospital de Nova York automatizou agendamento e revisão de seguros com IA: o tempo por processo caiu de 45 para 5 minutos e a taxa de aprovação subiu de 65% para 100%.",
+      "significa": "Onde tem gargalo administrativo repetitivo — RH, jurídico, financeiro, atendimento — esse mesmo padrão se aplica. O agente faz triagem e processa; a pessoa só cuida da exceção.",
+      "fonte": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic lançou uma ferramenta que caça falha de segurança no seu código",
+      "aconteceu": "A Anthropic (dona do Claude) lançou o Claude Security: ele lê o código-fonte do seu software e sugere correção de vulnerabilidades automaticamente, sem precisar de consultoria de auditoria.",
+      "significa": "Se sua empresa desenvolve software, dá pra reduzir risco de brecha de segurança sem contratar um time especializado caro. É a versão \"produto\" do que a Cisco fez no item acima.",
+      "fonte": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude já está rodando em infraestrutura crítica de 15 países",
+      "aconteceu": "A Anthropic anunciou que o Claude está sendo usado em infraestrutura crítica (energia, saúde, logística) em 15 países.",
+      "significa": "A IA deixou de ser \"ferramenta de produtividade\" e virou peça de sistema essencial. Quem opera em setor regulado precisa pensar onde é seguro (e onde não é) colocar IA em processo crítico.",
+      "fonte": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Microsoft mostrou o \"Project Solara\": a IA trabalha enquanto você dorme",
+      "aconteceu": "A Microsoft apresentou o Project Solara, onde seus aparelhos (celular, relógio, óculos) viram só uma \"telinha\" e o trabalho pesado fica com agentes de IA na nuvem, que executam tarefas em segundo plano e entregam o resultado depois.",
+      "significa": "O modelo muda: em vez de esperar a IA responder na hora, você delega a tarefa e recebe pronta mais tarde. Empresas com muitos aparelhos (fábrica, hospital) podem orquestrar tarefa sem trocar hardware.",
+      "fonte": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Saúde",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "A Anthropic publicou como é tocar uma empresa \"nativa em IA\"",
+      "aconteceu": "A própria Anthropic escreveu como reorganizou o time de engenharia pra usar IA em todo o fluxo de trabalho — não como ferramenta solta, mas como parte da estrutura da empresa.",
+      "significa": "É um manual real de quem já vive a transformação. Serve de referência pra quem quer ir além de \"usar IA\" e repensar como o time inteiro trabalha.",
+      "fonte": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O GitHub está apanhando: agentes de IA geram 14x mais código que antes",
+      "aconteceu": "O GitHub (onde o mundo guarda código) está recebendo 14x mais envios de código por causa de agentes de IA — e isso derrubou a estabilidade do serviço (disponibilidade abaixo de 90% em alguns momentos).",
+      "significa": "Se seu time adotou agente de código sem revisar a capacidade da esteira de testes/deploy, pode ter atraso e falha. Volume de IA exige replanejar infraestrutura, não só comprar a ferramenta.",
+      "fonte": "https://www.latent.space/p/github",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
