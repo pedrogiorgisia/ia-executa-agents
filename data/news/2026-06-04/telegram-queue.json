@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-04",
+  "items": [
+    {
+      "titulo": "Agora dá pra colocar um atendente de IA dentro do WhatsApp da sua empresa",
+      "aconteceu": "A Meta liberou globalmente um agente de IA pro WhatsApp Business. Ele responde cliente sozinho, 24h, e você paga por uso (por mensagem/volume), sem mensalidade fixa.",
+      "significa": "Se você tem uma loja ou serviço que vive de WhatsApp, dá pra responder dúvida de estoque, status de pedido e reclamação automaticamente — sem contratar mais gente pro atendimento. O custo sobe e desce com o movimento.",
+      "fonte": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic lançou o \"Cowork\": o Claude trabalhando direto nas pastas do seu PC",
+      "aconteceu": "A Anthropic lançou o Cowork, um Claude de desktop que acessa pastas do seu computador pra organizar arquivos, montar planilhas e escrever relatórios — tudo por comando em texto, sem programar.",
+      "significa": "Aquela pilha de 50 fotos de nota fiscal vira uma planilha com valor, data e fornecedor sozinha. Tarefa chata de organizar documento e consolidar dado deixa de tomar a sua tarde.",
+      "fonte": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A própria Anthropic admitiu: gente aprova 93% das ações da IA sem ler",
+      "aconteceu": "Em um documento técnico sobre como controla seus agentes, a Anthropic revelou que, quando a IA pede aprovação pra agir, as pessoas clicam \"aprovar\" em 93% das vezes — sem revisar de verdade.",
+      "significa": "Se a sua empresa está colocando agente de IA pra rodar \"com um humano revisando no final\", saiba que esse humano provavelmente está só clicando. A sensação de segurança é falsa — precisa de regra de verdade, não de um botão de OK.",
+      "fonte": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Reprovação dispara em Berkeley — e os professores apontam o uso de IA",
+      "aconteceu": "Professores da UC Berkeley relatam aumento de reprovações e queda no domínio de matemática básica, ligados ao uso de IA pra fazer o trabalho em vez de aprender o conteúdo.",
+      "significa": "A galera que vai chegar pra trabalhar nos próximos anos pode ter buracos de competência escondidos — a IA mascarou na faculdade. Vale repensar como você avalia e treina recém-formado.",
+      "fonte": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Google agora deixa seu site \"sumir\" das respostas de IA da busca — mas tem pegadinha",
+      "aconteceu": "Depois de pressão regulatória, o Google passou a permitir que donos de site recusem ter o conteúdo resumido pela IA da busca (as \"AI Overviews\").",
+      "significa": "Parece bom, mas é uma escolha ruim: ou você deixa a IA do Google resumir (e o usuário não clica no seu site), ou some das respostas e fica invisível pra bilhões de pessoas. Quem vive de tráfego do Google precisa repensar a estratégia de conteúdo.",
+      "fonte": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Levantaram US$ 200 mi só pra \"vigiar\" os agentes de IA das empresas",
+      "aconteceu": "A Coralogix captou US$ 200 milhões pra vender ferramentas que monitoram agentes de IA em produção — avisando quando o sistema começa a errar ou agir estranho.",
+      "significa": "Já existe um mercado inteiro nascendo só pra checar se a IA que você colocou pra rodar não está dando resposta errada calada. Se você usa chatbot/agente com cliente, monitorar virou item obrigatório, não luxo.",
+      "fonte": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon vai inventar foto de produto com IA quando o vendedor não tiver uma",
+      "aconteceu": "A Amazon vai gerar imagens de produto por IA pra preencher buscas onde o vendedor não subiu foto profissional.",
+      "significa": "Vendedor pequeno sem verba de ensaio fotográfico ganha visibilidade — mas se a foto gerada não bate com o produto real, a devolução (e a dor de cabeça) aumenta. Cuidado com o que a IA \"imagina\" do seu produto.",
+      "fonte": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "NVIDIA lança \"NemoClaw\": fábrica de agentes de IA pra engenharia pesada",
+      "aconteceu": "A NVIDIA lançou o NemoClaw, uma plataforma pra empresas industriais criarem agentes de IA que rodam tarefas técnicas complexas (simulação, design, testes) sozinhos.",
+      "significa": "Trabalho de engenharia que levava semanas de gente acompanhando teste manual passa a rodar em horas no automático. Sinal de que a automação por IA está chegando forte na indústria, não só no escritório.",
+      "fonte": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA está colocando IA \"esperta\" direto em robô e câmera, sem internet",
+      "aconteceu": "A NVIDIA atualizou a plataforma Jetson pra rodar agentes de IA dentro de robôs, câmeras e equipamentos — tomando decisão na hora, sem depender de nuvem.",
+      "significa": "Dá pra ter automação inteligente em fábrica, loja ou galpão mesmo onde a internet é ruim. O equipamento \"pensa\" localmente. Abre caminho pra robô que entende comando falado e executa sozinho.",
+      "fonte": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Produtividade",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "NVIDIA e Microsoft juntaram as pontas: agente de IA roda no seu PC e na nuvem sem retrabalho",
+      "aconteceu": "As duas anunciaram uma forma unificada de rodar agentes de IA tanto no Windows local quanto na nuvem Azure, com segurança no meio.",
+      "significa": "Se você montou um assistente de IA no servidor da empresa, dá pra publicar ele na nuvem pra atender o time inteiro 24h sem reescrever nada. Menos fricção pra sair do \"teste interno\" e virar ferramenta de verdade.",
+      "fonte": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Hardware",
+        "#Agentes",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "Matemáticos publicaram um alerta formal: a IA está rápida demais pra checar",
+      "aconteceu": "Na revista Science, a comunidade de matemáticos publicou um aviso coletivo de que a IA avança mais rápido do que a capacidade de validar se os resultados dela estão certos — inclusive em ciência.",
+      "significa": "Quando o pessoal mais rigoroso do mundo levanta a mão, é recado: decisão tomada em cima de análise de IA sem alguém conferir pode dar errado de um jeito que ninguém previu. Confie, mas verifique.",
+      "fonte": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Ted Chiang: \"a IA não é consciente\" — e por que isso importa pro seu negócio",
+      "aconteceu": "Ted Chiang, um dos escritores de ficção científica mais respeitados, publicou na The Atlantic um ensaio dizendo que IA não tem consciência — e que tratá-la como \"ser pensante\" gera erro prático e ético.",
+      "significa": "Ajuda a calibrar o discurso interno: IA é ferramenta poderosa, não um \"colega\" com vontade. Isso muda como você comunica o uso de IA pra equipe cética e como define responsabilidade quando algo dá errado (a culpa é de quem usou, não \"da IA\").",
+      "fonte": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ficou menos \"arriscado\" de usar: agora você confirma antes de rodar",
+      "aconteceu": "Saiu a versão v2.1.162 do Claude Code (a ferramenta de IA por linha de comando da Anthropic). Agora, ao escolher um comando do menu, ele aparece no campo de texto pra você confirmar com Enter em vez de disparar na hora; os erros ficaram mais limpos.",
+      "significa": "Se você (ou seu time) usa Claude Code, dá pra revisar o que vai rodar antes de apertar o gatilho — menos chance de executar a coisa errada por engano.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.162",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
