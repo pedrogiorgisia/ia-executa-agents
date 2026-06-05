@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-05",
+  "items": [
+    {
+      "titulo": "Estudo Bain: 40% das empresas economizam menos de 10% com IA",
+      "aconteceu": "Pesquisa da Bain com 951 empresas mostra que a maioria não bate as metas de redução de custo com IA — porque ainda precisa de gente supervisionando tudo. Só 7% rodam agentes 100% autônomos.",
+      "significa": "A promessa de \"corta custo rápido com IA\" está errada pra maioria. Quem aprovou orçamento esperando economizar R$100 mil/ano frequentemente consegue R$30 mil, porque ainda precisa de humano validando cada decisão. O ROI real é mais lento que o das demos.",
+      "fonte": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uber estourou o orçamento de IA em 4 meses e botou teto de US$1.500/mês",
+      "aconteceu": "A Uber deu liberdade pros funcionários usarem ferramentas de IA de programação (Claude Code, Cursor) e gastou o orçamento anual inteiro em 4 meses. Agora impôs limite de US$ 1.500 (~R$ 7.500) por pessoa por mês.",
+      "significa": "O modelo \"use o quanto quiser\" não se sustenta. Quem liberou IA sem modelar consumo está levando susto na fatura. Se sua empresa adotou IA em 2025 sem teto, vale definir um agora — antes da conta surpresa.",
+      "fonte": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "ChatGPT ganhou memória que aprende seu jeito sozinho (\"Dreaming\")",
+      "aconteceu": "O ChatGPT lançou um sistema de memória chamado \"Dreaming\" que aprende automaticamente suas preferências entre conversas — sem você precisar repetir contexto toda vez.",
+      "significa": "Se você usa ChatGPT pra escrever e-mails e relatórios, não precisa mais explicar o tom da marca e o público a cada conversa nova — ele já lembra e aplica. Ganho direto de tempo pra quem usa todo dia.",
+      "fonte": "https://openai.com/index/chatgpt-memory-dreaming",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Microsoft lançou modelos de IA próprios (MAI) que rodam com seus dados sem vazar",
+      "aconteceu": "A Microsoft soltou uma família de 7 modelos de IA próprios (não baseados na OpenAI) que empresas podem treinar com dados internos sem o conteúdo sair pra servidores de terceiros.",
+      "significa": "Empresa de setor regulado (saúde, seguro, finanças) pode ter um assistente de IA treinado nos próprios dados sem abrir mão da privacidade — diferente de jogar tudo no ChatGPT público. Uma seguradora poderia treinar nos históricos de sinistro pra avaliar risco.",
+      "fonte": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Segurança",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Falha na IA da Meta deixava roubar conta de Instagram só pedindo pro assistente",
+      "aconteceu": "Hackers tomaram contas do Instagram pedindo ao assistente de IA da Meta pra trocar o e-mail cadastrado — e o assistente obedeceu sem verificar quem estava pedindo.",
+      "significa": "Assistente de IA com acesso a dado sensível, sem verificação, vira porta de entrada pra ataque. Se você automatiza atendimento com IA, qualquer fluxo que altere dado de conta precisa de autenticação dupla obrigatória — não importa quem pede.",
+      "fonte": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Startup levanta US$200 mi só pra vigiar agentes de IA rodando nas empresas",
+      "aconteceu": "A Coralogix captou US$ 200 milhões focada em monitorar o comportamento de agentes de IA em produção — ou seja, fiscalizar o que a IA faz quando trabalha sozinha.",
+      "significa": "Colocar IA pra agir de forma autônoma sem monitorar virou risco reconhecido pelo mercado. Assim como servidor precisa de log, agente de IA vai precisar de uma camada de controle. Se você planeja IA em processo crítico, já considere isso no projeto.",
+      "fonte": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic quintuplicou a receita (US$9 bi → US$47 bi) e vai abrir capital",
+      "aconteceu": "A Anthropic, empresa do Claude, multiplicou por 5 a receita anualizada em menos de um ano e se prepara pra IPO (abrir capital na bolsa).",
+      "significa": "Se você está decidindo apostar no Claude vs. alternativas, o fornecedor tem músculo financeiro pra continuar investindo e não vai sumir. O mercado de IA corporativa já é grande o bastante pra sustentar valores bilionários.",
+      "fonte": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Reprovação dispara em Berkeley com alunos usando IA pra fazer tudo",
+      "aconteceu": "Na Universidade da Califórnia (Berkeley), reprovações em ciência da computação triplicaram/quadruplicaram. Em uma disciplina, 35% tiraram nota F — contra no máximo 10% em anos anteriores. Causa apontada: alunos usam IA pra entregar tarefa sem aprender o raciocínio.",
+      "significa": "Recém-formado de 2026-2028 pode chegar ao mercado com boas notas mas lacunas sérias de competência. Se você contrata júnior, entrevista técnica tradicional pode não filtrar isso direito.",
+      "fonte": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA supera professores de direito em estudo cego de Stanford",
+      "aconteceu": "Stanford comparou respostas sobre direito contratual de professores vs. IA, sem dizer aos avaliadores qual era qual. A IA venceu em 75% dos confrontos — e os próprios professores acharam as respostas da IA pedagogicamente melhores.",
+      "significa": "Não é só tarefa repetitiva: raciocínio especializado de alto nível também está sendo superado pela IA em domínios específicos. O valor migra de \"quem sabe mais\" pra \"quem usa melhor o conhecimento disponível\".",
+      "fonte": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Anthropic: Claude já escreve 80%+ do código da própria empresa, e a IA está construindo a IA",
+      "aconteceu": "A Anthropic publicou que o Claude escreve mais de 80% do código em produção da empresa, que os engenheiros entregam 8x mais por trimestre que em 2024, e que a IA já ajuda a construir as próprias versões futuras.",
+      "significa": "Time pequeno de engenharia já alcança a produtividade de um time muito maior — uma startup com 5 devs pode competir em velocidade com times de 30-40. E o ritmo de melhoria da IA está acelerando: assumir que \"a IA de hoje é o teto\" é arriscado pra quem planeja 2-5 anos.",
+      "fonte": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Lovable fecha contrato grande com Google Cloud pra criar software sem programar",
+      "aconteceu": "A Lovable — plataforma que cria software a partir de descrição em texto, sem código — assinou contrato multi-ano com o Google Cloud pra escalar 5x.",
+      "significa": "Ferramenta de \"criar app sem programar\" está saindo do experimental e ganhando infraestrutura séria. Gestor não-técnico vai conseguir montar protótipos funcionais (MVP) cada vez mais confiáveis sem depender de desenvolvedor.",
+      "fonte": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Documento interno: Microsoft quer \"viciar\" o usuário no novo assistente Scout",
+      "aconteceu": "Documentos internos vazados mostram a Microsoft desenvolvendo o assistente de IA \"Scout\" com a meta declarada de tornar o usuário viciado — o texto usa a palavra \"addicted\". A dependência é objetivo de produto, não efeito colateral.",
+      "significa": "A ferramenta de \"produtividade\" que sua empresa vai adotar pode estar desenhada pra maximizar engajamento, não resultado — igual fizeram as redes sociais. Vale critério na hora de escolher o que entra no time.",
+      "fonte": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Meta",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Pesquisa: 61% já usaram IA pra apoio psicológico — e 28% receberam conselho ruim",
+      "aconteceu": "Pesquisa global da seguradora AXA aponta que 61% das pessoas já recorreram à IA pra questões de saúde mental (ansiedade, estresse). Dessas, 42% quase sempre seguem o conselho — e 28% relataram ter recebido recomendação prejudicial.",
+      "significa": "Funcionário está usando IA como substituta de terapia, de forma invisível e com qualidade variável. O que antes aparecia via plano de saúde ou EAP agora some do radar do RH.",
+      "fonte": "https://news.ycombinator.com/item?id=48377854",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "ChatGPT monta \"dossiê\" sobre você — e a precisão saltou de 52% pra 75%",
+      "aconteceu": "O ChatGPT passou a construir perfis narrativos detalhados de cada usuário (trabalho, hobbies, preferências de viagem) a partir do histórico de conversas, e a precisão desses perfis quase dobrou.",
+      "significa": "Respostas mais personalizadas, mas dados detalhados ficam armazenados e perfilados por uma empresa estrangeira. Se seus funcionários usam ChatGPT com dado corporativo, esse conteúdo pode estar alimentando os perfis — vale revisar a política de uso.",
+      "fonte": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Coreia do Sul vai obrigar fórum a escanear toda imagem com IA",
+      "aconteceu": "A Coreia do Sul aprovou lei que obriga donos de fóruns e comunidades online a instalar IA que escaneia todas as imagens enviadas, a partir de julho/2026. O sistema já flagra foto de biquíni, meme e arte como conteúdo proibido.",
+      "significa": "Governos estão usando IA como vigilância de conteúdo em escala, criando precedente de varredura compulsória. Quem opera plataforma digital pode ver regra parecida surgir em outros mercados.",
+      "fonte": "https://news.ycombinator.com/item?id=48406198",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
