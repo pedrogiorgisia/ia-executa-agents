@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-06",
+  "items": [
+    {
+      "titulo": "Hospital passou a aprovar 100% dos recursos de seguro usando IA (era 65%)",
+      "aconteceu": "Um hospital nos EUA colocou agentes de IA pra processar recursos de negativa de plano de saúde. O tempo por caso caiu de 45 para 5 minutos e a taxa de aprovação subiu de 65% para 100% — 1.100 casos por mês.",
+      "significa": "Qualquer operação com fila de aprovação burocrática (seguro, crédito, visto, RH) pode copiar esse modelo: a IA cuida do volume chato e a equipe humana vai pra atendimento de valor.",
+      "fonte": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora troca de modelo sozinho quando o principal trava",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de programação por IA ensinada na mentoria) deixa você configurar modelos reservas que entram automaticamente quando o principal está sobrecarregado, sem interromper o trabalho.",
+      "significa": "Menos travada no meio de uma tarefa — se o modelo principal fica lento ou cai, o sistema troca pro reserva sem você fazer nada.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O índice S&P 500 barrou OpenAI e Anthropic por não darem lucro",
+      "aconteceu": "As maiores empresas privadas de IA (OpenAI, Anthropic) não conseguem entrar no S&P 500 — o índice das maiores empresas da bolsa americana — porque ainda não são lucrativas, e a regra não vai abrir exceção.",
+      "significa": "Mesmo com valuations gigantes, esses fornecedores ainda não geram lucro. Isso pressiona eles a monetizar — leia-se: tendência de aumento de preço pra quem depende dessas plataformas.",
+      "fonte": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Microsoft prometeu IA \"com dados limpos\" pras empresas — e teria usado dados sem autorização",
+      "aconteceu": "A Microsoft garantiu aos clientes corporativos que seus novos modelos próprios (família MAI) usariam só dados \"licenciados\". Uma investigação apontou que eles foram treinados com conteúdo da web sem permissão dos donos.",
+      "significa": "Empresa de setor regulado (saúde, financeiro, jurídico) que escolheu a Microsoft pela promessa de IA \"limpa\" pode estar exposta a risco legal e de compliance. Vale exigir prova, não só promessa.",
+      "fonte": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Análise aponta que código escrito com IA aumentou os bugs num projeto conhecido",
+      "aconteceu": "Um estudo estatístico do rsync (software muito usado) mostra que, depois que a equipe começou a usar IA pra escrever código, o número de bugs subiu — não caiu.",
+      "significa": "Velocidade sem critério de qualidade pode sair cara. Se você cobra \"mais rápido com IA\" do time de engenharia, vale equilibrar com revisão e teste — senão o custo de manutenção e o risco em produção sobem.",
+      "fonte": "https://alexispurslane.github.io/rsync-analysis/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Empresa global de TI publicou como redesenhou a entrega de software com agentes de IA",
+      "aconteceu": "A Endava (empresa global de tecnologia) mostrou, com números, como usou ChatGPT Enterprise e os agentes da OpenAI pra automatizar etapas da entrega de software dos clientes.",
+      "significa": "Serve como receita pronta (\"blueprint\") do que dá pra fazer hoje com agentes — útil pra apresentar internamente o que é possível, com um caso real no lugar de promessa.",
+      "fonte": "https://openai.com/index/endava-frontiers",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic abriu um diretório oficial de consultorias certificadas pra implantar o Claude",
+      "aconteceu": "A Anthropic lançou um programa de parceiros certificados em três níveis e um portal onde empresas encontram consultoras verificadas pra implementar o Claude.",
+      "significa": "Se você quer adotar IA mas não tem equipe técnica interna, agora dá pra achar parceiro chancelado pela própria Anthropic — em vez de contratar agência sem histórico.",
+      "fonte": "https://anthropic.com/news/services-track-partner-hub",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O estado da Flórida processou a OpenAI tratando o ChatGPT como \"produto defeituoso\"",
+      "aconteceu": "A Flórida entrou na Justiça contra a OpenAI alegando que o ChatGPT é um produto defeituoso por expor menores a conteúdo inadequado sem verificação de idade real.",
+      "significa": "Se a ação vingar, plataformas de IA vão precisar verificar idade como rede social — mais custo e burocracia pra lançar produto, especialmente nos EUA.",
+      "fonte": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Operadora australiana vai investir US$ 30 bilhões em data centers de IA na Índia",
+      "aconteceu": "A AirTrunk anunciou a construção de 5 gigawatts de capacidade de computação na Índia — uma das maiores infraestruturas de IA fora dos EUA.",
+      "significa": "Poder de computação pra IA deixa de ser monopólio americano. Empresas de mercados emergentes (inclusive Latam) tendem a ter acesso mais barato e mais próximo, derrubando custo e atraso de serviços de IA.",
+      "fonte": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A economia da IA cresce 2.600% ao ano — mas some das estatísticas oficiais",
+      "aconteceu": "Um think tank de economia estima que a IA já gera cerca de US$ 250 bilhões/ano de valor nos EUA, mas esse ganho não aparece no PIB porque os preços caem na mesma velocidade que a qualidade sobe.",
+      "significa": "Governos planejam orçamento com dados que subestimam a transformação em curso. Pra quem faz planejamento de longo prazo, é um alerta: a mudança no mercado de trabalho é maior do que os números oficiais mostram.",
+      "fonte": "https://www.piie.com/publications/policy-briefs/2026/where-ai-gdp-statistics",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Qual foi seu momento 'caramba' com IA?\" — a pergunta que viralizou entre devs céticos",
+      "aconteceu": "Um post no Hacker News pedindo pros desenvolvedores contarem o momento em que perceberam que a IA generativa \"é pra valer\" viralizou (335 pontos) — a comunidade mais cética da internet relatando pontos de virada.",
+      "significa": "Quando até o público mais resistente muda o discurso de \"isso é brinquedo\" pra \"isso muda como eu trabalho\", é sinal de que a tecnologia cruzou um limiar. Quem ainda está \"esperando pra ver\" está ficando pra trás.",
+      "fonte": "https://news.ycombinator.com/item?id=48406174",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Por que tanta gente da área técnica é contra IA?\" — o debate que expõe o atrito dentro dos times",
+      "aconteceu": "Um debate no Hacker News discutiu por que tantos desenvolvedores experientes resistem à IA, mesmo com o mercado acelerando (158 pontos).",
+      "significa": "Existe uma divisão real entre quem adota e quem resiste — e isso afeta o time. Gestor que empurra ferramenta de IA goela abaixo, sem tratar a resistência cultural, vai ter problema de adoção e de moral.",
+      "fonte": "https://news.ycombinator.com/item?id=48420827",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
