@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-07",
+  "items": [
+    {
+      "titulo": "OpenAI cria um \"modo cofre\" no ChatGPT pra empresa que mexe com dado sigiloso",
+      "aconteceu": "A OpenAI lançou o \"Lockdown Mode\", uma proteção no ChatGPT que reduz o risco de dado confidencial vazar quando alguém esconde instruções maliciosas dentro de um documento enviado à IA.",
+      "significa": "Se a sua empresa joga contrato, planilha ou dado de cliente no ChatGPT, agora dá pra ligar uma camada extra que dificulta esse tipo de golpe (chamado \"prompt injection\" — quando o atacante esconde um comando dentro do arquivo pra IA obedecer sem perceber).",
+      "fonte": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Faço mais design com o Claude do que com o Figma hoje\", diz profissional da área",
+      "aconteceu": "Um designer publicou que passou a criar e ajustar projetos usando o Claude (a IA da Anthropic) com mais frequência do que o Figma — o software líder de mercado pra design — por ser mais rápido e flexível.",
+      "significa": "Quando até profissional não-técnico começa a trocar a ferramenta consagrada por IA, vale revisar quais licenças caras a equipe realmente precisa e onde a IA já dá conta. É um sinal de que o ganho de produtividade saiu da área de tecnologia e chegou na criação.",
+      "fonte": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Google vai pagar quase US$ 1 bilhão por mês pra ter \"onde rodar\" sua IA",
+      "aconteceu": "O Google fechou um acordo de cerca de US$ 920 milhões por mês com a SpaceX por capacidade de computação (infraestrutura ligada à xAI, de Elon Musk), porque a própria capacidade não dá conta da demanda de IA.",
+      "significa": "Se até o Google precisa alugar máquina de concorrente pra rodar IA, a fila e o preço pra empresa menor vão apertar nos próximos 12 a 24 meses. Quem depende de API de IA deve esperar reajuste e disputa por disponibilidade.",
+      "fonte": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Empresa do Elon Musk teria treinado a IA dela copiando respostas do Claude — sem permissão",
+      "aconteceu": "Segundo reportagem, a xAI (IA do Musk) usou por meses respostas do Claude (da Anthropic) pra treinar os próprios modelos, continuando mesmo depois de ter o acesso bloqueado, por meio de contas disfarçadas.",
+      "significa": "Quem oferece IA como serviço (uma API, um chatbot próprio) corre o risco de ter o trabalho \"sugado\" por concorrente. E quem usa IA de terceiros precisa olhar os termos de uso: o que você pode ou não fazer com o que a IA gera tem implicação jurídica.",
+      "fonte": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Câmara dos EUA quer proibir estados de criar lei própria de IA por 10 anos",
+      "aconteceu": "A Câmara dos Representantes dos EUA aprovou uma proposta que impediria os estados americanos de criar suas próprias regras de IA por uma década, deixando tudo nas mãos do governo federal.",
+      "significa": "No curto prazo, menos confusão de leis diferentes por estado (bom pra quem opera nos EUA). No longo prazo, incerteza: se a regulação federal vier mais pesada, vem de uma vez só. Quem planeja operação nos EUA deve acompanhar.",
+      "fonte": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Mais gente processando empresa: IA dobrou o número de ações na justiça",
+      "aconteceu": "Pessoas sem advogado estão usando o ChatGPT pra redigir ações judiciais, o que dobrou o volume de processos nos tribunais — só que a taxa de quem ganha continua igual, porque escrever bonito não substitui estratégia jurídica.",
+      "significa": "Empresa que atende consumidor (B2C) pode receber mais ações pequenas movidas por gente que antes não conseguiria nem redigir a petição. O departamento jurídico vai gastar tempo respondendo a um volume maior, mesmo que boa parte seja mal fundamentada.",
+      "fonte": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Polícia britânica é proibida de usar IA pra escrever depoimento de processo",
+      "aconteceu": "O governo britânico ordenou que policiais parem de usar IA pra redigir ou resumir depoimentos usados em processos judiciais, depois de preocupações com erro e responsabilidade legal.",
+      "significa": "Mesmo quando a IA parece \"só ajudar a escrever\", em área de alta responsabilidade (jurídico, saúde, regulatório) o uso sem controle já está sendo barrado por lei. Se a sua empresa usa IA em documento com valor legal, vale revisar o processo antes que o problema apareça.",
+      "fonte": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic rouba engenheiro de chips da OpenAI na corrida pré-bolsa",
+      "aconteceu": "Um dos primeiros engenheiros de hardware da OpenAI (que cuidava do projeto de chips próprios) foi pra Anthropic, sinalizando que ela está acelerando o desenvolvimento dos próprios processadores de IA.",
+      "significa": "Anthropic e OpenAI querem depender menos da NVIDIA fabricando chip próprio. No médio prazo isso pode deixar o custo de IA mais previsível pra empresa cliente — mas mostra que a briga por infraestrutura está esquentando antes das duas abrirem capital.",
+      "fonte": "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Hardware",
+        "#Robótica"
+      ]
+    }
+  ]
+}
