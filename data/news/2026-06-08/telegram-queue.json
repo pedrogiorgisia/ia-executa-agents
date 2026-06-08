@@ -1,0 +1,201 @@
+{
+  "date": "2026-06-08",
+  "items": [
+    {
+      "titulo": "A OpenAI declarou que \"o chat morreu\" e está transformando o ChatGPT num robô que faz a tarefa inteira sozinho",
+      "aconteceu": "A OpenAI anunciou que vai parar de tratar o ChatGPT como um chat de perguntas e respostas e reconstruí-lo como um \"agente\" — você descreve uma meta (\"pesquisar 3 fornecedores, comparar preços e marcar reunião\") e ele executa tudo, já conectado a serviços como Canva e Booking.com.",
+      "significa": "Se hoje sua equipe usa o ChatGPT digitando instrução por instrução, a lógica muda: passa a ser delegar a tarefa completa. Vale começar a pensar quais processos repetitivos do escritório poderiam virar \"metas\" entregues a um agente.",
+      "fonte": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Agentes",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT agora lembra do seu jeito de trabalhar sem você ficar repetindo",
+      "aconteceu": "A OpenAI lançou uma memória nova (\"Dreaming\") em que o ChatGPT aprende suas preferências ao longo do tempo e aplica sozinho — sem você precisar dizer \"escreve no meu tom, direto, sem formalidade\" toda vez.",
+      "significa": "Quem usa o ChatGPT todo dia pra rascunhar e-mail, resumo ou proposta para de perder tempo recolocando contexto. Na prática, a ferramenta fica mais parecida com um assistente que já te conhece.",
+      "fonte": "https://openai.com/index/chatgpt-memory-dreaming",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Meta lançou o \"Hatch\": um assistente de IA pago que faz tarefa de assistente executivo por até US$ 200/mês",
+      "aconteceu": "A Meta entrou no mercado de agentes pagos com o Hatch — um assistente que cria ferramentas, agenda compromissos e manda e-mails a partir de instruções em linguagem natural. É o primeiro produto de IA pago da empresa.",
+      "significa": "Para um dono de pequena empresa, é mais uma opção de \"assistente digital\" que pode absorver horas semanais de tarefa administrativa por menos do que custa um estagiário part-time. Vale comparar com ChatGPT e Claude antes de assinar.",
+      "fonte": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#Agentes"
+      ]
+    },
+    {
+      "titulo": "O Google mudou a caixa de busca pela primeira vez em 25 anos — e isso bagunça o SEO",
+      "aconteceu": "A busca do Google passou a aceitar imagens, vídeos, PDFs e abas do navegador como pergunta, e responde conversando (formato de IA) em vez de listar links azuis.",
+      "significa": "Se sua empresa depende de aparecer no Google por palavra-chave, a régua mudou: o usuário pode receber a resposta sem nunca clicar no seu site. Marketing e SEO precisam revisar como a marca aparece dentro das respostas de IA, não só no ranking de links.",
+      "fonte": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Hackers roubaram milhares de contas do Instagram só pedindo ao chatbot da Meta pra trocar o e-mail",
+      "aconteceu": "Um ataque explorou o suporte por IA da Meta: bastava pedir ao chatbot que alterasse o e-mail da conta para tomar o controle dela — sem nenhuma verificação extra.",
+      "significa": "Se sua empresa colocou (ou pensa em colocar) IA no atendimento ao cliente, qualquer ação sensível — trocar e-mail, senha, dados de pagamento — precisa de uma confirmação fora do chat. Chatbot sem trava vira porta de entrada para golpe.",
+      "fonte": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic revelou que o Claude já escreve 80% do código da própria empresa",
+      "aconteceu": "A criadora do Claude contou que a IA é responsável por 80% do código que vai pra produção nos produtos dela, e que seus engenheiros produzem 8x mais código por trimestre do que antes.",
+      "significa": "O tamanho de um time de engenharia para entregar a mesma coisa está mudando. Se você contrata ou planeja headcount de tecnologia, o foco passa de \"quantos programadores\" para \"quem revisa e decide arquitetura\". É sinal pra repensar planejamento de equipe agora.",
+      "fonte": "https://www.latent.space/p/bad-envs",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic abriu um diretório oficial onde clientes encontram consultorias certificadas em Claude",
+      "aconteceu": "A Anthropic criou um programa formal de parceiros — com níveis de certificação e um portal público — para empresas que prestam serviços usando Claude aparecerem para clientes que buscam implementar IA.",
+      "significa": "Se você presta consultoria, mentoria ou integração com IA, dá pra deixar de depender só de boca a boca e ser encontrado pelo canal oficial da Anthropic. É um caminho de geração de leads novo pra quem vive desse mercado.",
+      "fonte": "https://www.anthropic.com/news/services-track-partner-hub",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Caso real: uma empresa de TI cortou de semanas para horas a análise de requisitos usando agentes de IA",
+      "aconteceu": "A OpenAI publicou um case da Endava (empresa de serviços de TI) que usou agentes com ChatGPT Enterprise para ler e sintetizar documentos de requisitos de clientes — fase que antes levava semanas de reunião passou a levar horas.",
+      "significa": "Se sua empresa tem time de desenvolvimento ou faz projeto sob demanda, a parte \"chata\" de entender o que o cliente quer pode ser acelerada por agente, liberando gente para o trabalho que gera valor.",
+      "fonte": "https://openai.com/index/endava-frontiers",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Post com 968 pontos: engenheiro veterano relata que a IA está corroendo sua carreira em tempo real",
+      "aconteceu": "Um engenheiro de software experiente escreveu um desabafo (que viralizou no Hacker News) sobre como está sendo menos contratado e vendo suas tarefas automatizadas pela IA — sem saber pra onde se requalificar.",
+      "significa": "É um termômetro do mercado de trabalho técnico: a redução de vagas júnior/pleno em tecnologia já está acontecendo, não é previsão. Para quem gere pessoas, muda planejamento de contratação; para quem é da área, reforça a urgência de subir de função.",
+      "fonte": "https://news.ycombinator.com/item?id=48434312",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresas americanas estão correndo pra contratar a chinesa Deepseek porque é 30-40% mais barata",
+      "aconteceu": "O modelo de IA chinês Deepseek virou o fornecedor de software mais buscado por empresas americanas, vencendo concorrentes pelo preço bem menor.",
+      "significa": "A pressão por cortar custo de IA está levando empresas a olhar opções chinesas — mas o tradeoff é real: dados processados em servidores na China criam risco regulatório e de segurança, principalmente em saúde e finanças. Barato pode sair caro em setor regulado.",
+      "fonte": "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Microsoft lançou 7 modelos de IA próprios pra depender menos da OpenAI",
+      "aconteceu": "A Microsoft criou sua própria família de modelos (chamada MAI); o principal compete diretamente com o Claude. A ideia é não ficar refém da OpenAI e da Anthropic.",
+      "significa": "Para grandes empresas que já usam Microsoft, em breve haverá a opção de usar IA da própria Microsoft com os dados dentro do ambiente deles — potencialmente mais barato e com mais controle de privacidade.",
+      "fonte": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "A Anthropic saltou de US$ 9 bi para US$ 47 bi de receita anual em 5 meses",
+      "aconteceu": "Antes do seu IPO, a criadora do Claude reportou que sua receita anualizada cresceu 5x — de US$ 9 bilhões para US$ 47 bilhões — em apenas cinco meses.",
+      "significa": "É um sinal de que empresas estão adotando ferramentas de IA muito mais rápido do que se previa. Quem está esperando \"a poeira baixar\" pra integrar IA no negócio pode estar perdendo a janela de capturar clientes antes dos concorrentes.",
+      "fonte": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um designer contou que já projeta mais com o Claude do que com o Figma",
+      "aconteceu": "Um profissional de design de produto relatou (com 286 pontos no Hacker News) que trocou boa parte do seu trabalho no Figma — a ferramenta líder de design de telas — pelo Claude, e ficou mais produtivo.",
+      "significa": "A IA está começando a substituir ferramentas caras e consagradas no dia a dia de profissionais criativos. Vale revisar quais licenças de software a equipe ainda precisa pagar de fato.",
+      "fonte": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O hardware pra rodar IA dobrou de preço em um ano",
+      "aconteceu": "A demanda por IA disparou o preço de chips e memória: equipamentos que custavam menos de US$ 2 mil agora chegam a US$ 4 mil, empurrando empresas menores para depender totalmente da nuvem.",
+      "significa": "Quem planejava rodar IA \"dentro de casa\" (por privacidade ou economia) precisa refazer a conta. A nuvem pode ser mais barata agora, mas cria dependência de fornecedor — é uma decisão de longo prazo, não só de custo imediato.",
+      "fonte": "https://www.theregister.com/systems/2026/06/08/our-systems-editor-flew-all-the-way-to-taiwan-and-still-couldnt-get-away-from-ai/5251877",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Em Berkeley, as reprovações dispararam junto com o uso de IA pelos alunos",
+      "aconteceu": "Na Universidade de Berkeley (referência mundial em tecnologia), os professores relatam reprovações em alta e queda de habilidades básicas de matemática — alunos delegam o raciocínio à IA e param de aprender o fundamento.",
+      "significa": "Pra quem contrata, é um alerta de médio prazo: a próxima leva de profissionais pode chegar com diploma, mas sem a base que o diploma costumava garantir. O processo seletivo (e os programas de trainee) precisa testar fundamento, não só ferramenta.",
+      "fonte": "https://news.ycombinator.com/item?id=48392004",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
