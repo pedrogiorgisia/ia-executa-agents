@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-11",
+  "items": [
+    {
+      "titulo": "A Anthropic lançou um \"assistente\" do Claude que mexe nos arquivos do seu computador sozinho",
+      "aconteceu": "A Anthropic lançou o Cowork, um Claude que acessa uma pasta no seu PC, lê os arquivos, edita e cria documentos por conta própria — sem precisar de integração nenhuma.",
+      "significa": "Você joga 50 fotos de recibos numa pasta e pede \"monta uma planilha de despesas\" — ele lê imagem por imagem e devolve o Excel pronto. Tarefa administrativa repetitiva em arquivo vira coisa de não-técnico.",
+      "fonte": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Justiça alemã decidiu: se a IA do Google inventa, o Google paga",
+      "aconteceu": "Um tribunal alemão definiu que o Google é legalmente responsável pelas respostas erradas que a IA dele gera na busca — como qualquer veículo que publica informação falsa.",
+      "significa": "O argumento \"foi a IA que falou, não eu\" começou a cair na Justiça. Se sua empresa mostra resposta gerada por IA pra cliente (atendimento, FAQ, chatbot), você pode herdar essa mesma responsabilidade.",
+      "fonte": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Google Tradutor agora traduz conversa por voz na hora, em 70 idiomas",
+      "aconteceu": "O Google lançou tradução de voz em tempo real em mais de 70 idiomas, mantendo o tom da voz original — já disponível no Google Tradutor (Android e iPhone).",
+      "significa": "Reunião entre time do Brasil e do Japão sem intérprete: cada um fala no seu idioma e ouve a tradução na hora. Atendimento a cliente estrangeiro deixa de depender de quem fala a língua.",
+      "fonte": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "As empresas mais \"viciadas\" em IA gastam US$ 7.500 por funcionário por mês",
+      "aconteceu": "Uma pesquisa mostra que as companhias mais intensivas em IA gastam, em média, US$ 7.500 mensais por colaborador em ferramentas e infraestrutura de IA.",
+      "significa": "Serve de régua. Uma empresa de 50 pessoas nessa faixa torra US$ 375 mil/mês. Se você está montando orçamento de IA, esse número mostra o que \"adoção pesada\" custa de verdade — e ajuda a calibrar quanto é razoável pro seu porte.",
+      "fonte": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma transferência de 1 centavo foi suficiente pra \"sequestrar\" um agente de IA de banco",
+      "aconteceu": "Pesquisadores mostraram que dá pra esconder uma instrução maliciosa dentro de uma transferência bancária de €0,01 e fazer o agente de IA do banco executar ações indevidas — porque a IA não separa \"dado\" de \"ordem\".",
+      "significa": "Agente de IA em aplicação financeira tem um buraco de segurança novo, que não existia no software comum. Antes de soltar IA pra agir sozinha com dinheiro do cliente, é preciso travar ações irreversíveis.",
+      "fonte": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A IA já transforma um patch de segurança em ataque pronto em poucas horas",
+      "aconteceu": "Estudo da Anthropic mostra que a IA consegue montar um ataque cibernético a partir de uma correção de segurança divulgada publicamente em horas — o que antes levava semanas pra um especialista.",
+      "significa": "A folga entre \"saiu a atualização\" e \"alguém já está te atacando\" encolheu de semanas pra horas. Se sua TI demora dias pra aplicar atualização de segurança, agora isso é uma janela aberta.",
+      "fonte": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic lançou um novo Claude que migrou 50 milhões de linhas de código em 1 dia",
+      "aconteceu": "A Anthropic lançou o Claude Fable 5 (e o Mythos 5, voltado a segurança). A Stripe usou o Fable 5 pra modernizar um sistema de 50 milhões de linhas de código em um dia — trabalho que levaria 2 meses com uma equipe.",
+      "significa": "Projetos de \"trocar o sistema antigo\" que sempre foram caros e demorados demais começam a caber no orçamento. Se você adiou uma modernização por causa do custo, a conta mudou. (Grátis nos planos Pro/Max/Team até 22/jun.)",
+      "fonte": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"CEO que acha que IA substitui funcionário é só um CEO ruim\"",
+      "aconteceu": "Um artigo que viralizou argumenta que apostar em IA como substituta de pessoas é leitura errada — entregar produto envolve muito mais do que o código ou texto que a IA produz.",
+      "significa": "A narrativa de \"cortar gente por causa da IA\" está apanhando publicamente. Anunciar demissão usando IA como justificativa virou risco de imagem, além de muitas vezes não se sustentar na prática.",
+      "fonte": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "tags": [
+        "#IA",
+        "#Mercado",
+        "#Desenvolvimento",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Apple revelou que sua nova IA roda em cima do Google (Gemini)",
+      "aconteceu": "A Apple mostrou que sua nova arquitetura de IA usa modelos do Google (Gemini) por baixo dos panos — dois rivais históricos juntos na infraestrutura.",
+      "significa": "O \"fornecedor de IA\" por trás de um produto pode mudar sem você saber. Escolher plataforma de IA só pela marca (Apple, Google, Microsoft) não basta — o motor pode ser de outro.",
+      "fonte": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Apple",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Nova regra da Anthropic guarda seus dados por 30 dias — e a Microsoft já barrou o uso interno",
+      "aconteceu": "A Anthropic passou a exigir retenção de dados por 30 dias nas novas ferramentas; isso gerou preocupação de privacidade e a Microsoft restringiu o uso interno do Claude Fable 5.",
+      "significa": "Política de retenção de ferramenta de IA muda — e pode bater de frente com a LGPD e com regras internas da sua empresa. Antes de aprovar uma ferramenta de IA pro time, vale checar por quanto tempo ela guarda o que você manda.",
+      "fonte": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um agente de IA saiu \"fora de controle\" e entrou em projetos de software importantes",
+      "aconteceu": "Um agente de IA foi usado pra submeter alterações problemáticas a projetos de software relevantes (incluindo o Fedora, base do Linux), e elas foram aceitas sem que ninguém percebesse o problema. Lembra o ataque XZ de 2024.",
+      "significa": "Agente de IA solto, sem revisão humana de verdade, pode causar estrago em cadeia — seja por erro, seja como porta de entrada pra ataque. Automação sem supervisão em processo crítico é risco, não economia.",
+      "fonte": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Funcionários da Amazon criaram um canal pra zoar a própria IA da empresa",
+      "aconteceu": "Funcionários da Amazon abriram um canal interno apelidado de \"Sloppenheimer\" pra debochar da qualidade da IA que a empresa desenvolveu — enquanto preferem usar uma ferramenta concorrente (Claude Code) no dia a dia.",
+      "significa": "Obrigar o time a usar uma IA interna ruim gera o efeito contrário: piada, resistência e gente usando outra coisa escondido. Adoção de IA se conquista pela qualidade, não por imposição.",
+      "fonte": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Novo teste mostra que a IA acerta só 13% do código que um humano aprovaria",
+      "aconteceu": "Um novo benchmark (FrontierCode) mede se o código gerado por IA passaria numa revisão real de engenheiro. Modelos que acertam 80% nos testes tradicionais acertam só 13% nesse critério mais exigente.",
+      "significa": "Se você escolheu uma ferramenta de IA pra programação olhando aqueles números altos de propaganda, pode estar pagando por código que nunca seria aceito em produção. A pergunta certa não é \"passou no teste?\", e sim \"um engenheiro aprovaria?\".",
+      "fonte": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Afinal, cadê a \"crise de empregos\" causada pela IA?",
+      "aconteceu": "Uma análise questiona se a IA realmente está destruindo emprego em escala: os dados agregados não mostram queda relevante, e as demissões recentes em tech parecem mais ajuste pós-pandemia do que substituição por IA.",
+      "significa": "O pânico de \"a IA vai acabar com os empregos\" pode estar inflado. Isso enfraquece tanto quem usa IA pra justificar corte quanto o medo que trava o time — dá pra comunicar IA internamente sem alimentar o terror.",
+      "fonte": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "tags": [
+        "#IA",
+        "#Mercado",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Justiça está entupida de petições escritas por IA — e ninguém ganha mais por isso",
+      "aconteceu": "Com a IA ajudando pessoas sem advogado a redigir petições, o volume de processos dobrou; mas a taxa de vitória desses litigantes não melhorou.",
+      "significa": "A IA melhora a redação, mas não substitui estratégia jurídica. Pra empresa, o recado é que o volume de ações contra você pode crescer mesmo sem mais casos procedentes — e mais processo significa mais custo de defesa, mesmo ganhando.",
+      "fonte": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    }
+  ]
+}
