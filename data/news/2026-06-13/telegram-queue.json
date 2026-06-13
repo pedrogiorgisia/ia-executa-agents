@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-13",
+  "items": [
+    {
+      "titulo": "O governo dos EUA mandou a Anthropic \"desligar\" os dois Claudes mais fortes — no mundo todo",
+      "aconteceu": "O governo americano ordenou que a Anthropic (dona do Claude) bloqueasse o acesso global aos seus dois modelos mais avançados (Fable 5 e Mythos 5), alegando risco de segurança. A empresa discordou, mas obedeceu — e isso derrubou na hora produtos de outras empresas que usavam esses modelos.",
+      "significa": "Se o seu produto ou processo depende 100% de uma única IA, ele pode parar de uma hora pra outra por decisão que não está no seu controle. Vale ter um \"plano B\" de fornecedor antes de precisar dele.",
+      "fonte": "https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Saiu uma IA de programação chinesa que custa até 12x menos que a da OpenAI",
+      "aconteceu": "A Moonshot (China) lançou o Kimi K2.7 Code, um modelo aberto com desempenho perto do GPT-5.5 da OpenAI, mas até 12 vezes mais barato por uso.",
+      "significa": "Se a sua empresa gasta com IA pra gerar/automatizar código, dá pra cortar a conta de forma drástica — algo como sair de R$ 5.000/mês pra menos de R$ 500 com desempenho parecido.",
+      "fonte": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Meta gastou bilhões com IA \"por fora\" e agora vai pôr um medidor em cada funcionário",
+      "aconteceu": "A Meta vai implantar um sistema (\"AI Gateway\") pra monitorar e limitar quanto cada colaborador consome de IA, depois de descobrir que o gasto interno chegou à casa dos bilhões sem ninguém controlar.",
+      "significa": "Quando você libera IA pra vários times sem regra, a conta cresce de um jeito difícil de prever. Vale definir política de gasto agora, antes da fatura surpresa.",
+      "fonte": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI abriu 3 cursos gratuitos pra ensinar sua equipe a usar IA no trabalho",
+      "aconteceu": "A OpenAI (dona do ChatGPT) lançou três cursos online gratuitos ensinando profissionais a montar automações e usar IA em tarefas repetitivas do dia a dia.",
+      "significa": "Dá pra capacitar o time em IA sem contratar treinamento caro — em algumas semanas os analistas já criam as próprias automações sem depender do TI.",
+      "fonte": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google processou uma quadrilha que usou IA pra mandar 2,5 milhões de golpes por SMS",
+      "aconteceu": "Um grupo de cibercrime chinês usou IA pra disparar 2,5 milhões de SMS fraudulentos imitando marcas reais. O Google foi à justiça contra eles.",
+      "significa": "Golpe por mensagem ficou industrial e difícil de distinguir de comunicação legítima. Vale revisar como sua empresa fala com cliente (e avisar o cliente de como você NUNCA vai contatá-lo).",
+      "fonte": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A TCS (gigante de TI) vai levar o Claude pra 50 mil funcionários e pros clientes regulados",
+      "aconteceu": "A Tata Consultancy Services (uma das maiores empresas de TI do mundo) fechou parceria com a Anthropic pra usar o Claude internamente e embutir em projetos de bancos, seguros e outros setores regulados.",
+      "significa": "Se sua empresa já contrata uma grande consultoria de TI, em breve ela vai chegar com a IA \"já dentro\" da solução. Quem não tiver estratégia própria vai aceitar a do fornecedor (e um contrato longo junto).",
+      "fonte": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"A IA aberta precisa vencer\" — o texto que viralizou e explica o risco de depender de uma só empresa",
+      "aconteceu": "Um manifesto com muita tração na comunidade tech argumenta que deixar a IA concentrada em 2-3 empresas americanas é perigoso, e que os modelos abertos (inclusive chineses) já estão alcançando a qualidade dos pagos.",
+      "significa": "O bloqueio do Claude (item 1) deu munição pra esse debate. Ter alternativas abertas no radar aumenta seu poder de barganha e reduz risco de ficar refém de um fornecedor.",
+      "fonte": "https://news.ycombinator.com/item?id=48511908",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI comprou a Ona pra deixar a IA de programação dela mais \"isolada e segura\"",
+      "aconteceu": "A OpenAI adquiriu a Ona, startup que cria ambientes de nuvem isolados onde os agentes de IA programam sem interferir num projeto no outro nem vazar dados entre clientes.",
+      "significa": "Se você cogita usar IA pra gerar código com vários clientes ou projetos, a separação segura entre eles deixa de ser problema seu — vem pronta na ferramenta.",
+      "fonte": "https://openai.com/index/openai-to-acquire-ona",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "A Cohere soltou um \"Copilot\" gratuito que sua empresa pode rodar nos próprios servidores",
+      "aconteceu": "A Cohere lançou o North Mini Code, um modelo de IA pra programação open-source (de graça pra usar e modificar) que roda até em hardware mais modesto.",
+      "significa": "Dá pra ter um assistente de código estilo GitHub Copilot sem pagar mensalidade e mantendo todos os dados dentro de casa.",
+      "fonte": "https://www.cohere.com/blog/north-mini-code",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A DXC também adotou o Claude — é a 2ª gigante de TI a fazer isso na mesma semana",
+      "aconteceu": "A DXC Technology (que opera sistemas críticos de bancos, companhias aéreas e energia) firmou aliança global com a Anthropic pra colocar o Claude nos sistemas que gerencia pros clientes.",
+      "significa": "Duas grandes integradoras embarcaram no Claude em poucos dias — sinal claro de que a IA \"embutida na consultoria\" virou padrão de mercado pra empresa grande.",
+      "fonte": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Os alertas que custaram o emprego de uma pesquisadora do Google em 2020 viraram realidade",
+      "aconteceu": "Um artigo retoma as previsões de Timnit Gebru (demitida do Google em 2020 por documentar riscos da IA — vieses, desinformação em escala) e mostra, item a item, quantas já se concretizaram.",
+      "significa": "Ignorar o time que aponta risco em IA por incômodo comercial costuma sair caro depois. Vale ouvir quem levanta a mão dentro da empresa.",
+      "fonte": "https://news.ycombinator.com/item?id=48400213",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Palantir tentou calar uma revista que a investigava — e perdeu na justiça",
+      "aconteceu": "A Palantir (empresa de análise de dados que vende pra governos) processou uma revista investigativa suíça pra impedir uma reportagem crítica. O tribunal negou.",
+      "significa": "O debate sobre \"quem controla os dados\" chegou na imprensa europeia, e tentar abafar tende a piorar. Quem fecha parceria com fornecedor de dados precisa pensar no risco de reputação junto.",
+      "fonte": "https://news.ycombinator.com/item?id=48509182",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora nomeia suas conversas em português (e não mais em inglês)",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de IA por linha de comando, usada na mentoria) passou a gerar os títulos das sessões no seu idioma e deixa o time configurar atalhos de links na barra.",
+      "significa": "Detalhe pequeno, mas útil: fica mais fácil achar uma conversa antiga no histórico quando o título está em português, do jeito que você escreveu.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.176",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
