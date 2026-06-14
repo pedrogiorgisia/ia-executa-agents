@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-14",
+  "items": [
+    {
+      "titulo": "O Siri da Apple finalmente funciona — e mexe nos seus apps sozinho",
+      "aconteceu": "No evento anual da Apple (WWDC), a empresa mostrou uma versão do Siri que de fato funciona: ele lê o contexto pessoal (suas mensagens, e-mails, o que está na tela) e executa tarefas dentro dos apps do iPhone.",
+      "significa": "Pela primeira vez dá pra pedir \"acha aquele e-mail do fornecedor e marca uma reunião com base nele\" e o celular faz — sem instalar app de terceiro. Se você vive no iPhone, ganhou um assistente de IA nativo no bolso.",
+      "fonte": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon foi quem provocou o \"desligamento\" do Claude mais forte — sendo investidora da Anthropic",
+      "aconteceu": "Saiu quem estava por trás do caso de ontem (o governo dos EUA mandando a Anthropic desativar seus modelos de ponta): foi uma denúncia formal da Amazon (pelo CEO Andy Jassy) e mais cinco empresas. A Amazon é uma das maiores investidoras da própria Anthropic.",
+      "significa": "Um investidor ou concorrente pode usar canais do governo pra tirar a ferramenta de IA de um rival do ar. Se sua operação depende de um único fornecedor de IA, isso é argumento concreto pra ter um plano B (modelo alternativo ou aberto).",
+      "fonte": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Amazon",
+        "#Investimento",
+        "#Regulação"
+      ]
+    },
+    {
+      "titulo": "A Meta foi obrigada a desfazer uma compra de US$ 2 bilhões por ordem do governo chinês",
+      "aconteceu": "A Meta está revertendo a compra de US$ 2 bi da startup de IA Manus porque o governo chinês exigiu o desinvestimento, alegando segurança nacional — mesmo a empresa estando fora da China.",
+      "significa": "Negócio fechado em IA pode ser desmanchado por decisão de governo. Quem planeja parceria ou aquisição internacional em tecnologia precisa pôr risco geopolítico no contrato (cláusula de saída se um governo exigir).",
+      "fonte": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Investimento",
+        "#Regulação",
+        "#Segurança",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Saiu mais um modelo chinês de ponta, aberto e de graça (GLM 5.2)",
+      "aconteceu": "A empresa chinesa Zhipu lançou o GLM 5.2, um modelo de IA de código aberto que, segundo desenvolvedores, briga de igual pra igual com os melhores modelos americanos — bem na semana em que os EUA apertaram restrições a modelos rivais.",
+      "significa": "O mercado de IA está deixando de depender de duas ou três empresas americanas. Já dá pra rodar IA de alto nível no servidor da própria empresa, sem mensalidade e sem mandar dado pra fora — útil pra quem tem exigência de privacidade ou quer barganhar preço.",
+      "fonte": "https://news.ycombinator.com/item?id=48518684",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Pagar por IA com \"contexto gigante\" pode ser dinheiro jogado fora",
+      "aconteceu": "Um texto que circulou entre desenvolvedores mostra que, quando você joga informação demais de uma vez na IA, a resposta piora — existe um ponto de saturação a partir do qual mais dados = pior resultado.",
+      "significa": "Antes de assinar o plano premium \"que processa documentos gigantes\", saiba que o ganho pode ser zero. O que melhora a resposta não é \"quanto a IA engole de uma vez\", e sim como você organiza a informação que entrega.",
+      "fonte": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Anthropic mostrou o Claude planejando experimentos de química",
+      "aconteceu": "A Anthropic publicou uma pesquisa em que o Claude planeja sínteses químicas complexas — um trabalho que normalmente exige um químico especializado. A IA ainda não faz a parte física no laboratório, mas monta o passo a passo teórico.",
+      "significa": "Depois de texto, código e análise, a IA está chegando em ciência e P&D. Se sua empresa tem equipe técnica especializada, vale começar a pensar onde ela pode acelerar (e onde precisa de supervisão) antes que vire urgência.",
+      "fonte": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    }
+  ]
+}
