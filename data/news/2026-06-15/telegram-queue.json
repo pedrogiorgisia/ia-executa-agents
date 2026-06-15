@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-15",
+  "items": [
+    {
+      "titulo": "A OpenAI abriu um programa oficial pra consultores e agências venderem IA dela",
+      "aconteceu": "A OpenAI lançou uma rede de parceiros e botou US$ 150 milhões pra treinar e certificar consultorias, agências e integradores a implementar IA dela nos clientes — com suporte técnico e acesso prioritário a modelos novos.",
+      "significa": "Se você presta consultoria/mentoria de IA, agora existe um caminho oficial pra virar parceiro credenciado da OpenAI (a Anthropic já tinha o dela). Vira selo, lead e diferencial de venda — exatamente o tipo de movimento que muda como você se posiciona.",
+      "fonte": "https://openai.com/index/introducing-openai-partner-network",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"Todo mundo vai usar IA pra tudo\" não é o que os dados mostram",
+      "aconteceu": "Uma análise com muita tração argumenta que as pessoas usam IA de forma seletiva e pontual — do mesmo jeito que usam qualquer app ou mídia. A ideia de adoção massiva e homogênea não bate com o comportamento real.",
+      "significa": "Se você está montando projeção ou estratégia assumindo que \"100% do time vai usar IA o dia todo\", a premissa provavelmente está errada. Planeje pra adoção fragmentada — alguns processos, algumas pessoas, alguns momentos.",
+      "fonte": "https://news.ycombinator.com/item?id=48527700",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Google lançou um padrão pra transformar a papelada da empresa em algo que a IA entende",
+      "aconteceu": "O Google Cloud soltou o \"OKF\" (Open Knowledge Format), que converte documentos espalhados (Word, PDF, wikis, planilhas) num formato único e padronizado que agentes de IA conseguem ler de verdade.",
+      "significa": "O maior gargalo de \"IA interna que responde sobre minha empresa\" é que o conhecimento está espalhado em mil lugares. Esse padrão ataca exatamente isso — RH junta manual de benefícios, férias e salário num lugar só e o assistente passa a responder sem inventar.",
+      "fonte": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA que prometia baratear a saúde está sendo usada pra encarecer",
+      "aconteceu": "Relatório da PwC mostra que hospitais estão usando IA pra documentar diagnósticos com mais detalhe — e com isso cobrar mais caro dos planos. Um código médico triplicou de uso em 3 anos sem aumento de procedimentos reais: US$ 22 milhões de diferença.",
+      "significa": "A tecnologia é neutra; quem decide como usar é a organização. Se você vende IA internamente com a promessa de \"economia\", lembre que o mesmo motor pode ser apontado pro lado oposto — e cobre métrica real, não a promessa.",
+      "fonte": "https://news.ycombinator.com/item?id=48519519",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI está sendo investigada por vários estados nos EUA (incluindo dados de saúde)",
+      "aconteceu": "Procuradores-gerais de vários estados americanos abriram investigação sobre práticas de publicidade e tratamento de dados de saúde da OpenAI.",
+      "significa": "Se a sua empresa joga dado de paciente/cliente sensível dentro do ChatGPT, isso entra na zona de risco legal. É um lembrete concreto pra revisar o que se manda pra IA antes que vire problema de compliance.",
+      "fonte": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um dos maiores bancos da Europa contou como botou IA no centro da operação",
+      "aconteceu": "O BBVA (banco espanhol gigante) revelou como integrou a OpenAI no núcleo das operações — análise de crédito, ofertas personalizadas e automação de processos internos.",
+      "significa": "Vira um caso concreto pra quem ainda está na dúvida de \"por onde um banco regulado começa com IA\". Serve de referência e de argumento interno: já tem instituição grande e auditada fazendo, não é experimento de startup.",
+      "fonte": "https://openai.com/index/bbva",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Apesar do alarde, a IA não substituiu os engenheiros de software",
+      "aconteceu": "Um artigo com boa tração analisa por que, contra as previsões, a IA não eliminou vagas de engenharia. O ponto: programar é muito mais que escrever código — é entender o problema, decidir o design e alinhar com gente. Isso segue humano.",
+      "significa": "Se você está tomando decisão de headcount (contratar, terceirizar, cortar) apostando que \"IA substitui o time técnico\", calibre. O padrão que está aparecendo é amplificação de quem é bom, não substituição em massa.",
+      "fonte": "https://news.ycombinator.com/item?id=48487540",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um policial foi pego usando IA pra fabricar provas",
+      "aconteceu": "Um policial no Reino Unido está sob investigação formal por ter usado IA pra criar ou alterar evidências em casos criminais reais.",
+      "significa": "Reforça a pergunta que toda empresa vai ter que responder: \"quem assina o que a IA produziu?\". Em qualquer área onde documento tem peso legal (jurídico, saúde, financeiro, RH), texto gerado por IA sem revisão é bomba-relógio.",
+      "fonte": "https://news.ycombinator.com/item?id=48520807",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google Meet agora traduz sua voz na hora, e soa natural",
+      "aconteceu": "O Google lançou tradução de voz em tempo real com o Gemini 3.5 dentro do Meet — a voz sai natural (não robótica) e quase sem atraso, como uma conversa normal.",
+      "significa": "Reunião com cliente ou parceiro de outro país fica viável sem intérprete: você fala português e o outro ouve no idioma dele, ao vivo. Pra quem tem operação ou fornecedor internacional, isso já está embutido na ferramenta que você usa.",
+      "fonte": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O \"LLM próprio\" que o Rio de Janeiro anunciou era cópia de um modelo que já existia",
+      "aconteceu": "Uma iniciativa apresentada como IA desenvolvida pelo Rio de Janeiro foi desmascarada por análise técnica pública: era adaptação de um modelo já existente, sem a inovação alardeada.",
+      "significa": "Quando um fornecedor (ou um governo) diz que tem \"IA própria/local\", peça validação independente. Existe muito incentivo pra inflar capacidade — e quem compra sem checar paga caro.",
+      "fonte": "https://news.ycombinator.com/item?id=48528371",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
