@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-16",
+  "items": [
+    {
+      "titulo": "Se você usa o Claude no plano pessoal pra trabalhar, fique de olho: vão poder pedir sua identidade",
+      "aconteceu": "A Anthropic anunciou que, a partir de 8 de julho, pode exigir documento e foto do rosto (biometria) pra manter o acesso ao Claude nos planos Free, Pro e Max. Contas corporativas (Team, Enterprise, API) ficam de fora.",
+      "significa": "Se na sua empresa as pessoas usam conta pessoal do Claude pra tarefas de trabalho, você tem até julho pra decidir: ou migra pro plano corporativo, ou os funcionários vão ter que mandar biometria pra continuar usando.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/15/anthropic-reserves-right-to-check-id-for-claude-subs/5255804",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Salesforce comprou uma empresa de atendimento por IA por US$ 3,6 bilhões",
+      "aconteceu": "A Salesforce (dona de um dos CRMs mais usados do mundo) comprou a Fin, que cria assistentes de IA pra atender clientes, e vai integrar isso na própria plataforma.",
+      "significa": "Se sua empresa já roda no Salesforce, em breve dá pra ligar um agente de IA que resolve 70-80% dos chamados de suporte sozinho — sem contratar outra ferramenta nem integração separada.",
+      "fonte": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Golpe no LinkedIn: \"recrutador\" manda teste técnico que invade seu computador",
+      "aconteceu": "Criminosos criam perfis falsos de recrutadores no LinkedIn e mandam um \"teste técnico\" com código escondido. Ao abrir o arquivo, o computador da vítima é totalmente comprometido.",
+      "significa": "Não é só problema do profissional — se ele usa o computador da empresa, o ataque pode chegar a credenciais, sistemas e dados corporativos. Vale avisar o time pra desconfiar de \"testes\" enviados por desconhecidos.",
+      "fonte": "https://news.ycombinator.com/item?id=48546294",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Surgiu uma startup pra dar \"crachá\" a agentes de IA — e levantou US$ 66 milhões",
+      "aconteceu": "A NewCore captou US$ 66 milhões pra tratar agentes de IA como \"funcionários digitais\": cada agente ganha permissões próprias, e dá pra revogar o acesso na hora.",
+      "significa": "Hoje, quem coloca um agente de IA rodando na empresa não tem como controlar o que ele acessa. Com isso, um banco poderia dar ao agente acesso só ao sistema de cobranças e cortar tudo pelo celular — igual desativar o crachá de um demitido.",
+      "fonte": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O CEO da Microsoft avisa: não terceirize TODO o seu conhecimento pra um modelo de fora",
+      "aconteceu": "Satya Nadella disse que pouquíssimas empresas de IA vão capturar quase todo o retorno financeiro, e recomendou construir \"capital próprio\" de IA — usar os dados da sua empresa pra criar algo que continue valendo mesmo se você trocar de fornecedor.",
+      "significa": "Empresa que só \"assina o ChatGPT\" e não constrói nada em cima fica refém. O conselho concreto: use seus próprios dados e processos pra customizar, em vez de depender 100% de um modelo de terceiro.",
+      "fonte": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma IA resolveu um susto de banco de dados às 3h da manhã — sem acordar ninguém",
+      "aconteceu": "Uma empresa contou que usou o Claude pra investigar um alarme crítico de banco de dados de madrugada. A IA diagnosticou que era falso alarme e evitou acordar o engenheiro de plantão.",
+      "significa": "É um exemplo real de IA como \"primeiro plantão\" em emergências técnicas — triando o que é grave do que é ruído, antes de tirar alguém da cama. Reduz custo de plantão 24/7 e estresse da equipe.",
+      "fonte": "https://news.ycombinator.com/item?id=48543500",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Agentjacking\": dá pra enganar uma IA autônoma com uma mensagem de erro falsa",
+      "aconteceu": "Pesquisadores mostraram que é possível sequestrar agentes de IA inserindo mensagens de erro falsas — a IA acredita e executa o que o criminoso quer.",
+      "significa": "Quanto mais autonomia (e acesso a sistemas) você dá a um agente de IA, maior a superfície de ataque. Antes de soltar um agente em produção, vale limitar o que ele pode fazer sozinho.",
+      "fonte": "https://news.ycombinator.com/item?id=48545271",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo mostra o limite de quem usa IA pra corrigir código: acha o arquivo certo, erra as linhas",
+      "aconteceu": "Um teste novo (SWE-Explore) revelou que ferramentas como o Claude Code encontram o arquivo certo pra corrigir um bug, mas acertam só 14-19% das linhas específicas que precisam mudar.",
+      "significa": "Se seu time usa IA pra mexer em sistema legado, revisão humana continua obrigatória — a IA acha o módulo certo, mas tende a perder pedaços críticos dentro dele.",
+      "fonte": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Índia ganhou seu novo unicórnio de IA — e quem liderou foi uma gigante de TI",
+      "aconteceu": "A startup indiana Sarvam (modelos de IA pra idiomas locais e uso corporativo) captou US$ 234 milhões e virou unicórnio, com rodada liderada pela HCLTech.",
+      "significa": "As grandes empresas de TI offshore estão apostando em IA própria, não só revendendo modelo americano. Quem terceiriza TI pra essas empresas deve ver propostas com modelos proprietários mudando preço e contrato.",
+      "fonte": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic quase mudou a conta do Claude — e recuou depois da reação",
+      "aconteceu": "A Anthropic anunciou que separaria os custos de ferramentas de IA da assinatura normal do Claude e voltou atrás depois da reação negativa dos usuários.",
+      "significa": "Fornecedor de IA pode mudar a forma de cobrar de uma hora pra outra. Quem depende dessas ferramentas precisa acompanhar mudanças de preço que mexem no orçamento sem aviso.",
+      "fonte": "https://news.ycombinator.com/item?id=48546618",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
