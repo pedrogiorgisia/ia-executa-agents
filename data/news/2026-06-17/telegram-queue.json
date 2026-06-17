@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-17",
+  "items": [
+    {
+      "titulo": "A Microsoft vai começar a cobrar o Copilot por uso — e pode trocar o motor por uma IA chinesa",
+      "aconteceu": "A Microsoft estuda parar de cobrar uma mensalidade fixa pelo Copilot e passar a cobrar por consumo (quanto mais você usa, mais paga). Junto, avalia usar o modelo chinês DeepSeek, que é mais barato, por trás do Copilot.",
+      "significa": "Se sua empresa paga Copilot pra muita gente, a conta pode mudar de figura: quem usa pouco economiza, quem usa muito pode pagar mais. Vale reabrir a planilha de custo de IA antes de a mudança chegar.",
+      "fonte": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI gastou US$ 34 bilhões em um ano — e isso provavelmente vai bater no seu bolso",
+      "aconteceu": "As despesas da OpenAI (dona do ChatGPT) subiram pra US$ 34 bilhões no último ano. Esse nível de queima de caixa cria pressão pra ela aumentar preço ou cortar os planos \"ilimitados\".",
+      "significa": "Se você orçou ferramentas de IA contando com o preço de hoje, melhor deixar uma folga. Aumento de preço de API e fim de cota \"ilimitada\" são o caminho mais provável.",
+      "fonte": "https://the-decoder.com/openai-burned-through-34-billion-last-year/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A SpaceX comprou o Cursor por US$ 60 bilhões",
+      "aconteceu": "Dias depois de abrir capital na bolsa, a SpaceX (do Elon Musk) comprou a Anysphere, dona do Cursor — uma ferramenta de programação com IA muito usada, concorrente do Claude Code. Foi uma das maiores compras já feitas no setor.",
+      "significa": "Empresa de foguete comprando ferramenta de programação mostra que ativos de IA viraram \"infraestrutura estratégica\", disputada por gente de fora da tecnologia. Quem usa Cursor pode esperar mais investimento — e a janela pra comprar empresa de IA \"barata\" está fechando.",
+      "fonte": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Rodar IA dentro da própria empresa, sem mandar dado pra fora, finalmente ficou viável",
+      "aconteceu": "O texto mais comentado da semana entre técnicos (1.171 votos) mostra que rodar modelos de IA no próprio computador da empresa — sem depender de OpenAI ou Google — deixou de ser experimento e virou opção prática.",
+      "significa": "Se você trabalha com dado sensível (jurídico, saúde, financeiro) e travava em IA por medo de vazar informação pra nuvem de terceiros, agora existe um caminho real de processar tudo \"dentro de casa\".",
+      "fonte": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Tribunal alemão decidiu que o Google não responde pelo que a IA dele resume",
+      "aconteceu": "Uma corte de Berlim decidiu que os resumos de IA que o Google mostra no topo da busca são \"um novo formato de busca\" — ou seja, o Google não é responsável pelo conteúdo que esses resumos inventam ou erram.",
+      "significa": "Se o resumo de IA do Google falar algo errado sobre a sua empresa, você não processa o Google — tem que correr atrás do site de origem. Monitorar o que a IA da busca diz da sua marca virou trabalho de reputação.",
+      "fonte": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA lançou IA que funciona dentro de óculos de realidade aumentada",
+      "aconteceu": "A NVIDIA abriu em teste público uma plataforma (XR AI) pra criar assistentes de IA que rodam dentro de óculos de realidade aumentada e respondem ao que a pessoa está vendo, em tempo real.",
+      "significa": "Um técnico de manutenção pode apontar pra uma máquina quebrada e receber o passo a passo do conserto no próprio óculos, sem largar a ferramenta nem abrir manual. É IA saindo da tela e indo pro trabalho de campo.",
+      "fonte": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"A Meta está destruindo o próprio time de engenharia?\"",
+      "aconteceu": "Um texto muito comentado relata que a Meta (dona de Instagram e WhatsApp) está forçando milhares de engenheiros a largar seus projetos pra rotular dados e treinar IA — gerando frustração e fuga de gente boa.",
+      "significa": "É um aviso pra quem quer \"pivotar tudo pra IA\" de uma vez: realocar o time à força, sem estratégia, espanta talento e quebra a operação. Adoção de IA também é gestão de pessoas.",
+      "fonte": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma ferramenta de IA sumiu da noite pro dia depois de captar US$ 7,3 milhões",
+      "aconteceu": "Uma startup de IA levantou US$ 7,3 milhões de investidores e, logo em seguida, encerrou seu produto gratuito sem aviso. Quem dependia dele ficou sem suporte instantaneamente.",
+      "significa": "O ecossistema de ferramentas de IA ainda é frágil — projeto some, startup quebra. Antes de montar um processo crítico em cima de uma ferramenta de IA pequena, vale ter um plano B e evitar ficar refém de um fornecedor só.",
+      "fonte": "https://github.com/tensorzero/tensorzero",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic está brigando com o governo Trump — e mesmo assim vendendo mais",
+      "aconteceu": "A Anthropic (dona do Claude) está em conflito público com a administração Trump, mas os dados mostram que as vendas corporativas dela continuam crescendo.",
+      "significa": "Se você temia que essa briga política pudesse interromper o fornecimento do Claude pra sua empresa, o sinal é tranquilizador: o mercado corporativo não está esperando a poeira política baixar pra adotar.",
+      "fonte": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA já matou o livro de autoajuda?",
+      "aconteceu": "As vendas de livros de desenvolvimento pessoal estão caindo, e a discussão da semana é se a IA — que responde sua dúvida na hora, do seu jeito — tornou esse formato obsoleto.",
+      "significa": "A pergunta vale pra dentro da empresa: se a IA substitui o livro de autoajuda, quais treinamentos corporativos (e-learning, cursos prontos, apostila) são os próximos a perder sentido? Vale repensar como sua empresa capacita gente.",
+      "fonte": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A AMD comprou uma empresa pra fazer IA rodar com menos memória cara",
+      "aconteceu": "A AMD (concorrente da NVIDIA em chips) comprou a Mext, que usa IA pra decidir automaticamente o que fica na memória rápida (RAM) e o que vai pro armazenamento mais lento — permitindo rodar sistemas grandes com menos hardware caro.",
+      "significa": "Se sua empresa pensa em rodar IA em servidor próprio, o custo de hardware tende a cair nos próximos ciclos — um servidor que hoje exige muita RAM cara poderá fazer o mesmo com bem menos.",
+      "fonte": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Agora dá pra ser avisado antes de estourar o orçamento de IA da OpenAI",
+      "aconteceu": "A OpenAI atualizou a ferramenta que desenvolvedores usam pra conectar sistemas ao ChatGPT, adicionando alertas automáticos de gasto: o administrador recebe aviso quando o consumo passa de um limite definido.",
+      "significa": "Se sua empresa tem produto ou automação ligada na API da OpenAI, dá pra configurar um \"freio\" e ser avisado antes da fatura disparar — em vez de descobrir o rombo só no fim do mês.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v2.42.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um software pode acelerar em até 5 anos a construção de data centers de IA",
+      "aconteceu": "A MIT Technology Review mostrou um software (Conductor) que faz data centers reduzirem o consumo automaticamente quando a rede elétrica fica sobrecarregada — removendo o principal entrave para liberar novas instalações.",
+      "significa": "Mais data centers de IA chegando significa mais oferta de capacidade no médio prazo, o que tende a segurar (ou baixar) o preço de nuvem que sua empresa paga em AWS, Azure ou Google Cloud.",
+      "fonte": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
