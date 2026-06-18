@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-18",
+  "items": [
+    {
+      "titulo": "O ChatGPT deixou de ser a escolha da maioria pela primeira vez",
+      "aconteceu": "Pela primeira vez, o ChatGPT caiu abaixo de 50% de participação entre os usuários de assistentes de IA. Gemini (Google) e Claude (Anthropic) vêm ganhando terreno.",
+      "significa": "A era do \"IA = ChatGPT\" acabou. Se a sua empresa padronizou tudo numa ferramenta só, vale reavaliar se ainda é a melhor — e começar a entender as diferenças entre as plataformas antes de renovar licença.",
+      "fonte": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um profissional gastou US$ 47 mil em IA em 90 dias sem perceber",
+      "aconteceu": "Virou viral o relato de alguém que torrou US$ 47 mil (uns R$ 250 mil) em 90 dias usando uma ferramenta de IA paga por uso, sem se dar conta de que a conta estava subindo.",
+      "significa": "Ferramenta de IA cobra por uso (cada chamada, cada tarefa) de um jeito invisível. Sem alguém olhando o gasto toda semana, a despesa escala calada. Se você adotou IA paga por uso, monte um teto e um alerta hoje.",
+      "fonte": "https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "As gigantes da nuvem talvez não tenham caixa pra bancar a corrida de IA",
+      "aconteceu": "Uma análise mostra que o gasto de Google, Microsoft e Amazon com infraestrutura de IA cresce 70% ao ano, enquanto o caixa que entra cresce só 23% — o que pode pressionar o modelo já no fim de 2026.",
+      "significa": "Se essas empresas tiverem que segurar investimento ou buscar dinheiro emprestado, o preço das APIs de IA pode subir. Quem construiu produto/processo em cima de uma única IA deveria começar a pensar num plano B de fornecedor.",
+      "fonte": "https://the-decoder.com/hyperscalers-may-soon-be-unable-to-fund-their-ai-buildout-from-cash-flow-alone/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "EUA seguram o veto ao DeepSeek — mas colocaram 100+ empresas na mira",
+      "aconteceu": "O governo americano marcou mais de 100 empresas de tecnologia (a maioria chinesa) como risco de segurança e adiou a decisão de proibir o DeepSeek, uma IA chinesa popular por ser gratuita e potente.",
+      "significa": "Quem já usa ou pensa em usar IA chinesa (DeepSeek, Qwen, GLM) pode topar com uma restrição legal a qualquer momento — não por problema técnico, mas por decreto. É risco de compliance, não só de tecnologia.",
+      "fonte": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Pinterest vira \"vitrine que entende pergunta\" com busca por IA",
+      "aconteceu": "O Pinterest lançou o \"Ask Pinterest\", um app onde você procura produto escrevendo em linguagem natural (\"sofá azul pra sala pequena\") em vez de ficar rolando foto.",
+      "significa": "Se a sua marca usa o Pinterest pra ser descoberta, o cliente vai chegar mais direto ao ponto — o que exige descrição de produto e catálogo pensados pra IA responder, não só pra foto bonita.",
+      "fonte": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "DeepL comprou empresa de tradução ao vivo pra eventos",
+      "aconteceu": "A DeepL (plataforma de tradução automática) comprou a Mixhalo, que faz streaming de áudio e tradução em tempo real para eventos presenciais.",
+      "significa": "Dá pra oferecer tradução simultânea em vários idiomas num evento, treinamento ou conferência sem contratar uma equipe de intérpretes — corta custo e amplia o público que consegue participar.",
+      "fonte": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O melhor modelo de IA \"aberto\" do mundo agora é chinês",
+      "aconteceu": "O GLM-5.2, um modelo chinês de uso gratuito, assumiu o 1º lugar no ranking global de modelos de peso aberto, passando à frente dos abertos americanos.",
+      "significa": "Quem assumia que a melhor IA viria sempre de OpenAI, Google ou Anthropic precisa revisar isso. Modelo aberto e gratuito de ponta agora é uma opção real — mas vem junto com o risco geopolítico do item do DeepSeek acima.",
+      "fonte": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"Se um robô vier correndo, prefere ele rodando Claude ou Grok?\"",
+      "aconteceu": "Um experimento colocou modelos de IA pra competir num cenário de decisão autônoma, medindo quem se sai melhor — e a que custo — quando a IA age sozinha, sem alguém aprovando cada passo.",
+      "significa": "Escolher qual IA usar pra automação está virando uma decisão tão estratégica quanto escolher um ERP. O mercado começou a comparar modelos por custo-benefício, não só por \"qual é mais inteligente\".",
+      "fonte": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Midjourney (a de gerar imagem) entrou na saúde — e levou ceticismo",
+      "aconteceu": "A Midjourney, conhecida por criar imagens com IA, anunciou um produto que promete escanear o corpo inteiro por ultrassom e detectar doenças com IA. A comunidade técnica reagiu com forte desconfiança sobre precisão e ética.",
+      "significa": "O apelo comercial de IA na saúde é real, mas o risco de diagnóstico falso (e o estrago de reputação que vem junto) é alto. Se você atua em setor regulado, promessa grande de IA pede ceticismo grande.",
+      "fonte": "https://www.midjourney.com/medical/blogpost",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora deixa você configurar tudo dentro do chat",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA da Anthropic, a que eu uso na mentoria) passou a permitir mudar qualquer configuração digitando `/config nome=valor` na própria conversa, sem abrir menu separado.",
+      "significa": "Se você usa Claude Code, dá pra ajustar o comportamento dele (ligar/desligar opções) no meio do trabalho sem quebrar o fluxo. Detalhe pequeno, mas tira atrito do dia a dia.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Os alertas que custaram o emprego de uma pesquisadora do Google se confirmaram",
+      "aconteceu": "Timnit Gebru, pesquisadora de ética em IA, foi demitida do Google em 2020 por alertar sobre riscos de modelos de linguagem (desinformação, viés, uso irresponsável). Um texto com tração no HN mostra que praticamente tudo que ela apontou virou realidade.",
+      "significa": "Empresa que cala a voz crítica interna sobre IA tende a colher o problema em público depois. Vale ter um canal legítimo onde a equipe levanta risco de IA antes de virar crise.",
+      "fonte": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
