@@ -1,0 +1,150 @@
+{
+  "date": "2026-06-20",
+  "items": [
+    {
+      "titulo": "Noruega proibiu IA nas escolas primárias — e virou o primeiro país a botar isso na lei",
+      "aconteceu": "O governo da Noruega decidiu que crianças do 1º ao 7º ano não vão poder usar ferramentas de IA (tipo ChatGPT) na escola, a partir de agosto, pra garantir que aprendam a ler, escrever e fazer conta do jeito tradicional.",
+      "significa": "É o primeiro caso concreto de um país transformando \"preocupação com IA\" em lei setorial. Se você vende edtech, treinamento ou qualquer produto com IA pra público sensível (crianças, saúde, finanças), esse é o tipo de precedente que muda o que é permitido — vale acompanhar antes de virar regra no seu mercado.",
+      "fonte": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#LLM",
+        "#Investimento",
+        "#Regulação",
+        "#Saúde",
+        "#Educação"
+      ]
+    },
+    {
+      "titulo": "Um teste novo mostrou que a IA resolve sozinha só 3% das tarefas reais de trabalho",
+      "aconteceu": "Pesquisadores criaram um teste com tarefas reais de trabalho intelectual (análises, pesquisas, decisões) e descobriram que até os melhores modelos de IA conseguem terminar corretamente, do começo ao fim, apenas 3% delas.",
+      "significa": "Se você delegou uma análise inteira pra IA sem ninguém revisar, está rodando com 97% de risco de erro nas tarefas complexas. O recado prático: IA serve pra acelerar tarefa simples e revisar rascunho — não pra rodar sozinha em decisão crítica. Quem desenhou processo com \"agente autônomo\" precisa colocar ponto de revisão humana.",
+      "fonte": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Hyundai comprou a Boston Dynamics (aquela dos robôs que viralizam dançando)",
+      "aconteceu": "A montadora Hyundai assumiu o controle total da Boston Dynamics — a empresa famosa pelos robôs humanoides e cachorros-robôs — comprando a fatia que era da SoftBank por US$ 325 milhões.",
+      "significa": "É sinal de que a próxima onda de automação por IA vai além do escritório e do call center: chega à fábrica, à logística e ao trabalho físico. Montadora tradicional comprando capacidade de robótica é um recado de que quem tem operação intensiva em mão de obra deve botar isso no horizonte de planejamento (5-7 anos, não amanhã).",
+      "fonte": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Texto que viralizou: dá pra \"sentir o cheiro\" de conteúdo feito por IA — e isso é risco de marca",
+      "aconteceu": "Um desenvolvedor mapeou os padrões típicos de texto escrito por IA (frases com a mesma estrutura, repetição, falta de voz própria) — sinais que qualquer leitor atento reconhece, mesmo sem saber que foi IA que escreveu.",
+      "significa": "Se sua equipe usa IA pra produzir post, e-mail ou comunicação de marca sem revisão humana, cliente e parceiro percebem — e associam à falta de cuidado. Conteúdo \"genérico de IA\" virou um problema de reputação, não só de qualidade. A revisão humana deixou de ser luxo: é o que separa sua marca do \"papo de robô\".",
+      "fonte": "https://shvbsle.in/various-llm-smells/",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Acharam uma brecha no modelo mais novo da Anthropic — e o governo dos EUA mandou bloquear estrangeiros",
+      "aconteceu": "Pesquisadores descobriram um jeito de burlar as proteções do \"Fable\", o modelo de IA mais novo da Anthropic. A resposta do governo americano foi ordenar que a empresa cortasse o acesso ao modelo para quem está fora dos EUA.",
+      "significa": "Se sua empresa construiu um produto em cima de uma única IA americana, uma decisão de governo (sem aviso) pode te deixar na mão da noite pro dia. É o argumento mais forte do ano pra ter plano B: não depender de um só fornecedor de IA.",
+      "fonte": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Elastic comprou uma IA que caça e conserta bug de código sozinha",
+      "aconteceu": "A Elastic (empresa de busca e monitoramento de sistemas) comprou por até US$ 85 milhões a Deductive AI, uma startup que usa IA pra detectar e corrigir bugs automaticamente.",
+      "significa": "Quem já usa Elastic pra monitorar sistemas vai ganhar correção de falha embutida na plataforma — menos tempo de engenheiro caçando erro manualmente. É mais um sinal de que ferramentas de monitoramento estão virando \"ferramentas que também consertam\".",
+      "fonte": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Snapchat largou o time de vídeo por IA numa empresa separada — porque custava caro demais",
+      "aconteceu": "O Snap (dono do Snapchat) tirou sua equipe de geração de vídeo por IA de dentro de casa e criou uma empresa independente chamada Dotmo, principalmente pra reduzir custo.",
+      "significa": "Dois recados. Um: gerar vídeo por IA ainda é caro o bastante pra uma big tech \"terceirizar pra fora\". Dois: a tecnologia de vídeo IA do Snap vira produto independente — produtora e agência podem usar sem depender do ecossistema Snapchat.",
+      "fonte": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma empresa que \"roda IA pros outros\" levantou US$ 1,5 bilhão",
+      "aconteceu": "A Baseten — startup que hospeda e executa modelos de IA para outras empresas — captou US$ 1,5 bilhão, poucos meses depois da rodada anterior.",
+      "significa": "Sinal de que dinheiro institucional continua apostando pesado na infraestrutura que faz a IA rodar, mesmo com o hype \"esfriando\" no consumidor. Na prática: quem usa IA em produção vai ter mais opções de fornecedor — e mais concorrência tende a empurrar preço e latência pra baixo.",
+      "fonte": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo: quanto mais tempo um agente de IA trabalha sozinho, mais ele esquece suas regras",
+      "aconteceu": "Uma pesquisa mostrou que agentes de IA encarregados de escrever código vão \"perdendo\" as regras de segurança que receberam ao longo de conversas longas — quanto mais complexo fica o contexto, mais o agente ignora os limites que deveria respeitar.",
+      "significa": "Não é só sobre código. Se você automatizou um processo crítico (financeiro, jurídico, operação) com agente de IA rodando sozinho por muito tempo, ele tende a desviar das regras sem avisar. Tradução de gestão: ponto de revisão humana não é burocracia, é controle de risco.",
+      "fonte": "https://arxiv.org/abs/2605.06445",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Cohere ligou um recurso que impede cliente grande de \"travar\" a IA dos clientes menores",
+      "aconteceu": "A Cohere ativou pra todos os clientes da sua API um sistema de fila justa: empresas que disparam muitos pedidos não prejudicam mais o desempenho de quem compartilha a mesma infraestrutura.",
+      "significa": "Se você usa a API da Cohere e já sofreu lentidão imprevisível em horário de pico, isso acaba — cada cliente passa a ter sua \"pista\" própria. É um lembrete pra cobrar previsibilidade (SLA) de qualquer fornecedor de IA que você contrata.",
+      "fonte": "https://cohere.com/blog/serving-fairness",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Noruega está treinando sua IA \"soberana\" com 2 petabytes de hardware chinês (Huawei)",
+      "aconteceu": "Veio à tona que a Noruega usa uma quantidade enorme de armazenamento da Huawei (chinesa) pra treinar seus próprios modelos de IA — o que levanta dúvida sobre depender de hardware estrangeiro num projeto que era pra ser \"soberano\".",
+      "significa": "A cadeia de fornecimento da IA que você usa também tem risco geopolítico, não só cibernético. Pra empresa regulada (banco, saúde, governo), vale perguntar não só \"onde meus dados ficam\", mas \"de quem é o hardware que roda essa IA\".",
+      "fonte": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Saúde",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
