@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-21",
+  "items": [
+    {
+      "titulo": "O Codex (IA de código da OpenAI) agora aprende a tarefa só de te assistir uma vez",
+      "aconteceu": "A OpenAI lançou o \"Record & Replay\" no Codex: você executa um processo manual uma vez na tela, e a IA aprende a repetir aquilo sozinha depois — sem precisar programar nada. (Por enquanto não está disponível na Europa e no Reino Unido.)",
+      "significa": "Aquele processo chato e repetitivo de toda semana — baixar extrato, jogar na planilha, conferir, mandar e-mail — você grava uma vez e a IA passa a fazer sozinha. É automação sem TI e sem programador.",
+      "fonte": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Ler um monte de documento com IA acabou de ficar 300x mais barato",
+      "aconteceu": "A startup Subquadratic mostrou uma técnica que processa textos longos com IA 56x mais rápido — uma análise que custava US$ 2.600 passou a custar US$ 8.",
+      "significa": "Tarefas que eram caras demais pra valer a pena — revisar centenas de contratos, laudos, relatórios — ficam viáveis por centavos. Coisa que você descartava por preço volta pra mesa.",
+      "fonte": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon diz que fazer humano aprovar cada passo da IA atrapalha mais do que protege",
+      "aconteceu": "A Amazon publicou uma posição polêmica: exigir que uma pessoa aprove cada ação de um agente de IA gera \"fadiga de aprovação\" e acaba falhando mais do que protege. A proposta é registrar quem acionou o agente e responsabilizar essa pessoa — em vez de travar tudo em cada clique.",
+      "significa": "Se você está colocando IA pra rodar tarefa interna, vale repensar o controle: aprovar cada passo cansa e ninguém lê de verdade; rastrear \"quem mandou rodar\" pode ser mais eficaz. É um debate de governança que vai bater na sua empresa.",
+      "fonte": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo na Nature: depender de IA está fazendo o profissional perder habilidade",
+      "aconteceu": "Uma pesquisa publicada na revista Nature trouxe os primeiros indícios de que quem usa IA pra tarefas do dia a dia vai perdendo capacidades que tinha — e fica cada vez mais dependente da ferramenta.",
+      "significa": "Adotar IA sem cuidar do desenvolvimento do time pode criar, em alguns anos, uma equipe que não sabe mais fazer sem a IA. Não é motivo pra não usar — é motivo pra usar com estratégia de treino junto.",
+      "fonte": "https://www.nature.com/articles/d41586-026-01947-1",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Só 16% dos americanos acham que a IA vai melhorar a vida das pessoas",
+      "aconteceu": "Um estudo nacional nos EUA mostrou que apenas 16% acreditam que a IA terá impacto positivo na sociedade — ou seja, mais de 8 em cada 10 desconfiam.",
+      "significa": "Se sua estratégia assume que \"todo mundo quer IA\", cuidado: lá fora a desconfiança é a regra, não a exceção. Vender IA pro cliente (e até internamente, pro time) exige mostrar resultado concreto, não a buzzword.",
+      "fonte": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon está investigando funcionários que criticaram os gastos dela com IA",
+      "aconteceu": "Engenheiros da Amazon que questionaram internamente o tamanho dos investimentos em data centers de IA passaram a ser investigados pela liderança.",
+      "significa": "É o comportamento clássico de bolha — quando a crítica vira risco de carreira, a empresa perde o sinal de alerta interno. Pra quem lidera: crie espaço seguro pra avaliar projeto de IA com honestidade, senão você só ouve o que quer.",
+      "fonte": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Cloudflare criou um \"crachá temporário\" pra robôs de IA acessarem sistemas",
+      "aconteceu": "A Cloudflare (uma das maiores empresas de segurança da internet) lançou contas temporárias pra agentes de IA — uma forma de dar acesso controlado e rastreável pra robôs que agem nos seus sistemas, e cortar esse acesso quando não precisa mais.",
+      "significa": "Conforme você coloca agentes de IA pra mexer em sistemas da empresa, surge a pergunta \"quem deu acesso a quê?\". Já começou a virar infraestrutura padrão controlar e auditar o que esses robôs fazem.",
+      "fonte": "https://blog.cloudflare.com/temporary-accounts/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um ganhador do Nobel trocou o Google (DeepMind) pela Anthropic",
+      "aconteceu": "John Jumper, que ganhou o Nobel de Química em 2024 pelo trabalho de IA com proteínas no DeepMind, saiu da empresa do Google e foi pra Anthropic (a dona do Claude).",
+      "significa": "Talento de altíssimo nível migrando pra Anthropic é sinal de pra onde o peso científico está indo. Se você escolhe fornecedor de IA pensando em solidez de longo prazo, é um dado relevante — especialmente em saúde e ciências.",
+      "fonte": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O que a IA não consegue copiar: a confiança de um relacionamento humano",
+      "aconteceu": "Um texto que circulou bastante defende que o ativo mais difícil de ser replicado por IA é a confiança construída em relacionamentos — e que negócios que cultivam isso ganham proteção natural contra virar commodity.",
+      "significa": "Num mundo onde a parte \"executar\" está cada vez mais automatizada, a parte \"relação de confiança\" vira o diferencial. Consultoria, venda complexa, atendimento de alto valor: investir em relacionamento humano é estratégia, não custo.",
+      "fonte": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
