@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-22",
+  "items": [
+    {
+      "titulo": "Uma empresa trocou o Claude por uma IA gratuita e economizou US$ 375 mil por ano",
+      "aconteceu": "Uma empresa publicou um relato detalhado de como saiu do Claude (a IA paga da Anthropic) e migrou pra um modelo de IA aberto/gratuito. A conta anual caiu de US$ 606 mil pra US$ 231 mil — 62% mais barato — sem perder qualidade que importasse.",
+      "significa": "Se a sua empresa já tem uma fatura crescente de IA, vale revisar contrato esta semana: dá pra rodar boa parte do trabalho num modelo aberto e gastar uma fração. Nem sempre você precisa do modelo mais caro do mercado pra tarefa do dia a dia.",
+      "fonte": "https://blog.firetiger.com/migrating-from-claude-to-deepseek-without-breaking-everything/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Samsung deu ChatGPT e Codex pra empresa inteira de uma vez",
+      "aconteceu": "A Samsung liberou o ChatGPT (versão corporativa) e o Codex — ferramenta da OpenAI que escreve código — pros funcionários no mundo todo, virando um dos maiores clientes da OpenAI.",
+      "significa": "Vira um argumento pronto pra quem ainda precisa convencer a chefia a adotar IA: \"se a Samsung botou na mão de todo mundo, não é mais experimento\". Serve de referência concreta pra justificar um piloto de IA na sua área.",
+      "fonte": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Agora o Claude pode pedir foto do seu documento e uma selfie pra você usar",
+      "aconteceu": "A Anthropic (dona do Claude) passou a exigir verificação de identidade — foto de documento oficial e selfie ao vivo, como num banco digital — pra liberar certas funcionalidades. O aviso era de semanas atrás; agora virou obrigatório de verdade.",
+      "significa": "Se você ou seu time usam o Claude pra trabalhar, pode bater essa exigência de identificação no meio do caminho. Vale saber disso antes de depender 100% da ferramenta num processo crítico — e conferir se a política de privacidade da empresa permite mandar documento pra um fornecedor de fora.",
+      "fonte": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Tem ferramenta nova só pra achar a \"IA clandestina\" que seus funcionários criaram",
+      "aconteceu": "A Vercel lançou o \"Passport\", um sistema pra TI descobrir e controlar os agentes de IA que funcionários montam por conta própria — muitas vezes usando dados da empresa sem ninguém saber.",
+      "significa": "Tem gente no seu time hoje colando planilha, contrato e dado de cliente em ferramentas de IA pessoais. Isso já tem nome (\"shadow AI\") e agora tem produto pra resolver — sinal de que o problema é grande o suficiente pra virar risco de vazamento que você precisa olhar.",
+      "fonte": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Não sei, foi o Claude que escreveu\" — a desculpa que virou problema de gestão",
+      "aconteceu": "Um artigo descreve uma epidemia nos times: gente entrega trabalho feito por IA sem revisar e, quando questionada, responde \"foi o Claude que fez\". A frase virou símbolo de ninguém se responsabilizar pelo que entrega.",
+      "significa": "Adotar IA sem combinar quem revisa e assume o resultado cria um buraco de responsabilidade no time. Antes de espalhar IA na equipe, vale uma regra simples: quem usa, revisa e responde pelo que entregou — IA não é álibi.",
+      "fonte": "https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon lançou ferramentas pra empresa usar agente de IA sem se queimar",
+      "aconteceu": "A AWS (nuvem da Amazon) lançou dois serviços: um que revisa o código gerado por IA atrás de falhas de segurança, e outro que dá ao agente de IA o contexto do seu negócio pra ele não \"chutar\" sozinho.",
+      "significa": "Um dos maiores medos de botar IA pra rodar tarefa sozinha é ela errar feio sem ninguém ver. Começam a aparecer ferramentas prontas pra reduzir esse risco — útil pra quem quer automatizar processo interno (financeiro, contrato, atendimento) sem apostar que \"a IA vai acertar\".",
+      "fonte": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Agentes",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A IA inflou as notas dos alunos — mas só nas tarefas de casa, não nas provas",
+      "aconteceu": "Um estudo da Universidade de Berkeley com mais de 500 mil registros mostrou que, depois do ChatGPT, as notas subiram nos trabalhos feitos em casa, mas não nas provas presenciais. Ou seja: a IA fez a lição, o aluno não necessariamente aprendeu.",
+      "significa": "Se você contrata recém-formado, o boletim bonito pode esconder uma defasagem real de habilidade. Vale calibrar a entrevista e o período de treinamento assumindo que parte do que está no currículo foi \"terceirizado\" pra IA.",
+      "fonte": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#LLM",
+        "#Educação",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude deu pau em vários modelos ao mesmo tempo — o lembrete pra ter plano B",
+      "aconteceu": "A Anthropic registrou um incidente de instabilidade em que vários modelos do Claude ficaram com erro e lentidão ao mesmo tempo, incluindo os mais usados no trabalho.",
+      "significa": "IA caiu, e quem dependia dela num processo crítico ficou na mão. A lição prática: não amarre uma operação que não pode parar a um único fornecedor de IA — tenha um caminho alternativo (outra ferramenta ou o jeito manual) pro dia em que ela cair.",
+      "fonte": "https://status.claude.com/incidents/lv35v0q9nsj2",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
