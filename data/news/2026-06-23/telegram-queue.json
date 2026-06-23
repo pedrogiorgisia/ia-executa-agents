@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-23",
+  "items": [
+    {
+      "titulo": "A Anthropic lançou um \"estagiário digital\" que mexe nos arquivos do seu computador",
+      "aconteceu": "A Anthropic (dona do Claude) lançou o Cowork, um programa pra Mac que você aponta pra uma pasta do computador e ele faz tarefas chatas sozinho: organizar arquivos, montar planilha a partir de fotos de recibos, escrever um relatório juntando notas espalhadas.",
+      "significa": "Aquele monte de recibo e nota solta que você empurra com a barriga pode virar planilha pronta sem você digitar nada. É o tipo de tarefa de meia-hora que some.",
+      "fonte": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Slack agora tem um assistente que entende \"me mostra os clientes sumidos há 3 meses\"",
+      "aconteceu": "A Salesforce reconstruiu o Slackbot do zero. Agora ele busca dentro do Slack, do Salesforce e do Google Drive em linguagem normal, escreve documentos e agenda reuniões.",
+      "significa": "Em vez de abrir o CRM, caçar e-mail e olhar agenda separados, você pergunta no Slack \"clientes da região X sem contato há 3 meses\" e ele te dá a lista e oferece marcar o follow-up.",
+      "fonte": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Google diz que daqui a 3-5 anos ninguém mais vai \"puxar relatório\" na mão",
+      "aconteceu": "Executivos do Google afirmaram que, em 3 a 5 anos, agentes de IA é que vão consultar os bancos de dados da empresa. O humano só diz o que quer entender; a IA gera a análise.",
+      "significa": "O papel do analista de dados muda de quem executa pra quem revisa. Se você lidera time de dados/BI, vale começar a pensar nessa transição já.",
+      "fonte": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Getty fechou com o ChatGPT pra licenciar fotos — e isso vira regra do mercado",
+      "aconteceu": "A Getty Images (maior banco de fotos profissionais do mundo) fez um acordo de vários anos pra fornecer suas fotos licenciadas pra busca de imagem do ChatGPT, pagando os fotógrafos.",
+      "significa": "Se sua empresa usa imagens em produto digital, prepare-se: pagar por acervo licenciado pra alimentar IA vai virar prática de mercado e custo de compliance. E fotógrafo profissional ganha um novo canal de receita.",
+      "fonte": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Já dá pra \"entrevistar\" 120 clientes numa tarde com IA",
+      "aconteceu": "A Listen Labs levantou US$ 69 milhões pra escalar uma plataforma onde um agente de IA conduz entrevistas em vídeo com clientes e detecta resposta fraudada. A Microsoft usou e baixou a coleta de histórias de cliente de 6-8 semanas pra 1 dia.",
+      "significa": "Validar uma ideia de produto ou campanha não precisa mais de focus group caro e demorado. Dá pra ouvir muita gente e ter a análise no mesmo dia.",
+      "fonte": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Começou a nascer o \"seguro contra erro de IA\"",
+      "aconteceu": "Está surgindo um mercado de seguros pra riscos de IA, no mesmo modelo do seguro cibernético: a seguradora quer auditar a segurança da sua operação antes de cobrir um prejuízo causado por um agente de IA.",
+      "significa": "Se você pensa em colocar IA falando com cliente (banco, saúde, e-commerce), vai precisar documentar controles de segurança pra conseguir seguro — e sem seguro, fica exposto a processo direto.",
+      "fonte": "https://www.latent.space/p/gray-swan",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma IA que caça falha de segurança no código e já entrega o conserto",
+      "aconteceu": "A OpenAI lançou o Daybreak — ferramentas (Codex Security e GPT-5.5-Cyber) que varrem o código de uma empresa atrás de brechas (senha exposta, falha de login) e já geram a correção pronta.",
+      "significa": "Trabalho de segurança que levava semanas de um time inteiro pode virar uma varredura automática. Se você tem produto digital e precisa provar segurança pra cliente ou regulador, isso muda o custo.",
+      "fonte": "https://openai.com/index/daybreak-securing-the-world",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Sites agora deixam \"recado pra IA\" sobre como usar o conteúdo deles",
+      "aconteceu": "Virou tendência publicar um arquivo chamado `llms.txt` — instruções direcionadas aos sistemas de IA dizendo como eles devem (ou não) usar o conteúdo daquele site. É o mesmo espírito do `robots.txt` que surgiu nos anos 90 pro Google.",
+      "significa": "Sua empresa vai precisar de uma política ativa de como quer que sua marca e seus produtos apareçam nas respostas das IAs. Quem não definir isso perde o controle da própria narrativa.",
+      "fonte": "https://news.ycombinator.com/item?id=48234413",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Railway levantou US$ 100 mi prometendo nuvem 87% mais barata que a AWS",
+      "aconteceu": "A startup Railway captou US$ 100 milhões oferecendo infraestrutura de nuvem até 87% mais barata que a AWS, com publicação de aplicação em menos de 1 segundo (contra 2-3 minutos das ferramentas tradicionais).",
+      "significa": "Pra quem cria software com ajuda de IA e testa o tempo todo, o ciclo encurta e a conta de nuvem despenca. Sinal de que o custo de \"ter um produto no ar\" está caindo.",
+      "fonte": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Câmeras de placa viraram ferramenta de perseguição — o alerta de governança",
+      "aconteceu": "Nos EUA, chefes de polícia usaram um sistema comercial de leitura de placas (Flock) pra rastrear mulheres com quem tinham relação pessoal, sem mandado. O abuso passou porque não havia auditoria de quem consultava o sistema.",
+      "significa": "Qualquer ferramenta que coleta localização ou comportamento de pessoas — inclusive monitoramento de funcionário — vira risco se não tiver registro de \"quem acessou o quê\". Governança não é burocracia, é proteção.",
+      "fonte": "https://news.ycombinator.com/item?id=48634694",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Groq captou US$ 650 mi e vira alternativa real à Nvidia em chips de IA",
+      "aconteceu": "A Groq (fabricante de chips feitos pra rodar IA rápido) levantou US$ 650 milhões e está recontratando executivos depois de perder gente pra Nvidia.",
+      "significa": "Mais um fornecedor forte de hardware de IA além da Nvidia significa mais opção e pressão pra baixar o preço de processamento de IA no médio prazo.",
+      "fonte": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ficou mais fácil de conectar a sistemas da empresa",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta que o Pedro ensina na mentoria) deixou o login em conectores externos ser feito direto no terminal e passou a responder sozinho ao resultado dos comandos que executa.",
+      "significa": "Conectar a IA a um banco de dados ou sistema interno ficou menos burocrático — menos cliques entre \"ter a ideia\" e \"a IA fazendo\".",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.186",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Cancelei meu professor de francês e troquei por uma IA — e o debate que isso abriu",
+      "aconteceu": "Uma pessoa contou que largou o professor particular de francês por uma ferramenta de IA que ela mesma montou, e diz aprender melhor. O debate viralizou: muita gente apontou que a IA é permissiva demais com erro e não substitui falar com gente de verdade.",
+      "significa": "Serviço baseado em expertise humana (tutoria, treinamento, mentoria) está sob pressão real — mas há um teto claro onde a IA sozinha não entrega. Quem vende conhecimento precisa saber de que lado desse teto está.",
+      "fonte": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Os alertas que custaram o emprego de uma pesquisadora do Google se confirmaram",
+      "aconteceu": "Em 2020, Timnit Gebru foi demitida do Google depois de alertar sobre riscos dos modelos de linguagem (desinformação, viés, custo ambiental). Uma análise recente mostra que os principais alertas dela viraram problema real.",
+      "significa": "Quem silenciou crítica interna sobre IA perdeu a chance de evitar problema. Criar canal seguro pra questionar a adoção de IA dentro da empresa é gestão de risco, não burocracia.",
+      "fonte": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA achou um jeito de cortar US$ 4 mi/ano em ar-condicionado de datacenter",
+      "aconteceu": "Os novos servidores Rubin da NVIDIA usam refrigeração 100% líquida (sem ventilador) a 45°C, e o calor que sobra pode aquecer prédios. Em paralelo, a NVIDIA testa alimentar datacenter com energia de ondas do mar em Los Angeles.",
+      "significa": "Se sua empresa opera ou planeja datacenter, dá pra economizar até US$ 4 milhões por ano em resfriamento e ainda transformar o calor em economia de aquecimento — e bater meta de ESG.",
+      "fonte": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
