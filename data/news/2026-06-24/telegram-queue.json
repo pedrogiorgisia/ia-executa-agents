@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-24",
+  "items": [
+    {
+      "titulo": "O Claude virou \"membro fixo\" do Slack da empresa",
+      "aconteceu": "A Anthropic lançou o Claude Tag — você convida o Claude pra um canal do Slack e chama com @Claude. Ele lembra das conversas do canal e executa tarefas (rascunhar specs, analisar dados) de forma assíncrona enquanto o time toca o resto. A própria Anthropic diz que 65% do código do time de produto já sai de uma versão interna disso.",
+      "significa": "Sai do modelo \"cada um abre o ChatGPT no seu canto\" e vira IA compartilhada dentro da ferramenta onde o time já conversa. Atenção: as conversas ficam nos servidores da Anthropic e ainda não tem controle fino de quem acessa o quê — revise política de dados antes de soltar em canal com informação sensível.",
+      "fonte": "https://www.anthropic.com/news/introducing-claude-tag",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Ler documento com IA ficou 8x mais barato e 17x mais rápido",
+      "aconteceu": "A Mistral lançou o OCR 4, um modelo que lê PDF, Word e PowerPoint e extrai o texto com alta precisão, dizendo até onde na página está cada informação e o quanto ele \"confia\" na leitura. Um cliente do setor financeiro (Rogo) reporta 8x menos custo e 17x menos tempo que o fornecedor especializado que usava antes.",
+      "significa": "Se a sua empresa processa muito documento na mão — contratos, notas, relatórios, sinistros — dá pra automatizar a leitura por uma fração do custo de hoje. É um daqueles casos em que o gargalo deixa de ser preço e passa a ser só decidir usar.",
+      "fonte": "https://mistral.ai/news/ocr-4/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Codex (IA de código da OpenAI) está estragando o HD de quem usa",
+      "aconteceu": "Um bug no Codex faz a ferramenta gravar no disco muito mais do que precisa — equivalente a reescrever um SSD de 1 TB umas 640 vezes por ano. Um desenvolvedor calculou ter perdido US$ 38 de vida útil do disco em 21 dias; a OpenAI estima o estrago total em \"baixos milhões de dólares\".",
+      "significa": "Se a sua equipe usa Codex, isso é custo de hardware invisível que ninguém está medindo. Vale atualizar a ferramenta ou desligar os logs já. Lembrete maior: IA \"de graça\" às vezes cobra a conta em lugar que você não está olhando.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O aviso de que a conta da IA barata vai chegar",
+      "aconteceu": "Uma análise muito comentada mostra que os grandes laboratórios (OpenAI, Anthropic) cobram barato de propósito pra criar dependência — mas o modelo não fecha: a OpenAI teria gastado US$ 34 bilhões em 2025 pra faturar US$ 13 bilhões. A conclusão é que os preços vão subir, e IA pode acabar custando mais que contratar gente.",
+      "significa": "Se você montou um processo (ou um produto) em cima de uma IA específica contando que o preço de hoje vai durar, planeje um plano B. Aumento abrupto de preço deixou de ser hipótese.",
+      "fonte": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Em vez de campanha pra \"público-alvo\", um agente de IA por cliente",
+      "aconteceu": "A MoEngage (empresa indiana de marketing) comprou a Aampe, uma tecnologia que cria um agente de IA dedicado pra cada consumidor — conversando com cada um sobre suas preferências em tempo real, no lugar de disparar a mesma campanha pra um lote de gente.",
+      "significa": "O marketing \"segmenta em grupos e dispara\" está começando a virar \"um assistente por pessoa\". Se você trabalha com base grande de clientes, é o sinal de pra onde a personalização está indo — vale entender antes do concorrente.",
+      "fonte": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Agora tem IA fazendo a primeira entrevista de emprego em vídeo",
+      "aconteceu": "A sueca Fika Jobs captou US$ 4 milhões pra uma plataforma onde um agente de IA conduz a entrevista em vídeo com o candidato, funcionando como triagem antes de qualquer humano entrar.",
+      "significa": "Numa vaga com 500 candidatos, a IA faz a primeira filtragem em horas e o recrutador só vê os finalistas. Corta custo por contratação — e levanta a pergunta de como o candidato se sente sendo entrevistado por uma máquina.",
+      "fonte": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma IA que acha falha de segurança no código e já manda o conserto",
+      "aconteceu": "Saiu o GPT-5.5-Cyber, uma versão especializada em cibersegurança: além de apontar a vulnerabilidade no código, ela já escreve a correção. Num piloto com projetos open source, gerou 64 correções prontas em uma semana — algo que levaria 2 a 3 semanas na mão.",
+      "significa": "Empresas com muito código antigo e fila de problemas de segurança podem encurtar esse backlog sem contratar mais analistas. É um exemplo concreto de IA fazendo trabalho de especialista caro.",
+      "fonte": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O alerta de que ninguém mais entende o código que a IA escreve",
+      "aconteceu": "Um engenheiro respeitado (criador de ferramentas usadas por milhões) publicou um texto, que viralizou, dizendo que as empresas estão entregando o controle do software pra IA e perdendo a capacidade de entender o que foi construído — e que mesmo quem não quer adotar isso vai ser empurrado pela pressão da concorrência.",
+      "significa": "Aprovar projeto \"acelerado por IA\" sem entender o custo de manter e auditar aquilo depois pode virar dívida escondida. Boa provocação antes da próxima reunião que promete entregar em metade do tempo.",
+      "fonte": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Meta vigiava os próprios funcionários com IA — e os dados vazaram",
+      "aconteceu": "A Meta tinha um programa interno que usava IA pra monitorar funcionários (teclas digitadas, atividade de tela). Os dados coletados vazaram dentro da empresa, e o programa foi suspenso.",
+      "significa": "Alerta duplo pra quem pensa em \"monitorar produtividade com IA\": além do problema de imagem e trabalhista, o que você coleta sobre as pessoas vira um alvo que pode vazar. Vigiar gera risco novo, não só \"controle\".",
+      "fonte": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Produtividade",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Apple subiu o preço do iPhone, mas a Europa não vai ter os recursos de IA",
+      "aconteceu": "A Apple anunciou aumento de preços e confirmou que não vai liberar a Apple Intelligence (a Siri turbinada) na União Europeia por causa de restrições regulatórias. Ou seja: o europeu paga mais caro e não recebe a parte de IA.",
+      "significa": "Se a sua empresa tem operação na Europa e contava encaixar a IA da Apple no fluxo de trabalho, esse plano travou — e abre espaço pra alternativas locais como a Mistral. Sinal de como regulação está virando fator de qual IA você consegue usar e onde.",
+      "fonte": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#OpenSource",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Vídeo feito por IA passou da barreira dos 30 segundos",
+      "aconteceu": "A ByteDance (dona do TikTok) lançou o Seedance 2.5, que gera vídeo por IA acima de 30 segundos por clipe — o limite que travava a maioria das ferramentas até agora. Liberação pública prevista pra julho.",
+      "significa": "Comercial de 60 segundos ou vídeo mais longo pra redes sem filmagem e sem set de produção começa a ficar viável. Pra quem produz conteúdo, muda a conta de tempo e custo; pra quem ainda não testou IA de vídeo, é a hora de olhar.",
+      "fonte": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A SpaceX já fatura US$ 28 bilhões/ano alugando chip de IA pros outros",
+      "aconteceu": "A SpaceX (foguetes do Elon Musk) fechou mais um contratão de infraestrutura de computação (US$ 6,3 bilhões com a Reflection AI) e virou um dos grandes intermediários de acesso a chips de IA — tendo Anthropic e Google como clientes.",
+      "significa": "O acesso a \"poder de processamento\" pra treinar IA está se concentrando em pouca gente, o que vira fila e preço alto. Se você só consome IA via API (não treina modelo), o impacto é indireto — mas mostra que o gargalo de hardware não vai sumir tão cedo.",
+      "fonte": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Hardware",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "A IA já convence melhor que um especialista humano treinado",
+      "aconteceu": "Um estudo mostrou que sistemas de IA conseguem fazer pessoas mudarem de opinião de forma mais eficaz do que especialistas humanos — mesmo quando esses humanos tiveram tempo de preparo e dinheiro em jogo pra vencer o debate.",
+      "significa": "Pro lado bom: campanha, atendimento e arrecadação ficam mais persuasivos com IA. Pro lado de risco: a mesma força serve pra manipulação e desinformação em escala — e regulador de publicidade vai começar a olhar isso.",
+      "fonte": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Microsoft está construindo a própria usina pra alimentar IA",
+      "aconteceu": "A Microsoft está erguendo um dos maiores centros de dados do mundo no Texas, com gerador próprio movido a gás — pra não depender da rede elétrica pública, cuja liberação leva anos.",
+      "significa": "Mostra que energia, não chip, virou o limite real pra escalar IA — a ponto de uma big tech preferir construir a própria usina. Pra quem usa cloud da Microsoft (Azure, Copilot), sinaliza mais estabilidade de capacidade nos próximos anos.",
+      "fonte": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Hardware",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora deixa a empresa controlar qual IA cada funcionário usa",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de programação por IA que o Pedro usa na mentoria) adicionou três coisas práticas: a empresa pode definir centralmente quais modelos cada funcionário tem permissão de usar, bloqueou o acesso da ferramenta a arquivos de senha/credencial do sistema, e agora dá pra clicar com o mouse nos menus (antes só teclado).",
+      "significa": "Pra quem pensa em soltar IA de código pro time, ganhou controle e segurança de nível empresa — dá pra padronizar o que todo mundo usa sem depender da boa vontade de cada um.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.187",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
