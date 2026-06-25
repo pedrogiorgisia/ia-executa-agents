@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-25",
+  "items": [
+    {
+      "titulo": "Google lançou uma IA que opera o computador sozinha — clica, digita e preenche formulário",
+      "aconteceu": "O Gemini 3.5 Flash (o modelo de IA do Google) agora \"enxerga\" a tela e usa o computador como um humano: abre o programa, lê o que tem ali, clica, digita e confirma — sem precisar de integração técnica. Saiu do laboratório e já está disponível pra empresas.",
+      "significa": "Se você tem um sistema antigo que não conversa com nada (aquele ERP ou planilha que exige alguém digitando à mão o dia inteiro), agora dá pra colocar uma IA fazendo esse trabalho repetitivo de tela — sem reformar o sistema.",
+      "fonte": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Mistral deixou o TI decidir exatamente o que cada agente de IA pode acessar",
+      "aconteceu": "A Mistral (laboratório francês de IA, concorrente do ChatGPT) lançou controles finos de permissão: o administrador define o que cada agente de IA pode tocar nos sistemas da empresa (Slack, Gmail, Salesforce, etc.) — sem ter que liberar ou bloquear tudo de uma vez.",
+      "significa": "Aquele bloqueio que segurava sua empresa de usar agente de IA (\"não quero que ele veja dado financeiro\") agora tem solução de governança. Dá pra liberar o agente pro CRM e e-mail e travar o resto.",
+      "fonte": "https://mistral.ai/news/more-control-over-connectors/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#OpenSource",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI vai fabricar o próprio chip pra parar de depender só da NVIDIA",
+      "aconteceu": "OpenAI e Broadcom apresentaram o \"Jalapeño\", um chip feito sob medida pra rodar modelos de IA de forma mais barata. Entra em escala no fim de 2026 e a Microsoft já reservou cerca de 40% dos primeiros.",
+      "significa": "Se a OpenAI roda os modelos dela mais barato, isso historicamente vira queda de preço de API (a estimativa é 30–40% menos no custo de inferência). Quem gasta alto com ChatGPT/API pode esperar alívio — e a NVIDIA passa a ter concorrente de peso.",
+      "fonte": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Hardware",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA abriu um kit pra empresa montar seu próprio agente de IA \"especialista\"",
+      "aconteceu": "A NVIDIA lançou um conjunto aberto de ferramentas (modelos + ambiente seguro de execução) pra empresas construírem agentes de IA treinados pro próprio negócio — não o ChatGPT genérico, mas um agente que entende o processo interno.",
+      "significa": "Dá pra ter um agente que preenche documentação clínica enquanto o médico atende, ou faz triagem de alertas de segurança. A CrowdStrike relata 98,5% de precisão nessa triagem — sinal de que agente especializado já entrega resultado real.",
+      "fonte": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Agentes",
+        "#Segurança",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "A Anthropic acusa a Alibaba de ter \"roubado\" o comportamento do Claude",
+      "aconteceu": "A Anthropic (criadora do Claude) acusou a gigante chinesa Alibaba de extrair de forma ilegal e encoberta as capacidades do seu modelo de IA — atalho pra pular anos de pesquisa copiando o concorrente.",
+      "significa": "A corrida de IA agora tem frente jurídica internacional. Se você desenvolve ou licencia IA, propriedade intelectual de modelo virou ativo em disputa — e isso pode mexer com fornecedores e contratos.",
+      "fonte": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Qualcomm comprou a startup de IA Modular — o mercado continua se concentrando",
+      "aconteceu": "A Qualcomm, uma das maiores fabricantes de chips do mundo, comprou a Modular, startup de software de infraestrutura pra IA. É mais uma peça na onda de fusões e aquisições do setor.",
+      "significa": "O mercado de IA está se concentrando rápido — grandes comprando startups pra controlar a pilha inteira. Se sua empresa depende de algum fornecedor menor de IA, vale acompanhar quem está sendo engolido por quem (pode mudar preço e roadmap do que você usa).",
+      "fonte": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Cientistas-chave do Google estão indo pra Anthropic",
+      "aconteceu": "Pesquisadores importantes de IA do Google estão migrando pra Anthropic, reforçando o principal rival do Google na área.",
+      "significa": "Se você aposta no ecossistema Google (Vertex AI, Gemini) pra IA da empresa, vale ficar de olho — a balança de inovação pode pesar mais pro lado Anthropic nos próximos meses, e isso conta na hora de escolher plataforma.",
+      "fonte": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Os grandes laboratórios de IA estão contratando filósofos em massa",
+      "aconteceu": "Anthropic, OpenAI e outros estão recrutando filósofos e eticistas pra integrar equipes de segurança e alinhamento de IA. O Economist foi investigar por quê.",
+      "significa": "Governança de IA virou assunto estratégico, não detalhe. As líderes do setor estão admitindo que resposta só técnica não basta — sinal de que pressão regulatória e de reputação está subindo, e sua empresa vai sentir isso também.",
+      "fonte": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ganhou um \"desfazer\" pra quando você apaga a conversa sem querer",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA da Anthropic) trouxe o comando `/rewind`: se você limpou o histórico da conversa por engano e perdeu todo o contexto, dá pra recuperar.",
+      "significa": "Se você usa o Claude Code no dia a dia, é aquele alívio de não perder uma sessão longa de trabalho por um clique errado. Pequeno, mas tira uma dor real.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.191",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A máquina de US$ 400 milhões que decide quem vai ter chip de IA",
+      "aconteceu": "A ASML criou uma máquina de US$ 400 milhões que usa luz ultravioleta extrema pra fabricar chips menores e mais potentes — peça essencial da cadeia de chips de IA.",
+      "significa": "Quem usa nuvem pesada deve saber que a oferta de chips de IA depende de pouquíssimas máquinas como essa. A Intel está comprando pra voltar a competir com a TSMC — o que, lá na frente, pode diversificar a oferta e reduzir o risco de depender de Taiwan.",
+      "fonte": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Dado fresco da internet virou o gargalo invisível da IA",
+      "aconteceu": "Empresas de IA precisam de dados atualizados da web pra não ficarem desatualizadas, mas 90% relatam dificuldade séria de coletar isso de forma legal e confiável. Está virando uma camada crítica de infraestrutura.",
+      "significa": "Se você sonha com um assistente de IA que responde com dado em tempo real (preço de concorrente, estoque, notícia), saiba que esse é justamente o ponto fraco hoje — sem essa base, o modelo responde com dado velho e erra.",
+      "fonte": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Microsoft na encruzilhada: chips de memória e modelos chineses mais baratos",
+      "aconteceu": "Análise do Stratechery aponta que fabricantes tradicionais de chip de memória (Samsung, SK Hynix, Micron) podem perder mercado pra rivais chineses — e que a Microsoft tem incentivo financeiro pra adotar modelos de IA chineses, mais baratos.",
+      "significa": "Se sua empresa roda muita coisa em nuvem, fique de olho: seus fornecedores (Azure, AWS, GCP) podem começar a adotar chips e modelos chineses pra cortar custo — com reflexo em compliance, segurança e soberania de dados.",
+      "fonte": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Amazon",
+        "#Hardware",
+        "#Segurança"
+      ]
+    }
+  ]
+}
