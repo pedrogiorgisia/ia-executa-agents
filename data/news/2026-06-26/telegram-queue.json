@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-26",
+  "items": [
+    {
+      "titulo": "Apareceu uma IA chinesa tão boa quanto as melhores, custando 5x menos",
+      "aconteceu": "O modelo GLM-5.2 (da empresa chinesa Z.ai) entrega qualidade comparável aos melhores modelos ocidentais (Claude, OpenAI) em tarefas de código e automação, custando cerca de 1/5 do preço. O CEO da Snowflake testou e confirmou publicamente.",
+      "significa": "Se a sua empresa gasta com IA em volume, dá pra cortar até 80% da conta mantendo qualidade parecida. Exemplo: quem processa 10 mil documentos/mês e paga R$ 15 mil em IA poderia pagar uns R$ 3 mil.",
+      "fonte": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Produtividade",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT que todo mundo usa ficou melhor em entender pedido bagunçado",
+      "aconteceu": "A OpenAI atualizou o modelo mais usado do ChatGPT (o \"Instant\") pra compreender melhor comandos confusos, longos ou com várias partes — aqueles em que antes você tinha que reescrever o pedido 3 vezes.",
+      "significa": "Menos tempo brigando com o ChatGPT pra ele fazer o que você quis dizer. Um comando tipo \"resume esse relatório, mas destaca os dados de 2025 e ignora as opiniões\" passa a funcionar melhor na primeira tentativa.",
+      "fonte": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Quem paga por IA está trocando o ChatGPT pelo Claude",
+      "aconteceu": "Segundo a TechCrunch, os consumidores que pagam por assistente de IA estão migrando pro Claude (da Anthropic), mesmo o ChatGPT tendo dominado o mercado por mais tempo.",
+      "significa": "Se você escolhe (ou revende) IA dentro de um produto ou pra equipe, vale reavaliar — a preferência de quem paga é um sinal de qualidade percebida, não só de marketing. Pode ser hora de testar o Claude lado a lado com o que você usa hoje.",
+      "fonte": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Figma vai deixar o designer virar o esboço em código sem sair da ferramenta",
+      "aconteceu": "O CEO do Figma (a ferramenta de design de telas que muita equipe de produto usa) detalhou como está colocando IA no meio do caminho entre quem desenha a tela e quem programa — tudo na mesma plataforma.",
+      "significa": "O ciclo \"designer faz a tela → passa pro dev → dev programa\" encurta: a IA gera o código a partir do desenho e o dev só ajusta. Menos idas e vindas, produto sai mais rápido.",
+      "fonte": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Agora dá pra montar uma IA que cuida sozinha dos alertas de segurança",
+      "aconteceu": "A Cohere lançou, com a plataforma de segurança Wiz, um agente de IA que automatiza a resposta a alertas de segurança em nuvem — investiga, prioriza e abre o ticket sozinho. O código está público pra quem quiser copiar.",
+      "significa": "Time de segurança que hoje gasta de 30 minutos a 2 horas por alerta pode deixar a triagem no automático e focar só nas ameaças graves. Como o código é aberto, dá pra adaptar sem começar do zero.",
+      "fonte": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Lançaram um \"tradutor universal\" entre as ferramentas de IA pra programar",
+      "aconteceu": "A Databricks lançou o Omnigent, um projeto open source que funciona como intermediário entre as várias ferramentas de IA pra código (Claude Code, Codex e outras), deixando você trocar de uma pra outra sem perder histórico nem reconfigurar tudo.",
+      "significa": "Você deixa de ficar preso (lock-in) a um único fornecedor de IA. Se o preço subir ou a ferramenta piorar, trocar vira uma decisão técnica simples — não um projeto de 6 meses.",
+      "fonte": "https://www.latent.space/p/databricks",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#OpenSource",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Apple vai pular uma geração de chip pra acelerar a IA que roda no próprio aparelho",
+      "aconteceu": "A Apple decidiu pular a linha de chips M6 e ir direto pro M7, focada em rodar IA diretamente no dispositivo — sem mandar dados pra nuvem.",
+      "significa": "Quando a maior fabricante de hardware do mundo aposta tudo em \"IA dentro do aparelho\", o recado é que processar IA sem os dados saírem da empresa vai virar padrão. Muda o cálculo de privacidade e de dependência de nuvem nas suas decisões.",
+      "fonte": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Hardware",
+        "#Segurança",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "A IA leu um pergaminho de 2.000 anos que ninguém conseguia abrir",
+      "aconteceu": "Pesquisadores usaram IA pra ler, pela primeira vez na história, um rolo inteiro de papiro carbonizado pelo vulcão Vesúvio há quase 2.000 anos — frágil demais pra ser aberto fisicamente.",
+      "significa": "É um exemplo concreto pra usar em conversa/apresentação: IA não serve só pra automatizar tarefa chata, ela está abrindo portas que humanos não conseguiam abrir. Bom contra-argumento pro \"IA só faz coisa simples\".",
+      "fonte": "https://news.ycombinator.com/item?id=48675179",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon vai botar US$ 13 bilhões em infraestrutura de IA na Índia",
+      "aconteceu": "A Amazon anunciou US$ 13 bilhões em data centers e infraestrutura de IA na Índia.",
+      "significa": "As big techs estão correndo pra plantar capacidade de IA em mercados emergentes. Se sua empresa opera (ou pensa em operar) fora do eixo EUA/Europa, tende a ter cloud de IA mais perto, mais barata e com menos latência nos próximos anos.",
+      "fonte": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora completa o nome de arquivo enquanto você digita",
+      "aconteceu": "A ferramenta de programação da Anthropic, o Claude Code, passou a completar automaticamente nomes de pasta e arquivo quando você digita um comando — igual ao autocomplete do navegador.",
+      "significa": "Detalhe pequeno mas útil pra quem usa o Claude Code no dia a dia (inclusive os alunos da mentoria): menos digitação de caminho, menos erro.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
