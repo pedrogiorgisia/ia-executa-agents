@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-27",
+  "items": [
+    {
+      "titulo": "A própria OpenAI largou o chat e passou a usar agentes — uso interno cresceu 56x",
+      "aconteceu": "Os funcionários da OpenAI multiplicaram por 56 o uso interno dos próprios modelos de IA nos últimos 7 meses — e a maior parte não é \"conversar com chatbot\", é deixar agentes rodando tarefas longas sozinhos.",
+      "significa": "O ganho de verdade da IA não está no chat rápido, está em tarefas que duram horas ou dias (analisar documentos, triar dados, atendimento). Se sua empresa tem um trabalho repetitivo que come um dia inteiro de alguém, é ali que o agente paga o investimento — não no \"tira-dúvida\".",
+      "fonte": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma startup trocou o Claude pelo DeepSeek porque a conta da IA passou a folha de pagamento",
+      "aconteceu": "A Lindy (empresa que automatiza tarefas com IA) abandonou o Claude e migrou inteira para o DeepSeek — um modelo chinês bem mais barato — porque a fatura de API ficou maior que o salário do time inteiro.",
+      "significa": "Se você usa IA em volume (muitas chamadas por dia), o custo vira decisão estratégica, não detalhe. Trocar por um modelo mais barato pode cortar milhões — mas pesa risco de privacidade de dados e dependência de fornecedor estrangeiro. Vale revisar quanto sua operação gasta de API antes que a conta surpreenda.",
+      "fonte": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic parou de contratar engenheiro júnior — e avisa que sua indústria é a próxima",
+      "aconteceu": "A Anthropic (criadora do Claude) disse que não precisa mais contratar engenheiros iniciantes porque a IA faz o trabalho deles — e alertou que outras áreas vão sentir o mesmo choque em breve.",
+      "significa": "O modelo clássico de \"contrato júnior barato pra crescer\" está sendo trocado por \"1 sênior + IA\". Isso muda planejamento de equipe, orçamento de RH e o próprio pipeline de carreira. Se você lidera time, vale repensar quais vagas de entrada ainda fazem sentido.",
+      "fonte": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Ford trocou inspetores humanos por IA, a IA falhou, e ela teve que recontratar os veteranos",
+      "aconteceu": "A Ford colocou IA pra fazer controle de qualidade na linha de produção, os sistemas falharam, e a montadora teve que chamar de volta os inspetores humanos experientes pra cobrir o buraco.",
+      "significa": "É o caso real da semana contra o \"vamos substituir gente por IA já\". Em processos onde o erro tem consequência física (ou cara), tirar o humano cedo demais gera retrabalho e custo. Automatize por fases, com supervisão — não de uma vez.",
+      "fonte": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O governo dos EUA agora decide quem pode usar o modelo mais avançado da OpenAI",
+      "aconteceu": "A OpenAI lançou o GPT-5.6 de forma restrita, a pedido do governo americano: primeiro só ~20 empresas aprovadas, em vez de liberar pra todo mundo.",
+      "significa": "A era do \"qualquer um acessa a IA de ponta\" está acabando. O Estado americano começou a tratar IA avançada como tecnologia sensível (igual chip de exportação). Empresas brasileiras que dependem de API americana podem ficar pra trás no acesso às ferramentas mais capazes — vale ter um plano B com modelos abertos.",
+      "fonte": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI anunciou o GPT-5.6 Sol, a nova geração focada em código e segurança",
+      "aconteceu": "A OpenAI mostrou o GPT-5.6 Sol, um modelo de próxima geração especializado em programação, ciências e segurança digital — ainda em preview (acesso antecipado, não liberado pro público).",
+      "significa": "O ritmo continua brutal: o que era \"estado da arte\" há 6 meses já está sendo superado. Se você está decidindo qual ferramenta de IA adotar, conte com o cenário mudando a cada trimestre — evite contrato longo que te prende a uma escolha que envelhece rápido.",
+      "fonte": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A rejeição à IA está só começando, diz a Economist",
+      "aconteceu": "A Economist analisou por que a resistência à IA está crescendo: usuários, trabalhadores e reguladores empurrando de volta contra a adoção apressada.",
+      "significa": "Empurrar IA goela abaixo — interna ou externamente — sem entregar valor percebido está virando dano de imagem. Se você está liderando adoção de IA na empresa, comunique com benefício concreto, não com hype. Forçar gera rejeição.",
+      "fonte": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Estudo mostra que todo modelo de IA tem viés político — inclusive o que sua empresa usa",
+      "aconteceu": "Uma pesquisa mediu e comparou o viés político dos principais modelos (ChatGPT, Claude, Gemini etc.). Conclusão: nenhum é neutro, todos pendem pra algum lado.",
+      "significa": "Se você usa IA pra gerar conteúdo, recomendar coisas ou atender cliente, o viés do modelo pode vazar pra comunicação da sua marca sem ninguém perceber. E em seleção de pessoas, o viés pode virar problema legal. Auditar o que a IA produz deixou de ser luxo.",
+      "fonte": "https://trakkr.ai/bias",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Macy's botou IA nos bastidores (estoque e busca) em vez de num chatbot",
+      "aconteceu": "A Macy's está usando IA não num chatbot visível, mas em decisões internas: como os produtos aparecem na busca do site, como o estoque circula entre lojas, e pra lançar software mais rápido.",
+      "significa": "O ROI mais fácil de IA muitas vezes não é o assistente que o cliente vê — é a otimização invisível que aumenta conversão e gira estoque. Se você precisa justificar um projeto de IA pro conselho, \"personalizar a busca e mover estoque melhor\" é número mais fácil de defender que \"lançamos um chatbot\".",
+      "fonte": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "2.000 pessoas tentaram hackear um assistente de IA — e conseguiram",
+      "aconteceu": "Um desenvolvedor expôs seu assistente de IA pra 2.000 pessoas atacarem e documentou como ele foi manipulado pra burlar as próprias regras.",
+      "significa": "Todo assistente de IA que você coloca de cara pro cliente é alvo ativo — gente vai tentar fazer ele falar o que não devia, dar desconto que não existe, vazar dado. Se você tem (ou vai ter) IA num produto público, precisa de uma camada de segurança específica pra isso, não só o modelo \"pronto\".",
+      "fonte": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O governo dos EUA liberou um modelo poderoso da Anthropic só pra empresas \"confiáveis\"",
+      "aconteceu": "O governo americano autorizou a Anthropic a liberar o Mythos — um modelo de IA potente — para 100+ empresas e agências americanas consideradas confiáveis, incluindo o uso por funcionários estrangeiros.",
+      "significa": "É o segundo movimento na mesma semana (junto com a restrição do GPT-5.6) apontando o padrão: IA de ponta virou ativo estratégico que o Estado americano controla quem usa. Empresa não-americana passa a ter que avaliar o risco de depender de modelo que pode ser cortado por decisão geopolítica.",
+      "fonte": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
