@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-28",
+  "items": [
+    {
+      "titulo": "A IA virou caçadora de falhas de segurança — e os atacantes têm a mesma arma",
+      "aconteceu": "Modelos de IA começaram a varrer código aberto e a achar, em massa, falhas de segurança que ficaram anos escondidas. Como cerca de 95% do código de qualquer aplicativo comercial vem de bibliotecas abertas, o efeito é gigante — e quem ataca usa a mesma IA pra explorar essas falhas em dias, não meses.",
+      "significa": "Se sua empresa tem software (site, app, sistema interno), o prazo pra corrigir uma falha encolheu de \"alguns meses\" pra \"alguns dias\". Vale perguntar pro seu time de TI quão rápido vocês conseguem aplicar uma correção urgente hoje.",
+      "fonte": "https://www.theregister.com/security/2026/06/27/its-looking-like-a-hot-messy-summer-for-security-teams-as-ai-finds-countless-previously-hidden-vulns/5260478",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Já existe uma ferramenta que escolhe a IA mais barata pra cada tarefa e corta 40% da conta",
+      "aconteceu": "Apareceu uma ferramenta (open-source, chamada \"router\") que decide sozinha qual modelo de IA usar em cada pedido — manda as tarefas simples pros modelos baratos e só aciona os caros quando precisa. Promete a mesma qualidade com até 40% menos custo.",
+      "significa": "Se sua empresa já usa IA em volume e a conta vem crescendo, dá pra economizar sem perder qualidade só roteando melhor — em vez de jogar tudo no modelo mais caro. É o sinal de que IA virou linha de custo pra gerenciar, não só experimento.",
+      "fonte": "https://github.com/workweave/router",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A corrida da IA mudou de endereço: a Ásia está clonando os modelos de ponta",
+      "aconteceu": "Com os EUA restringindo o acesso aos modelos mais avançados (como o Mythos da Anthropic), startups asiáticas estão lançando rapidamente modelos próprios com capacidade parecida. O embargo não freou a corrida — empurrou ela pra outro lugar.",
+      "significa": "Apostar todas as fichas num único fornecedor de IA (americano ou não) virou risco estratégico. Em 6-12 meses você provavelmente vai ter mais opções equivalentes e mais baratas vindas de outras regiões.",
+      "fonte": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "As empresas de IA estão financiando campanhas eleitorais nos EUA — pra atrasar a regulação",
+      "aconteceu": "A indústria de IA está colocando centenas de milhões de dólares em candidatos e campanhas nos EUA, com o objetivo de influenciar as regras do setor antes que leis mais duras entrem em vigor.",
+      "significa": "As próprias empresas de IA estão dizendo, com o bolso, que a janela atual de \"pouca regra\" é temporária. Quem usa IA em áreas sensíveis (saúde, finanças, RH) deve esperar regras mais apertadas nos próximos 1-2 anos e se preparar.",
+      "fonte": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O chefe do Vision Pro saiu da Apple pra montar o hardware da OpenAI",
+      "aconteceu": "Paul Meade, o vice-presidente responsável pelo headset Vision Pro da Apple, foi pra OpenAI ajudar a montar uma equipe de hardware — sinal forte de que a dona do ChatGPT quer fabricar dispositivos físicos próprios.",
+      "significa": "A OpenAI está deixando de ser \"só software\". Em 2-3 anos pode aparecer com óculos ou aparelhos de IA concorrendo direto com Apple, Meta e Google — o que muda o tabuleiro de quem desenvolve produtos e apps.",
+      "fonte": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Meta",
+        "#Apple",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "O risco real da IA não seriam os robôs — seria ela servir só a quem já tem poder",
+      "aconteceu": "Ganhou tração no Hacker News (a comunidade dos desenvolvedores) uma discussão defendendo que o perigo da IA não é o cenário de ficção científica, e sim concentrar ainda mais poder econômico em poucos governos e grandes empresas, deixando a maioria de fora.",
+      "significa": "Se você lidera uma equipe e está introduzindo IA, essa é a desconfiança que as pessoas vão trazer — \"isso vai me beneficiar ou só beneficiar os de cima?\". Vale endereçar isso na comunicação interna, não ignorar.",
+      "fonte": "https://news.ycombinator.com/item?id=48701615",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude Code parou de perder suas tarefas quando você atualiza o programa",
+      "aconteceu": "Saiu uma atualização do Claude Code (a ferramenta de IA no terminal que o Pedro ensina na mentoria) corrigindo um problema chato: tarefas rodando em segundo plano sumiam ao atualizar o programa. Agora elas sobrevivem. O ditado por voz também passou a funcionar em japonês, chinês e tailandês.",
+      "significa": "Se você usa o Claude Code pra deixar tarefas longas rodando, agora pode atualizar sem medo de perder o trabalho no meio do caminho.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
