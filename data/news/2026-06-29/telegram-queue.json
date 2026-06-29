@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-29",
+  "items": [
+    {
+      "titulo": "A Coinbase trocou IA americana por chinesa e cortou metade da conta",
+      "aconteceu": "A Coinbase (a maior corretora de cripto dos EUA) substituiu modelos americanos por modelos chineses mais baratos (GLM 5.2 e Kimi 2.7) e cortou 50% do gasto com IA — mesmo processando mais dados que antes. O truque é roteamento: tarefa simples vai pro modelo barato, tarefa complexa fica no caro.",
+      "significa": "Se sua empresa gasta com API de IA, dá pra cortar metade da conta sem perder qualidade só direcionando cada tarefa pro modelo certo. Quem paga \"tudo no modelo premium\" provavelmente está jogando dinheiro fora.",
+      "fonte": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um cara usou IA pra dar \"segunda opinião\" no exame dele — e contradisse o médico",
+      "aconteceu": "Um profissional usou o Claude pra analisar a própria ressonância magnética. A IA chegou a uma conclusão diferente da do ortopedista, e o post viralizou (391 pontos) com gente relatando experiências parecidas.",
+      "significa": "As pessoas já estão usando IA pra questionar diagnóstico médico, parecer jurídico, laudo técnico — na vida real, não só em teste. Se você atua em saúde, direito, seguros ou qualquer área regulada, vai começar a receber cliente que \"consultou a IA antes\". Vale ter uma posição sobre isso.",
+      "fonte": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Bancos centrais alertaram: o boom de IA pode provocar um crash financeiro",
+      "aconteceu": "Bancos centrais de vários países emitiram um alerta formal de que o crescimento acelerado e especulativo do mercado de IA pode causar uma crise financeira global. Não são mais analistas ou jornalistas falando em \"bolha\" — são reguladores institucionais.",
+      "significa": "Muda a pergunta de \"devo investir em IA?\" pra \"qual o meu risco de estar exposto demais a fornecedores/soluções de IA que podem não se sustentar?\". Se você aprova orçamento de tecnologia baseado em IA, é hora de checar se o ROI tem fundamento ou é só hype.",
+      "fonte": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Professor pegou fraude em massa com IA numa prova em Brown",
+      "aconteceu": "Um professor da Universidade Brown (top-10 dos EUA) detectou que centenas de alunos usaram IA pra responder uma prova sem sinalizar. O caso viralizou (343 pontos) como exemplo de que o problema chegou às melhores universidades.",
+      "significa": "O diploma e a nota dos talentos que você vai contratar nos próximos anos viram um sinal cada vez menos confiável de competência real. Avaliação por currículo e certificado perde força — teste prático na contratação ganha.",
+      "fonte": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma IA chinesa bateu o Claude num teste de cibersegurança",
+      "aconteceu": "A Semgrep (empresa de segurança) publicou que o modelo chinês GLM 5.2 superou o Claude (da Anthropic) em testes específicos de cibersegurança. O post teve 651 pontos — a própria comunidade técnica ocidental levou o resultado a sério.",
+      "significa": "O argumento \"só as IAs americanas são confiáveis\" está sendo testado por resultado, não por opinião. Na hora de escolher fornecedor de IA, vale ter mais de uma opção na mesa — inclusive modelos chineses pra tarefas específicas.",
+      "fonte": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google restringiu o acesso da Meta aos modelos de IA dele",
+      "aconteceu": "O Google limitou o uso dos modelos Gemini pela Meta (dona de Facebook e Instagram). Duas das maiores empresas do mundo brigando por controle de IA.",
+      "significa": "As grandes plataformas estão usando IA como ativo de poder — restringindo acesso de quem incomoda. O serviço de IA que hoje é barato e aberto pode ser cortado amanhã por motivo comercial ou político. Quem depende de um único fornecedor está mais exposto do que imagina.",
+      "fonte": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A HP fechou com a OpenAI pra botar IA em toda a operação de uma vez",
+      "aconteceu": "A HP ampliou a parceria com a OpenAI pra levar IA a várias áreas ao mesmo tempo — atendimento ao cliente, desenvolvimento de software e processos internos — com um único parceiro.",
+      "significa": "O movimento das grandes está deixando de ser \"testar IA num cantinho\" pra \"padronizar num fornecedor e escalar pra empresa toda\". Se você ainda trata IA como experimento isolado por área, a referência de mercado já mudou.",
+      "fonte": "https://openai.com/index/hp-frontier-partnership",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
