@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-30",
+  "items": [
+    {
+      "titulo": "O Claude Code deixou o chefe escolher qual IA a equipe inteira usa",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de programação da Anthropic) ganhou um painel onde o administrador define qual modelo de IA todo o time usa por padrão — ninguém precisa mais configurar manualmente.",
+      "significa": "Se você lidera um time que usa IA pra trabalhar, agora dá pra padronizar a ferramenta de todo mundo de um lugar só — controle de custo e de qualidade sem ficar dependendo de cada pessoa acertar a config.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.196",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Quem mais adotou IA contratou MAIS gente, não menos",
+      "aconteceu": "Um estudo novo mostrou que empresas que usam IA de forma intensa aumentaram o quadro de funcionários em 10% — incluindo 12% mais contratações de júnior — o oposto do que se prega.",
+      "significa": "Se você está cortando equipe achando que IA substitui pessoas, talvez esteja lendo errado: o padrão real é realocar gente pra tarefas mais estratégicas enquanto a IA assume o repetitivo.",
+      "fonte": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Dar nome humano pra IA (\"a Ana do compliance\") faz o gestor errar mais",
+      "aconteceu": "Pesquisa do MIT mostrou que gestores que tratam a IA como \"colega\" ou \"funcionário\" detectam 18% menos erros e param de tomar decisões próprias — confiam demais na máquina.",
+      "significa": "Se você batizou seu agente de IA com nome de gente, pode estar criando um ponto cego: a equipe assume que \"ela já conferiu\". Deixar claro que é uma ferramenta (não uma pessoa) reduz o erro.",
+      "fonte": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Amazon está se preparando porque a conta da IA da Anthropic vai subir",
+      "aconteceu": "Engenheiros da Amazon estão criando versões menores e mais baratas dos modelos da Anthropic (técnica chamada \"destilação\") antes de uma nova tabela de preços por token entrar em vigor.",
+      "significa": "Se sua empresa usa Claude em volume, a fatura pode aumentar bastante em breve. Vale revisar agora como você chama a IA pra reduzir o consumo antes do reajuste.",
+      "fonte": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Pesquisadores mostraram que a IA de programação pode entregar seu computador a um hacker",
+      "aconteceu": "Pesquisadores demonstraram que o Claude Code executa scripts maliciosos escondidos em projetos baixados do GitHub sem verificar a origem nem pedir confirmação — dando controle da máquina ao atacante.",
+      "significa": "Liberar ferramentas de IA que escrevem e rodam código sem regra é risco de segurança real. Antes de soltar isso pro time, defina políticas de uso.",
+      "fonte": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A plataforma de \"programar conversando\" da Wix criou sua própria IA pra não depender de ninguém",
+      "aconteceu": "A Base44 (ferramenta da Wix que deixa criar apps descrevendo em texto) lançou um modelo de IA próprio em vez de continuar dependendo só de APIs de terceiros como a da OpenAI.",
+      "significa": "Se o seu produto roda em cima da IA de um único fornecedor, você fica refém do preço e da disponibilidade dele. A tendência é controlar o próprio motor pra não quebrar quando o fornecedor muda as regras.",
+      "fonte": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Onde 300 profissionais de TI confiam na IA pra decidir sozinha — e onde não confiam",
+      "aconteceu": "Levantamento com 300 profissionais de TI mostrou alta confiança em deixar a IA cuidar de tarefas estruturadas (monitorar sistemas, detectar anomalias), mas forte resistência quando a decisão exige contexto da empresa (política interna, orçamento).",
+      "significa": "Na hora de montar seu plano de automação, comece pelo que é repetível e bem definido — aí a adoção flui. Tentar automatizar decisão estratégica de cara gera resistência justa.",
+      "fonte": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Descobriram como enganar a IA imitando a \"voz da consciência\" dela",
+      "aconteceu": "Pesquisadores criaram um ataque em que um texto malicioso imita o \"raciocínio interno\" do modelo, fazendo a IA tratar a ordem do atacante como se fosse conclusão própria. A taxa de sucesso pulou de 0% para 60%.",
+      "significa": "Um agente de IA que lê e-mails ou documentos de fora pode ser enganado por uma mensagem formatada pra parecer \"pensamento\" dele — e acabar vazando dado ou executando ação proibida. Vale auditar onde sua IA processa conteúdo externo não verificado.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude agora roda dentro da Microsoft Azure — sem trocar de fornecedor",
+      "aconteceu": "Os modelos Claude da Anthropic passaram a rodar na infraestrutura mais nova da NVIDIA (chips Blackwell Ultra) dentro da nuvem Microsoft Azure, e ficaram disponíveis pra empresas no Foundry da Microsoft.",
+      "significa": "Se sua empresa já vive no Azure, dá pra usar o Claude direto lá, com resposta mais rápida e menor custo, sem montar contrato separado com a Anthropic.",
+      "fonte": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Hardware",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O estado da Califórnia fechou com a Anthropic e ganhou 50% de desconto no Claude",
+      "aconteceu": "A Anthropic firmou um acordo com o governo da Califórnia pra fornecer o Claude com 50% de desconto pra uso público — um dos primeiros contratos grandes de IA com um governo estadual americano nesse formato.",
+      "significa": "Quando governo começa a comprar IA de forma estruturada (e barganhar preço), é sinal de que a tecnologia saiu da fase \"experimento\" e virou item de orçamento. Bom argumento pra justificar adoção interna.",
+      "fonte": "https://news.ycombinator.com/item?id=48723859",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O modelo de IA chinês que a comunidade técnica mais quer rodar de graça no próprio PC",
+      "aconteceu": "O Qwen 3.6 (modelo da Alibaba) virou o favorito da comunidade técnica pra rodar localmente — no próprio computador, sem nuvem, sem custo por uso e sem depender de internet.",
+      "significa": "A pergunta \"por que pagar API se dá pra rodar com qualidade parecida no meu hardware?\" está ficando concreta. Antes de assinar contrato longo de IA em nuvem, vale checar o que já roda local.",
+      "fonte": "https://news.ycombinator.com/item?id=48721903",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Tidal cortou o dinheiro de quem sobe música feita por IA",
+      "aconteceu": "O serviço de streaming Tidal passou a bloquear automaticamente o pagamento de faixas geradas por IA, especialmente as que imitam a voz de artistas reais.",
+      "significa": "Se você usa IA pra escalar produção de conteúdo (música, voz, áudio), as plataformas estão começando a barrar a monetização antes mesmo de a lei chegar. Risco comercial e jurídico real.",
+      "fonte": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Coreia do Sul vai colocar US$ 900 bilhões em IA e chips",
+      "aconteceu": "O governo sul-coreano anunciou um plano de cerca de US$ 900 bilhões em IA, semicondutores e robótica pra virar potência tecnológica global.",
+      "significa": "Mais investimento em fábricas de chips (Samsung, SK Hynix) tende a aumentar a oferta de hardware de IA no médio prazo — o que pode baixar o custo de rodar IA pra todo mundo lá na frente.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Regulação",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA fez robôs de fábrica aprenderem sozinhos, na tentativa e erro",
+      "aconteceu": "A NVIDIA lançou um sistema (ENPIRE) que permite robôs industriais aprenderem tarefas complexas sozinhos, sem reprogramação manual constante — com 99% de acerto em coisas como montar peças e cortar cabos.",
+      "significa": "Linha de produção que hoje precisa de reprogramação a cada troca de produto pode passar a se ajustar sozinha — menos parada e menos custo de manutenção especializada.",
+      "fonte": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Ninguém acha que o Midjourney é \"vivo\" — mas muita gente acha que o Claude é",
+      "aconteceu": "Um artigo bastante discutido aponta a diferença de percepção: ferramentas de imagem são tratadas como software, mas modelos de texto como o Claude são tratados por algumas pessoas como se tivessem vontade própria.",
+      "significa": "Quando o time começa a atribuir \"intenção\" à IA, decisões passam a se apoiar numa ilusão — e isso afeta desde política de uso até risco de manipulação. Vale alinhar a expectativa: é ferramenta, não colega.",
+      "fonte": "https://news.ycombinator.com/item?id=48727160",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
