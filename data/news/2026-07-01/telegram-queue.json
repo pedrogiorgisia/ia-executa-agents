@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-01",
+  "items": [
+    {
+      "titulo": "A Anthropic lançou o Claude Sonnet 5 — quase tão bom quanto o modelo topo, por muito menos",
+      "aconteceu": "A Anthropic soltou um modelo novo, o Claude Sonnet 5, com desempenho perto do modelo mais caro deles (o Opus) mas custando bem menos. Já está disponível pra usar via API.",
+      "significa": "Se você (ou sua empresa) paga pra usar Claude por trás de algum produto, automação ou atendimento, dá pra manter a qualidade e cortar a conta — algumas estimativas falam em até 40% mais barato. Deixa de ser \"qualidade cara OU custo baixo\": agora dá pra ter os dois.",
+      "fonte": "https://www.anthropic.com/news/claude-sonnet-5",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code já vem com o modelo novo e 1 milhão de tokens de contexto — de graça até agosto",
+      "aconteceu": "A ferramenta de programação com IA da Anthropic (Claude Code, a que o Pedro usa na mentoria) passou a usar o Claude Sonnet 5 como padrão automaticamente, com janela de contexto de 1 milhão de tokens e preço promocional até 31 de agosto.",
+      "significa": "Sem mexer em nada, quem usa Claude Code ganhou um modelo mais capaz e a possibilidade de jogar documentos e projetos gigantes de uma vez só. Bom momento pra testar tarefas mais pesadas enquanto a promoção segura o custo.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Amazon criou uma divisão de US$ 1 bilhão só pra montar agentes de IA dentro das empresas",
+      "aconteceu": "A Amazon lançou uma unidade nova, com US$ 1 bilhão, dedicada a ajudar empresas a implementar agentes de IA nos seus processos — copiando um movimento que OpenAI e Anthropic já fazem.",
+      "significa": "Se sua empresa quer usar IA mas não tem gente técnica pra montar as automações, agora dá pra contratar um time da Amazon pra fazer isso do zero (ex.: um agente que cuida de estoque). Sinal claro de que \"implementar IA pra você\" virou um mercado disputado pelas big techs.",
+      "fonte": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Amazon",
+        "#Agentes",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "O Google lançou geração de imagem quase de graça e edição de vídeo por texto",
+      "aconteceu": "O Google liberou dois modelos via API: o Nano Banana 2 Lite, que gera imagens em 4 segundos custando US$ 0,034 por mil imagens, e o Gemini Omni Flash, que cria e edita vídeo com comandos em linguagem natural.",
+      "significa": "Dá pra produzir centenas de variações de foto de produto e transformar as melhores em vídeo de campanha por um custo mínimo, sem precisar de um designer pra cada peça. Muda a conta de quem produz conteúdo visual em volume.",
+      "fonte": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Descobriram que o Claude Code embutia \"marca d'água invisível\" no código gerado, sem avisar",
+      "aconteceu": "Pesquisadores acharam assinaturas invisíveis embutidas no código que o Claude Code gera — uma técnica chamada esteganografia (escrita escondida). A Anthropic confirmou e disse que era intencional, pra rastreabilidade.",
+      "significa": "Se sua equipe usa IA pra gerar código ou documentos, pode haver metadados ocultos dentro do que é entregue ao cliente sem ninguém saber. Levanta pergunta de propriedade intelectual e compliance — vale checar o que sua ferramenta de IA está deixando embutido nos entregáveis.",
+      "fonte": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Usuários dizem que o Claude Code ficou ~5x mais caro do dia pra noite",
+      "aconteceu": "Vários usuários do Claude Code perceberam que o custo de uso disparou cerca de 5 vezes, sem uma comunicação clara da empresa.",
+      "significa": "Ferramenta de IA tem preço volátil. Se você calculou o ROI de uma iniciativa de IA com base no custo de hoje, esse número pode mudar de repente. Vale acompanhar o gasto de perto e não tratar o preço como fixo. (Contraponto: o Sonnet 5 e a promoção até agosto vão na direção oposta — mercado ainda instável.)",
+      "fonte": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code está apagando conversas depois de 30 dias — sem avisar ninguém",
+      "aconteceu": "Usuários reclamaram que o Claude Code deleta automaticamente conversas com mais de 30 dias, sem notificação, fazendo gente perder histórico e contexto de trabalho.",
+      "significa": "Se você usa a ferramenta como \"memória\" de decisões e raciocínio, não conte com o histórico ficar guardado. Quem precisa de rastreabilidade tem que exportar as conversas por conta própria antes que sumam.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/30/claude-code-users-complain-their-chat-records-are-being-mysteriously-wiped-out/5264673",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI cortou o custo de rodar o ChatGPT pela metade",
+      "aconteceu": "A OpenAI otimizou sua infraestrutura e passou a operar o ChatGPT usando menos da metade do hardware de antes, barateando bastante o custo por resposta.",
+      "significa": "Custo menor pra OpenAI costuma virar preço menor pra quem usa a API dela — possíveis reduções nos próximos meses. Isso torna viável pra pequenas empresas adotar IA onde antes era caro demais, e aperta ainda mais a guerra de preço entre os grandes.",
+      "fonte": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Testamento feito por IA parece profissional — mas deixa buracos jurídicos sérios",
+      "aconteceu": "Uma análise mostrou que testamentos gerados por chatbots de IA têm boa aparência, mas ignoram de forma sistemática planejamento tributário, bens digitais, proteção de menores e perguntas que qualquer advogado faria.",
+      "significa": "É o exemplo perfeito de onde IA dá uma falsa sensação de segurança: o documento sai \"bonito\" e a pessoa acha que está resolvido, quando pode não ter validade completa. Antes de usar IA pra decisões de alto impacto (jurídico, contratos), trate como rascunho, não como versão final.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/06/30/where-theres-a-will-ai-still-has-work-to-do/5264033",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "As ferramentas de \"teste de invasão automático com IA\" estão perdendo a confiança dos especialistas",
+      "aconteceu": "Só 9% dos profissionais de segurança ainda confiam em deixar a IA fazer testes de invasão sozinha — caiu de 29% no ano anterior. As ferramentas falham justamente nas vulnerabilidades novas ligadas a IA.",
+      "significa": "Se sua empresa contratou um \"scanner de segurança com IA\" e acha que está protegida, cuidado: ele pega falhas antigas conhecidas, mas deixa passar ataques novos (como manipular a própria IA do sistema). Segurança de sistema com IA ainda pede olho humano.",
+      "fonte": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Etched, startup de chips de IA, já vale US$ 5 bilhões e desafia a NVIDIA",
+      "aconteceu": "A Etched, que faz chips especializados pra rodar IA, fechou US$ 1 bilhão em contratos e atingiu US$ 5 bilhões de valuation, virando concorrente real da NVIDIA em partes específicas do mercado.",
+      "significa": "Sinal de que dinheiro grande continua entrando em infraestrutura de IA e que a dependência absoluta da NVIDIA pode começar a rachar — o que, no médio prazo, pode significar custo de IA mais barato pra todo mundo.",
+      "fonte": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic lançou o Claude Science, uma IA feita só pra cientistas",
+      "aconteceu": "A Anthropic soltou o Claude Science, um \"banco de trabalho\" de IA para pesquisadores: reúne análise de dados, gestão de recursos computacionais e resultados auditáveis num só ambiente. Está em beta pra assinantes Pro/Max/Team/Enterprise.",
+      "significa": "Sinaliza uma virada importante — a IA está deixando de ser \"genérica\" e virando produto vertical pra cada setor. Quem trabalha com pesquisa (saúde, biotech, farmácia) para de pular entre planilha, Python e ferramentas soltas e documenta tudo com trilha de auditoria automática.",
+      "fonte": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "NVIDIA + Claude Science transformam análise de biologia de horas em minutos",
+      "aconteceu": "A NVIDIA lançou um kit de ferramentas (BioNeMo Agent Toolkit) que deixa pesquisadores de biologia rodar análises complexas — sequências genéticas, estruturas de proteína — só descrevendo o que querem em linguagem natural, integrado ao Claude Science.",
+      "significa": "Tarefas que exigiam montar ambiente técnico e esperar horas passam a ser feitas descrevendo em palavras simples e recebendo resultado em minutos. É o tipo de ganho que encurta ciclo de descoberta em pesquisa aplicada.",
+      "fonte": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Hardware",
+        "#Agentes",
+        "#Investimento",
+        "#Pesquisa"
+      ]
+    }
+  ]
+}
