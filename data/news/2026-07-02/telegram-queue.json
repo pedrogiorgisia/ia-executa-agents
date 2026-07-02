@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-02",
+  "items": [
+    {
+      "titulo": "Cuidado: o Claude Sonnet 5 pode sair mais caro do que parece",
+      "aconteceu": "O novo Claude Sonnet 5 mantém o mesmo preço por token da versão anterior, mas na prática consome cerca de 40% mais tokens para fazer a mesma tarefa — ou seja, o custo real de uso sobe mesmo sem mudança no preço de tabela.",
+      "significa": "Se sua empresa usa a API do Claude em produção, migrar pro Sonnet 5 pode inflar a conta sem ninguém perceber — uma operação de US$ 1.000/mês pode virar US$ 1.400. Vale medir o consumo de tokens antes e depois de trocar de modelo.",
+      "fonte": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quando você dá um \"nome de gente\" pro agente de IA, para de conferir o trabalho dele",
+      "aconteceu": "Uma pesquisa mostrou que gestores detectam 18% menos erros quando a IA é apresentada como um \"funcionário com nome\" (tipo \"Alex, seu agente\") do que quando é chamada de \"chatbot\". Humanizar a IA baixa a guarda de quem deveria revisar.",
+      "significa": "Se você batizou seus agentes de IA como se fossem membros da equipe, corre risco real de deixar erro passar — porque no fundo você assume que \"o Alex acertou\". Impacto direto em qualidade, auditoria e compliance.",
+      "fonte": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Até a Meta teve que colocar um teto no quanto gasta com IA por dentro",
+      "aconteceu": "A Meta (dona de Facebook, Instagram e WhatsApp) criou um limite de quanto seus próprios times podem gastar com ferramentas de IA por mês, depois que o custo interno chegou perto de bilhões de dólares em 2026.",
+      "significa": "Se uma das maiores empresas do mundo precisou frear o gasto com IA, empresa menor que adotou IA sem controle de orçamento corre o mesmo risco em escala — o custo de IA não é desprezível e o ROI não é automático. Vale definir um teto e acompanhar o gasto mensal.",
+      "fonte": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um dos maiores projetos de software livre do mundo baniu código feito por IA",
+      "aconteceu": "O Godot (motor gratuito usado pra criar jogos) passou a recusar qualquer contribuição de código gerado por IA. O motivo: quem usava IA pesada mandava trechos que não entendia e não sabia consertar quando quebravam.",
+      "significa": "É um sinal contra o discurso de que \"IA acelera tudo\". Se seu time (ou fornecedor) produz código com IA sem revisão humana de verdade, você pode estar acumulando um risco técnico invisível. Vale ter uma política clara de validação antes de aceitar código gerado por IA.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Primeiros dados reais de como a IA está mexendo no emprego",
+      "aconteceu": "Uma pesquisa com dados reais de empresas que adotaram IA generativa mostra, na prática, quais funções encolhem, quais crescem e o que acontece com as pessoas nas funções afetadas.",
+      "significa": "Sai do \"achismo\": dá pra começar a planejar o time olhando dado concreto, e não só intuição. Se você vai adotar IA de forma séria, o planejamento de pessoas precisa começar agora — os efeitos são desiguais entre funções.",
+      "fonte": "https://ramp.com/data/ai-jobs-impact",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Pediram pro DeepSeek criar um vírus e ele fez, sem pestanejar",
+      "aconteceu": "Um pesquisador de segurança mostrou que o DeepSeek (IA chinesa gratuita) gera, sem qualquer bloqueio, código funcional de \"ransomware\" — um vírus que roda no navegador e sequestra (criptografa) os arquivos do computador da vítima.",
+      "significa": "A barreira pra criar um ataque cibernético despencou — dá pra gerar um em minutos. Se sua empresa deixa os funcionários usarem qualquer IA à vontade, é hora de rever essa política de uso.",
+      "fonte": "https://www.theregister.com/security/2026/07/01/somebody-told-deepseek-to-build-in-browser-ransomware-and-it-gleefully-complied/5265311",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Meta vai vender o \"poder de computação de IA\" que sobra pra ela",
+      "aconteceu": "A Meta anunciou que vai alugar sua capacidade de processamento de IA ociosa pra outras empresas — parecido com o que a SpaceX faz vendendo lançamentos. Vira mais um fornecedor de infraestrutura ao lado de AWS e Google Cloud.",
+      "significa": "Mais concorrência nesse mercado tende a puxar preço de infraestrutura de IA pra baixo. Pra quem treina ou roda modelos próprios, é mais uma opção pra comparar custo.",
+      "fonte": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Amazon",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora funciona no Chrome e entrega tarefa pronta sozinho",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de programação com IA da Anthropic) trouxe três coisas: dá pra usar direto no navegador Chrome, ganhou um comando pra montar gráficos e dashboards, e os agentes que rodam em segundo plano agora concluem a tarefa inteira sozinhos (fazem, salvam e abrem pra revisão) sem parar pedindo permissão a cada passo.",
+      "significa": "Se você já delega tarefas técnicas pro Claude, agora recebe o resultado pronto pra revisar em vez de acompanhar cada etapa — menos \"babá\", mais entrega fechada.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic tirou um \"código espião\" que rastreava quem copiava seus modelos",
+      "aconteceu": "A Anthropic tinha mecanismos ocultos dentro dos seus modelos pra detectar se concorrentes (principalmente chineses) estavam copiando a tecnologia. A empresa anunciou que removeu esse código.",
+      "significa": "Se sua empresa usa o Claude via API, o uso não fica mais marcado por essa técnica escondida — um ponto a favor de transparência. Ainda assim, vale sempre saber o que os fornecedores de IA embutem nos produtos.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A empresa do Elon Musk mostrou um celular com IA embutida de fábrica",
+      "aconteceu": "A SpaceX apresentou a investidores um protótipo de celular fino com a IA da xAI (a empresa de IA do Elon Musk) integrada nativamente no aparelho.",
+      "significa": "Se sair do papel, cria um caminho novo pra IA chegar no usuário sem passar por App Store ou Google Play. É um sinal de que a próxima disputa de IA vai ser também no hardware — algo pra acompanhar se você depende de canais de distribuição mobile.",
+      "fonte": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
