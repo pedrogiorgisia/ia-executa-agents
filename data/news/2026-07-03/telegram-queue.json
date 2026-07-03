@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-03",
+  "items": [
+    {
+      "titulo": "O primeiro sequestro digital feito 100% por IA já aconteceu — sem nenhum hacker humano",
+      "aconteceu": "Criminosos usaram um agente de IA pra executar um ataque de ransomware completo — invadiu a empresa, quebrou senhas em minutos, apagou os backups e criptografou os dados pra exigir resgate. Tudo sozinho, sem intervenção humana.",
+      "significa": "O custo de atacar uma empresa caiu a quase zero pro criminoso. Antes, PMEs eram \"pequenas demais pra valer o esforço\" de um hacker — agora não existe mais esforço. Se sua empresa tem qualquer sistema exposto à internet e backup no mesmo lugar dos dados, é hora de rever isso essa semana.",
+      "fonte": "https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Devs se *sentiram* 20% mais rápidos com IA — mas mediram 19% mais LENTOS",
+      "aconteceu": "Um estudo comparou a percepção com a medição objetiva: desenvolvedores usando IA acharam que produziam mais, mas na prática ficaram ligeiramente mais lentos. A sensação de produtividade não bateu com os dados.",
+      "significa": "Se você aprovou ferramenta de IA pro time baseado em \"o pessoal diz que rende mais\", você está decidindo com percepção, não com dado. Vale definir 2-3 métricas objetivas de resultado (entregas, prazo, retrabalho) antes de renovar a licença.",
+      "fonte": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Agentes de IA já fazem 16% dos trabalhos de freelancer em qualidade profissional — era 2,5% há 8 meses",
+      "aconteceu": "Em 8 meses, a fatia de tarefas freelancer que agentes de IA conseguem concluir em nível profissional saltou de 2,5% pra 16% — crescimento de 6x, puxado por edição de imagem, redação e programação básica.",
+      "significa": "Se sua empresa paga R$ 500-2.000 por peça terceirizada (artes, textos, scripts simples), boa parte disso já sai por R$ 10-50 com IA. E se você É freelancer nessas categorias, o prazo pra subir de nível no valor entregue é de 12-18 meses.",
+      "fonte": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Microsoft vai colocar 6.000 engenheiros DENTRO das empresas clientes pra implementar IA",
+      "aconteceu": "A Microsoft criou a \"Frontier Company\": US$ 2,5 bilhões e 6.000 engenheiros que trabalham fisicamente na sede do cliente, integrando IA nos processos reais com metas de resultado — em vez do modelo consultoria-entrega-relatório-e-some.",
+      "significa": "O mercado de implementação de IA está migrando de \"te aconselho\" pra \"faço junto e respondo pelo resultado\". Quem contrata consultoria de IA ganha poder de exigir esse modelo; quem vende consultoria vai ter que competir com ele.",
+      "fonte": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Adobe mostrou sites que montam uma página diferente pra cada visitante, em tempo real",
+      "aconteceu": "A Adobe (empresa do Photoshop e de ferramentas de marketing digital) demonstrou um site que gera a página na hora, personalizada pro contexto de quem chegou — quem busca \"presente pra mãe\" vê uma página diferente de quem busca \"uso profissional\". Custo: 1-2 centavos por página, em menos de 2 segundos.",
+      "significa": "A página de produto única e igual pra todo mundo pode estar com os dias contados. Pra e-commerce, personalização em escala deixou de ser projeto de milhões e virou custo de centavos — quem testar primeiro ganha conversão.",
+      "fonte": "https://www.latent.space/p/the-website-of-the-future",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Justiça do Japão bateu o martelo: IA não pode ser \"inventora\" de patente",
+      "aconteceu": "A corte suprema do Japão formalizou que invenção gerada por IA precisa ter um inventor humano pra ser patenteada. A decisão é de março, mas voltou ao centro do debate essa semana com força.",
+      "significa": "Se sua empresa desenvolve produto ou processo com ajuda pesada de IA, a proteção legal dessa inovação depende de documentar a contribuição humana no processo. Sem isso, o ativo pode não ser patenteável — o que muda a valoração do que você está construindo.",
+      "fonte": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Anthropic detalhou as travas de segurança do seu modelo pra cibersegurança",
+      "aconteceu": "A Anthropic (empresa do Claude) publicou como funciona a proteção do Fable 5, seu modelo focado em cibersegurança: ele escaneia sistemas em busca de brechas, mas bloqueia automaticamente quem tenta usar a mesma capacidade pra criar malware. E propôs um padrão pra indústria medir a gravidade de \"jailbreaks\" (técnicas pra burlar as proteções de uma IA).",
+      "significa": "Varredura de segurança que antes exigia consultoria externa a cada rodada começa a virar tarefa de IA — com a fabricante assumindo o compromisso de que a ferramenta não vira arma. É um critério novo pra avaliar fornecedor de IA: o que ele bloqueia, e como prova isso.",
+      "fonte": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Anthropic negocia chip próprio com a Samsung pra depender menos da NVIDIA",
+      "aconteceu": "A Anthropic está negociando com a Samsung o desenvolvimento de um processador de IA proprietário — mesmo caminho que o Google fez com o TPU.",
+      "significa": "Chip dedicado costuma cortar 30-60% do custo de rodar IA em 2-3 anos. Pra quem paga API do Claude em escala, é sinal de preço caindo no médio prazo — e mais um indício de que o monopólio da NVIDIA está sendo atacado por todos os lados.",
+      "fonte": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Hardware",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Já circula fake news feita por IA... reclamando de fake news feita por IA",
+      "aconteceu": "Pesquisadores identificaram artigos gerados por IA alertando sobre os perigos dos artigos gerados por IA. O ciclo da desinformação sintética fechou sobre si mesmo — e ficou mais difícil de identificar.",
+      "significa": "A pesquisa de mercado, o clipping e o \"vi numa matéria\" que embasam suas decisões estão cada vez mais contaminados por conteúdo sem autoria real. Vale instituir na equipe a regra de checar a fonte primária antes de levar informação pra uma decisão.",
+      "fonte": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Cresce o movimento de desenvolvedores banindo código feito por IA",
+      "aconteceu": "Um desenvolvedor veterano passou 100 horas removendo todo código gerado por IA das ferramentas que mantém, documentando problemas de qualidade escondidos — e acendeu um debate amplo na comunidade de software aberto (o código público e colaborativo que roda por baixo de quase todo sistema corporativo).",
+      "significa": "\"Deixar a IA programar\" tem um custo de qualidade e auditabilidade que está começando a gerar rejeição formal. Se sua empresa depende de fornecedores de software, vale perguntar qual a política deles pra código gerado por IA.",
+      "fonte": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora aceita até 5 \"modos de instrução\" numa linha só",
+      "aconteceu": "O Claude Code (ferramenta de IA da Anthropic que executa tarefas no computador) passou a permitir combinar vários modos especializados numa única instrução — por exemplo, \"escreva formal E resuma em bullets\" de uma vez, em vez de dois pedidos separados.",
+      "significa": "Menos ida-e-volta pra chegar no resultado. Quem usa o Claude Code pra tarefas de escritório (relatórios, análises, organização de arquivos) resolve em um comando o que antes levava três.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.199",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O SoftBank entrou no negócio de alugar GPUs pra treinar IA",
+      "aconteceu": "O SoftBank (conglomerado japonês de investimento em tecnologia) vai criar uma subsidiária pra alugar capacidade de GPU — os chips que treinam modelos de IA — competindo com provedores especializados como CoreWeave.",
+      "significa": "Mais oferta = preço caindo. Startups que pagam US$ 5.000+/mês em capacidade de treinamento ganham fornecedor novo com bolso fundo, e o risco de ficar refém de um único provedor diminui.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/02/softbank-enters-the-rent-a-gpu-race-as-america-looks-for-support-for-ai-training/5265998",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#LLM",
+        "#Investimento",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Weird Al recusou milhões pra ser garoto-propaganda de IA",
+      "aconteceu": "O músico Weird Al Yankovic revelou que recusou uma proposta milionária de uma empresa de IA pra estrelar publicidade — por discordar do uso da tecnologia.",
+      "significa": "Associar a marca a IA deixou de ser automaticamente positivo. Se sua empresa usa IA em campanha ou produto de consumo, a comunicação precisa considerar que parte do público (e dos formadores de opinião) vê isso com desconfiança.",
+      "fonte": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    }
+  ]
+}
