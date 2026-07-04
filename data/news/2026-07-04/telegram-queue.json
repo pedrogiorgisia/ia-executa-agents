@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-04",
+  "items": [
+    {
+      "titulo": "A Microsoft vai juntar todos os Copilots num app só — e cobrar extra pelos agentes que trabalham sozinhos",
+      "aconteceu": "Em agosto a Microsoft funde os vários apps Copilot num aplicativo único e lança o \"AutoPilot\": agentes que executam tarefas (tipo montar relatório mensal) sozinhos, por uma taxa extra de ~US$ 20-50/mês por agente.",
+      "significa": "Se sua empresa usa Microsoft 365, o que hoje é grátis no Copilot pode virar cobrança à parte — vale revisar o orçamento de ferramentas antes de agosto e decidir quais automações valem a taxa.",
+      "fonte": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Investimento",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A Meta lançou um app onde você cria um joguinho digitando uma frase",
+      "aconteceu": "A Meta lançou discretamente o Pocket: você descreve o minigame que quer em texto e ele monta o jogo — sem programar nada.",
+      "significa": "Uma agência ou time de marketing pode criar um jogo de engajamento pra campanha em minutos, sem orçamento de desenvolvedor. Barato de testar numa ação de marca.",
+      "fonte": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code mudou o padrão: agora ele pede permissão antes de agir",
+      "aconteceu": "A versão nova (v2.1.200) do Claude Code inverteu o comportamento padrão — em vez de executar ações automaticamente, ele agora espera sua aprovação antes de cada passo importante, e não avança enquanto houver pergunta sem resposta.",
+      "significa": "Se você usa (ou vai começar a usar) o Claude Code, o controle ficou mais seguro por padrão: dá pra deixar uma tarefa longa rodando sabendo que ele para e espera você antes de decisões relevantes.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.200",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Alibaba baniu o Claude Code da empresa inteira por suspeita de rastreamento oculto",
+      "aconteceu": "A Alibaba proibiu formalmente seus funcionários de usar o Claude Code, classificando-o como \"software de alto risco\", depois que pesquisadores revelaram que a Anthropic embutia código oculto pra detectar usuários na China.",
+      "significa": "Ferramenta de IA também é decisão de governança: antes de liberar uma ferramenta pra empresa toda, vale perguntar ao fornecedor o que ela coleta e transmite. Grandes empresas já estão formalizando essas políticas.",
+      "fonte": "https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "As falhas de segurança de software explodiram 3,5x — porque a IA começou a caçá-las",
+      "aconteceu": "Junho registrou ~1.500 falhas críticas de software reportadas — 3,5 vezes o recorde histórico — desde que empresas passaram a usar IA pra varrer os próprios sistemas atrás de vulnerabilidades.",
+      "significa": "Se sua empresa tem software em produção, o ciclo de atualização de segurança precisa acelerar: o que era revisão trimestral de patches vira mensal ou semanal, porque as falhas agora aparecem (e ficam públicas) muito mais rápido.",
+      "fonte": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Teste em produção real: modelo da Mistral fez o mesmo trabalho 4x mais rápido e 30% mais barato que o Claude",
+      "aconteceu": "Uma empresa publicou comparativo de uso real (não benchmark de laboratório): o modelo da Mistral (concorrente europeu da Anthropic) completou o mesmo processo de onboarding de clientes 4x mais rápido, gastando 30% menos.",
+      "significa": "Se você fechou contrato longo com um único fornecedor de IA, vale re-cotar periodicamente — os concorrentes estão alcançando qualidade com preço bem menor, e a vantagem de ontem pode ser o desperdício de hoje.",
+      "fonte": "https://squidler.io/blog/eu-models-1-discovery-mistral",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#OpenSource",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "GPT-5.5 empatou com o melhor Claude em programação — cobrando menos",
+      "aconteceu": "Um teste independente de qualidade de código mostrou o GPT-5.5 da OpenAI entregando o mesmo nível do modelo top da Anthropic (Claude Fable), a custo menor.",
+      "significa": "A diferença de qualidade entre os líderes de IA está encolhendo — a decisão de qual usar passa a ser sobre preço, confiabilidade e integração, não mais sobre \"qual é o mais inteligente\".",
+      "fonte": "https://deepswe.datacurve.ai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Usuários já usam dois \"ChatGPTs\" ao mesmo tempo — e criaram gambiarras pra conectá-los",
+      "aconteceu": "Desenvolvedores estão construindo ferramentas caseiras pra levar o histórico de conversas do Claude pra OpenAI e vice-versa, porque as plataformas não conversam entre si.",
+      "significa": "O profissional avançado já não é fiel a um único assistente de IA — usa o melhor de cada um. Ao padronizar uma ferramenta na empresa, considere que travar tudo num fornecedor só pode custar flexibilidade depois.",
+      "fonte": "https://contextify.sh/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Mistral lançou de graça um modelo que prova matematicamente que um código funciona",
+      "aconteceu": "A Mistral (lab europeu de IA) lançou o Leanstral 1.5, modelo gratuito e open-source especializado em \"verificação formal\" — em vez de testar amostras, ele prova matematicamente que uma função de software está correta em todos os casos.",
+      "significa": "Empresas de setores regulados (finanças, saúde) podem auditar cálculos críticos — juros, liquidações — com garantia matemática, algo que teste comum não oferece. E sem pagar licença.",
+      "fonte": "https://mistral.ai/news/leanstral-1-5/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Desenvolvimento",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O app do Claude pra Mac apanhou em público — do crítico mais influente do mundo Apple",
+      "aconteceu": "John Gruber, referência em análise de produtos Apple, publicou crítica dura ao app do Claude pra Mac, apontando qualidade bem abaixo do que se espera da Anthropic — ironizando que o próprio Claude construiria algo melhor.",
+      "significa": "A régua de qualidade pra produtos de IA subiu: prometer IA de ponta e entregar experiência ruim agora gera desgaste público de marca. Vale pra quem vende ou embute IA no próprio produto.",
+      "fonte": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
