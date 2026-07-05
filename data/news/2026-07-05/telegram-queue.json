@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-05",
+  "items": [
+    {
+      "titulo": "Estudo joga água fria no hype: IA economiza só 3% do seu tempo — e quase nada disso vira dinheiro",
+      "aconteceu": "Um levantamento sobre produtividade real com IA no trabalho concluiu que a economia média é de cerca de 3% das horas trabalhadas — e que esse ganho quase nunca aparece no resultado financeiro da empresa. A discussão pegou fogo entre profissionais de tecnologia.",
+      "significa": "Se você vai defender (ou cobrar) investimento em IA, não espere que o ganho apareça sozinho no balanço. Minutos economizados espalhados no dia não viram lucro — só viram dinheiro quando você redesenha o processo em volta (menos etapas, menos gente na tarefa, mais volume com o mesmo time).",
+      "fonte": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "As vagas de programador iniciante estão sumindo — e o alerta veio de dentro da própria área",
+      "aconteceu": "Texto de um veterano da indústria viralizou mostrando que o mercado de trabalho para programadores júnior \"foi torrado\" pela IA: as posições de entrada estão desaparecendo antes que novos profissionais consigam construir carreira.",
+      "significa": "Se a sua empresa depende de formar talento técnico (ou de contratar barato e treinar), esse pipeline está quebrando agora — não daqui a 5 anos. Quem contrata precisa decidir: pagar sênior mais caro ou criar programa próprio de formação com IA no processo.",
+      "fonte": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Estudo com 26 mil estudantes: o prejuízo da IA no aprendizado só aparece 2 anos depois",
+      "aconteceu": "Pesquisa chinesa acompanhou 26 mil estudantes e descobriu que quem usa IA pra fazer lição de casa entrega resultados imediatos melhores — mas, dois anos depois, tem desempenho até 24% pior em provas presenciais.",
+      "significa": "Vale igual pra treinamento corporativo: se o seu time \"aprende\" delegando pra IA, a avaliação de fim de curso fica ótima e a competência real não se forma. Quem mede programa de capacitação só por satisfação imediata está medindo a coisa errada.",
+      "fonte": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Na justiça, a Midjourney quer forçar os estúdios de Hollywood a abrir como usam IA por dentro",
+      "aconteceu": "No processo que Disney, Universal e Warner movem contra a Midjourney (empresa de geração de imagem por IA), ela contra-atacou: pediu ao tribunal que obrigue os próprios estúdios a revelar em detalhe como usam IA internamente.",
+      "significa": "Cria um precedente incômodo — o uso interno de IA da sua empresa pode virar evidência em tribunal. Quem usa IA pra produzir conteúdo, produto ou decisão deveria mapear e documentar esse uso agora, por escolha, antes de ser obrigado sob pressão judicial.",
+      "fonte": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Data centers de IA bebem muito mais água do que as big techs contam nos relatórios",
+      "aconteceu": "Reportagem do Wall Street Journal mostrou que o consumo de água dos data centers que rodam IA é bem maior do que o divulgado nos relatórios de sustentabilidade das grandes empresas de tecnologia.",
+      "significa": "Se a sua empresa reporta impacto ambiental (ou vende pra quem reporta), o uso de IA em escala carrega um passivo ESG que ninguém está medindo direito — risco reputacional e regulatório escondido na cadeia de fornecedores.",
+      "fonte": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    }
+  ]
+}
