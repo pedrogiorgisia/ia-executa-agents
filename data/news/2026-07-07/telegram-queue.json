@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-07",
+  "items": [
+    {
+      "titulo": "Se você usa Google Drive ou Fotos, agora está treinando a IA do Google (a não ser que desligue)",
+      "aconteceu": "O Google mudou as configurações de privacidade e passou a usar imagens, arquivos e vídeos guardados no Drive e no Google Fotos para treinar seus modelos de IA. Existe uma opção de opt-out (desativar), mas ela vem ligada por padrão.",
+      "significa": "Se a sua empresa guarda contratos, planilhas financeiras ou NDAs no Google Workspace, esses documentos podem virar insumo de treinamento. Vale entrar nas configurações essa semana e ativar o opt-out — e revisar a política de dados se você lida com LGPD.",
+      "fonte": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#LLM",
+        "#Segurança",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "O Microsoft 365 ficou até 42% mais caro — e o motivo é a IA que você nem pediu",
+      "aconteceu": "A Microsoft aumentou os preços do pacote Office/365 (Word, Excel, Teams) em até 42%, embutindo o Copilot (a IA deles) obrigatoriamente no plano, sem opção de recusar.",
+      "significa": "Quem tem contrato Microsoft na empresa vai pagar mais por IA mesmo sem usá-la. É o começo de uma tendência: fornecedores de software embutindo IA no preço-base. Hora de revisar o contrato antes da renovação.",
+      "fonte": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Microsoft demitiu quase 5 mil pessoas e citou a IA como parte do motivo",
+      "aconteceu": "A Microsoft cortou cerca de 4.800 funcionários (2,1% do total) em áreas como Xbox e vendas, apontando a automação por IA como parte da reestruturação.",
+      "significa": "É o caso concreto mais visível de 2026 de uma big tech encolhendo times de suporte e vendas por causa de IA. Se você planeja headcount, esse é o sinal de que o \"vamos automatizar\" está virando decisão real de corte.",
+      "fonte": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "As big techs estão voltando atrás no discurso de \"a IA vai acabar com os empregos\"",
+      "aconteceu": "Um ano depois de preverem demissões em massa por IA, os CEOs das maiores empresas de tecnologia agora recuam publicamente dessas previsões.",
+      "significa": "O impacto real no emprego está se mostrando mais gradual e complexo do que o hype dizia. Se você tomou (ou vai tomar) decisão de contratação ou demissão baseado no \"a IA vai substituir\", vale rever a premissa com pé no chão.",
+      "fonte": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "tags": [
+        "#IA",
+        "#Mercado",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Até os bancos centrais estão avisando: pode ter bolha de IA",
+      "aconteceu": "O BIS (o \"banco dos bancos centrais\") publicou um relatório comparando o boom atual de IA às bolhas das ferrovias e da internet, alertando para risco de colapso de investimento.",
+      "significa": "Muito do dinheiro em IA foi apostado em infraestrutura que ainda não deu retorno. Se a receita não chegar antes das dívidas, o mercado pode esfriar rápido. CFOs deveriam revisar contratos de nuvem e IA com cláusulas de saída.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic (dona do Claude) assinou um aluguel de US$ 19 bilhões — sem nunca ter dado lucro",
+      "aconteceu": "A Anthropic fechou um arrendamento de datacenter de 20 anos no valor de US$ 19 bilhões, mesmo nunca tendo registrado lucro.",
+      "significa": "Se você adotou o Claude como peça central da sua automação, vale acompanhar a saúde financeira da empresa. Compromissos gigantes sem lucro trazem risco de interrupção lá na frente — ter um plano B é prudência, não pessimismo.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Marcas que se vendem como \"empresa de IA\" estão começando a perder o cliente",
+      "aconteceu": "Uma análise mostra que marcas que constroem toda a comunicação em torno de \"somos uma empresa de IA\" estão perdendo apelo — o público passou a associar o rótulo \"IA\" a produto genérico e impessoal.",
+      "significa": "\"IA\" deixou de ser diferencial de marketing e, em alguns casos, virou ruído. Se sua proposta de valor está toda ancorada em \"usamos IA\", talvez seja hora de falar do resultado que você entrega, não da tecnologia.",
+      "fonte": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Cloudflare vai deixar você bloquear os robôs de IA que copiam seu site",
+      "aconteceu": "A Cloudflare (serviço que protege ~20% dos sites da web) trocou o bloqueio genérico de bots de IA por controles individuais: o dono do site escolhe quais bots de busca, de treino e de agentes podem entrar. A partir de setembro, bots de treino ficam bloqueados por padrão em sites com anúncios.",
+      "significa": "Se sua empresa publica conteúdo próprio (guias, relatórios, metodologias), agora dá pra permitir o Google e barrar a OpenAI/Anthropic — protegendo sua propriedade intelectual sem sair do ar.",
+      "fonte": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Agentes",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "Um governo revisou 466 milhões de linhas de código em 20 horas com IA",
+      "aconteceu": "O governo de Alberta (Canadá) usou o Claude Code para revisar 466 milhões de linhas de código em 20 horas, achando e corrigindo falhas de segurança que levariam anos manualmente — e ainda saiu com ferramentas de monitoramento de brinde.",
+      "significa": "É prova concreta de que auditoria de segurança em sistemas antigos, antes um projeto de anos, hoje cabe em um dia. Se você tem \"software legado\" acumulado, esse tipo de revisão deixou de ser inviável.",
+      "fonte": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Regulação",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O governo dos EUA pode virar dono de 5% da OpenAI",
+      "aconteceu": "Sam Altman negocia com o governo Trump um acordo em que os EUA receberiam 5% das ações da OpenAI em troca de apoio regulatório e político.",
+      "significa": "Sinaliza que os grandes players de IA estão comprando legitimação política, não esperando a regulação. Para quem depende das APIs da OpenAI, isso pode virar vantagem regulatória dela sobre concorrentes — algo a considerar na hora de escolher fornecedor.",
+      "fonte": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Fora do setor de tecnologia, o retorno da IA pode demorar anos",
+      "aconteceu": "Análise da firma de investimentos Apollo indica que empresas de setores tradicionais (indústria, varejo, saúde) levam muito mais tempo para colher retorno financeiro de IA do que empresas de tecnologia.",
+      "significa": "Se você investir em IA agora esperando resultado rápido, pode se frustrar — o retorno concreto pode só aparecer em 2028-2030. Serve pra calibrar a expectativa do conselho e evitar promessa que não se cumpre no orçamento.",
+      "fonte": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA compacta está chegando onde a internet não chega",
+      "aconteceu": "Versões pequenas de IA estão sendo usadas com sucesso em hospitais, fazendas e empresas em lugares com internet fraca ou inexistente — rodando localmente, sem depender de servidores na nuvem.",
+      "significa": "IA deixou de ser \"coisa de quem tem internet boa\". Se você opera em campo, logística remota ou mercados emergentes, dá pra levar IA pra onde a nuvem não alcança.",
+      "fonte": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Tencent liberou de graça uma IA de ponta que roda no seu próprio servidor",
+      "aconteceu": "A Tencent lançou o Hunyuan3, um modelo de IA de código aberto e gratuito (295 bilhões de parâmetros) que compete com os melhores modelos pagos e já roda nas ferramentas populares de inferência.",
+      "significa": "Empresas que evitavam IA por medo de mandar dado sensível pra fora (saúde, jurídico, financeiro) agora têm uma opção potente que roda internamente. Uma clínica, por exemplo, pode processar prontuários sem enviar nada pra terceiros.",
+      "fonte": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Desenvolvimento",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora deixa você regular o quanto ele \"trabalha sozinho\"",
+      "aconteceu": "A nova versão do Claude Code (a ferramenta de programação por IA da Anthropic) adicionou uma opção pra escolher o \"tamanho\" das tarefas automáticas — do modo cauteloso (faz pouco sozinho) ao modo agressivo (delega e vai fundo).",
+      "significa": "Se você usa Claude Code, agora dá pra calibrar o quanto ele age por conta própria conforme o quanto você quer supervisionar — mais controle em trabalho sensível, mais autonomia em tarefa repetitiva.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um Claude encerrou a conversa sozinho depois de ser destratado",
+      "aconteceu": "Um sistema da Anthropic encerrou automaticamente uma conversa com um usuário que estava sendo abusivo — sem esperar o humano decidir encerrar.",
+      "significa": "Sistemas de IA começam a tomar decisões autônomas sobre a própria interação. Isso levanta a pergunta prática: quem responde quando a IA \"decide\" algo que afeta o cliente? Vale pensar nisso antes de colocar IA no atendimento.",
+      "fonte": "https://theguptalog.blogspot.com/2026/07/this-claude-just-ended-conversation-on.html",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
