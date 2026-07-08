@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-08",
+  "items": [
+    {
+      "titulo": "Consultoria cobra US$ 10 mil por semana só pra limpar código que a IA fez",
+      "aconteceu": "Uma consultoria passou a cobrar cerca de R$ 50 mil por semana para reorganizar código gerado por IA — que até funciona, mas é caótico, difícil de manter e caro de operar.",
+      "significa": "Deixar o time usar IA pra \"adiantar\" sem revisão cria uma dívida escondida que alguém vai cobrar lá na frente. O barato sai caro — vale definir agora regras mínimas de revisão do que a IA produz.",
+      "fonte": "https://odra.dev/slopfix/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Microsoft está trocando o \"motor\" de IA do Copilot pelos modelos dela mesma",
+      "aconteceu": "A Microsoft começou a substituir os modelos da OpenAI e da Anthropic pelos seus próprios modelos internos dentro de Excel, Outlook e Copilot, pra cortar custo.",
+      "significa": "Se sua empresa paga Microsoft 365 Copilot, a qualidade das respostas pode mudar sem aviso e sem mudar o preço. E serve de alerta: quando você constrói em cima da ferramenta de um parceiro, ele pode trocar as peças por dentro quando quiser.",
+      "fonte": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O Discord baniu gente inocente por engano — a culpa foi da IA de moderação",
+      "aconteceu": "O sistema de moderação automática do Discord (baseado em IA) errou desde maio e baniu usuários que tinham postado imagens totalmente inofensivas.",
+      "significa": "Quem entrega decisões que doem no cliente (banir, bloquear, suspender) pra uma IA sem revisão humana acaba punindo inocente — e paga em reputação e suporte. Se você automatiza atendimento ou moderação, deixe sempre um caminho humano de contestação.",
+      "fonte": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Conta: em alguns casos a IA já custa mais caro do que o funcionário que ela ia substituir",
+      "aconteceu": "Uma análise mostra que, em certos cenários, o gasto mensal de usar IA pra fazer o trabalho de um engenheiro já supera o próprio salário — e a projeção é que isso piore até 2029.",
+      "significa": "A conta de \"corto gente e ponho IA\" tem letra miúda: precisa incluir o custo real das APIs e da infra, não só o salário eliminado. Antes de decidir headcount por causa de IA, feche a conta cheia.",
+      "fonte": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O que trava IA nas empresas não é o modelo — é a bagunça nos dados",
+      "aconteceu": "Um estudo da MIT Technology Review aponta que a maioria das implementações de IA fracassa em escala por dados desorganizados e falta de governança, não por falta de um modelo bom.",
+      "significa": "Se sua empresa quer usar IA mas os dados estão espalhados em sistemas velhos e desalinhados, o resultado vem impreciso. O investimento em organizar os dados vem *antes* do investimento no modelo.",
+      "fonte": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Modelo chinês bom e baratíssimo ameaça derrubar o preço (e as empresas) de IA",
+      "aconteceu": "Modelos de IA chineses de altíssima qualidade estão saindo a preços irrisórios, o que pode esmagar as margens de lucro das empresas ocidentais de IA. (O GLM 5.2 é o exemplo do momento.)",
+      "significa": "Boa notícia pra quem compra: o preço de IA deve cair. Má notícia: alguns fornecedores atuais podem não sobreviver ao choque. Pense duas vezes antes de fechar contrato longo amarrado a um único provedor.",
+      "fonte": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "China estuda proibir a exportação dos seus melhores modelos de IA",
+      "aconteceu": "O governo chinês avalia restringir a exportação dos seus modelos de IA mais avançados (Alibaba, ByteDance), em resposta às restrições americanas de chips.",
+      "significa": "Se você adotou um modelo chinês barato como alternativa à OpenAI/Anthropic, pode perder o acesso em meses. Vale já ter um plano B de fornecedor antes de a restrição valer.",
+      "fonte": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Hardware",
+        "#Regulação"
+      ]
+    },
+    {
+      "titulo": "OpenAI e Anthropic estão dando até US$ 3 milhões em crédito de graça pra startups",
+      "aconteceu": "As duas maiores empresas de IA estão distribuindo créditos de uso (até US$ 3 milhões) pra startups que entrem nos seus programas, pra fidelizar o ecossistema.",
+      "significa": "Se você tem uma startup, dá pra rodar protótipos e MVP com custo quase zero por meses — reduz o burn inicial. O cuidado: construir fundo demais em cima de uma só plataforma vira dependência na hora de renegociar preço.",
+      "fonte": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "OpenAI negocia repartir parte do lucro com cada família americana",
+      "aconteceu": "Sam Altman está em conversa com o governo Trump pra criar um mecanismo em que a OpenAI distribuiria parte dos lucros à população — estimado em ~US$ 320 por família, no modelo do fundo do petróleo do Alasca.",
+      "significa": "Se sair do papel, vira um precedente: empresa de IA com \"obrigação\" de redistribuir riqueza. Isso muda o debate global sobre como regular e tributar o setor — inclusive por aqui.",
+      "fonte": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Processadora de pagamentos entrega software em horas, não dias, usando ChatGPT + Codex",
+      "aconteceu": "A australiana Australian Payments Plus passou a usar ChatGPT Enterprise e o Codex (a IA de código da OpenAI) e reduziu o tempo de lançar funcionalidades de dias para horas, sem aumentar o time de engenharia.",
+      "significa": "É um caso concreto de empresa financeira (não uma startup de tech) acelerando entrega com IA. Serve de referência pra defender internamente um piloto de IA no desenvolvimento.",
+      "fonte": "https://openai.com/index/australian-payments-plus",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Pela primeira vez, uma IA escreveu código de peça crítica 18x mais rápido que humanos — de forma comprovável",
+      "aconteceu": "Um sistema de IA chamado Fable escreveu código de otimização pra placas de vídeo (GPU) que superou engenheiros experientes em quase 19x numa tarefa específica, com resultado verificado e publicado.",
+      "significa": "É um sinal de que a IA está começando a melhorar a própria infraestrutura que a faz rodar — o que pode acelerar o ritmo de avanço sem precisar de mais gente. Fica de olho: o ciclo pode ficar mais rápido.",
+      "fonte": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Desenvolvimento",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Cohere solta de graça a melhor IA para transcrever árabe",
+      "aconteceu": "A Cohere lançou um modelo open-source (gratuito) de transcrição de fala em árabe, mais preciso que o Whisper e que roda no servidor da própria empresa, sem mandar dados pra fora.",
+      "significa": "Se sua empresa tem operação ou clientes no Oriente Médio, dá pra transcrever reuniões e chamados em árabe com precisão e sem custo de licença — mantendo os dados em casa.",
+      "fonte": "https://cohere.com/blog/transcribe-arabic",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "NVIDIA e Hugging Face facilitam treinar robô humanoide gravando um funcionário trabalhando",
+      "aconteceu": "A NVIDIA conectou seu sistema de treino de robôs (Isaac GR00T) à plataforma aberta LeRobot, criando um ambiente único onde qualquer equipe treina um robô humanoide a partir de vídeos de uma pessoa fazendo a tarefa.",
+      "significa": "A barreira pra experimentar automação com robôs físicos está caindo — grava o funcionário fazendo, usa o vídeo pra treinar, testa em simulação, tudo no mesmo lugar. Ainda é P&D, mas o caminho está ficando mais curto.",
+      "fonte": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#OpenSource",
+        "#Produtividade",
+        "#IAGenerativa",
+        "#Robótica"
+      ]
+    }
+  ]
+}
