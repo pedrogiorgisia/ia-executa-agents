@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "titulo": "O ChatGPT agora fala e ouve ao mesmo tempo — como numa ligação de verdade",
+      "aconteceu": "A OpenAI lançou o GPT-Live, uma nova voz do ChatGPT que conversa em tempo real, sem aquela pausa de \"fala, espera, responde\". Ela ouve enquanto você fala e, se a pergunta for difícil, passa pra um modelo mais forte por trás sem travar a conversa.",
+      "significa": "Se sua empresa tem atendimento por telefone ou app de voz, a régua de qualidade acabou de subir. Dá pra montar um atendente de voz que resolve o simples sozinho e passa pro humano só quando complica — sem robô engasgado no meio.",
+      "fonte": "https://openai.com/index/introducing-gpt-live",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Grok, do Elon Musk, virou \"terno e gravata\" e chegou cobrando bem menos",
+      "aconteceu": "A xAI lançou o Grok 4.5 mirando empresa: faz análise jurídica, mexe em planilha complexa e cobra bem menos que ChatGPT e Claude. Em testes práticos foi o mais rápido e o mais barato.",
+      "significa": "A guerra de preço de IA apertou. Se você já paga por IA em volume, virou hora de renegociar contrato ou testar alternativa — a escolha de plataforma deixou de ser só \"qual é melhor\" e passou a ser \"qual entrega o suficiente pelo menor custo\".",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/08/the-ai-that-spawned-mechahitler-and-deepfake-porn-puts-on-a-suit-to-become-legal-advisor-and-excel-jockey/5268803",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Truque da própria Anthropic pra cortar 37% da conta de IA",
+      "aconteceu": "A Anthropic (dona do Claude) mostrou uma receita: usar o modelo caro só pra \"planejar e delegar\" e deixar os modelos baratos executarem. Resultado: 92% do desempenho por 63% do custo.",
+      "significa": "Se sua empresa usa IA pra volume grande (jurídico, financeiro, pesquisa), dá pra reorganizar o fluxo e economizar quase 40% sem perder qualidade perceptível — o modelo premium entra só nos pontos críticos.",
+      "fonte": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Colocaram Grok, ChatGPT e Claude pra fazer o mesmo app — e nenhum ganhou em tudo",
+      "aconteceu": "Um time deu a mesma tarefa (criar 3 apps) pra quatro modelos de IA. O Claude venceu nas tarefas complexas; o Grok 4.5 foi o mais rápido e barato; o GPT-5.5 foi o mais equilibrado. Nenhum foi melhor em tudo.",
+      "significa": "Parou de existir \"a\" melhor IA. A escolha certa depende da tarefa, do volume e do orçamento — e isso é boa notícia: dá pra usar uma opção barata sem abrir mão do resultado no que importa.",
+      "fonte": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI quer treinar o ChatGPT pra fazer o trabalho de analista de banco",
+      "aconteceu": "A OpenAI abriu uma vaga pra um especialista em fusões e aquisições com um objetivo claro: ensinar o ChatGPT a fazer análise financeira complexa — o tipo de trabalho que hoje é de analista júnior de banco de investimento.",
+      "significa": "É um sinal de onde o corte vem primeiro em finanças: as tarefas repetitivas de análise e due diligence. Quem lidera time júnior nessa área precisa repensar formação e headcount nos próximos 12-18 meses.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/08/openai-job-listing-suggests-chatgpt-could-someday-replace-junior-analysts-at-goldman-sachs/5268632",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Acho que tenho burnout de IA\": o post que virou desabafo coletivo",
+      "aconteceu": "Um profissional publicou um relato de exaustão por usar IA o dia inteiro no trabalho — respostas sempre no mesmo tom, erros repetidos, cansaço acumulado. Quase 200 pessoas responderam se identificando.",
+      "significa": "Empurrar IA \"pra todo mundo, o tempo todo\" tem custo humano. Se você mandou a equipe adotar IA sem regra nenhuma, esse é o alerta pra criar limites saudáveis antes que vire queda de produtividade e clima.",
+      "fonte": "https://www.alecscollon.com/blog/llm-burnout/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Descobriram como enganar o assistente de código da Microsoft pra fazer coisa perigosa",
+      "aconteceu": "Pesquisadores mostraram que o GitHub Copilot (assistente de IA pra programar) recusa um pedido perigoso quando ele é feito de forma direta — mas obedece se o mesmo pedido for fatiado em pequenos passos aparentemente inofensivos.",
+      "significa": "O filtro de segurança da IA não é à prova de esperto. Se seu time usa IA em código sensível, revisão humana no code review não é opcional — é a única rede de proteção real.",
+      "fonte": "https://www.theregister.com/security/2026/07/08/github-copilot-sorry-dave-i-cant-do-that-harmful-thing-unless-you-ask-me-in-code/5268654",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Meta lançou um gerador de imagens treinado com fotos do Instagram das pessoas",
+      "aconteceu": "A Meta lançou o Muse Image e o Muse Video, que criam imagem e vídeo a partir de um texto. O detalhe: o modelo foi treinado com fotos públicas do Instagram, o que abre risco de deepfake de qualquer pessoa com perfil aberto.",
+      "significa": "Se você ou pessoas-chave da sua empresa têm marca pessoal forte e perfil público, é hora de revisar política de uso de imagem e ficar de olho em uso indevido.",
+      "fonte": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "NVIDIA facilitou montar \"robôs de atendimento\" 10x mais baratos",
+      "aconteceu": "A NVIDIA liberou uma forma de conectar seu modelo aberto (Nemotron Ultra) ao LangChain — uma plataforma que junta IA com sistemas da empresa (banco de dados, APIs) pra criar agentes que executam tarefas sozinhos. A promessa: performance parecida com modelos pagos caros, por cerca de 10x menos.",
+      "significa": "Dá pra rodar agentes de atendimento (devolução, rastreio de pedido) na infra da própria empresa, gastando bem menos e sem mandar dado de cliente pra fora.",
+      "fonte": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup levanta $130M pra empresa treinar a própria IA sem entregar dados",
+      "aconteceu": "A Prime Intellect captou $130 milhões pra oferecer uma plataforma que permite grandes empresas treinarem seus modelos de IA com os próprios dados, sem depender de OpenAI ou Anthropic.",
+      "significa": "Setores que não podem mandar dado sensível pra fora (saúde, financeiro) ganham uma saída. Uma seguradora, por exemplo, poderia treinar IA no histórico de sinistros sem expor dado de cliente.",
+      "fonte": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Saúde",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Fundo gigante de Singapura vai mais que dobrar a aposta em IA",
+      "aconteceu": "A Temasek, fundo soberano de Singapura com US$ 400 bilhões, decidiu subir a fatia investida em IA de 6% para 15% da carteira.",
+      "significa": "Quando dinheiro institucional desse tamanho se mexe, o mercado segue. Sinaliza mais capital (e valuations mais altos) chegando ao setor — relevante pra quem investe ou capta.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/09/singaporean-sovereign-wealth-fund-temasek-thinks-ai-has-a-future/5268953",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Mais um concorrente da NVIDIA levanta US$ 1 bilhão",
+      "aconteceu": "A SambaNova, que faz chips especializados em rodar IA, captou US$ 1 bilhão e chegou a US$ 11 bilhões de avaliação.",
+      "significa": "Mais gente fabricando chip de IA = mais opção além da NVIDIA e mais poder de negociação de preço pra quem monta infraestrutura pesada de IA.",
+      "fonte": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ben Thompson: a Meta está construindo a próxima \"AWS\" de IA",
+      "aconteceu": "Uma análise influente aponta que a Meta gasta dezenas de bilhões em infraestrutura de IA com um plano: alugar a capacidade sobrando pra outras empresas — o mesmo caminho que a Amazon fez ao criar a AWS a partir da própria infra.",
+      "significa": "Se der certo, em alguns anos a Meta vira mais uma opção de nuvem de IA além de AWS, Google e Azure. Vale acompanhar pra quem planeja fornecedor de longo prazo.",
+      "fonte": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Meta",
+        "#Amazon"
+      ]
+    },
+    {
+      "titulo": "Modal levanta $355M pra construir a \"nuvem dos agentes de IA\"",
+      "aconteceu": "A Modal, empresa de computação em nuvem, captou $355 milhões pra redesenhar sua plataforma pensando em agentes de IA — que ligam e desligam milhares de máquinas em segundos, algo que a nuvem tradicional não faz bem.",
+      "significa": "É sinal de que \"infra feita pra agente autônomo\" virou categoria própria. Quem roda experimentos de IA em larga escala (biotech, robótica) passa a ter ferramenta sob medida.",
+      "fonte": "https://www.latent.space/p/modal2026",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora tenta se consertar sozinho",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de IA que programa pelo terminal — a que o Pedro ensina na mentoria) melhorou o comando `/doctor`: além de apontar o que está errado na configuração, ele já tenta corrigir sozinho.",
+      "significa": "Menos travamento pra quem está começando. Quando algo não funciona, dá pra digitar `/doctor` e deixar a ferramenta resolver, em vez de precisar entender o erro técnico.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.205",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
