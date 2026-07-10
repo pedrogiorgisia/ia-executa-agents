@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-10",
+  "items": [
+    {
+      "titulo": "A OpenAI lançou um ChatGPT que faz o projeto inteiro sozinho, não só responde",
+      "aconteceu": "A OpenAI lançou o \"ChatGPT Work\", uma versão que age sozinha dentro dos seus aplicativos (Google Drive, Slack, Salesforce): você dá o objetivo, ela trabalha por horas e devolve o resultado pronto — sem você ficar dando comando a cada passo.",
+      "significa": "Dá pra delegar um projeto de verdade (\"analise os relatórios de venda dos últimos 6 meses e me monta um deck com recomendações\"), não só uma pergunta. É o pulo de \"assistente\" pra \"executor\".",
+      "fonte": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Saiu o GPT-5.6 — mais inteligente pelo mesmo dinheiro",
+      "aconteceu": "A OpenAI liberou pro público o GPT-5.6, nova geração do seu modelo mais forte, com mais desempenho por custo. Foi a notícia mais comentada do dia entre desenvolvedores.",
+      "significa": "Se você usa ChatGPT ou a API da OpenAI em algum produto ou processo, tende a ter respostas melhores pelo mesmo preço — ou a mesma qualidade pagando menos. Vale reavaliar sua conta.",
+      "fonte": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic soltou um painel que mostra COMO você usa o Claude",
+      "aconteceu": "O Claude ganhou um painel que mostra pra você mesmo em que mais gasta seu tempo com a ferramenta — que tipo de tarefa faz, quanto tempo investe, onde poderia ser mais eficiente. Já disponível nos planos Free, Pro e Max.",
+      "significa": "Você descobre com dado, não com achismo, que (por exemplo) passa 60% do tempo formatando relatório — coisa que dava pra delegar — e realoca seu uso pro que importa.",
+      "fonte": "https://www.anthropic.com/news/reflect-with-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma IA fechou a contabilidade de um trimestre por R$ 15 (US$ 2,73)",
+      "aconteceu": "Um modelo de IA chinês (GLM 5.2) apurou uma declaração tributária de 59 transações com a mesma precisão de um contador especializado, gastando US$ 2,73. Não é promessa — tem benchmark com número real de transações.",
+      "significa": "Tarefa de back-office financeiro qualificado — a que exigia gente cara — já dá pra replicar por centavos. Muda a conta de quem tem equipe grande de contabilidade/fiscal.",
+      "fonte": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A ferramenta que roda IA \"no seu computador\" (sem nuvem) levantou US$ 65 mi",
+      "aconteceu": "A Ollama — programa que roda modelos de IA localmente, sem mandar nada pra servidor externo — captou US$ 65 milhões e já tem quase 9 milhões de usuários.",
+      "significa": "Se seus dados são sensíveis (jurídico, saúde, financeiro), agora dá pra usar IA sem que a informação saia da sua máquina. Isso deixou de ser nicho técnico e virou padrão de mercado.",
+      "fonte": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#OpenSource",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Meta lançou uma IA que \"faz sozinha\" — e abriu pra empresas usarem",
+      "aconteceu": "A Meta (dona de Facebook e Instagram) lançou o Muse Spark 1.1, um modelo que executa tarefas complexas de forma autônoma — analisa vídeo, cria anúncio, escreve código — e liberou o acesso pra empresas via API.",
+      "significa": "Um vendedor filma o produto no celular e a IA já monta o anúncio pronto. E, no geral: agente que \"age sozinho\" está virando commodity entre os grandes (OpenAI, Meta, Anthropic) — o poder de barganha de quem contrata IA aumenta.",
+      "fonte": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "Uma startup deixou o próprio agente de IA conduzir uma captação de US$ 100 milhões",
+      "aconteceu": "A empresa Lyzr deixou seu agente autônomo de IA negociar com investidores e tocar a rodada inteira de US$ 100 milhões — sem humano nas negociações.",
+      "significa": "Se um agente já gerencia negociação de alto valor, ele consegue tocar processos complexos e repetitivos da sua empresa (triagem de proposta de fornecedor, resposta inicial, gestão de contrato). É um termômetro de até onde os agentes já chegaram.",
+      "fonte": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Parlamento Europeu aprovou varredura de mensagens privadas (\"Chat Control\")",
+      "aconteceu": "O Parlamento Europeu aprovou uma lei que permite monitorar o conteúdo de mensagens privadas (WhatsApp, e-mail) em busca de material ilegal — apelidada de \"Chat Control 1.0\".",
+      "significa": "Se sua empresa opera na Europa ou tem usuários por lá, prepara: pode forçar revisão de políticas de privacidade, comunicação interna e compliance na cadeia toda.",
+      "fonte": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "1 em cada 4 posts longos de rede social já é 100% feito por IA — LinkedIn na frente",
+      "aconteceu": "Uma pesquisa detectou que 25% dos posts longos em redes sociais são inteiramente gerados por IA, com o LinkedIn liderando (41%). Contando texto \"com ajuda de IA\", é mais ainda.",
+      "significa": "Quem recruta ou fecha parceria olhando o LinkedIn da pessoa pode estar avaliando texto de robô, não a experiência real dela. E autenticidade na sua própria comunicação virou diferencial raro.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Com IA, reescrever um sistema antigo ficou barato — e isso muda o plano de TI",
+      "aconteceu": "Um artigo em alta argumenta (com repercussão entre gente de TI) que a IA derrubou o custo de reescrever software legado — aqueles sistemas velhos e caros de manter que ninguém queria tocar.",
+      "significa": "Aquela migração que sua empresa vinha adiando \"porque é cara demais\" pode ter mudado de conta. Vale reavaliar o portfólio de sistemas antigos antes de aprovar o orçamento do ano.",
+      "fonte": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Anthropic botou o Claude pra validar design de chip: de 4 dias pra 48 horas",
+      "aconteceu": "A Anthropic firmou parceria com a UST (empresa de engenharia) pra usar o Claude em fabricação e operações industriais. Um exemplo citado: validar o design de um chip passou de 4 dias pra 48 horas.",
+      "significa": "IA saindo do \"escritório\" e entrando no chão de fábrica e na engenharia pesada — encurtando ciclo de validação e antecipando lançamento de produto.",
+      "fonte": "https://www.anthropic.com/news/ust-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O GPT-5.6 já entrou de graça no Word, Excel e PowerPoint de quem tem Copilot",
+      "aconteceu": "O GPT-5.6 virou o modelo padrão do Microsoft 365 Copilot — a melhoria chega automática no Word, Excel, PowerPoint e Teams, sem mudar plano nem configuração.",
+      "significa": "Se sua empresa já paga o Copilot, as respostas dele (análise de planilha, redação de documento) ficaram melhores de graça. Bom momento pra reavaliar se o time está aproveitando a ferramenta.",
+      "fonte": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Mistral criou um \"controle de versão\" pras instruções dos agentes de IA",
+      "aconteceu": "O Mistral Studio ganhou um sistema centralizado pra guardar, versionar e gerenciar as instruções (prompts) e capacidades dos agentes de IA da empresa — em vez de ficar em arquivos soltos sem histórico.",
+      "significa": "Se você tem IA respondendo cliente ou tocando processo, agora um gestor de produto ajusta o comportamento, testa e publica com aprovação — sem depender do time técnico pra cada mudança.",
+      "fonte": "https://www.mistral.ai/news/manage-prompts-and-skills-in-studio/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Agora dá pra \"espiar\" o que a IA está pensando antes de ela responder",
+      "aconteceu": "Pesquisadores da Anthropic criaram uma técnica (\"Jacobian lens\") que mostra quais conceitos o Claude está considerando internamente antes de dar a resposta — uma janela pro \"raciocínio\" da IA.",
+      "significa": "Vira ferramenta de auditoria: se a IA recomenda aprovar um crédito mas internamente \"pensa\" em palavras como risco e incerteza, dá pra pegar isso antes de bater o martelo.",
+      "fonte": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ganhou autocomplete de pastas",
+      "aconteceu": "A ferramenta de programação com IA da Anthropic (Claude Code — a mesma da mentoria) passou a sugerir automaticamente os caminhos de pasta enquanto você digita, como o preenchimento automático de um endereço.",
+      "significa": "Detalhe pequeno, mas tira atrito: você navega entre pastas do projeto sem precisar decorar ou digitar o caminho inteiro. Somado a outras melhorias recentes, mostra o ritmo de polimento da ferramenta.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
