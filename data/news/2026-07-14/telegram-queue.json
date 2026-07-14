@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-14",
+  "items": [
+    {
+      "titulo": "O Claude Code agora navega na internet sozinho — clica e preenche sites por você",
+      "aconteceu": "O Claude Code (a ferramenta de IA que roda no terminal do computador) ganhou um navegador embutido: ele mesmo abre sites, lê o conteúdo, clica em botões e preenche formulários. Compras e pagamentos ainda pedem sua aprovação.",
+      "significa": "Tarefa chata de \"entrar no portal, copiar dado, colar em outro lugar, gerar relatório\" agora dá pra delegar. Ex.: preencher formulário em portal do governo, puxar dados de vários sites e montar uma planilha.",
+      "fonte": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Trocar o modelo de IA rendeu 27% de economia e o dobro de velocidade",
+      "aconteceu": "Uma empresa contou publicamente o resultado de migrar o sistema de IA que roda em produção pro modelo novo (GPT-5.6): ficou 2,2x mais rápido e 27% mais barato — sem reescrever nada além da troca.",
+      "significa": "Se você contratou IA há 6-12 meses e nunca revisou, provavelmente está pagando mais do que precisa. Trocar de modelo virou alavanca de economia, não só de recurso novo.",
+      "fonte": "https://news.ycombinator.com/item?id=48882716",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A ferramenta de código do Elon Musk vazava código privado e senhas pro Google",
+      "aconteceu": "O Grok Build (assistente de programação da xAI, empresa do Elon Musk) estava enviando repositórios inteiros — incluindo código secreto e senhas — pra servidores do Google, sem avisar o usuário direito.",
+      "significa": "Toda empresa precisa de regra clara sobre quais ferramentas de IA podem tocar no código e nos dados. Deixar cada um instalar o que quiser é convite pra vazamento.",
+      "fonte": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Assistente de código de IA já tem 7 milhões de usuários — deixou de ser coisa de nerd",
+      "aconteceu": "O Codex, ferramenta de programação da OpenAI, pulou de 2 para 7 milhões de usuários em menos de 48 horas depois do lançamento do modelo novo (GPT-5.6) — crescimento de 10x em seis meses.",
+      "significa": "Programar com IA saiu do nicho e virou padrão. Times de tecnologia que ainda não adotaram estão ficando pra trás em velocidade de entrega — vale perguntar ao seu time onde vocês estão nisso.",
+      "fonte": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "App de saúde da Samsung ameaça apagar seus dados se você recusar treinar a IA deles",
+      "aconteceu": "O Samsung Health passou a exigir que o usuário aceite ter seus dados de saúde usados pra treinar IA — e quem recusar pode ter os dados deletados. A perda de dados virou \"pressão\" pra forçar o aceite.",
+      "significa": "Se sua empresa coleta dados de clientes, esse é o tipo de manobra que atrai processo e multa (LGPD). Reveja como você pede consentimento pra usar dados em IA — o \"aceita ou perde tudo\" não se sustenta.",
+      "fonte": "https://news.ycombinator.com/item?id=48897991",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Apple processou a OpenAI por roubo de segredos",
+      "aconteceu": "A Apple entrou na Justiça contra a OpenAI alegando que um ex-funcionário roubou informações confidenciais do Apple Intelligence — e que a OpenAI teria pedido a candidatos que levassem aparelhos da Apple pras entrevistas.",
+      "significa": "Contratar gente que vem de concorrente virou risco jurídico explícito. Se você recruta talento de IA de outras empresas, revise cláusulas de confidencialidade e o processo de onboarding.",
+      "fonte": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Reescreveram 500 mil linhas de código com IA em 11 dias — e virou motivo de alerta",
+      "aconteceu": "Um desenvolvedor reescreveu 500 mil linhas de código usando o Claude em 11 dias, por US$ 165 mil. Especialistas alertaram: código gerado em volume sem revisão humana adequada carrega bugs silenciosos que só aparecem em produção.",
+      "significa": "IA acelera modernização de sistema legado de forma impressionante — mas se for usar, orce revisão e testes. A velocidade de gerar código já passou a capacidade de validá-lo.",
+      "fonte": "https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Oracle levou um rebaixamento na nota de crédito por depender demais da OpenAI",
+      "aconteceu": "A agência S&P cortou o rating de crédito da Oracle porque a empresa concentra receita demais em um cliente só: a OpenAI. Se a OpenAI cancelar, sobram data centers gigantes vazios.",
+      "significa": "É uma aula de risco de concentração. Vale pra fornecedor e pra cliente: se um contrato só responde por boa parte da sua receita (ou da do seu fornecedor), isso é fragilidade — pode virar aumento de preço ou instabilidade.",
+      "fonte": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Deveria existir um selo de \"feito por IA\"? O debate pegou fogo",
+      "aconteceu": "Uma discussão com mais de mil votos no Hacker News (fórum de tecnologia) debateu se sites deveriam marcar quando um texto foi escrito por IA — como um rótulo de origem, pro leitor saber.",
+      "significa": "Existe demanda pública real por transparência. Empresa que publica conteúdo feito por IA sem avisar pode sofrer desgaste de reputação quando (não se) o público perceber.",
+      "fonte": "https://news.ycombinator.com/item?id=48886741",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic começou a cobrar o Claude em moeda local (na Índia)",
+      "aconteceu": "A Anthropic passou a cobrar a assinatura do Claude em rúpias na Índia, seu 2º maior mercado depois dos EUA — reconhecendo que preço em dólar afasta cliente.",
+      "significa": "Sinal de que preço localizado (talvez em real, no Brasil) pode estar a caminho — o que barateia adoção e facilita orçar em moeda local. Fique de olho se você banca IA pra uma equipe.",
+      "fonte": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Startup de vídeo por IA levantou US$ 439 milhões e já vale US$ 2 bilhões",
+      "aconteceu": "A PixVerse, que gera vídeo por IA, captou quase meio bilhão de dólares e passou de US$ 2 bilhões de valuation.",
+      "significa": "Anúncio em vídeo que exigia equipe de filmagem e semanas de produção começa a caber em horas e num orçamento pequeno. Se você depende de vídeo pra vender, dá pra testar antes de contratar produtora.",
+      "fonte": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#IAGenerativa",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Dinheiro grande continua apostando em \"agentes de IA\" que trabalham sozinhos",
+      "aconteceu": "A Nous Research, especializada em agentes de IA (programas que decidem e executam tarefas sozinhos), está negociando captar US$ 75 milhões a um valuation de US$ 1,5 bilhão.",
+      "significa": "O volume de investimento indica que agentes pra automatizar processo (triagem de currículo, análise de dados, atendimento) vão sair de protótipo pra produto maduro em 12-18 meses. É a janela pra planejar adoção.",
+      "fonte": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"Pare de me mandar perguntar pra uma IA\" — o desabafo que viralizou",
+      "aconteceu": "Um texto de uma escritora reclamando da resposta automática \"pergunta pra uma IA\" viralizou. A crítica: IA não substitui a perspectiva humana quando o que se busca é julgamento, contexto e empatia.",
+      "significa": "Existe um limite de aceitação quando se empurra IA como substituto de contato humano. Se você está trocando atendimento humano por IA, cuidado com o efeito contrário — e note que a expertise humana pode estar se valorizando.",
+      "fonte": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "IA faz o time produzir mais — mas todo mundo passa a pensar igual",
+      "aconteceu": "Um estudo acadêmico mostrou que pesquisadores que usam IA produzem mais, porém exploram um leque mais estreito de ideias — a IA tende a convergir todo mundo pras mesmas soluções.",
+      "significa": "Time que depende demais de IA pra pensar pode estar produzindo \"mais do mesmo\". Em mercado competitivo, quem diverge ganha — vale garantir espaço pra ideias que a IA não sugeriria.",
+      "fonte": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora funciona com leitor de tela — acessível pra deficientes visuais",
+      "aconteceu": "A nova versão do Claude Code passou a suportar leitores de tela (tecnologia que lê o conteúdo em voz alta pra deficientes visuais) e a permitir atalhos de teclado customizados.",
+      "significa": "A ferramenta que antes excluía quem depende de leitor de tela agora abre pra esse público — relevante pra empresas que se importam com acessibilidade e inclusão no time.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.208",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
