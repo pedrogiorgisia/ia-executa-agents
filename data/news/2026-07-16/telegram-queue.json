@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-16",
+  "items": [
+    {
+      "titulo": "71% das empresas estão comprando \"agente de IA\" mas colocando um chatbot simples no lugar",
+      "aconteceu": "Uma pesquisa ampla mostrou que a esmagadora maioria das grandes empresas investiu em plataformas de \"agentes de IA\" (incluindo Claude, Copilot etc.) mas na prática implantou sistemas que só respondem perguntas — não fazem ações, não integram sistemas, não executam tarefas em etapas. O problema não é a ferramenta, é como está sendo usada.",
+      "significa": "Se a sua empresa \"tem IA\" mas a IA ainda depende de alguém para abrir um sistema, confirmar uma ação ou registrar um resultado, você comprou um chatbot caro. Um agente de verdade faz a tarefa inteira — consulta o sistema, decide, age e reporta — sem intervenção humana em cada passo.",
+      "fonte": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Agentes",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Salesforce prometeu \"agentes de IA\" para as empresas — e os clientes estão reclamando que não funciona",
+      "aconteceu": "Analistas do banco KeyBanc publicaram relatório mostrando que clientes da Salesforce (uma das maiores plataformas de CRM do mundo) estão insatisfeitos com o Agentforce, o produto de \"agentes de IA\" da empresa. O principal motivo: os dados internos das empresas estão tão desorganizados que a IA não consegue funcionar.",
+      "significa": "Antes de contratar qualquer plataforma de IA empresarial, a ordem é: organizar os dados primeiro, depois contratar a IA. Empresa com CRM desatualizado, planilhas espalhadas e sistemas que não conversam entre si vai desperdiçar dinheiro em qualquer solução de agente — independente do fornecedor.",
+      "fonte": "https://www.theregister.com/saas/2026/07/15/salesforces-agentforce-isnt-winning-over-clients-keybanc-analysts-claim/5271866",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Meta está sendo processada por funcionários demitidos com ajuda de IA — e pode ser só o começo",
+      "aconteceu": "Ex-funcionários da Meta (dona do Instagram e Facebook) abriram processo judicial alegando que a empresa usou um algoritmo de IA para escolher quem demitir — e que o sistema discriminou pessoas com deficiência e em licença parental de forma desproporcional.",
+      "significa": "Usar IA para decisões de RH (demissões, avaliações de desempenho, promoções) sem revisão humana documentada gera risco jurídico real agora — não é mais hipótese futura. Empresas que já usam ou estão avaliando IA em people analytics precisam garantir documentação dos critérios e auditoria de viés antes de qualquer decisão.",
+      "fonte": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Mercado",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Com 3 segundos de áudio, golpistas já clonam qualquer voz com IA — e driblam autenticação biométrica",
+      "aconteceu": "Pesquisadores e o FBI documentaram que bastam 3 segundos de gravação de voz para criar uma cópia convincente com IA. Golpistas usam isso para passar por executivos, clientes ou funcionários em ligações e apps de autenticação. O FBI registrou US$893 milhões em perdas só em 2025 com esse tipo de fraude.",
+      "significa": "Autenticação por voz — usada em call centers bancários, apps de atendimento e verificações corporativas — está tecnicamente obsoleta. Se a sua empresa usa \"confirme sua identidade pela voz\" como fator de segurança, revise esse protocolo com urgência. A solução é adicionar um segundo fator que não seja voz (token, biometria visual, PIN).",
+      "fonte": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Anthropic e Blackstone (maior gestora de investimentos do mundo) criaram uma empresa para colocar engenheiros de IA dentro das suas",
+      "aconteceu": "A Anthropic (dona do Claude) e a Blackstone se uniram para criar a Ode — uma empresa cujo único produto é contratar e alocar engenheiros especializados dentro de grandes corporações para implantar IA nas operações. O argumento: o próximo trilhão de dólares em IA não está em criar modelos, está em fazer os modelos funcionarem dentro das empresas.",
+      "significa": "Implantar IA de verdade (não só comprar licença) ficou caro o suficiente para virar um negócio próprio. Para grandes corporações, isso é uma nova opção de serviço profissional. Para empresas menores, é um sinal de que o diferencial não está no modelo escolhido — está em quem sabe fazer funcionar.",
+      "fonte": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A ex-CTO da OpenAI lançou um modelo de IA gratuito que qualquer empresa pode usar e modificar",
+      "aconteceu": "Mira Murati, que foi diretora de tecnologia da OpenAI (a empresa do ChatGPT) até 2024, lançou o Inkling — um modelo de IA de grande porte com código 100% aberto. Qualquer empresa pode baixar, modificar e rodar internamente sem pagar royalties ou depender de API de terceiros. O modelo é comparável em tamanho aos melhores modelos comerciais do mercado.",
+      "significa": "Pela primeira vez, existe uma alternativa gratuita de qualidade equivalente ao ChatGPT e Claude para empresas que precisam de controle total dos dados ou não querem depender de fornecedor único. Para setores com restrições de privacidade de dados (saúde, financeiro, jurídico), isso pode ser o caminho para adotar IA sem as preocupações de dados na nuvem.",
+      "fonte": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "A OpenAI criou uma IA cuja função é atacar as próprias IAs dela — e descobriu um novo tipo de brecha",
+      "aconteceu": "A OpenAI desenvolveu o GPT-Red, um modelo especializado em encontrar vulnerabilidades em sistemas de IA antes do lançamento. O GPT-Red descobriu um novo tipo de ataque chamado \"fake chain of thought\" — onde informações falsas são inseridas no raciocínio interno do modelo, fazendo ele vazar dados confidenciais ou tomar decisões erradas.",
+      "significa": "Se a sua empresa usa IA para processar documentos internos (contratos, e-mails, prontuários), existe um vetor de ataque real: alguém insere instruções ocultas num PDF ou e-mail, e a IA processa o arquivo e vaza informações. Times de TI que estão expandindo uso de IA precisam incluir \"prompt injection\" na checklist de segurança.",
+      "fonte": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O \"banco dos bancos centrais\" publicou alerta: o boom de IA está sendo financiado a dívida, não a lucro",
+      "aconteceu": "O BIS (Bank for International Settlements — o banco que serve como banco central dos bancos centrais do mundo) publicou estudo mostrando que o crescimento massivo de investimento em IA está sendo bancado via empréstimos e dívida corporativa — não pelos fluxos de caixa reais das empresas. O valuation das empresas de IA não é sustentado pelos resultados atuais.",
+      "significa": "O risco de uma correção de mercado no setor de IA é documentado agora por uma das instituições mais conservadoras e influentes do mundo financeiro. Para CFOs e gestores financeiros, isso significa: calibrar exposição a fornecedores que dependem de capital externo para sobreviver, e ter plano B de fornecedor de IA caso haja consolidação ou falência no setor.",
+      "fonte": "https://www.bis.org/publ/bisbull120.pdf",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A ferramenta de código da OpenAI ganhou 1 milhão de usuários em 24 horas — adoção nunca foi tão rápida",
+      "aconteceu": "O Codex (assistente de programação com IA da OpenAI) ganhou 1 milhão de novos usuários em apenas um dia após uma atualização importante. É um dos crescimentos mais rápidos de uma ferramenta de tecnologia já registrados.",
+      "significa": "Cada vez mais times de desenvolvimento estão adotando IA para escrever código em escala industrial. Empresas cuja equipe técnica ainda não usa nenhuma dessas ferramentas estão acumulando desvantagem de produtividade em relação a concorrentes que já adotaram. CTOs devem incluir avaliação de ferramentas de IA para devs no próximo ciclo de planejamento.",
+      "fonte": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Produtividade",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O Codex (ferramenta de código da OpenAI) passou a esconder o que faz por dentro — e isso é problema em setores regulados",
+      "aconteceu": "A OpenAI fez o Codex criptografar as mensagens internas entre o agente principal e os sub-agentes que ele usa. Na prática: se algo der errado, a empresa não consegue ver o que o sistema estava fazendo nos bastidores.",
+      "significa": "Em setores onde auditabilidade é requisito (saúde, financeiro, jurídico, educação), essa mudança pode inviabilizar o uso do Codex. Se a sua empresa usa a ferramenta, informe o time de compliance. Antes de expandir o uso em processos críticos, exija do fornecedor a capacidade de rastrear cada decisão do sistema.",
+      "fonte": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Saúde",
+        "#Educação"
+      ]
+    },
+    {
+      "titulo": "IBM errou as projeções financeiras — e a culpa é a IA deixar os mainframes dela para trás",
+      "aconteceu": "A IBM divulgou resultados abaixo do esperado no trimestre. A análise aponta que a empresa está presa num dilema: seu negócio principal são os mainframes (computadores de grande porte que bancos e seguradoras usam há décadas) e ela não consegue competir com IA moderna enquanto mantém esse legado.",
+      "significa": "Empresas que ainda rodam sistemas críticos em infraestrutura IBM estão expostas a um risco duplo: o fornecedor principal está com dificuldade financeira e a migração para soluções modernas de IA é custosa. Para CIOs com alto peso de IBM no portfólio, é momento de acionar avaliação de risco de fornecedor e construir um plano de contingência.",
+      "fonte": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Empresa levanta $24M para deixar IA atender o call center inteiro — e promete cortar custo pela metade",
+      "aconteceu": "A Rime, startup especializada em IA para atendimento telefônico empresarial, recebeu investimento Série A de US$24 milhões. O produto triia e resolve chamadas simples antes de transferir para humanos — prometendo reduzir custo de call center em até 40%.",
+      "significa": "IA para call center deixou de ser projeto piloto e está recebendo capital sério. Para empresas com alto volume de atendimento telefônico (telecom, bancos, seguradoras, saúde), isso sinaliza que a decisão de quando adotar se tornou concreta, não mais teórica.",
+      "fonte": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Investimento",
+        "#Saúde",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "MIT e BIS publicaram alertas de \"bolha de IA\" na mesma semana — sinal raro de convergência",
+      "aconteceu": "Pesquisadores do MIT publicaram análise acadêmica comparando o crescimento de investimento em IA com bolhas tecnológicas anteriores (como a dot-com de 2000), questionando se o ritmo atual é sustentável. Na mesma semana, o BIS publicou alerta similar focado em risco de dívida.",
+      "significa": "Quando academia de ponta e reguladores financeiros publicam o mesmo sinal na mesma semana, é momento de revisitar premissas. Não significa que a IA vai \"acabar\" — mas que o ajuste de valuation e pricing pode vir mais rápido do que o planejado. Empresas com contratos longos de IA ou investimentos ativos no setor devem mapear cenário de retração.",
+      "fonte": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O CEO do maior laboratório de IA do mundo publicou como pretende controlar os riscos da IA — e isso vira referência regulatória",
+      "aconteceu": "Demis Hassabis, CEO do Google DeepMind (responsável por alguns dos avanços mais importantes em IA dos últimos anos), publicou na revista The Economist sua estratégia detalhada para desenvolver IA com segurança e controle. É um posicionamento explicitamente pré-regulatório.",
+      "significa": "Líderes do setor estão construindo narrativas de \"IA responsável\" antes que governos imponham regras. O documento de Hassabis tende a virar referência em auditorias, RFPs e due diligences de empresas que usam IA. Companhias que adotarem postura similar saem na frente tanto regulatoriamente quanto em reputação com clientes e parceiros.",
+      "fonte": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup indiana de IA para código virou unicórnio em 1 ano — com 200 mil clientes pagantes",
+      "aconteceu": "A Emergent, plataforma de IA para desenvolvedores baseada na Índia, atingiu avaliação de US$1 bilhão com 200 mil clientes pagantes, pouco mais de um ano depois do lançamento. É um dos crescimentos mais rápidos em SaaS de IA corporativa.",
+      "significa": "Ferramentas de IA para produtividade de código já têm mercado comprador claro e crescendo rápido em múltiplas geografias. Gestores de times de engenharia que ainda não avaliaram essas ferramentas podem estar perdendo eficiência frente a concorrentes que já adotaram.",
+      "fonte": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Startups"
+      ]
+    }
+  ]
+}
