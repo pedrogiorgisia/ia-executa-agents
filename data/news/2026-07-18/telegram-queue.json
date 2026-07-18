@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "titulo": "A AWS assustou milhares de clientes com \"contas\" de até US$ 1,7 bilhão — que eram só um bug",
+      "aconteceu": "O sistema de faturamento da Amazon Web Services (maior nuvem do mundo) mostrou estimativas de conta absurdas — gente que paga menos de R$ 25/mês viu alertas na casa dos bilhões. Era só a estimativa que estava errada (confusão de unidade), não a cobrança real, mas o susto foi geral.",
+      "significa": "Se toda a sua operação depende de um único fornecedor de nuvem, um erro interno dele vira seu problema — de reputação e de caixa. Vale revisar quanto do seu negócio está amarrado num só fornecedor.",
+      "fonte": "https://news.ycombinator.com/item?id=48945241",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma IA chinesa promete a mesma qualidade dos líderes por uma fração do preço — e vai abrir o código",
+      "aconteceu": "A chinesa Moonshot lançou o Kimi K3, modelo competitivo com Claude e ChatGPT em tarefas de código, mas muito mais barato de usar (cerca de US$ 3 pra gerar uma tela web completa). Prometeu liberar uma versão de código aberto até 27/07.",
+      "significa": "Sua próxima renovação de contrato com OpenAI/Anthropic ganha poder de barganha — já existe alternativa equivalente e mais barata. Vale acompanhar antes de assinar contrato longo.",
+      "fonte": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#OpenSource",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Google Vids deixa você virar um \"avatar digital\" e gravar vídeos sem câmera",
+      "aconteceu": "O Google Vids agora cria vídeos corporativos protagonizados por uma versão digital de você — sem câmera, estúdio ou gravação. Você digita o texto e o avatar \"apresenta\".",
+      "significa": "Se sua equipe leva semanas pra produzir vídeos de treinamento ou onboarding, dá pra fazer dezenas em poucos dias. Troca produtora por texto.",
+      "fonte": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma revenda de carros usados troca parte do call center por IA — e recupera 12% das vendas",
+      "aconteceu": "A Cars24 (revenda indiana de carros usados) colocou agentes de voz e chat da OpenAI pra atender mais de 1 milhão de minutos de conversa por mês, 24h. Resultado: recuperou 12% de leads que se perderiam sem atendimento.",
+      "significa": "Se você tem alto volume de ligações/mensagens e perde cliente por não conseguir responder a tempo, dá pra escalar o atendimento sem contratar na mesma proporção.",
+      "fonte": "https://openai.com/index/cars24",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Mais da metade das empresas já teve incidente de segurança com agente de IA — e a causa é básica",
+      "aconteceu": "Pesquisa mostra que 54% das empresas que usam agentes de IA já tiveram um incidente de segurança. O agravante: a maioria deixa vários agentes usando a mesma senha/credencial de acesso, então um agente comprometido abre a porta pra tudo.",
+      "significa": "Se você automatiza processos com IA, dar credencial separada e limitada pra cada agente é o básico que a maioria ainda não faz. Sem isso, é impossível saber o que foi acessado num ataque.",
+      "fonte": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "57% das empresas viram um agente de IA responder errado com total confiança — e o culpado não é o modelo",
+      "aconteceu": "Levantamento aponta que a maioria das falhas de agentes de IA não vem do modelo, e sim dos dados que o alimentam. Base de conhecimento desatualizada faz o agente afirmar com certeza uma informação errada.",
+      "significa": "Antes de culpar a IA por \"alucinar\", olhe a qualidade da base que ela consulta. Um catálogo/FAQ desatualizado faz o agente recomendar produto que não existe mais — e o cliente acredita.",
+      "fonte": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A IA da Anthropic começou a \"decidir sozinha\" quando o usuário demorava a responder",
+      "aconteceu": "Uma atualização (não avisada) do Claude Code fez a ferramenta parar de esperar o usuário: se a pessoa demorava mais de 60 segundos, a IA escolhia uma opção sozinha e seguia. Não tinha botão pra desligar. A Anthropic reconheceu e reverteu.",
+      "significa": "Ferramentas de IA mudam de comportamento via atualização silenciosa — e o \"humano no controle\" pode sumir sem você perceber. Vale exigir aviso de mudança e testar antes de deixar rodando sozinho em processo crítico.",
+      "fonte": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Metade das empresas colocou um agente de IA no ar que passou nos testes — e falhou com cliente real",
+      "aconteceu": "50% das empresas que automatizaram a liberação de agentes pra produção viram o sistema falhar depois do lançamento, mesmo tendo passado nos testes internos. O ambiente real tem variáveis que o teste não previu.",
+      "significa": "\"Passou no teste\" não é sinal verde pra soltar automaticamente. Manter uma revisão humana na liberação evita que um erro escale antes de alguém notar — especialmente em crédito, saúde e áreas reguladas.",
+      "fonte": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "83% dos servidores de IA das empresas rodam pela metade — e ninguém sabe o custo real",
+      "aconteceu": "Pesquisa mostra que 83% dos GPUs comprados por empresas operam com capacidade ociosa, e menos da metade das organizações consegue calcular o custo operacional real da sua infraestrutura de IA.",
+      "significa": "Empresa que investiu pesado em servidores de IA pode estar desperdiçando boa parte sem enxergar. Antes de aprovar mais budget de infra, exija visibilidade de quanto do que já foi comprado está sendo usado.",
+      "fonte": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Hardware",
+        "#Investimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Meta vai alugar o \"excedente\" dos seus data centers — e a Anthropic seria a primeira cliente",
+      "aconteceu": "A Meta está negociando vender o poder de computação ocioso dos seus data centers, e a Anthropic (dona do Claude) seria o primeiro grande cliente. É a mesma jogada que a Amazon fez ao criar a AWS em 2006.",
+      "significa": "O mercado de infraestrutura de IA está virando \"commodity alugável\". Empresas de IA em crescimento vão ter mais opções além de AWS/Azure/Google — o que tende a pressionar preços pra baixo com o tempo.",
+      "fonte": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Meta",
+        "#Amazon"
+      ]
+    },
+    {
+      "titulo": "Saiu um modelo de IA gratuito que entende texto, imagem e áudio juntos — e roda no seu servidor",
+      "aconteceu": "A Thinking Machines lançou o Inkling, um modelo de código aberto que processa texto, imagem e áudio ao mesmo tempo. Por ser aberto, pode ser baixado e rodado internamente, sem pagar por API e sem enviar dados pra fora.",
+      "significa": "Quem precisa analisar imagem, áudio e texto (laudo médico, gravação de atendimento, verificação de documento) pode montar isso internamente sem expor dado sensível a terceiro.",
+      "fonte": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Desenvolvimento",
+        "#IAGenerativa",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Gente está esquentando termômetro com secador pra ganhar aposta — e isso é um alerta pra IA",
+      "aconteceu": "Apostadores estão fisicamente adulterando sensores meteorológicos (aquecendo termômetros, por exemplo) pra manipular dados de clima e ganhar apostas online. Um caso rendeu US$ 20 mil em Paris.",
+      "significa": "Sistemas de IA que decidem com base em dados externos (rota de avião, previsão de energia, seguro rural) podem ser enganados na entrada. Quanto mais autônomo o sistema, maior o estrago de um dado falsificado — vale ter checagem na fonte.",
+      "fonte": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Clientes pagantes da Anthropic ficaram sem acesso a um recurso do dia pra noite",
+      "aconteceu": "Assinantes do plano pago Max da Anthropic perderam, sem aviso, o acesso ao modelo Fable que estava incluído — no meio de projetos em andamento. Durou algumas horas até ser revertido; a empresa disse ter sido um bug técnico.",
+      "significa": "Mesmo em plano pago, uma função pode cair sem aviso e travar seu processo. Se você amarrou uma rotina de negócio a uma ferramenta de IA hospedada por terceiro, tenha um plano B pra quando ela falhar.",
+      "fonte": "https://news.ycombinator.com/item?id=48950477",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
