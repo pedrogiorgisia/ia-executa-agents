@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "titulo": "Custo de usar IA caiu 98% em 18 meses — e a versão gratuita quase empatou com a paga",
+      "aconteceu": "A Mozilla publicou um relatório sobre IA de código aberto (gratuita e modificável). Dois números pesam: o custo de usar IA caiu 98% em 18 meses (de US$ 20 para US$ 0,40 por milhão de \"tokens\", a unidade que se paga), e a diferença de qualidade entre a IA gratuita e a paga encolheu de 8% para 0,5%.",
+      "significa": "Se você fechou contrato caro com um fornecedor de IA (OpenAI, Anthropic) achando que era a única opção com qualidade, agora vale reabrir a conta: pra boa parte das tarefas, a opção gratuita/aberta já entrega quase o mesmo por uma fração do preço.",
+      "fonte": "https://stateofopensource.ai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#OpenSource",
+        "#Investimento",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O Stack Overflow perdeu 99% do movimento desde que a IA chegou",
+      "aconteceu": "Um gráfico viralizou mostrando que o Stack Overflow — o maior site do mundo de perguntas e respostas de programação — despencou ~99% em atividade. O volume de perguntas caiu de 207 mil para cerca de 1.200.",
+      "significa": "Quando a IA responde na hora, plataformas inteiras de \"pergunta e resposta humana\" perdem sentido. Se o seu negócio depende de fórum, FAQ, comunidade ou helpdesk baseado em gente respondendo, esse modelo está sendo esvaziado — vale repensar antes de acontecer com você.",
+      "fonte": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O texto que viralizou: \"a febre de IA está estragando as decisões das empresas\"",
+      "aconteceu": "Um artigo muito comentado argumenta que a pressão pra \"adotar IA já\" está levando líderes a decisões apressadas — priorizando parecer modernos em vez de resolver o problema real.",
+      "significa": "É um lembrete útil na direção contrária do hype: antes de aprovar mais um projeto de IA, exigir o \"e daí?\" concreto — que problema resolve, quanto economiza — em vez de comprar porque todo mundo está comprando.",
+      "fonte": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Nova York proíbe usar foto de IA em anúncio de imóvel sem avisar",
+      "aconteceu": "Nova York passou a exigir que anúncios de aluguel avisem quando a imagem foi gerada ou retocada por IA. \"Embelezar\" a foto com IA sem informar virou infração.",
+      "significa": "É o primeiro caso concreto de lei obrigando transparência sobre imagem de IA em publicidade — e tende a se espalhar pra outras cidades e setores. Se você usa IA pra gerar imagem de produto, imóvel ou serviço no marketing, comece a pensar em como sinalizar isso.",
+      "fonte": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ataque hacker \"de ponta\" agora sai de graça com IA aberta",
+      "aconteceu": "Modelos de IA gratuitos e públicos já conseguem fazer ataques cibernéticos que, quatro meses atrás, só as IAs pagas mais avançadas faziam. Ou seja: a capacidade de ataque ficou barata e acessível.",
+      "significa": "O que era \"ameaça avançada\" há um trimestre agora está na mão de qualquer um. Vale antecipar a revisão das defesas — o intervalo entre \"surge a técnica\" e \"ela vira commodity\" está encurtando rápido.",
+      "fonte": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Databricks virou US$ 188 bilhões apostando em \"agentes de IA\" para empresas",
+      "aconteceu": "A Databricks (empresa que ajuda grandes companhias a organizar e usar seus dados) chegou a US$ 188 bilhões de valor — era US$ 134 bi cinco meses atrás — e lançou três produtos voltados a agentes de IA que trabalham em cima dos dados da própria empresa.",
+      "significa": "Sinaliza pra onde o mercado corporativo está indo: não é mais só \"usar o ChatGPT\", é montar agentes de IA que agem sobre os dados internos. E os testes deles mostram modelos abertos empatando com Claude/GPT em código a custo menor — reforço da notícia sobre queda de custo.",
+      "fonte": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A partir de amanhã (20/07), o Claude mais novo entra de graça nos planos Max",
+      "aconteceu": "A Anthropic anunciou que o Claude Fable 5 (o modelo mais avançado dela) passa a estar incluído automaticamente em todos os assinantes do plano Max a partir de 20/07, sem custo adicional.",
+      "significa": "Se você ou sua equipe já paga o plano Max do Claude, ganha acesso a um modelo mais capaz sem renegociar nada — vale avisar o time pra aproveitar as tarefas mais pesadas.",
+      "fonte": "https://news.ycombinator.com/item?id=48954522",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A China montou seu próprio \"bloco\" de IA e vai treinar 5 mil pessoas de graça",
+      "aconteceu": "Xi Jinping lançou uma organização internacional de cooperação em IA, oferecendo 5.000 bolsas de treinamento a países em desenvolvimento — uma estrutura paralela à liderada pelo Ocidente.",
+      "significa": "Países do Sul Global (Brasil incluído) ganham acesso a tecnologia e treinamento chineses subsidiados. Quem opera ou compete em mercados emergentes vai enfrentar concorrência com IA barata financiada — vale acompanhar de que lado o Brasil se posiciona.",
+      "fonte": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Patreon parou de \"pedir por favor\" e agora bloqueia robôs de IA",
+      "aconteceu": "O Patreon (plataforma onde criadores vendem conteúdo por assinatura) passou de pedir educadamente pra bloquear tecnicamente os robôs que copiam conteúdo pra treinar IA.",
+      "significa": "É parte de uma onda: as plataformas estão fechando a porta pra IA raspar conteúdo de graça. Se você vende conteúdo exclusivo, dá pra proteger melhor seu trabalho; se sua empresa depende de coletar dados públicos da web pra IA, essa fonte está encolhendo.",
+      "fonte": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um programador sozinho está reconstruindo um sistema operacional com o Claude Code",
+      "aconteceu": "Um desenvolvedor individual está reconstruindo o NextBSD (um sistema operacional que junta partes do macOS com FreeBSD) usando o Claude Code como parceiro pra escrever e revisar o código.",
+      "significa": "Caso real de uma pessoa só fazendo um projeto de software que normalmente exigiria uma equipe. Pra quem avalia adotar ferramentas de IA no time de tecnologia, é evidência concreta do salto de produtividade individual.",
+      "fonte": "https://www.theregister.com/os-platforms/2026/07/18/nextbsd-returns-to-dollop-apple-source-on-freebsd/5273788",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
