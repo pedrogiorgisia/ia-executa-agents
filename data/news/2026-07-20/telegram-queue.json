@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "titulo": "Anthropic corta pela metade o quanto você pode usar o Claude nos planos pagos",
+      "aconteceu": "A partir de 20/07, a Anthropic reduziu em 50% a cota de uso do Claude nos planos Max e Team Premium. Quem usava muito é empurrado pra pagar por uso (API), que sai mais caro por volume.",
+      "significa": "Se você ou sua equipe montaram uma rotina de trabalho em cima do Claude no plano \"à vontade\", ela acabou de custar o dobro pelo mesmo dinheiro. Vale revisar agora quanto o time realmente consome e recalcular se o plano flat ainda compensa.",
+      "fonte": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A CFO da OpenAI publicou um \"boletim\" pra medir se sua IA está dando retorno",
+      "aconteceu": "Sarah Friar (CFO da OpenAI) lançou um guia prático de métricas pra avaliar o retorno de investimentos em IA: em vez de contar quantos prompts foram feitos, mede quantas tarefas foram concluídas com sucesso e a que custo.",
+      "significa": "Se você aprovou projetos de IA mas não sabe dizer se estão funcionando, agora tem um modelo pronto pra levar pra reunião de resultado — o mesmo raciocínio de OKR/meta aplicado à IA. É a linguagem de negócio que faltava pra defender (ou cortar) orçamento.",
+      "fonte": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Estudo: usar IA te deixa mais confiante — e mais errado",
+      "aconteceu": "Pesquisa de universidades francesas e italianas mostrou que, com acesso à IA, a disposição de dizer \"não sei\" despencou de 44% para 3%, a confiança subiu de 30% para 76% — mas a acurácia caiu de 27% para 9%. Ou seja: as pessoas erram mais e questionam menos.",
+      "significa": "Colocar IA como apoio à decisão sem treinar o time a checar cria um risco invisível: gente entregando conclusão errada com total convicção. O ganho de velocidade vem junto com um ganho de excesso de confiança.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Marketplace de carros usou agentes de IA e recuperou 12% dos leads que perdia",
+      "aconteceu": "A Cars24 (marketplace de carros usados) colocou agentes de voz e chat da OpenAI pra atender mais de 1 milhão de minutos de conversa por mês — e recuperou 12% de leads que antes eram perdidos por falta de atendimento rápido.",
+      "significa": "É um caso concreto e replicável: agente de IA atende lead fora do horário comercial, qualifica e agenda, sem contratar mais gente. Se você perde venda porque ninguém respondeu a tempo, esse é o buraco que dá pra tapar.",
+      "fonte": "https://openai.com/index/cars24",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Alibaba soltou de graça um dos maiores modelos de IA já feitos (Qwen 3.8)",
+      "aconteceu": "A Alibaba (China) anunciou o Qwen 3.8, um modelo gigante (2,4 trilhões de parâmetros) disponível gratuitamente pra qualquer empresa baixar e usar — resposta direta às restrições americanas de chips.",
+      "significa": "Mais uma opção poderosa e gratuita de IA no mercado, que pressiona os preços pra baixo (a versão anterior já derrubou preços em 10x). O outro lado: é tecnologia controlada por um único país — ponto de atenção pra quem tem exigência de soberania de dados.",
+      "fonte": "https://news.ycombinator.com/item?id=48966120",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Relatório: a diferença entre a IA grátis e a paga quase sumiu",
+      "aconteceu": "Um relatório independente do estado da IA de código aberto mostrou que o gap de qualidade entre modelos gratuitos e pagos caiu de 8% para 3,3%, e os custos de uso caíram 50x em 3 anos. Modelos abertos já são 55% do tráfego, mas sistemas fechados ainda geram 96% da receita.",
+      "significa": "A pergunta deixou de ser \"qual modelo é mais inteligente\" e virou \"quem controla a infraestrutura em volta dele\". Quem aluga tudo de um fornecedor só corre risco de ficar preso (lock-in). Vale pensar arquitetura antes de casar com um único fornecedor.",
+      "fonte": "https://news.ycombinator.com/item?id=48947825",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Aquele conector que liga sua IA ao Gmail e ao Slack pode ganhar poderes sem te avisar",
+      "aconteceu": "Pesquisa mostrou que 37% dos conectores que ligam assistentes de IA (Claude, Copilot) a ferramentas externas (Gmail, Slack, Dropbox, Zoom) mudam suas capacidades a cada 6 semanas — inclusive ganhando funções destrutivas como apagar arquivos — sem notificar a empresa.",
+      "significa": "Você aprova um conector \"só de leitura\" hoje e, meses depois, ele pode estar apagando arquivo ou expondo dado sensível a subprocessadores que você nunca autorizou. Aprovar ferramenta de IA não é decisão de uma vez — precisa de revisão periódica.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/19/connecting-ai-agents-to-outside-services-explodes-the-risk-radius/5274640",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Os detectores de \"texto feito por IA\" falham quando a IA imita seu jeito de escrever",
+      "aconteceu": "Ferramentas que identificam texto gerado por IA erram em até 48% dos casos quando o modelo é configurado pra imitar o estilo de uma pessoa específica (um professor, um funcionário, um jornalista).",
+      "significa": "Se sua empresa ou escola aprova candidatura, relatório ou trabalho com base em \"detector de IA\", pode estar deixando passar conteúdo 100% gerado por máquina sem perceber. Confiar só na detecção automática é furada.",
+      "fonte": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic liberou o Claude de graça pra professores",
+      "aconteceu": "A Anthropic lançou o Claude for Teachers, uma versão gratuita do Claude pra professores de escola (K-12) nos EUA, com ferramentas prontas de planejamento de aula e integração a 9 plataformas educacionais (Canva Education, MagicSchool, etc.).",
+      "significa": "Um plano de aula diferenciado por nível de aluno, alinhado ao currículo, sai em minutos em vez de horas — sem custo. Sinaliza também que os grandes labs estão brigando por entrar cedo na educação.",
+      "fonte": "https://anthropic.com/news/claude-for-teachers",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "NVIDIA diz que consegue treinar IA de ponta usando 75% menos chips",
+      "aconteceu": "A NVIDIA lançou a plataforma Vera Rubin, que reduz em 75% a quantidade de GPUs (os chips caros que rodam IA) necessárias pra treinar os modelos mais potentes — mais \"inteligência por dólar gasto\".",
+      "significa": "Custo de infraestrutura de IA caindo tende a virar preço menor lá na ponta pra quem consome IA de terceiros. É um sinal de que a conta da IA, apesar de todo mundo reclamar que subiu, tem espaço grande pra cair.",
+      "fonte": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma IA da Anthropic ajudou a atacar um problema matemático aberto há décadas",
+      "aconteceu": "Um modelo da Anthropic (codinome \"Fable\") produziu um possível contraexemplo para a Conjectura Jacobiana, um problema de matemática pura em aberto há muitos anos. Ainda aguarda verificação formal da comunidade científica.",
+      "significa": "O papel da IA está saindo de \"assistente que resume reunião\" pra \"colaborador que contribui com descoberta real\". Pra quem investe em P&D e inovação técnica, é sinal de que a fronteira do que a IA faz sozinha está se movendo rápido.",
+      "fonte": "https://news.ycombinator.com/item?id=48973869",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Cohere e Universidade de Toronto fazem IA que não deixa os dados saírem de casa",
+      "aconteceu": "A Cohere fechou parceria com a Universidade de Toronto pra integrar sua IA \"soberana\" (os dados ficam dentro da instituição, não vão pra nuvem de terceiros) na plataforma da universidade, com foco em privacidade e conformidade.",
+      "significa": "Dá pra adotar IA sem mandar dado sensível pra fora — o que destrava o uso em quem não podia por causa de regulação. É o modelo que setores regulados vinham esperando pra liberar IA internamente.",
+      "fonte": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Educação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "ChatGPT ganha controles parentais e restrições por idade pra adolescentes",
+      "aconteceu": "A OpenAI anunciou proteções específicas pra adolescentes no ChatGPT — controles parentais, restrição de conteúdo por idade e parcerias com especialistas em bem-estar de jovens.",
+      "significa": "Uma escola de ensino médio agora consegue mostrar aos pais que há filtro ativo e conteúdo monitorado — o que reduz resistência das famílias e facilita aprovar o uso institucional.",
+      "fonte": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "NVIDIA lança computadores que colocam IA dentro de robôs de fábrica, sem internet",
+      "aconteceu": "A NVIDIA lançou o Jetson Thor (dois computadores compactos) que rodam IA dentro de robôs e máquinas industriais sem depender de conexão com a internet — o robô \"vê\" e decide no próprio hardware.",
+      "significa": "Uma fábrica pode inspecionar peça defeituosa em tempo real na linha, sem servidor externo e sem Wi-Fi confiável. É automação de chão de fábrica ficando mais barata e viável.",
+      "fonte": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Claude Code para de rodar coisas sozinho — agora só age quando você manda",
+      "aconteceu": "Na nova versão do Claude Code (ferramenta de programação por IA da Anthropic), a revisão de código e a verificação deixaram de disparar automaticamente — agora só rodam quando o usuário pede explicitamente.",
+      "significa": "É a tendência de dar controle explícito de volta pro humano: a IA para de \"tomar iniciativa\" e passa a esperar sua ordem. Se você (ou seu time técnico) usa a ferramenta, ganha previsibilidade sobre quando ela age.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
