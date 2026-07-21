@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-21",
+  "items": [
+    {
+      "titulo": "Anthropic vai pagar US$ 1,5 bilhão a autores por usar livros sem permissão — e virou precedente",
+      "aconteceu": "Foi aprovado o acordo de US$ 1,5 bilhão da Anthropic (dona do Claude) para encerrar a ação de autores que alegavam uso de obras protegidas no treinamento da IA — sem licença.",
+      "significa": "Ficou claro que treinar IA com conteúdo dos outros sem autorização tem preço, e é alto. Se sua empresa usa ou constrói IA com dados que você não sabe de onde vieram, esse é o momento de perguntar \"de onde vem esse dado?\".",
+      "fonte": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#LLM",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma IA chinesa gratuita (Kimi) já briga de igual com as pagas americanas",
+      "aconteceu": "O modelo chinês Kimi está entregando qualidade parecida com a de modelos americanos pagos — de graça — a ponto de dividir o próprio governo Trump sobre restringir ou não o acesso.",
+      "significa": "A conta de IA pode cair bastante. Quem hoje paga caro por API (OpenAI, Anthropic) passa a ter alternativa muito mais barata com qualidade similar — muda o cálculo de \"vale a pena construir ou comprar?\". Vale acompanhar antes de fechar contrato longo.",
+      "fonte": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "As 5 gigantes de tech dos EUA escondem US$ 1,65 trilhão de dívida pra bancar a IA",
+      "aconteceu": "Uma investigação mostrou que as cinco maiores empresas de tecnologia dos EUA acumularam US$ 1,65 trilhão em dívidas pouco transparentes pra financiar seus investimentos em IA — endividamento que não aparece de forma clara nos balanços.",
+      "significa": "O boom de IA está sendo pago com alavancagem que o mercado não enxerga direito. Se você depende dessas empresas pra rodar sua IA, vale ter um \"plano B\" de fornecedor — porque, se o clima virar, cortes e reajustes vêm rápido.",
+      "fonte": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Estudo: IA de recrutamento discrimina MAIS que humano — e ninguém percebe",
+      "aconteceu": "Pesquisa do MIT mostrou que sistemas de IA que filtram currículos têm viés étnico mais forte do que recrutadores humanos, rejeitando certos grupos em taxas mais altas — de forma invisível.",
+      "significa": "Quem adotou triagem automática \"pra reduzir viés\" pode estar amplificando discriminação em escala, com risco real de processo. Se sua empresa usa IA pra filtrar candidato, precisa auditar o resultado por grupo, não confiar cegamente.",
+      "fonte": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma IA resolveu um problema de matemática que ficou 80 anos sem resposta",
+      "aconteceu": "O modelo Claude Fable (da Anthropic) encontrou um contraexemplo para a Conjectura de Jacobi, um problema aberto há mais de 80 anos que matemáticos humanos não conseguiam resolver — e especialistas confirmaram.",
+      "significa": "A IA deixou de só \"automatizar tarefa chata\" e começou a superar especialistas em raciocínio de ponta. Pra quem investe em P&D, pesquisa ou engenharia, o ritmo de descoberta pode acelerar muito — e o \"último reduto humano\" está mais perto do que se imaginava.",
+      "fonte": "https://news.ycombinator.com/item?id=48973869",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O diretor de \"District 9\" lançou um curta 100% feito por IA — sem câmera, ator ou equipe",
+      "aconteceu": "Neill Blomkamp, diretor de cinema, lançou um curta de ficção científica criado inteiramente com ferramentas de geração de vídeo por IA.",
+      "significa": "Agora tem prova de conceito de alto nível de que dá pra produzir vídeo profissional sem orçamento milionário. Uma agência ou empresa pode prototipar vídeo de campanha em dias, não semanas, por uma fração do custo.",
+      "fonte": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Microsoft começou a trocar chips da Nvidia por AMD — e a conta de IA pode cair",
+      "aconteceu": "A Microsoft passou a usar processadores AMD no lugar das GPUs Nvidia pra IA, e a Anthropic pode seguir o mesmo caminho — sinal de que o monopólio da Nvidia no hardware está sendo contestado.",
+      "significa": "Mais concorrência de hardware tende a derrubar o preço de computação em nuvem nos próximos 12-18 meses. Quem tem custo alto de IA pode ganhar alternativas mais baratas — vale não travar contrato caro de longo prazo agora.",
+      "fonte": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Hardware",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "A estratégia da China de dar IA de graça está ganhando o mundo",
+      "aconteceu": "Post que viralizou (1.042 pontos no fórum de tecnologia mais lido do setor) argumenta que a China está distribuindo seus modelos de IA gratuitamente enquanto as empresas americanas mantêm tudo fechado e pago — e a abertura chinesa está capturando adoção global.",
+      "significa": "O mercado de IA está se dividindo em dois mundos (americano fechado x chinês aberto). Pra quem escolhe ferramenta, isso significa mais opção e mais pressão de preço — mas também decisões novas de privacidade e soberania de dados.",
+      "fonte": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O modelo de cobrança da IA está mudando de \"por uso\" pra \"por resultado\"",
+      "aconteceu": "O blog do Cursor (ferramenta de programação por IA) analisa como usar dezenas de agentes de IA ao mesmo tempo está mudando a matemática de custo — e empurrando o mercado de \"pagar por hora de uso\" pra \"pagar por tarefa entregue\".",
+      "significa": "Se você negocia ou renova contrato de IA, a régua está mudando. Cobrança por resultado muda completamente o cálculo de ROI e de risco — dá pra amarrar pagamento à entrega, não ao consumo.",
+      "fonte": "https://cursor.com/blog/agent-swarm-model-economics",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Os detectores de \"texto feito por IA\" erram quase metade das vezes",
+      "aconteceu": "Estudo mostrou que ferramentas de detecção de texto por IA erram em até 48% dos casos quando o modelo imita o estilo de um autor específico — especialmente em texto acadêmico.",
+      "significa": "Quem usa detector de IA como critério (universidade, editora, RH avaliando prova) não pode mais confiar nele como veredito. Ele reprova inocente e libera fraude sofisticada. A saída é revisão humana ou autoria comprovada, não o \"detector\".",
+      "fonte": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Análise: quem realmente deveria ter medo dos modelos chineses de IA",
+      "aconteceu": "Ben Thompson (Stratechery) explica por que os modelos chineses (Kimi K3, Qwen) estão igualando os americanos em custo e performance — usando modelos ocidentais abertos como \"professores\" pra treinar os próprios mais barato.",
+      "significa": "Se o diferencial do seu produto era \"usa o melhor modelo\", esse moat está encolhendo — o modelo em si virou commodity. A vantagem competitiva precisa vir de outra coisa (dado próprio, processo, relacionamento).",
+      "fonte": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Boa parte dos artigos científicos já sai com ajuda de IA — e ninguém consegue medir direito",
+      "aconteceu": "Pesquisadores mediram quanto do texto de artigos científicos no arXiv já é escrito ou fortemente editado por IA — e concluíram que os métodos de detecção ainda são inconsistentes.",
+      "significa": "O conhecimento científico que embasa decisão de produto, regulação e investimento está sendo contaminado por conteúdo de IA sem transparência. Quem decide com base em \"estudos\" precisa olhar a fonte com mais cuidado.",
+      "fonte": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Não foi só um caso: a IA está \"batendo\" os matemáticos em série",
+      "aconteceu": "Post de um matemático mostra que a IA está encontrando contraexemplos para teoremas mais rápido e em maior volume do que qualquer humano — reforçando que o caso do Claude não foi sorte, é tendência.",
+      "significa": "O trabalho intelectual de altíssima especialização, antes tido como intocável, começou a ser automatizado antes do previsto. Vale rever a premissa de que \"função muito técnica está a salvo\".",
+      "fonte": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
