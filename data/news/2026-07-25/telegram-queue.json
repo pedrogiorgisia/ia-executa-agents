@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-25",
+  "items": [
+    {
+      "titulo": "Saiu o Claude Opus 5 — o modelo mais forte, pela metade do preço",
+      "aconteceu": "A Anthropic lançou o Claude Opus 5, o modelo de IA mais capaz que ela já fez, cobrando",
+      "significa": "Se sua empresa já gasta com IA em escala (atendimento, análise de documentos, relatórios), dá pra cortar essa conta pela metade só trocando de modelo — sem perder qualidade. Quem processa ~10 milhões de tokens/mês economiza ~R$ 250 mil/ano.",
+      "fonte": "https://www.anthropic.com/news/claude-opus-5",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora vem com o Opus 5 de fábrica e divide o trabalho sozinho",
+      "aconteceu": "A ferramenta de programação por IA da Anthropic (o Claude Code — a mesma que eu ensino na mentoria) atualizou: o Opus 5 virou o modelo padrão e, em tarefas grandes, ela agora coordena",
+      "significa": "Você pede uma tarefa grande (\"refatore todo o módulo de pagamentos\") e a ferramenta quebra em pedaços e distribui entre vários \"mini-assistentes\" sozinha, usando o modelo mais forte disponível. Menos ajuste manual, mais trabalho entregue de uma vez.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Educação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"Se a IA já programa, por que o software só piora?\"",
+      "aconteceu": "Um artigo que viralizou (673 pontos no Hacker News) levanta um paradoxo: com toda a IA pra programar, por que os sistemas do dia a dia continuam lentos, cheios de bug e frágeis? A resposta: times com IA produzem",
+      "significa": "Se você mede o sucesso da adoção de IA só por \"entregamos mais rápido\", pode estar acumulando problema pra depois (dívida técnica, bugs em produção, incidentes). Vale incluir métricas de qualidade, não só de velocidade.",
+      "fonte": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Levantaram $36 milhões pra combater o phishing feito por IA",
+      "aconteceu": "A AegisAI, criada por ex-executivos de segurança do Google, levantou $36M (total de $49M) para detectar golpes de phishing",
+      "significa": "O golpe de email direcionado (\"cai aqui que é o RH\", \"atualiza teu boleto\") ficou muito mais convincente com IA. Se sua empresa ainda confia só no filtro de spam padrão, esse é o momento de rever — um único incidente de vazamento custa, em média, milhões.",
+      "fonte": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google está queimando caixa por causa da IA — e isso acende um alerta",
+      "aconteceu": "A Reuters reportou que a Alphabet (dona do Google) está gastando caixa em ritmo acelerado por conta da corrida da IA, a ponto de analistas questionarem a sustentabilidade financeira do modelo. Até uma das empresas mais lucrativas do mundo está sob pressão.",
+      "significa": "Se nem o Google banca a corrida da IA tranquilo, é sinal de que os preços dos serviços de IA podem",
+      "fonte": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Cognition comprou a Poke: \"personalidade\" da IA virou vantagem competitiva",
+      "aconteceu": "A Cognition (dona do Devin, um \"programador de IA\") comprou a startup Poke por mais de $100M — só pela forma como a IA da Poke",
+      "significa": "O que faz as pessoas adotarem (e continuarem usando) uma ferramenta de IA está deixando de ser só \"quão inteligente ela é\" e passando a ser \"quão boa é a experiência de conversar com ela\". Na hora de escolher software de IA, a facilidade de uso pesa tanto quanto a capacidade técnica.",
+      "fonte": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Tentei construir um app de verdade com IA. Levou um ano\"",
+      "aconteceu": "Um profissional relatou (em post que subiu no Hacker News) que tentou construir um produto real usando IA como ferramenta principal. A promessa do discurso era \"semanas\". A realidade foi",
+      "significa": "Cuidado ao aprovar orçamento ou prazo assumindo que \"com IA sai em semanas\". A IA acelera partes do trabalho, mas o difícil (integrar, testar, colocar de pé) continua difícil. Calibre a expectativa antes de prometer prazo pro board.",
+      "fonte": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Nvidia, Microsoft e Meta pedem pra não sufocar a IA \"aberta\"",
+      "aconteceu": "Nvidia, Microsoft e Meta publicaram um apelo ao governo dos EUA para",
+      "significa": "O resultado dessa queda de braço vai definir quais ferramentas de IA sua empresa poderá usar e a que custo. Se as versões abertas e gratuitas forem restringidas, sobram as pagas — mais caras. Vale acompanhar antes de se amarrar num único fornecedor.",
+      "fonte": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Meta",
+        "#Hardware",
+        "#Regulação"
+      ]
+    },
+    {
+      "titulo": "Irã afirma ter destruído um data center da Amazon no Bahrein",
+      "aconteceu": "O braço militar do Irã (IRGC) alegou ter destruído um grande data center da Amazon no Bahrein.",
+      "significa": "É um lembrete concreto: se toda a sua operação depende de uma única região de nuvem, um evento geopolítico pode tirar seus sistemas do ar. Vale revisar se seus sistemas críticos têm plano B em outra região.",
+      "fonte": "https://news.ycombinator.com/item?id=49033240",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
