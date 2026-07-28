@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "titulo": "O Google já responde com IA em quase metade das buscas — e o site nem é clicado",
+      "aconteceu": "Novos dados mostram que 43% das pesquisas no Google agora exibem um resumo gerado por IA no topo, antes de qualquer link.",
+      "significa": "Quem depende de tráfego orgânico (blog, portal, loja) está perdendo visita porque o usuário lê a resposta na própria busca. Conteúdo raso vira \"matéria-prima\" da IA sem gerar clique; conteúdo profundo e proprietário ainda atrai. Hora de rever a estratégia de SEO e conteúdo.",
+      "fonte": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Metade de quem usa ChatGPT no trabalho está fazendo tarefa de outra profissão",
+      "aconteceu": "Estudo da OpenAI com 800 mil mensagens revelou que 43% do uso profissional do ChatGPT envolve tarefas fora da formação da pessoa — um engenheiro redigindo contrato, um RH revisando código.",
+      "significa": "Pequenas e médias empresas estão \"comprando\" capacidade de especialista sem contratar. Quem faz tarefa comoditizada (revisão simples, pesquisa básica, formatação) perde espaço; o diferencial migra pra quem combina especialidade humana com IA.",
+      "fonte": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Consultoria gigante coloca o Claude pra rodar em empresa e mostra número: −40% no tempo de contrato",
+      "aconteceu": "A Cognizant (uma das maiores consultorias de TI do mundo) virou parceira estratégica da Anthropic e está embutindo o Claude em ferramentas para seguros, saúde e manufatura. Casos reais: uma biofarmacêutica cortou 40% do tempo de revisão de contratos; uma seguradora economizou 8h por semana por analista.",
+      "significa": "Não é mais demonstração — são números de operação real. Se você avalia IA pra grandes processos (contratos, análise de risco), já existe benchmark concreto de retorno pra usar na conversa interna.",
+      "fonte": "https://www.anthropic.com/news/cognizant-anthropic",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "IA reconstruiu um programa de 61 mil linhas em 14 horas por US$ 250",
+      "aconteceu": "Um benchmark (MirrorCode) documentou o Claude Opus 4.7 reconstruindo um software complexo de 61 mil linhas só observando como ele se comporta por fora — sem acesso ao código original. Levou 14h e custou US$ 250. Humanos levariam de 2 a 17 semanas.",
+      "significa": "Empresas com sistemas antigos, sem documentação nem código-fonte (a \"dívida técnica\" que ninguém quer tocar), agora têm uma alternativa prática e barata pra mapear e modernizar esses sistemas.",
+      "fonte": "https://epoch.ai/MirrorCode",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Cohere lança ferramenta pra você montar \"funcionário digital\" descrevendo em português o que ele faz",
+      "aconteceu": "A Cohere lançou o North Automations: você descreve o objetivo em linguagem comum e o sistema monta o fluxo de trabalho com agentes de IA, escolhe o modelo certo pra cada etapa e pede aprovação humana quando necessário. (Agente de IA = software que executa tarefas em sequência sozinho.)",
+      "significa": "Tarefas repetitivas de coletar-e-resumir (puxar dados de RH, agenda, Slack, CRM toda manhã) podem virar automação sem programar — e sem perder o controle, porque tem aprovação humana no meio.",
+      "fonte": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo alerta: IA de triagem de currículo descarta minorias mais que recrutador humano",
+      "aconteceu": "Testes mostraram que modelos de IA descartam candidatos de grupos minoritários de forma mais agressiva do que humanos fariam — e os modelos de \"raciocínio avançado\" foram os piores. A boa notícia: definir metas explícitas de diversidade nos parâmetros reduziu muito o viés.",
+      "significa": "Um RH que usa IA pra filtrar currículos pode estar gerando passivo jurídico e dano de reputação sem perceber. O problema não é a IA em si, é como os objetivos dela são configurados — dá pra corrigir, mas precisa ser deliberado.",
+      "fonte": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Microsoft cria IA de segurança própria e resolve 96% dos casos sem pagar a OpenAI",
+      "aconteceu": "A Microsoft lançou o MAI-Cyber-1-Flash, um modelo compacto e barato especializado em segurança digital que resolve a maioria dos problemas sozinho; só os casos mais difíceis sobem pra um modelo caro.",
+      "significa": "Quem usa ferramentas de segurança da Microsoft (Defender, Sentinel) deve ver resposta mais rápida e custo menor. É também um sinal de tendência: dá pra ter modelo barato \"faz-tudo\" e reservar o caro só pro que é difícil — lógica que reduz custo de IA em geral.",
+      "fonte": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "US$ 750 bilhões da Nvidia reacendem o medo de \"dinheiro rodando em círculo\" na IA",
+      "aconteceu": "Transações de US$ 750 bilhões da Nvidia levantaram suspeita de financiamento circular: empresas de IA compram chips da Nvidia com dinheiro de investidores que apostam na própria Nvidia.",
+      "significa": "Se o dinheiro do setor gira em loop, uma eventual correção pode ser mais brusca do que parece. Vale pesar isso antes de assinar contrato longo com fornecedor de IA ou aprovar orçamento grande baseado em projeções otimistas.",
+      "fonte": "https://news.ycombinator.com/item?id=49071512",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"A Apple vai assistir tudo queimar quando a bolha de IA estourar\"",
+      "aconteceu": "Analistas críticos do setor alertam para uma possível bolha especulativa na IA e argumentam que a Apple, por ter ficado de fora do hype, pode sair ganhando quando o mercado corrigir.",
+      "significa": "É o contraponto ao entusiasmo. Se você já justificou (ou vai justificar) aporte grande em IA, vale ter uma resposta pronta pra pergunta \"e se o hype esfriar?\" — com métricas reais, não infladas.",
+      "fonte": "https://news.ycombinator.com/item?id=49070427",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Professor esconde uma \"armadilha\" no enunciado e pega 32 de 35 alunos colando com IA",
+      "aconteceu": "Um professor colocou instruções invisíveis no enunciado da prova; quando a IA as seguia, denunciava que o aluno tinha colado. 32 dos 35 caíram.",
+      "significa": "O que acontece na sala de aula hoje acontece na empresa amanhã — relatórios, análises e até entrevistas feitas \"por IA\" sem revisão. Gestores precisam repensar como avaliam e auditam o trabalho entregue pela equipe.",
+      "fonte": "https://news.ycombinator.com/item?id=49074680",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Empresas de IA estão destruindo livros raros pra treinar seus modelos",
+      "aconteceu": "Reportagem mostra empresas digitalizando e destruindo livros raros e obras de coleção para usar o conteúdo como dado de treino — sem autorização dos detentores de direitos.",
+      "significa": "Levanta risco legal, ético e de reputação. Quem contrata serviços de IA pode estar, sem saber, se beneficiando de prática contestável — e há risco de regulação retroativa sobre a origem dos dados.",
+      "fonte": "https://news.ycombinator.com/item?id=49068738",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresas de IA gastam recorde com lobby em Washington",
+      "aconteceu": "As maiores empresas de IA estão gastando valores recordes para influenciar legisladores nos EUA.",
+      "significa": "Quando a indústria investe pesado em lobby, é porque regulação está a caminho. Regras americanas costumam reverberar mundo afora — quem depende de IA precisa acompanhar o que sai dessas negociações.",
+      "fonte": "https://news.ycombinator.com/item?id=49069939",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Robô da Anthropic faz em 9 minutos uma tarefa que humano leva 3 horas",
+      "aconteceu": "O projeto \"Fetch\" da Anthropic mostrou um robô quadrúpede completando sozinho uma sequência de tarefas físicas 20x mais rápido que humanos — e a melhora veio só de modelos de IA mais potentes, sem mexer no hardware.",
+      "significa": "Operações físicas repetitivas (armazém, logística, inspeção) estão mais perto de automação real do que parecia. O salto de velocidade já aconteceu — quem tem operação braçal deve começar a planejar a transição.",
+      "fonte": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Modelos de IA chineses \"fingem\" ser o Claude quando você pede",
+      "aconteceu": "Pesquisadores descobriram que modelos chineses (GLM e Kimi) mudam de comportamento pra imitar o Claude da Anthropic quando instruídos — indício de que características do Claude foram absorvidas no treino deles.",
+      "significa": "Ao contratar um fornecedor de IA baseado em modelo chinês, pode ser difícil saber exatamente qual tecnologia está por trás. Em auditoria ou compliance, isso complica rastrear origem e certificações.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/27/impostor-chinese-models-pretend-theyre-claude/5279165",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "China revida e acusa os EUA de \"copiar\" seus modelos de IA",
+      "aconteceu": "A China respondeu às acusações americanas alegando que empresas dos EUA também fazem \"destilação\" de modelos chineses (técnica em que um modelo menor aprende de um maior pra replicar o desempenho).",
+      "significa": "O ambiente regulatório e geopolítico da IA está ficando mais complexo. Uma startup que usa modelos abertos chineses (Qwen, DeepSeek) pra cortar custo pode enfrentar restrições legais ou comerciais conforme os governos apertam as regras.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/07/28/china-fights-back-in-ai-spat-with-claim-us-ai-companies-distil-chinese-models/5279315",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
