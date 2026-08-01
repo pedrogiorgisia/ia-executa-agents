@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-01",
+  "items": [
+    {
+      "titulo": "Empresa de seguros treinou 500+ funcionários com ChatGPT e cortou 75% do tempo em tarefas de rotina",
+      "aconteceu": "A seguradora holandesa Univé adotou o ChatGPT Enterprise em toda a empresa. Tarefas como resumir sinistros, rascunhar e-mails e pesquisar documentos internos passaram de 40 minutos para 10 minutos por analista. O tempo liberado foi reorientado para atendimento consultivo ao cliente.",
+      "significa": "É um case completo de empresa tradicional (seguros, centenas de funcionários, processo burocrático pesado) adotando IA sem trocar ninguém — e com resultado documentado. Se você está no estágio de \"convencer a diretoria de que vale\", esse exemplo é pronto para usar.",
+      "fonte": "https://openai.com/index/unive",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Mercado financeiro começou a corrigir as apostas em IA — empresa do setor perde 67% do valor em julho",
+      "aconteceu": "A \"Situational Awareness\", empresa de análise focada em IA, perdeu 67% do valor de mercado em julho de 2026 no contexto de uma queda generalizada de ações ligadas à IA. O fundo Citadel adquiriu parte do portfólio da empresa após as perdas.",
+      "significa": "O mercado financeiro está separando empresas de IA com receita real das que vivem de \"narrativa de IA\". Quem tem ativo estratégico justificado tem menos preocupação; quem precisa recalibrar discurso com acionistas e conselhos deve fazê-lo agora, antes da próxima reunião de board.",
+      "fonte": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "IA mostra raciocínio \"correto\" — mas pelos motivos errados. Isso muda tudo pra quem usa IA pra decidir",
+      "aconteceu": "Pesquisadores da Quanta Magazine confirmaram que modelos de \"raciocínio\" (aqueles que mostram o passo a passo antes de responder) chegam a respostas corretas, mas o processo exibido pode ser encenação — não o que realmente acontece dentro do modelo.",
+      "significa": "Se você usa IA para justificar decisões (aprovar crédito, elaborar pareceres jurídicos, criar relatórios de auditoria), a cadeia de raciocínio exibida pode não ser auditável de verdade. A resposta pode ser certa, mas a justificativa pode ser inventada. Isso é um problema regulatório antes de ser tecnológico.",
+      "fonte": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O investimento em IA está sendo financiado a dívida — e o custo está subindo",
+      "aconteceu": "Uma análise amplamente discutida no Hacker News mostra que a maior parte dos investimentos recentes em IA está sendo feita com capital de terceiros (dívida), não com caixa próprio. Com a reavaliação do setor e os juros subindo, os credores estão aumentando o custo dessa dívida.",
+      "significa": "Fornecedores de IA que dependem de dívida barata para operar podem enfrentar pressão de caixa nos próximos trimestres — risco de descontinuação de produto, pivô ou aquisição. Na hora de fechar contrato de longo prazo com uma startup de IA, vale checar saúde financeira, não só demo.",
+      "fonte": "https://news.ycombinator.com/item?id=49118933",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Segurança",
+        "#Saúde",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Google lançou ferramenta que fabricava \"provas\" visuais em mapas reais — e tirou do ar em menos de 24 horas",
+      "aconteceu": "O Google lançou um recurso no Earth que permitia gerar imagens falsas sobrepostas a fotos de satélite de locais reais. Após críticas de que facilitaria fraudes e desinformação, a ferramenta foi desativada em menos de um dia.",
+      "significa": "Equipes jurídicas e de compliance que autenticam documentação visual precisam revisar seus processos agora — a linha entre \"foto real de um local\" e \"imagem gerada sobre foto real de um local\" ficou tecnicamente imperceptível. O episódio mostra que até a própria Google subestimou o risco antes de publicar.",
+      "fonte": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Governo financia influência em chatbots sobre Gaza — e ninguém sabia",
+      "aconteceu": "Uma investigação revelou que o governo israelense está financiando programas para treinar modelos de IA populares a responder perguntas sobre o conflito em Gaza de forma favorável à sua posição.",
+      "significa": "É o primeiro caso documentado amplamente de um governo investindo para moldar o \"ponto de vista\" de um chatbot. A implicação prática: as respostas de ferramentas de IA de uso geral podem refletir interesses de terceiros — não apenas fatos neutros. Quem usa IA para pesquisa ou treinamento de equipes deve questionar a neutralidade das fontes.",
+      "fonte": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Investimento",
+        "#Regulação",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Oracle integrou o Gemini nos seus sistemas corporativos — mas deixou uma lacuna de responsabilidade aberta",
+      "aconteceu": "A Oracle passou a permitir que clientes usem modelos Gemini do Google diretamente dentro das suas aplicações empresariais (como Oracle Fusion) para construir agentes autônomos de negócio.",
+      "significa": "Para empresas clientes da Oracle, isso abre uma integração poderosa — agentes que operam dentro do ERP usando inteligência do Google. Mas a pergunta que o contrato não responde claramente é: quando o agente erra e gera prejuízo, a responsabilidade é da Oracle, do Google ou do cliente? Esse é o gap jurídico a resolver antes de ativar.",
+      "fonte": "https://www.theregister.com/a/5281331",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Armadilha digital confirma: agentes de IA já são usados para atacar sistemas em escala industrial",
+      "aconteceu": "Pesquisadores criaram um \"honeypot\" (isca digital) para atrair e documentar ataques automatizados. Os resultados mostram que IA está sendo usada como ferramenta de invasão — explorando vulnerabilidades em velocidade e volume muito maiores do que humanos conseguiriam.",
+      "significa": "O que antes exigia uma equipe de hackers especializados agora pode ser feito por um único ator com acesso a modelos de linguagem. Isso não é teoria — é o que a isca digital capturou. O nível mínimo de proteção que uma empresa precisa ter subiu.",
+      "fonte": "https://news.ycombinator.com/item?id=49104117",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma estrutura de conhecimento formal do passado pode ser a chave para IA não alucinar em contratos e aprovações",
+      "aconteceu": "Pesquisadores e empresas como Neo4j estão aplicando \"ontologias\" — mapas formais de regras e relações — para impedir que agentes de IA tomem decisões fora dos parâmetros permitidos em sistemas críticos (aprovação de crédito, transferências, compliance).",
+      "significa": "Se o seu maior medo com IA em processos críticos é a \"alucinação\" (o sistema inventar um dado ou aprovar algo que não deveria), as ontologias atacam exatamente esse problema. Não é a solução para tudo, mas para setores regulados é o mecanismo de controle mais concreto disponível hoje.",
+      "fonte": "https://www.latent.space/p/ontologies-agentic-systems",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
