@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-02",
+  "items": [
+    {
+      "titulo": "IA chinesa ficou mais inteligente — mesmo preço ultrabarato",
+      "aconteceu": "A DeepSeek (empresa chinesa de IA) lançou versão aprimorada do seu modelo rápido sem aumentar o preço. O novo V4-Flash performa melhor em tarefas complexas graças a otimizações de treinamento, não mais hardware. Custa ~US$0,28 por milhão de tokens — 90-95% mais barato que GPT-5.6 ou Claude.",
+      "significa": "Se você usa IA para processar grandes volumes de texto (contratos, e-mails, relatórios) ou tem qualquer produto com alto volume de chamadas de IA, o DeepSeek é a alternativa de baixo custo que ficou ainda melhor. Para tarefas repetitivas e bem definidas, dá pra cortar 90% da conta sem perda perceptível de qualidade.",
+      "fonte": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#LLM",
+        "#Investimento",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "Tribunal europeu condenou plataforma de IA musical por usar músicas protegidas no treinamento",
+      "aconteceu": "O Tribunal de Munique, na Alemanha, condenou a Suno — plataforma que gera música com IA — por ter treinado seu modelo com faixas protegidas por direitos autorais sem autorização. O tribunal rejeitou o argumento de \"uso justo\" e declarou a empresa responsável pelo que o modelo aprendeu.",
+      "significa": "Primeiro precedente judicial relevante na Europa que responsabiliza uma empresa de IA pelo que foi usado no treinamento. Equipes que usam ferramentas de IA generativa para criar conteúdo na Europa (música, imagens, texto) precisam verificar se os fornecedores contratados têm a devida licença para os dados de treinamento — o risco jurídico pode recair na sua empresa.",
+      "fonte": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA acelera modernização de código legado 60x — mas introduz erros de lógica difíceis de detectar",
+      "aconteceu": "Pesquisadores testaram agentes de IA para modernizar software científico antigo. Resultado: foram até 60x mais rápidos na parte de programação. Porém, introduziram erros de conteúdo \"convincentes e confiantes\" — código sintaticamente correto que faz a coisa errada na lógica do domínio — que escaparam da revisão inicial de especialistas humanos.",
+      "significa": "Projetos de modernização de sistemas legados com IA ganham velocidade enorme, mas exigem revisão especializada do resultado — não basta rodar os testes e ver se o código funciona tecnicamente. O código pode rodar sem erro e ainda estar errado na lógica de negócio. Implicação direta para bancos, seguradoras e manufatura com sistemas antigos sendo migrados.",
+      "fonte": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Empresa do Elon Musk perdeu na Justiça contra lei que proíbe fotos nuas falsas com IA",
+      "aconteceu": "Um juiz nos EUA negou o pedido da xAI (empresa do Elon Musk) para bloquear a lei do estado do Minnesota que proíbe aplicativos que criam imagens nuas falsas de pessoas reais usando IA. A lei se mantém.",
+      "significa": "A decisão cria precedente para outros estados dos EUA. Empresas com ferramentas de IA que geram imagens realistas precisam revisar quais casos de uso permitem em suas plataformas — o risco legal está crescendo mesmo nos EUA, não apenas na Europa.",
+      "fonte": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
