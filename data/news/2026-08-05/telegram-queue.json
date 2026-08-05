@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-05",
+  "items": [
+    {
+      "titulo": "O ChatGPT virou funcionário: novo produto trabalha sozinho no seu Gmail e Slack",
+      "aconteceu": "A OpenAI lançou o \"ChatGPT Work\", um agente de IA que fica rodando na nuvem, conectado ao Gmail, Slack, planilhas e outros apps da sua empresa, e executa tarefas agendadas automaticamente — sem você precisar abrir o chat toda vez.",
+      "significa": "Um gerente de vendas pode programar um resumo semanal automático de todos os e-mails de clientes e atualizações do CRM. Uma equipe analítica pode ter dashboards que se atualizam sozinhos. Estimativa: 5 a 10 horas semanais economizadas por profissional que usa automação.",
+      "fonte": "https://www.latent.space/p/unpacking-chatgpt-work",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Criminosos já passam pelos filtros de segurança da IA simplesmente dizendo \"sou eu\"",
+      "aconteceu": "Pesquisadores descobriram que as proteções de segurança dos principais modelos de IA (que impedem uso malicioso) são contornadas com facilidade: basta afirmar \"é meu próprio servidor\" ou \"estou em exercício de segurança\" — sem qualquer prova.",
+      "significa": "Ferramentas de IA que sua empresa usa para suporte técnico, atendimento ou desenvolvimento podem ser manipuladas por qualquer pessoa para produzir código malicioso ou vazamento de dados. Controlar *quem* pode dar instruções ao modelo é tão importante quanto escolher o modelo certo.",
+      "fonte": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Interpol confirmou: IA já é o motor central do crime digital — 600 mil casos com deepfake",
+      "aconteceu": "A Interpol divulgou relatório mostrando que 55% dos crimes digitais na África agora usam IA. Perdas financeiras mais que dobraram para US$ 484 milhões. Deepfakes (vídeos falsos de executivos ou familiares) aparecem em 600 mil casos de extorsão.",
+      "significa": "O que hoje acontece na África historicamente se replica globalmente em 12-18 meses — esse é o padrão do cibercrime. Um CFO recebe ligação em vídeo do \"CEO\" pedindo transferência urgente: qual é o protocolo de verificação fora de canais digitais da sua empresa?",
+      "fonte": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Mistral lançou uma IA gratuita que modera conteúdo seguindo as regras que você escrever",
+      "aconteceu": "A Mistral (empresa europeia de IA) lançou o \"Shieldstral\", um modelo pequeno e gratuito que avalia automaticamente se textos e imagens são seguros ou não, com regras de moderação que você define em linguagem comum — sem precisar de programador.",
+      "significa": "Uma plataforma de e-commerce que aceita avaliações de usuários pode usar o Shieldstral para bloquear comentários ofensivos ou spam, ajustando o que é \"aceitável\" mudando apenas uma instrução de texto. Uma empresa B2B pode liberar temas restritos em redes sociais públicas, tudo com o mesmo modelo.",
+      "fonte": "https://mistral.ai/news/shieldstral/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O funcionário da Apple foi embora — e levou os segredos de IA junto pra OpenAI",
+      "aconteceu": "A Apple descobriu que um número maior do que o esperado de ex-funcionários pode ter levado informações confidenciais (algoritmos, roadmaps de produtos) para a OpenAI ao trocar de emprego.",
+      "significa": "Acordos de confidencialidade e offboardings rigorosos são insuficientes sem controle de acesso granular — saber *quem* tinha acesso a *quais* dados de IA no dia que saiu da empresa. Para empresas que desenvolvem IA internamente, isso é um risco operacional e legal imediato.",
+      "fonte": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Texas parou de aprovar novos data centers de IA — e isso pode mexer no preço da nuvem",
+      "aconteceu": "O governador do Texas determinou pausa em novas licenças para data centers de IA no estado, citando sobrecarga crescente na rede elétrica, e anunciou auditoria em construções em andamento.",
+      "significa": "Empresas que planejavam expandir infraestrutura de IA no Texas precisam revisar localização — Nevada, Georgia e Ohio ganham atratividade. Para quem usa nuvem de terceiros, pode significar aumento de preço se os provedores repassarem restrições de capacidade. É o segundo estado a agir (após Nova York em julho).",
+      "fonte": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Táxi sem motorista do Google abriu em Dallas para qualquer pessoa — sem lista de espera",
+      "aconteceu": "O Waymo (serviço de táxi autônomo do Google) abriu suas operações em Dallas para o público geral, sem lista de espera. Também anuncia testes em rodovias e aeroporto. É a quarta cidade americana com serviço completo ao público.",
+      "significa": "Veículos autônomos deixaram de ser experimento de laboratório — estão rodando em cidades reais, para clientes reais. O ritmo de expansão (4 cidades em 18 meses) sugere que o mercado de mobilidade urbana está entrando em fase de transformação efetiva, não apenas piloto.",
+      "fonte": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"70% da receita de IA vem das mesmas empresas que financiam as empresas de IA\" — o alerta que viralizou",
+      "aconteceu": "Um analista de mercado mostrou com dados que 70-74% da receita de IA das três maiores nuvens do mundo (Amazon, Google, Microsoft) vem de dois clientes: OpenAI e Anthropic — que são financiados pelos próprios hiperscalers. O mercado de IA está sendo sustentado por dinheiro circulando entre as mesmas empresas.",
+      "significa": "Se a tese se confirmar, há risco de correção brusca no mercado de IA — com impacto em valuations, contratos de fornecimento e na narrativa de \"IA vai transformar tudo\" que embasa muitas decisões de investimento hoje. Para quem está alocando budget em IA porque \"todo mundo está fazendo\", é um sinal de atenção.",
+      "fonte": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "A Microsoft entregou resultado real com IA integrada; a Meta prometeu pra depois",
+      "aconteceu": "Microsoft apresentou resultados financeiros sólidos mostrando redução de custos e receita real gerada por IA integrada nos produtos (Copilot no Office, automação de operações). Meta entregou abaixo do esperado com promessas vagas de produtos de IA \"no futuro\".",
+      "significa": "O caso Microsoft é o modelo a seguir: IA integrada ao fluxo de trabalho existente, com ROI mensurável este trimestre. O caso Meta é o aviso: IA como aposta de longo prazo sem entrega presente não sustenta narrativa com investidores ou board.",
+      "fonte": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Meta",
+        "#Investimento",
+        "#Produtividade",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A conta de luz americana subiu US$ 30 bilhões por causa dos data centers de IA",
+      "aconteceu": "Data centers de IA adicionaram aproximadamente US$ 29-30 bilhões em custos à rede elétrica americana — cerca de 46% das despesas de capacidade de energia. Esse custo está sendo repassado para as contas de luz de consumidores e empresas, com aumentos projetados de US$ 15 a US$ 20 por mês em alguns estados.",
+      "significa": "A expansão de infraestrutura de IA tem custo real para quem não é usuário direto. Isso cria pressão regulatória crescente (Texas hoje, Nova York antes) e resistência pública que pode desacelerar a aprovação de novos projetos de IA.",
+      "fonte": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Anthropic fechou contrato de US$ 10 bilhões de infraestrutura em nuvem — e isso sinaliza custo crescente pra todos",
+      "aconteceu": "A Anthropic assinou contrato de longo prazo com a Volta, startup de infraestrutura em nuvem, para garantir capacidade computacional. É um dos maiores contratos de infra de IA já anunciados.",
+      "significa": "Quando o maior lab de IA precisa garantir capacidade computacional com contrato de US$ 10 bilhões, fica claro que a infraestrutura de IA está sob pressão de oferta. Para quem usa serviços de IA, isso sinaliza que preços de API podem subir — e diversificar fornecedores é uma estratégia de proteção.",
+      "fonte": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O modelo mais recente da OpenAI (GPT-5.5) está disponível pra integrar em aplicações de empresa agora",
+      "aconteceu": "A biblioteca oficial da OpenAI para Python confirmou suporte ao GPT-5.5, sinalizando que o modelo está em produção e disponível para empresas integrarem em seus produtos e automações.",
+      "significa": "Uma empresa que tem chatbot, copiloto ou automação rodando com OpenAI pode agora atualizar para o GPT-5.5 sem mudar nada na arquitetura. Para quem está avaliando se é hora de migrar, esse é o gatilho técnico.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v2.53.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Produtividade",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Claude Code ganhou \"Modo Foco\" — agora dá pra acompanhar o que a IA faz sem entender código",
+      "aconteceu": "O Claude Code (ferramenta de programação com IA da Anthropic) ganhou um \"Modo Foco\" que esconde os logs técnicos e mostra apenas um resumo em linguagem simples do que está sendo feito em cada passo.",
+      "significa": "Gestores e executivos que supervisionam equipes usando Claude Code podem agora acompanhar o progresso em tempo real — \"Claude está escrevendo o relatório de vendas\" em vez de 40 linhas de comandos técnicos. Reduz a barreira para uso por não-programadores.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.221",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
