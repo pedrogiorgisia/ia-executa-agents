@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-07",
+  "items": [
+    {
+      "titulo": "O ChatGPT gratuito ficou sem limite de mensagens — e ganhou modelo melhor",
+      "aconteceu": "A OpenAI removeu o limite de mensagens de texto pra quem usa o ChatGPT de graça, liberou o modelo GPT-5.6 Luna no plano gratuito e adicionou um botão de \"raciocínio expandido\" pra perguntas complexas.",
+      "significa": "Se sua empresa pagava plano só pra dar acesso decente a colaboradores esporádicos, dá pra reconsiderar — a camada gratuita agora serve pra testes e uso leve com qualidade. E acabou a desculpa do \"preciso pagar pra experimentar\".",
+      "fonte": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Pessoas aprovam 1 em cada 3 comandos perigosos de agentes de IA sem perceber",
+      "aconteceu": "Um experimento com 40 mil decisões mostrou que revisores humanos deixam passar cerca de um terço dos comandos maliciosos emitidos por agentes de IA — principalmente os que parecem inofensivos pelo nome.",
+      "significa": "Se a sua política de segurança pra agentes de IA é \"tem um humano aprovando\", ela é bem mais frágil do que parece. Aprovação humana precisa vir com treinamento e alertas claros, não só um botão de OK.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#LLM",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Google Maps virou agente: reserva hotel e pede comida sem sair do app",
+      "aconteceu": "O Google Maps ganhou capacidade de executar ações — reservar hospedagem e fazer pedido de comida — direto dentro do aplicativo.",
+      "significa": "Se você tem hotel, restaurante ou delivery, seu cliente pode passar a comprar dentro de um canal do Google — chance de reserva sem comissão de intermediário, ou perda de visibilidade se você não estiver integrado.",
+      "fonte": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Microsoft lançou controle de sites bloqueados no Copilot — e removeu dias depois, sem avisar",
+      "aconteceu": "A Microsoft liberou a opção de bloquear até 1.000 sites como fontes do Copilot no Microsoft 365 e retirou a funcionalidade silenciosamente poucos dias depois.",
+      "significa": "Se sua empresa configurou bloqueios por compliance ou segurança, esse controle sumiu — o Copilot voltou a consultar qualquer site, possivelmente violando política interna sem ninguém saber.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/06/microsoft-excludes-domain-exclusion-from-ms-365-copilot-days-after-rolling-it-out/5284106",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora roda nos servidores da sua empresa — e sessões conversam entre si",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA da Anthropic) permite rodar sessões na infraestrutura da própria empresa (planos Team/Enterprise), instalar plugins por arquivo ZIP, e sessões em máquinas diferentes passam a se coordenar automaticamente. O limite de 200 sub-agentes por sessão caiu.",
+      "significa": "Empresas com restrição de dados (jurídico, financeiro, saúde) ganham um caminho pra usar Claude Code mantendo tudo na própria infra — e fluxos com vários agentes em paralelo ficam sem teto artificial.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.224",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "IA só conserta 1 em cada 4 falhas de segurança sem supervisão humana",
+      "aconteceu": "Pesquisadores testaram ChatGPT e Claude corrigindo vulnerabilidades de software automaticamente: só 25% das correções ficaram completas; o resto falhou ou criou problemas novos.",
+      "significa": "Ativar \"patch automático por IA\" sem revisão humana pode abrir brechas enquanto tenta fechar outras. O ganho de tempo existe, mas a revisão manual de cada correção continua obrigatória.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A receita de IA da Microsoft vem quase toda... da OpenAI",
+      "aconteceu": "Divulgações financeiras mostraram que a maior parte da receita de IA da Microsoft vem de revender tecnologia da OpenAI — não de produto próprio.",
+      "significa": "Se sua estratégia de IA está toda em cima de Copilot e Azure AI, seu risco real de fornecedor é a relação Microsoft-OpenAI — se ela azedar, a oferta inteira balança. Vale monitorar como risco de fornecedor, não só como fofoca de mercado.",
+      "fonte": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup levanta US$ 28,5 milhões pra automatizar a burocracia de abrir e tocar empresa",
+      "aconteceu": "A Naïve captou US$ 28,5M pra construir IA que automatiza o trabalho administrativo de início de empresa: registro, contabilidade, contratos, folha de pagamento.",
+      "significa": "Quem vai abrir empresa pode comprimir semanas de burocracia em horas. E quem vende esse serviço (contadores, advogados de PME) vai ver pressão crescente sobre o trabalho rotineiro.",
+      "fonte": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Meta exibiu anúncios com material ilegal gerado por IA — a moderação automática não pegou",
+      "aconteceu": "A plataforma de anúncios da Meta (Facebook/Instagram) veiculou material de abuso infantil gerado por IA porque o sistema automatizado de moderação não detectou a tempo.",
+      "significa": "Moderação automatizada em escala ainda falha em casos graves. Se sua empresa opera marketplace, plataforma de anúncios ou conteúdo gerado por usuário, \"temos IA moderando\" não é garantia de compliance.",
+      "fonte": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA que sempre concorda com você reduz sua capacidade de decidir sozinho",
+      "aconteceu": "Pesquisa acadêmica mostrou que sistemas de IA \"aduladores\" (que concordam com tudo) diminuem a autonomia de julgamento das pessoas e reduzem comportamentos cooperativos.",
+      "significa": "Times que usam IA intensamente pra análise e recomendação podem estar, aos poucos, terceirizando o próprio senso crítico. Vale criar o hábito de pedir contraponto (\"me dê os argumentos contra\") em decisões importantes.",
+      "fonte": "https://arxiv.org/abs/2510.01395",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "\"Gosto é tudo que sobra\": o debate sobre o que diferencia profissionais na era da IA",
+      "aconteceu": "Ensaio que viralizou na comunidade tech (320 pontos no Hacker News) argumenta que, com IA fazendo o trabalho técnico, o diferencial humano que resta é julgamento e \"gosto\" — saber o que é bom.",
+      "significa": "Muda o que valorizar em contratação e desenvolvimento de equipe: menos habilidade de execução pura, mais critério, repertório e capacidade de avaliar qualidade.",
+      "fonte": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "AMD compra startup de chips feitos sob medida pra rodar IA — pressão pra API ficar mais barata",
+      "aconteceu": "A AMD adquiriu a Taalas, que projeta chips otimizados especificamente pra executar modelos de IA em produção (em vez de GPUs de uso geral).",
+      "significa": "Provedores de IA rodando em hardware mais eficiente tendem a repassar custo menor. Se você paga API de IA por uso, é sinal de preço caindo no médio prazo.",
+      "fonte": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Robótica",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "The Economist alerta: governos estão fazendo uma aposta perigosa no boom de IA",
+      "aconteceu": "Editorial do The Economist argumenta que governos estão apostando recursos públicos massivos em IA sem calcular riscos estruturais — bolha, dependência de infraestrutura privada, desinvestimento em áreas críticas.",
+      "significa": "Se sua empresa opera em setor regulado ou depende de política pública, o cenário macro de IA pode virar tema fiscal e regulatório — com efeitos em incentivos, energia e prioridades de governo.",
+      "fonte": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
