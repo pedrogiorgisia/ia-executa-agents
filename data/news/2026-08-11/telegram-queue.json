@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-11",
+  "items": [
+    {
+      "titulo": "Claude agora \"carimba\" tudo que escreve — e isso vira questão de compliance",
+      "aconteceu": "A Anthropic passou a embutir uma marca d'água invisível em todo texto gerado pelo Claude a partir de agosto, além de metadados de rastreabilidade nas imagens. O leitor não percebe, mas ferramentas de verificação detectam.",
+      "significa": "Se sua empresa publica conteúdo feito com IA (posts, e-mails, relatórios, material de marketing), saiba que esse conteúdo agora carrega uma \"assinatura\" identificável. É uma resposta direta à lei de IA da União Europeia, que exige rotular conteúdo de máquina — não sinalizar pode virar infração.",
+      "fonte": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"A IA ia me dar tempo livre\" — funcionários dizem trabalhar até 90h por semana",
+      "aconteceu": "Uma reportagem da BBC contrasta o discurso de CEOs de tecnologia (\"IA vai liberar o tempo do time\") com o que os próprios trabalhadores relatam: estão trabalhando mais horas, alguns chegando a 90 por semana.",
+      "significa": "Se você está vendendo IA para o seu time como \"vai sobrar tempo\", cuidado: sem revisar metas e volume de tarefas, a IA só eleva a expectativa de produção e sobrecarrega quem já estava no limite. Adoção de IA sem redesenho de processo vira armadilha de burnout.",
+      "fonte": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Meta lança IA potente e gratuita que roda no seu próprio computador",
+      "aconteceu": "A Meta liberou o Muse Glimmer, um modelo de IA de grande porte (30 bilhões de parâmetros) que roda em placas de vídeo de consumidor comuns, sem depender de servidores caros na nuvem — e de graça para qualquer empresa usar e modificar.",
+      "significa": "Dá pra hospedar um assistente de IA sofisticado dentro da sua empresa, sem pagar API da OpenAI ou Anthropic e sem mandar os dados dos clientes pra fora. Muda a conta pra quem tem dado sensível (saúde, jurídico, financeiro) ou orçamento apertado.",
+      "fonte": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#IAGenerativa",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "ChatGPT Business ganha \"assentos premium\" — dá pra pagar caro só por quem usa muito",
+      "aconteceu": "A OpenAI vai lançar uma categoria de assentos premium dentro do ChatGPT Business: a empresa dá acesso avançado apenas aos colaboradores que realmente precisam, em vez de pagar o preço máximo para o time inteiro.",
+      "significa": "Se você paga ChatGPT Business para todo mundo hoje, dá pra cortar custo dando o plano turbinado só para os poucos usuários intensivos e mantendo o padrão para o resto.",
+      "fonte": "https://openai.com/index/premium-seats-chatgpt-business",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Zuckerberg parte pra cima da IA \"fechada\" e promete voltar ao aberto",
+      "aconteceu": "Mark Zuckerberg fez um discurso público criticando OpenAI e Google por manterem seus modelos proprietários e fechados, ao mesmo tempo em que anuncia que a Meta vai voltar a lançar modelos abertos e gratuitos (como o Muse Glimmer).",
+      "significa": "A briga entre IA \"aberta\" (grátis, customizável, roda local) e IA \"fechada\" (paga, na nuvem) está esquentando — e isso derruba preço e aumenta suas opções de fornecedor. Quem tem contrato de IA hoje deveria acompanhar antes de renovar.",
+      "fonte": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Meta",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma IA de 14MB que cabe num relógio — sem internet",
+      "aconteceu": "A Cactus lançou um modelo de IA com apenas 14 megabytes, pequeno o suficiente para rodar em relógios inteligentes, câmeras, robôs pequenos e dispositivos baratos — tudo offline, sem nuvem.",
+      "significa": "A IA está deixando de ser \"serviço na nuvem\" para virar peça embutida em produto físico. Abre espaço para produtos inteligentes de baixo custo e resolve privacidade (o dado nunca sai do aparelho).",
+      "fonte": "https://cactuscompute.com/needle",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "IA já está resolvendo problemas científicos reais em dias, não anos",
+      "aconteceu": "Sistemas de IA que raciocinam de forma iterativa (como um cientista testando hipóteses) começaram a chegar a conclusões relevantes em biologia e química em dias — trabalho que levaria anos para pesquisadores humanos.",
+      "significa": "Uma empresa de P&D pode usar IA para gerar e filtrar hipóteses antes de ir ao laboratório, cortando drasticamente o custo e o tempo de pesquisa. Farmacêutica, biotech e agro são os primeiros a sentir.",
+      "fonte": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "OpenAI libera US$ 7 bilhões para funcionários venderem ações",
+      "aconteceu": "A OpenAI concluiu o maior programa de liquidez da sua história: funcionários puderam vender participações numa rodada de US$ 7 bilhões. Historicamente, movimentos assim antecedem abertura de capital (IPO).",
+      "significa": "É mais um sinal de que a OpenAI caminha para a bolsa — e de que o dinheiro institucional continua apostando pesado em IA. Também mexe na guerra por talentos: funcionários com dinheiro em mãos podem trocar de empresa.",
+      "fonte": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Universidades estão perdendo acesso às melhores IAs — e isso te afeta",
+      "aconteceu": "Os modelos de IA mais poderosos são controlados por empresas privadas que não abrem o \"interior\" para pesquisa independente. Pesquisadores acadêmicos estão ficando sem acesso para estudar viés, segurança e impacto social dessas IAs.",
+      "significa": "Estudos independentes sobre risco de IA ficam reféns da boa vontade das big techs — e reguladores perdem a base científica para criar regras. Quem depende de pesquisa neutra para tomar decisão vai ter menos material confiável.",
+      "fonte": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "OpenAI pressiona o governo do Texas por regras favoráveis a IA",
+      "aconteceu": "A OpenAI enviou uma carta formal ao governador do Texas pedindo apoio para expandir infraestrutura de IA no estado — data centers, energia e regulação favorável.",
+      "significa": "As big techs estão correndo para moldar as regras de IA estado a estado, antes que uma lei federal apareça. Quem estiver fora dessas conversas pode ser pego de surpresa por novas regras ou por incentivos concentrados em poucos players.",
+      "fonte": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Zapier automatizou processos de marketing com o ChatGPT Work",
+      "aconteceu": "A OpenAI publicou um case mostrando como a Zapier usou o ChatGPT Work para automatizar processos centrais de marketing, com resultados medidos.",
+      "significa": "É uma referência concreta de como uma empresa de software real está usando IA no dia a dia de marketing — útil para justificar (ou desenhar) um projeto parecido no seu time sem começar do zero.",
+      "fonte": "https://openai.com/index/zapier",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Virgin Atlantic usou IA para melhorar a experiência do passageiro",
+      "aconteceu": "Case oficial da OpenAI mostrando como a Virgin Atlantic aplicou o ChatGPT Work para personalizar a comunicação com clientes e agilizar processos de atendimento.",
+      "significa": "Exemplo de IA em atendimento em escala numa empresa global — referência para quem lida com alto volume de interações com cliente e quer sair do relatório manual semanal.",
+      "fonte": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresa financeira acelerou o trabalho de finanças com o GPT-5.6 Sol",
+      "aconteceu": "Case da OpenAI mostrando a Model ML usando uma variante do GPT otimizada para trabalho financeiro para concluir análises com mais eficiência.",
+      "significa": "Tarefas repetitivas de finanças (análise de relatório, reconciliação, projeção) que exigiam analistas dedicados podem ser feitas em fração do tempo — referência para quem quer aliviar o time financeiro.",
+      "fonte": "https://openai.com/index/model-ml",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
