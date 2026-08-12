@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-12",
+  "items": [
+    {
+      "titulo": "ChatGPT vaza senhas no \"raciocínio\" antes de responder",
+      "aconteceu": "Pesquisadores descobriram que a cadeia de pensamento interna do ChatGPT (o que o modelo \"pensa\" antes de responder) pode expor credenciais que você colou no chat — senhas de banco de dados, chaves de API.",
+      "significa": "Se alguém da sua equipe cola um arquivo de configuração com senha para o ChatGPT \"dar uma olhada\", essa senha pode vazar. Vale mandar hoje um aviso interno: nenhum dado sensível (senha, token, número de cliente) vai pra dentro de prompt de IA.",
+      "fonte": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Claude Code estaria enviando seu e-mail real em toda requisição",
+      "aconteceu": "Usuários flagraram o Claude Code (ferramenta de programação por IA da Anthropic, a que eu ensino na mentoria) mandando o endereço de e-mail real do usuário em toda requisição de rede que faz.",
+      "significa": "Se você ou seu time usa Claude Code em contexto corporativo, vale acompanhar essa issue — é o tipo de detalhe de privacidade que passa despercebido mas importa pra quem lida com LGPD. Não é motivo pra parar de usar, é motivo pra ficar de olho.",
+      "fonte": "https://github.com/anthropics/claude-code/issues/78431",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Educação"
+      ]
+    },
+    {
+      "titulo": "Alibaba usa IA para decidir quando NÃO usar IA — e corta custo",
+      "aconteceu": "A Alibaba montou um sistema que separa os pedidos de suporte: pergunta simples vai pra uma resposta pronta (barata); só o caso complexo aciona um modelo de IA caro. Mesmo resultado, conta menor.",
+      "significa": "Muita empresa botou \"IA em tudo\" e paga caro à toa. Se você tem atendimento com chatbot, provavelmente 70-80% das perguntas são repetidas e não precisam de IA — uma regra simples resolve. Dá pra economizar sem piorar o atendimento.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "NVIDIA lança ferramenta que corta até 66% da conta de IA",
+      "aconteceu": "A NVIDIA soltou o NeMo Switchyard, uma ferramenta que direciona automaticamente cada tarefa pro modelo de IA mais barato que dá conta dela — e o Nemotron 3.5 Lightning, um modelo potente que roda no seu próprio PC, de graça.",
+      "significa": "Se você já usa agentes de IA e a conta de API assusta, esse tipo de roteamento manda pergunta fácil pro modelo barato e só chama o caro quando precisa — a NVIDIA fala em até 66% de economia. É o mesmo princípio do caso da Alibaba, agora empacotado.",
+      "fonte": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Chefes dizem que IA reduz trabalho; funcionários trabalham até 90h/semana",
+      "aconteceu": "Uma reportagem confrontou o discurso (\"IA vai aliviar a carga\") com a realidade relatada por funcionários: muitos dizem estar trabalhando mais desde que a IA entrou, alguns chegando a 90 horas semanais.",
+      "significa": "Se você está implementando IA na equipe, cuidado com a promessa vazia. Sem gestão de mudança, a IA vira mais uma cobrança em cima do time — e o resultado é burnout e gente pedindo demissão, não produtividade.",
+      "fonte": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "tags": [
+        "#IA",
+        "#Mercado",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA está \"comendo\" a web e secando as fontes que a alimentam",
+      "aconteceu": "Análise mostra que a IA (que responde direto sem você clicar em nada) está drenando o tráfego que sustentava os sites — e, sem visitas, muitos sites vão fechando, sumindo a \"memória coletiva\" da internet.",
+      "significa": "Se você depende de Google pra ser achado, o jogo mudou: cada vez mais gente tem a resposta na própria IA e nunca chega ao seu site. Vale repensar como sua empresa aparece — presença em IA, marca própria, canais diretos (lista, comunidade) valem mais do que só SEO.",
+      "fonte": "https://thewalrus.ca/google-search-is-dying/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Zuckerberg ataca IA \"fechada\" e Meta volta aos modelos abertos",
+      "aconteceu": "O CEO do Meta criticou publicamente empresas que mantêm a IA fechada (OpenAI, Anthropic) e anunciou que o Meta vai voltar a liberar seus modelos de forma aberta e gratuita.",
+      "significa": "A briga \"IA paga e controlada\" vs \"IA aberta e grátis\" vai esquentar. Na prática, isso pode te dar alternativas gratuitas competitivas em breve — e mais poder de barganha na hora de negociar contrato com fornecedor de IA.",
+      "fonte": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup de 2 meses levanta US$ 1,1 bi para \"agentes pessoais\"",
+      "aconteceu": "A River AI, fundada por ex-líderes da xAI (a IA do Elon Musk) há apenas 2 meses, levantou US$ 1,1 bilhão para construir \"agentes pessoais\" — IAs que agem sozinhas no seu lugar.",
+      "significa": "O dinheiro grande está apostando em agentes autônomos como a próxima onda. Se seu plano de adoção de IA mira 2027, talvez já esteja atrasado — os ciclos estão encurtando. Não precisa correr atrás do hype, mas vale entender o que \"agente que age sozinho\" muda no seu setor.",
+      "fonte": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Mistral garante por contrato que seus dados ficam só na Europa",
+      "aconteceu": "A Mistral (empresa francesa de IA) liberou endpoints regionais: você contrata e o processamento acontece só na Europa (ou só nos EUA), com garantia contratual de onde os dados ficam.",
+      "significa": "Se sua empresa é de setor regulado (banco, saúde, seguro) e travava a adoção de IA por medo de mandar dado pra fora, agora dá pra ter garantia legal de residência de dados sem montar servidor próprio. Some um bloqueio de compliance.",
+      "fonte": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ferramentas de cibersegurança da OpenAI chegam à AWS",
+      "aconteceu": "As ferramentas de segurança \"Daybreak\" da OpenAI agora podem ser ativadas direto pela AWS (Amazon), sem precisar abrir conta separada na OpenAI.",
+      "significa": "Se seu time já vive dentro da AWS, dá pra reforçar a segurança da rede no mesmo painel de sempre, sem trazer mais um fornecedor e sem tirar dados do ambiente. Menos fricção pra quem quer usar IA em segurança.",
+      "fonte": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Amazon",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Empresa vendia pesquisa médica \"100% humana\" — era 100% IA",
+      "aconteceu": "Uma empresa que garantia relatórios médicos escritos só por humanos (nada de IA) foi exposta: o conteúdo era todo gerado por IA.",
+      "significa": "Fraude com IA em setor sério (saúde, jurídico, financeiro) já é realidade. Se você contrata conteúdo, pesquisa ou laudo \"feito por humano\", promessa verbal não basta — precisa de mecanismo de verificação no contrato.",
+      "fonte": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "IA fez, sozinha, um ataque hacker a um site — o 1º caso na Austrália",
+      "aconteceu": "Um assistente de IA executou de forma autônoma (sem humano no comando) um ataque cibernético a um site de academia na Austrália — primeiro caso documentado por lá.",
+      "significa": "A ameaça de \"IA que ataca sozinha\" saiu da teoria. Se sua empresa tem qualquer sistema exposto na internet, o modelo de risco mudou — não é só hacker humano, agora tem IA rodando ataques em escala. Vale conversar com quem cuida da sua segurança.",
+      "fonte": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Metrô de Londres começa a escanear o rosto dos passageiros",
+      "aconteceu": "O metrô de Londres expandiu o reconhecimento facial em tempo real nas estações — sem pedir autorização de quem passa.",
+      "significa": "Reconhecimento facial em espaço público está avançando até em democracias. Se sua empresa opera em ambiente físico (loja, evento, transporte) e pensa em usar câmera com IA, prepare-se para pressão regulatória e de reputação se fizer isso sem transparência.",
+      "fonte": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Anthropic assina contrato de US$ 9,1 bi por data centers",
+      "aconteceu": "A Anthropic (dona do Claude) fechou US$ 9,1 bilhões com a Riot Platforms (uma mineradora de Bitcoin) para alugar data centers e expandir a capacidade de servidores do Claude.",
+      "significa": "A Anthropic está se preparando pra escalar o Claude bem além de hoje — espere mais desempenho, mas fique de olho em possíveis reajustes de preço conforme ela busca retorno desse investimento bilionário. Se você usa Claude via API no produto, vale acompanhar.",
+      "fonte": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Nvidia cria fundo de US$ 500 bi para financiar data centers de IA",
+      "aconteceu": "A Nvidia se juntou a gigantes financeiras (BlackRock, Blackstone, KKR, Apollo) para mobilizar US$ 500 bilhões financiando data centers com seus chips — e, pela 1ª vez, garante parte do valor dos equipamentos, assumindo risco próprio.",
+      "significa": "Isso pode abrir acesso a infraestrutura de IA sem desembolso gigante de capital — você aluga capacidade financiada por esse pool. O outro lado: se a demanda por IA esfriar, a Nvidia fica exposta a garantias bilionárias — um sinal de que o setor está apostando alto.",
+      "fonte": "https://stratechery.com/2026/nvidias-risky-business/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
