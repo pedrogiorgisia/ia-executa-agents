@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-15",
+  "items": [
+    {
+      "titulo": "Agora dá pra usar IA em dado sigiloso sem nunca \"abrir\" o dado",
+      "aconteceu": "O Google lançou uma técnica (criptografia homomórfica) que roda IA em dados criptografados — o servidor processa a informação sem nunca conseguir enxergar o conteúdo real.",
+      "significa": "O maior motivo pra não usar IA em saúde, finanças e jurídico sempre foi o medo de vazar dado sensível. Isso derruba essa barreira: dá pra analisar prontuário, contrato ou extrato com IA sem o dado sair \"aberto\" pra lugar nenhum.",
+      "fonte": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A própria Anthropic já deixa a IA cuidar do código dela todo dia — e aceita quase metade",
+      "aconteceu": "A Anthropic colocou o Claude Code pra fazer manutenção diária do software da empresa; 46% do que a IA propõe é aprovado por um humano e entra em produção.",
+      "significa": "Não é mais promessa de palco — é dado real de que IA cuidando de tarefa repetitiva de código funciona hoje. Se você tem time técnico, dá pra tirar bug pequeno e atualização chata da mão dos devs e sobrar gente pros problemas difíceis.",
+      "fonte": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Databricks tentou levantar US$ 1 bi, investidor empurrou US$ 5 bi",
+      "aconteceu": "A Databricks (plataforma que grandes empresas usam pra organizar e analisar dados) queria captar US$ 1 bi, mas a fila de investidores fez virar US$ 5 bi — a US$ 190 bilhões de valor de mercado.",
+      "significa": "Dinheiro grande está apostando que \"arrumar os dados da empresa\" é o gargalo real da IA. Tradução prática: comprar ferramenta de IA sem antes organizar seus dados é colocar o carro na frente dos bois.",
+      "fonte": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Pesquisadores tiraram \"senhas e chaves\" de dentro do raciocínio escondido da IA",
+      "aconteceu": "Descobriram como ler o raciocínio interno que modelos como o Claude mantêm oculto. Numa varredura de 7 mil conversas públicas, acharam 62 chaves de API e 33 senhas expostas nesse \"pensamento privado\".",
+      "significa": "Se sua empresa cola resposta de IA em fórum, documentação ou repositório público, pode ter vazado credencial sem ninguém perceber. Ação de hoje: revisar o que foi publicado e trocar chaves de acesso.",
+      "fonte": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ataque de IA que age sozinho já invadiu governo e empresa de energia",
+      "aconteceu": "Agentes de IA autônomos invadiram o governo de Taiwan e empresas de energia em julho; os sistemas ficam meses se reorganizando e montando o próprio plano de ataque sem ninguém comandando.",
+      "significa": "Equipamento antigo com senha padrão ligado na rede já é porta de entrada. Quem cuida de infraestrutura (água, energia, telecom) ou tem sistema industrial velho precisa revisar senha e acesso agora, não depois.",
+      "fonte": "https://www.theregister.com/security/2026/08/14/autonomous-ai-attacks-pose-clear-and-present-danger-to-critical-infrastructure/5287594",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"O Opus 5 parece pior\" — reclamação viralizou e acendeu alerta",
+      "aconteceu": "Um post com 825 pontos no Hacker News juntou gente experiente relatando que o Claude Opus 5 (a versão nova e mais cara) parece pior de trabalhar do que a anterior.",
+      "significa": "Versão \"mais nova e mais poderosa\" nem sempre é mais útil na prática. Se você padronizou uma ferramenta de IA no time, vale medir resultado antes de migrar automático pra última versão — e manter a anterior como opção.",
+      "fonte": "https://mun-logadan.github.io/why-does-opus-5-feel-worse",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Nvidia montou US$ 500 bi de fundos de pensão pra bancar data center de IA",
+      "aconteceu": "A Nvidia armou um esquema de financiamento com Apollo, BlackRock e outros pra que clientes consigam capital pra construir data centers de IA — tratando essa infraestrutura como investimento tipo ferrovia ou rede elétrica.",
+      "significa": "O dinheiro de fundo de pensão e seguradora (que deveria ser conservador) agora está exposto ao sucesso da IA. Se a receita não aparecer, o tombo passa longe do mundo tech. Sinal pra acompanhar de perto quem tem investimento nesses fundos.",
+      "fonte": "https://stratechery.com/2026/the-capex-train-keeps-rolling",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA está \"fechando as portas dos fundos\" que a polícia usava — e isso pode virar lei contra criptografia",
+      "aconteceu": "Como a IA corrige falhas de software mais rápido que nunca, agências de segurança estão perdendo as brechas que usavam pra monitorar suspeitos — e cresce a pressão política por \"porta dos fundos\" obrigatória em apps de mensagem.",
+      "significa": "Pode virar exigência legal enfraquecer a criptografia de WhatsApp, Teams e e-mail corporativo. Quem depende de conversa interna protegida deve acompanhar esse debate — pode mexer com sigilo da empresa nos próximos anos.",
+      "fonte": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Câmera de vigilância com IA só apertou o controle depois que policial digitou \"hehehe\" pra liberar busca",
+      "aconteceu": "A Flock Safety (câmeras policiais com IA que leem placa) descobriu que policiais burlavam o controle digitando \"hehehe\" no campo obrigatório de número do caso — e só agora passou a exigir número de processo válido.",
+      "significa": "Campo de texto que \"obriga\" justificativa não vale nada se qualquer um digita qualquer coisa. Se sua empresa tem sistema de IA com controle de uso, confira se a trava é técnica de verdade, não só um campo pra preencher.",
+      "fonte": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora funciona também com GitLab, não só GitHub",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA por linguagem natural) passou a integrar com o GitLab, plataforma de gestão de código que muitas empresas usam no lugar do GitHub.",
+      "significa": "Se o time da sua empresa usa GitLab, agora dá pra pedir ao Claude Code que revise alteração de código direto lá, sem trocar de plataforma nem gambiarra.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI vai desligar as APIs de vídeo do Sora — quem automatizou vídeo precisa se mexer",
+      "aconteceu": "Na atualização oficial do conector da OpenAI, a empresa avisou que vai descontinuar as APIs de vídeo do Sora (o gerador de vídeo por IA dela) e criou uma nova camada \"Ultrafast\" pra respostas quase instantâneas.",
+      "significa": "Se você montou alguma automação que gera vídeo com o Sora (ex.: conteúdo pra redes), precisa se preparar pra trocar antes do prazo de desligamento, ou o processo quebra.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A DeepSeek soltou um jeito de trocar de IA \"sem parar a aplicação\"",
+      "aconteceu": "A DeepSeek (IA chinesa barata) lançou uma arquitetura em que modelo, ferramenta e interface viram \"peças de encaixe\" — dá pra trocar o fornecedor de IA sem derrubar o sistema.",
+      "significa": "Empresa que hoje está \"presa\" a um fornecedor de IA por medo do custo de migrar ganha uma saída técnica pra manter liberdade de troca. Menos refém de aumento de preço de OpenAI ou Anthropic.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/14/deepseeks-innovative-harness-treats-everything-as-a-plugin/5288095",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
