@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-16",
+  "items": [
+    {
+      "titulo": "Já tem gente entregando trabalho feito por IA sem ninguém conferir",
+      "aconteceu": "Uma pesquisa nos EUA mostrou que 1 em cada 5 trabalhadores já repassa para a IA tarefas que antes iam para um colega — e boa parte entrega o resultado sem revisar.",
+      "significa": "Se sua equipe começou a usar IA, não assuma que alguém está checando o que ela produz. Em jurídico, finanças e saúde, um erro não revisado vira problema sério. Vale criar uma regra explícita de \"IA escreve, humano confere antes de sair\".",
+      "fonte": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic publicou um guia de como tirar mais proveito do Claude Code",
+      "aconteceu": "A Anthropic (dona do Claude) lançou um guia oficial sobre como extrair mais retorno do Claude Code — a ferramenta de IA para programação que é o coração da mentoria.",
+      "significa": "Quando o próprio fabricante começa a publicar material de \"como ter ROI\", é sinal de que a ferramenta saiu da fase de novidade e virou item de custo-benefício que gestor cobra número. Bom momento pra quem tem time técnico medir quanto de tempo a IA está de fato economizando.",
+      "fonte": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google agora deixa você apagar o \"carimbo de IA\" das imagens da Gemini",
+      "aconteceu": "O Google passou a permitir remover o logo visível que aparecia nas imagens criadas pela Gemini. A marca invisível (que o Google usa para rastrear a origem) continua embutida.",
+      "significa": "Dá pra usar imagens geradas por IA em campanhas e posts sem o aviso visível de \"feito por IA\" — mais liberdade visual. O outro lado: fica mais difícil confiar que uma imagem que você vê por aí é real, porque o aviso sumiu da superfície.",
+      "fonte": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Quem usa a IA da Anthropic \"pra pensar\" pode estar pagando por nada",
+      "aconteceu": "Desenvolvedores que pagam pelo recurso de \"raciocínio interno\" do Claude (extended thinking) estão recebendo blocos vazios — mas a cobrança continua. O caso está sendo investigado.",
+      "significa": "Se sua empresa integra o Claude via API com esse recurso ligado, pode estar gastando a mais sem receber o valor. Vale pedir para o time de TI auditar se essa opção está ligada sem necessidade.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/14/claude-code-returns-blank-thinking-blocks-but-reasoning-still-costs-you/5287557",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Livros escritos por IA estão entupindo a Amazon e derrubando as vendas de autores",
+      "aconteceu": "Livros gerados por IA já são 20% do catálogo de autopublicação da Amazon, mas respondem por só 12% das vendas — e no meio disso \"afogam\" os títulos de autores humanos.",
+      "significa": "É um retrato do que acontece com qualquer plataforma quando o custo de criar cai a zero: enxurrada de conteúdo mediano que enterra o bom. O mesmo pode atingir cursos, artigos e templates. Diferenciar qualidade humana vira vantagem competitiva.",
+      "fonte": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Debian está votando se aceita código feito por IA — e isso vira régua pro mercado",
+      "aconteceu": "O Debian (um dos sistemas operacionais livres que sustentam servidores e infraestrutura de empresas no mundo todo) abriu uma votação formal sobre aceitar ou não contribuições de código geradas por IA.",
+      "significa": "Quando um projeto que serve de base pra tanta coisa cria regra formal sobre IA, essa regra costuma virar referência pras políticas internas das empresas depois. É um prenúncio do debate que vai bater no seu time de tecnologia: aceita código de IA? Com quais controles?",
+      "fonte": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um novo jeito de construir \"agentes de IA\" mais seguros para dados sensíveis",
+      "aconteceu": "Foi lançado o Flue 2, uma forma de construir assistentes de IA em que as ferramentas disponíveis para o agente mudam durante a conversa — por exemplo, só liberar acesso a dados financeiros depois de confirmar a identidade da pessoa.",
+      "significa": "É um sinal técnico de para onde os agentes estão indo: menos \"tudo liberado desde o início\", mais \"libera o acesso conforme a conversa avança\". Importa se sua empresa está construindo um assistente que lida com dado sigiloso (banco, plano de saúde), porque reduz o risco de vazamento.",
+      "fonte": "https://www.latent.space/p/flue-2",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
