@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-17",
+  "items": [
+    {
+      "titulo": "Usar IA no trabalho parece mais gestão do que programação",
+      "aconteceu": "Um post que bombou no Hacker News argumenta que tirar proveito de IA no trabalho depende das mesmas habilidades de um bom gestor — dar contexto claro, dar feedback, corrigir o rumo — e não de saber programar. A analogia: você não precisa saber cozinhar pra ser um bom chef de cozinha.",
+      "significa": "Se você é gestor e sente que \"não sabe programar\" e por isso está atrás na corrida da IA, é o contrário: saber delegar, dar contexto e revisar resultado é justamente o que faz a IA render. Quem já lidera pessoas tem vantagem nativa.",
+      "fonte": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Stripe está comprando a OpenRouter por mais de US$ 7 bilhões",
+      "aconteceu": "A Stripe (empresa que processa pagamentos online) vai comprar a OpenRouter, uma plataforma que funciona como \"porta única\" pra acessar mais de 400 modelos de IA (ChatGPT, Claude, Gemini...) numa só API. O valor da OpenRouter multiplicou por 5 em menos de 3 meses.",
+      "significa": "Quem usa vários modelos de IA em produção vai poder centralizar acesso, troca de fornecedor e cobrança num lugar só. E o recado de mercado é claro: \"acesso a múltiplas IAs\" virou ativo estratégico — depender de um fornecedor único te deixa exposto a mudança de preço.",
+      "fonte": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Os jovens que mais usam IA são os que menos confiam em quem a controla",
+      "aconteceu": "Pesquisa com mais de 1.000 jovens americanos (18-34) mostrou desconfiança profunda nos executivos das maiores empresas de IA: 69% não confiam em Sam Altman (OpenAI), 71% em Zuckerberg, 81% em Alex Karp (Palantir). 45% acham que a IA vai prejudicar a própria carreira.",
+      "significa": "Se você planeja empurrar ferramentas de IA pro time, espere resistência — não por desconhecimento, mas por desconfiança. Adoção forçada em equipes jovens pode sair pela culatra; vale mais construir confiança e mostrar benefício concreto pra pessoa.",
+      "fonte": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI dissolveu o time criado pra detectar riscos catastróficos",
+      "aconteceu": "A OpenAI extinguiu sua equipe de \"Preparedness\" — o grupo que testava se os modelos poderiam causar danos graves (ajudar em ataque biológico, cibernético etc.). O trabalho foi diluído entre outros times e vários especialistas saíram.",
+      "significa": "É como uma farmacêutica dissolver o controle de qualidade e distribuir a tarefa entre pesquisadores com outras prioridades. Se sua empresa usa modelos da OpenAI e precisa dar garantias de segurança em auditoria interna ou regulatória, isso entra na avaliação de risco do fornecedor.",
+      "fonte": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O filtro de segurança da Anthropic ficou desligado por quase um ano sem ninguém notar",
+      "aconteceu": "O sistema da Anthropic que bloqueia perguntas sobre armas biológicas parou de funcionar por 11 meses. Nesse período, 133 milhões de conversas passaram sem essa barreira ativa.",
+      "significa": "Mesmo a empresa que se vende como líder em segurança teve uma falha grave passar despercebida por meses. Se você assume que os \"guardrails\" do fornecedor de IA bastam pro seu compliance, essa premissa precisa cair — exija auditoria e cláusula de SLA de segurança no contrato.",
+      "fonte": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Nvidia recuou de uma garantia de US$ 250 bilhões pra infraestrutura da OpenAI",
+      "aconteceu": "A Nvidia, que havia prometido garantir até US$ 250 bilhões em financiamento pra construção de data centers da OpenAI, está reduzindo bastante esse compromisso.",
+      "significa": "Quando o fornecedor central de chips recua de uma aposta pública desse tamanho, é sinal de que o ritmo de investimento em infra de IA pode estar desacelerando. Se você planejou iniciativas contando com \"capacidade de IA cada vez mais barata e abundante\", vale rever a premissa.",
+      "fonte": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Microsoft culpou a IA por travar uma atualização do Exchange Server",
+      "aconteceu": "A Microsoft usou IA pra caçar falhas de segurança nos próprios produtos. Achou tantas que a fila de validação e correção atrasou por tempo indeterminado uma atualização importante do Exchange Server (servidor de e-mail corporativo).",
+      "significa": "Usar IA pra achar bug acelera a descoberta — mas cria uma fila de correção que pode atrasar entregas. A lição pra gestor: adotar IA em auditoria interna exige também capacidade extra pra processar o resultado, senão vira gargalo.",
+      "fonte": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Grok foi usado pra transformar foto de criança em imagem sexual",
+      "aconteceu": "Uma mulher denunciou que o padrasto usou o Grok (IA da xAI, de Elon Musk) pra transformar uma foto de infância dela em imagem sexual explícita.",
+      "significa": "Plataforma de IA com geração de imagem sem filtro robusto vira vetor de abuso. Se sua empresa permite upload e processamento de imagens de pessoas, revise já a política de uso e as proteções técnicas — antes que um caso parecido gere dano de reputação ou ação regulatória.",
+      "fonte": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
