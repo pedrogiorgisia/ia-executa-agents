@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-19",
+  "items": [
+    {
+      "titulo": "O ChatGPT agora mostra anúncios pagos na Europa",
+      "aconteceu": "A OpenAI liberou anúncios dentro do ChatGPT em 31 países europeus — a empresa pode pagar pra aparecer no momento exato em que o usuário pergunta \"qual produto comprar\".",
+      "significa": "Abre um canal de aquisição novo, ao lado do Google Ads: em vez de disputar o clique na busca, você aparece dentro da conversa, antes da decisão de compra. Se vende pra Europa, vale entrar na fila cedo enquanto está barato e pouco disputado.",
+      "fonte": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma plataforma corporativa cortou o gasto com IA em 4x escolhendo o modelo certo pra cada tarefa",
+      "aconteceu": "A Glean (assistente de IA pra empresas) mostrou que deixar um \"roteador\" escolher automaticamente o modelo — barato pra tarefa simples, caro só pra tarefa complexa — derruba o custo de US$ 1,84 pra US$ 0,45 por tarefa.",
+      "significa": "Se sua empresa tem muita gente usando IA todo dia num modelo único caro, dá pra cortar até 75% do orçamento sem perder qualidade. É argumento direto pra renegociar contrato de IA corporativa.",
+      "fonte": "https://www.latent.space/p/glean-model-routing",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A segurança extra da OpenAI vai encarecer ~20% quem usa a API em produção",
+      "aconteceu": "Depois de uma brecha de segurança, a OpenAI passou a monitorar seus modelos o tempo todo com um sistema de alerta de 30 minutos — e isso adiciona cerca de 20% de custo computacional por processo monitorado.",
+      "significa": "Quem roda a API da OpenAI em volume alto deve refazer a previsão de custo: uma operação que gastava o equivalente a 1 milhão de tokens/dia passa a gastar 1,2 milhão. Melhor ajustar o orçamento agora do que ser surpreendido na fatura.",
+      "fonte": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma versão do ChatGPT com controle parental pra adolescentes",
+      "aconteceu": "Saiu um ChatGPT oficial pra menores de idade, com controles parentais, filtros de conteúdo e supervisão.",
+      "significa": "O debate \"proibir ou não IA na escola\" muda de tom — agora existe um produto pensado pra esse ambiente, então a decisão vira de política institucional, não de \"a tecnologia não é adequada\".",
+      "fonte": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Metade do uso real de IA nas empresas não aparece nos relatórios oficiais",
+      "aconteceu": "Um observatório independente de conversas reais com IA descobriu que quase metade dos usos é sobre temas pessoais (saúde, relacionamentos) — algo que os relatórios de OpenAI e Anthropic omitem ao mostrar só casos de produtividade.",
+      "significa": "Se você planeja a adoção de IA na empresa baseado nos relatórios das fornecedoras, está vendo metade do filme. O que seus funcionários realmente fazem com a ferramenta pode ter implicações de privacidade e compliance que ninguém está gerenciando.",
+      "fonte": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#Segurança",
+        "#Produtividade",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Uma empresa de robô pra crianças faliu e os robôs pararam de funcionar da noite pro dia",
+      "aconteceu": "A fabricante do Moxie (robô terapêutico pra crianças neurodivergentes) faliu; quando desligaram os servidores na nuvem, todos os robôs \"morreram\", cortando o vínculo afetivo das crianças.",
+      "significa": "É o caso concreto de por que produto de IA que depende 100% da nuvem de um único fornecedor é risco. Contrato de IA em área crítica (saúde, educação) precisa de cláusula de portabilidade e continuidade — senão a falência do vendor vira o seu problema.",
+      "fonte": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Educação",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Google comprou os dados de uma companhia aérea falida pra treinar IA",
+      "aconteceu": "O Google arrematou em leilão 100 milhões de emails e 30 milhões de gravações de chamadas da Spirit Airlines (falida) por US$ 10 milhões, pra treinar IA de aviação.",
+      "significa": "Abre um precedente: dados de empresas que quebram viram commodity de leilão pra treinar IA — sem opt-out pra quem era cliente. Se sua empresa acumula muitos dados de clientes, vale incluir no contrato o que acontece com esses dados num cenário de liquidação.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Cursor lançou um concorrente do GitHub pra hospedar código",
+      "aconteceu": "A Cursor (ferramenta de programação com IA) lançou o Origin, um serviço pra guardar código com IA integrada — concorrente direto do GitHub, da Microsoft.",
+      "significa": "O mercado de ferramentas de desenvolvimento está fragmentando: as empresas de IA querem o ecossistema inteiro, não só uma peça. Quem depende do GitHub hoje vai ter alternativas — e mais poder de barganha na hora de decidir stack.",
+      "fonte": "https://cursor.com/changelog/origin-code-hosting",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI está segurando o próximo modelo de propósito por medo de ciberataque",
+      "aconteceu": "A OpenAI disse que está atrasando o lançamento do próximo modelo (codinome \"Astra\") porque ele pode ter capacidade perigosa de realizar ataques cibernéticos.",
+      "significa": "Se você planeja roadmap contando com \"a próxima IA vai conseguir fazer X\", inclua no plano que os lançamentos podem demorar mais do que o histórico sugeria. A pressa de lançar está dando lugar à cautela — e isso muda cronograma.",
+      "fonte": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O DOJ está investigando a Andreessen Horowitz por conflito de interesse",
+      "aconteceu": "O Departamento de Justiça dos EUA investiga se a a16z (uma das maiores gestoras de venture capital) violou lei antitruste ao ter sócios ao mesmo tempo no conselho de empresas concorrentes (Databricks e Fivetran).",
+      "significa": "Primeiro sinal de que o antitruste está mirando a governança dos fundos de VC, não só as big techs. Se sua startup recebeu ou busca dinheiro de fundo grande, negociações de parceria e M&A podem ficar mais lentas enquanto isso corre.",
+      "fonte": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O julgamento da Meta está sendo comparado ao das tabaqueiras",
+      "aconteceu": "O processo contra a Meta ganhou paralelo com o histórico caso do \"Big Tobacco\" — a alegação é de que a empresa sabia dos danos que causava e omitiu.",
+      "significa": "O escudo de \"somos só uma plataforma neutra\" está enfraquecendo na Justiça. Qualquer empresa que opera sobre plataformas de big tech deve acompanhar — o risco de responsabilização legal do setor está subindo.",
+      "fonte": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quanto maior o modelo de IA, mais impossível saber de onde ele tirou a resposta",
+      "aconteceu": "Pesquisadores do MIT mostraram que modelos maiores \"esquecem\" a origem dos dados de treinamento — na prática, não dá pra rastrear qual dado gerou qual saída.",
+      "significa": "Se você usa IA pra gerar conteúdo, fica mais difícil auditar de onde veio o que a máquina produziu — e processos judiciais de autores contra empresas de IA ficam tecnicamente mais frágeis. Auditoria de origem vira um ponto cego.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/18/ai-models-get-convenient-amnesia-about-source-material-as-they-grow-mit-boffins-find/5288846",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude já está sendo usado pra acelerar a criação de novos remédios",
+      "aconteceu": "A Anthropic publicou um estudo mostrando cientistas usando o Claude pra projetar proteínas novas — moléculas que podem virar medicamentos ou materiais — mais rápido que o método tradicional.",
+      "significa": "A IA saiu do \"promete muito\" pra \"entrega resultado mensurável em laboratório\" em áreas de alta complexidade. Pra quem é de indústria pesada em pesquisa, o recado é: o atraso competitivo de quem não adota está crescendo.",
+      "fonte": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma IA treinada só com conteúdo de escola básica mostra o limite dos seus dados",
+      "aconteceu": "Uma pesquisa treinou um modelo apenas com material de nível escolar básico e revelou falhas sérias de raciocínio — provando na prática que a IA é tão boa quanto o conteúdo com que aprendeu.",
+      "significa": "Se você está montando um assistente interno com os dados da própria empresa, a qualidade da resposta vai depender direto da qualidade do que você alimentar. \"Lixo entra, lixo sai\" continua valendo — investir na curadoria dos dados é parte do projeto.",
+      "fonte": "https://littlelearner-ll.github.io/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
