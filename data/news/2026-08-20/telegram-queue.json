@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-20",
+  "items": [
+    {
+      "titulo": "OpenAI passa a garantir por contrato que não guarda seus dados",
+      "aconteceu": "A OpenAI lançou \"Zero Data Retention\" para os modelos mais fortes via API — uma garantia formal de que nada do que você manda pra IA fica armazenado nos servidores deles.",
+      "significa": "Se você é de um setor regulado (banco, clínica, escritório de advocacia) e travava o uso de IA por medo de vazamento de dado de cliente, agora dá pra contratar a API com garantia por escrito de que a informação some depois da resposta.",
+      "fonte": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O preço da memória de computador subiu 500% em um ano — e isso encarece IA",
+      "aconteceu": "A memória RAM ficou cerca de 10x mais cara que o piso histórico. As gigantes de IA já reservaram quase toda a produção de 2027, deixando o mercado sem folga.",
+      "significa": "Se você planejava comprar servidores próprios pra rodar IA em 2026-2027, o hardware vai estar caro e escasso. Vale reavaliar: talvez usar nuvem sob demanda ou modelos menores saia mais barato que montar máquina própria.",
+      "fonte": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "FBI e agências dos EUA alertam: criminosos já usam IA pra atacar fábrica e usina",
+      "aconteceu": "NSA, CISA e FBI emitiram alerta formal de que atacantes estão usando IA para gerar código de invasão contra sistemas industriais (de água, energia, fábricas) — sem precisar de conhecimento técnico avançado.",
+      "significa": "Equipamento industrial antigo conectado à internet, que antes era \"seguro porque ninguém sabia mexer\", virou alvo fácil. Se sua operação tem planta, chão de fábrica ou automação, é hora de revisar o que está exposto.",
+      "fonte": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Dados reais mostram: time de tecnologia usa IA menos do que o hype sugere",
+      "aconteceu": "Um levantamento de como equipes de software usam IA no dia a dia mostrou que a adoção é seletiva e concentrada em poucas tarefas — não é \"todo mundo usando o tempo todo\".",
+      "significa": "Se você está medindo (ou cobrando) retorno de investimento em ferramentas de IA pro seu time, cuidado com a expectativa inflada. O ganho é real, mas vem em tarefas específicas, não numa revolução geral.",
+      "fonte": "https://news.ycombinator.com/item?id=49353432",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Claude Code agora mostra quanto você gastou — e deixa duas janelas conversarem",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de IA que o Pedro usa na mentoria) ganhou o comando `/usage`, que mostra em tempo real quanto da sua cota já foi consumida, e permite que duas janelas abertas troquem mensagens digitando `@nome-da-sessão`.",
+      "significa": "Some a surpresa no fim do mês — dá pra ver o gasto sem entrar em painel. E quem toca vários projetos ao mesmo tempo consegue fazer uma janela \"pedir\" algo pra outra sem copiar e colar.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.236",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A IA está mudando quais habilidades de raciocínio ainda valem a pena contratar",
+      "aconteceu": "Pesquisadores publicaram uma análise (com boa repercussão) sobre como a IA muda o jeito de aprender e usar matemática e raciocínio quantitativo em contexto profissional.",
+      "significa": "As competências analíticas que você contrata e treina hoje podem ficar obsoletas mais rápido do que espera. Vale rever o que realmente diferencia um profissional quando a IA já faz a conta.",
+      "fonte": "https://news.ycombinator.com/item?id=49362728",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "API da OpenAI agora deixa você escolher em que país seus dados são processados",
+      "aconteceu": "A biblioteca oficial da OpenAI ganhou a opção de definir a região geográfica onde os dados enviados pela API são processados.",
+      "significa": "Uma empresa europeia (ou que atende clientes europeus) pode garantir que os dados fiquem em servidores da Europa, atendendo exigências legais como GDPR sem gambiarra.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.3.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Novo \"modo Conciso\" do Claude Code trabalha calado e mostra só o resultado",
+      "aconteceu": "O Claude Code ganhou um modo em que ele para de narrar cada passo e responde direto ao ponto, mantendo a mesma qualidade de entrega.",
+      "significa": "Pra quem já confia na ferramenta e só quer ver o resultado final, dá pra reduzir o texto na tela e ganhar agilidade — menos \"explicação\", mais entrega.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.237",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
