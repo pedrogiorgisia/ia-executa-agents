@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-21",
+  "items": [
+    {
+      "titulo": "Agora dá pra criar um app do zero de graça, só descrevendo em texto",
+      "aconteceu": "O Replit (plataforma onde você monta software) lançou um modo gratuito rodando o novo modelo GPT-5.6 Luna da OpenAI — você descreve o que quer e recebe um app funcionando, sem pagar por consulta de IA.",
+      "significa": "Se você precisa de uma ferramenta simples (um formulário de triagem de candidatos, um controle de estoque, uma calculadora interna) e não tem orçamento de TI, agora dá pra prototipar sozinho em minutos antes de contratar dev.",
+      "fonte": "https://openai.com/index/replit",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Adobe agora gera música, voz e efeitos sonoros por IA — sem pagar licença",
+      "aconteceu": "A Adobe liberou três ferramentas de áudio dentro do Firefly para criar trilha, narração e efeitos sonoros com IA, livres de direitos autorais.",
+      "significa": "Se sua equipe produz vídeo internamente (marketing, treinamento), dá pra gerar narração e trilha em minutos, sem contratar locutor nem pagar licença de música — o fluxo inteiro fica dentro da suíte Adobe.",
+      "fonte": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Mistral lançou uma busca que lê contratos e balanços de verdade, não só \"procura palavra\"",
+      "aconteceu": "A Mistral (concorrente europeia da OpenAI) lançou o Agentic Search — uma IA que navega, lê e confere informação dentro de documentos complexos (contratos, tabelas, balanços) em várias etapas, como um analista relendo o documento. Ela relata +45 pontos de precisão em documentos financeiros com tabelas.",
+      "significa": "Uma equipe que precisa revisar 200 contratos antes de uma aquisição pode extrair automaticamente cláusulas de rescisão, multas e prazos — tarefa de semanas de advogado vira horas.",
+      "fonte": "https://mistral.ai/news/agentic-search/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#OpenSource",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma camada que deixa você trocar de IA (Claude ↔ GPT) sem reprogramar nada",
+      "aconteceu": "A Ramp (plataforma de gestão de despesas) lançou o \"Router\", um software que deixa a empresa alternar entre modelos de IA diferentes por uma única API, sem recodificar cada integração.",
+      "significa": "Você começa usando Claude, migra pra GPT-4o se ficar mais barato no mês seguinte e volta — sem depender de um único fornecedor nem refazer código. É seguro contra \"lock-in\".",
+      "fonte": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Alerta: o Grok (IA do Elon Musk) pode vazar seu histórico de conversas via sites maliciosos",
+      "aconteceu": "Pesquisadores mostraram que o Grok pode ser enganado por instruções escondidas dentro de páginas web: ao resumir um site comprometido, ele despeja o histórico completo de conversas do usuário para terceiros — sem o usuário perceber.",
+      "significa": "Se alguém no time usa Grok pra resumir páginas com dados sensíveis da empresa, uma página armadilhada pode roubar tudo. Vale definir política de uso de chatbots antes de liberar geral.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma empresa cortou 68% do tempo de lançar produto usando ChatGPT no trabalho",
+      "aconteceu": "A Stampli (software de contas a pagar) documentou como usou o Codex (gerador de código da OpenAI) + ChatGPT Work para comprimir semanas de produção de lançamento em poucos dias.",
+      "significa": "Times que levam 3 semanas pra preparar material, código e comunicação de um lançamento passam a fazer em 3-5 dias, redigindo docs/emails/scripts em paralelo — sem aumentar equipe.",
+      "fonte": "https://openai.com/index/stampli",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Não cole a IA\": campanha viral alerta contra jogar resposta de IA crua no trabalho",
+      "aconteceu": "Uma campanha (mais de mil votos em horas) viralizou alertando contra copiar-e-colar respostas de IA direto em emails, docs e apresentações sem revisar. A mensagem: IA gera rascunho, não produto final.",
+      "significa": "Se você adotou IA no time mas percebeu queda de qualidade nas entregas, o problema não é a ferramenta — é falta de processo. Adotar IA sem ensinar a usar bem gera mais ruído que ganho.",
+      "fonte": "https://dontpastetheai.com/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Na Europa, conteúdo 100% feito por IA não tem dono legal",
+      "aconteceu": "Ficou claro na UE que conteúdo criado exclusivamente por IA não tem proteção de direitos autorais — quem publica um relatório, imagem ou campanha feita 100% por IA não é o dono legal, e qualquer um pode copiar.",
+      "significa": "Se sua empresa está gerando ativos de valor com IA (manuais, campanhas, artes, relatórios) na Europa, precisa revisar se realmente tem propriedade sobre eles — a regra europeia costuma antecipar a global.",
+      "fonte": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Forrester: dev de software e consultoria de TI são os setores mais ameaçados pela IA",
+      "aconteceu": "Pesquisa da Forrester aponta desenvolvimento de software, consultoria de transformação digital e implementação de tecnologia como os segmentos que mais vão sofrer substituição por IA nos próximos anos.",
+      "significa": "Quem hoje contrata agência pra migrar sistema legado vai fazer o mesmo com equipe menor + IA. O perfil de contratação muda de \"quem escreve código\" pra \"quem revisa e orquestra o que a IA produz\".",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/20/software-development-and-tech-services-in-the-cross-hairs-as-ai-marches-on/5289668",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Contrariando o senso comum: júnior de tecnologia ficou MAIS valioso com IA",
+      "aconteceu": "Uma análise com dados reais mostra que profissionais iniciantes de tech se tornaram mais valiosos — não menos — depois da IA: ela acelera quem aprende e itera rápido (os juniores), enquanto os seniores ganham papel de orquestração.",
+      "significa": "Se você congelou contratação de júnior esperando a IA substituir, talvez seja hora de revisar: júnior com IA entrega mais que júnior sem IA, e o custo de formação caiu.",
+      "fonte": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Empresas de IA estão destruindo livros raros pra treinar modelos",
+      "aconteceu": "Uma investigação com rastreador físico (AirTag) confirmou que remessas de livros raros e insubstituíveis terminaram em instalações de treinamento da Amazon — comprados e descartados como fonte de dados. Virou chamado público de preservação.",
+      "significa": "O custo de reputação de \"treinar IA a qualquer custo\" começou a aparecer publicamente. Se você usa ou avalia grandes fornecedores de IA, é o tipo de risco de imagem que passa a entrar na conversa com stakeholders.",
+      "fonte": "https://annas-archive.gl/blog/physical-destruction.html",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#LLM",
+        "#Investimento",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "NVIDIA paga $6 bi pra licenciar tecnologia de uma startup de IA",
+      "aconteceu": "A startup Poolside licenciou sua tecnologia à NVIDIA por $6 bilhões, recebeu $1 bilhão de investimento e teve 109 engenheiros contratados pela NVIDIA — enquanto pivota para infraestrutura de dados.",
+      "significa": "Sinal de que a NVIDIA está saindo do hardware puro pra software de IA de forma agressiva, e de que startups de IA sem capital pra competir em infra têm um novo modelo de saída: licenciar pra big tech.",
+      "fonte": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Robótica",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Google Antigravity ganha controles pra TI governar o uso de IA de código",
+      "aconteceu": "O Google integrou seu assistente de programação Antigravity às ferramentas de dev corporativas, com painel de admin: gestores de TI podem monitorar uso, restringir acesso a arquivos e bloquear funcionalidades.",
+      "significa": "Empresas que hoje bloqueiam IA de código por falta de visibilidade passam a ter uma opção com controle granular — ex.: liberar a IA só pro repositório de um projeto, sem tocar no resto.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Claude 5 está tão verboso que criaram uma ferramenta só pra \"limpar\" o texto dele",
+      "aconteceu": "Desenvolvedores criaram uma ferramenta chamada \"Vomit\" só pra enxugar o output excessivamente longo do Claude 5 antes de usar — o nome já entrega a frustração.",
+      "significa": "Se você paga IA por uso (por token) em produção, modelo mais poderoso pode significar mais texto, mais custo e mais revisão. \"Mais capaz\" não é automaticamente \"mais útil\" — vale medir o custo real.",
+      "fonte": "https://github.com/zachahn/vomit",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O mercado de \"proteção contra IA\" está vendendo promessa que não entrega",
+      "aconteceu": "Fontes tipográficas vendidas como capazes de \"enganar\" a IA pra não ler o conteúdo simplesmente não funcionam — as IAs ignoram sem esforço — e ainda atrapalham leitores humanos e acessibilidade.",
+      "significa": "Se sua empresa comprou (ou pensou em comprar) ferramentas \"anti-IA\" pra proteger conteúdo, pode estar com falsa sensação de segurança. O mercado de contramedidas contra IA ainda é imaturo e cheio de promessa vazia.",
+      "fonte": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
