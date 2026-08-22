@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-22",
+  "items": [
+    {
+      "titulo": "O ChatGPT agora envia mensagens por você no iPhone",
+      "aconteceu": "A OpenAI lançou um plugin que deixa o ChatGPT redigir e enviar mensagens pelo Apple Messages sem você digitar.",
+      "significa": "Se você passa o dia respondendo dezenas de mensagens operacionais (confirmar horário, dar retorno rápido, alinhar com fornecedor), dá pra delegar as respostas rotineiras direto do iPhone.",
+      "fonte": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Startup levanta US$ 2 bi pra \"clonar\" pessoas e testar campanha antes de lançar",
+      "aconteceu": "A Simile (fundada por um pesquisador de Stanford) captou US$ 2 bilhões pra criar gêmeos digitais de pessoas reais — modelos que imitam comportamento humano com ~85% de precisão pra testar campanhas, produtos e políticas antes de irem ao mercado.",
+      "significa": "Em vez de recrutar painel de consumidor por semanas, dá pra rodar uma campanha em mil perfis simulados em horas e ver o que funciona (num teste, descobriram que uma ação subia a venda de um produto mas derrubava a venda geral).",
+      "fonte": "https://www.latent.space/p/simile",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Google cria botão pra você marcar seu site favorito na busca",
+      "aconteceu": "O Google lançou um botão que permite ao leitor marcar um site como \"fonte preferida\" nos resultados — resposta direta à queda de tráfego causada pelos resumos de IA (AI Overview) que respondem sem o clique.",
+      "significa": "Se você perdeu visitas porque o Google passou a resumir seu conteúdo, agora há um caminho pra fidelizar o leitor recorrente — vale pedir pros seus seguidores marcarem seu site como preferido.",
+      "fonte": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Estudo: IA subiu a nota do dever de casa e derrubou a nota da prova",
+      "aconteceu": "Uma pesquisa mostrou que alunos que usaram IA nas tarefas foram melhor nas tarefas — mas pior nas provas (feitas sem IA). A IA resolveu o problema sem transferir o aprendizado.",
+      "significa": "O mesmo acontece no trabalho: a IA entrega o resultado, mas o profissional não aprende a fazer. Cria uma dependência invisível — a lacuna só aparece quando a ferramenta falha ou muda.",
+      "fonte": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "tags": [
+        "#IA",
+        "#Educação",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Oposição a data centers de IA saltou de 42% pra 75% em um ano nos EUA",
+      "aconteceu": "Uma pesquisa mostra que três em cada quatro americanos agora se opõem à construção de novos data centers de IA perto de suas comunidades — alta de 33 pontos em um ano.",
+      "significa": "Mais resistência pública e atrasos de licenciamento significam infraestrutura de IA mais cara e mais lenta pra crescer — o que pode se refletir em preço e disponibilidade dos serviços que você usa.",
+      "fonte": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresas usam \"consciência da IA\" como escudo jurídico",
+      "aconteceu": "A MIT Tech Review mostra que empresas de IA estão usando argumentos sobre \"autonomia\" e \"consciência\" das máquinas pra escapar de responsabilidade legal quando o produto causa dano.",
+      "significa": "Se você usa chatbot em contexto sensível (saúde, RH, atendimento), atenção: a lógica de \"a IA agiu sozinha\" pode virar brecha — mas também pode te deixar exposto se o fornecedor jogar a culpa no sistema.",
+      "fonte": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Apagar dados do celular na fronteira dos EUA pode virar crime",
+      "aconteceu": "Um americano enfrenta acusação criminal grave por ter deletado fotos do próprio celular durante uma inspeção na fronteira — o governo tratou como obstrução, não como privacidade.",
+      "significa": "Quem viaja aos EUA com dados da empresa no celular pessoal tem um risco legal novo: apagar algo num ponto de controle pode gerar consequência penal. Vale revisar a política de dispositivos em viagem.",
+      "fonte": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Estou ficando cego pra IA\": quando todo texto parece igual",
+      "aconteceu": "Um profissional viralizou relatando que perdeu a capacidade de distinguir texto humano de texto de IA — emails, artigos, posts, tudo virou a mesma papa genérica, e ele passou a pular tudo sem ler.",
+      "significa": "À medida que todo mundo publica com IA, o leitor desliga. Conteúdo de marca, comunicado interno e material de venda genéricos perdem efeito. Autenticidade (voz própria, exemplo real) vira o diferencial.",
+      "fonte": "https://cymerys.com/w/im-becoming-ai-blind",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "DeepSeek lança modelo de visão que rivaliza com o Opus 4.8",
+      "aconteceu": "A chinesa DeepSeek lançou um modelo experimental que lê imagem e texto e iguala ou supera o Claude Opus 4.8 em testes de agentes autônomos.",
+      "significa": "Surge uma alternativa potencialmente mais barata pra tarefas de análise visual (ler documento, inspecionar produto, checar imagem) sem depender só de fornecedor americano — mas é experimental, teste antes de confiar.",
+      "fonte": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Binance liberou agentes de IA pra fazer trade de cripto sozinhos",
+      "aconteceu": "A Binance lançou o \"Agent OS\", que permite a agentes baseados em ChatGPT ou Claude comprar e vender cripto sem intervenção humana.",
+      "significa": "Dá pra automatizar estratégia 24/7 — mas o risco é todo seu: o agente pode liquidar uma posição de madrugada num mercado volátil sem nenhum alerta. Não existe rede de segurança automática.",
+      "fonte": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "Anthropic põe o Claude Mythos 5 pra caçar falhas de segurança em código",
+      "aconteceu": "A Anthropic colocou seu modelo mais avançado (Claude Mythos 5) pra analisar código atrás de vulnerabilidades e sugerir correções automaticamente.",
+      "significa": "Times de software podem rodar varredura contínua de segurança antes de lançar, baixando o custo de auditoria manual — mas continua exigindo revisão humana do que a IA aponta.",
+      "fonte": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "VentureBeat cria analista dedicado a \"IA que funciona de verdade\" nas empresas",
+      "aconteceu": "O VentureBeat criou uma função de analista independente pra documentar o que dá certo (e o que falha) quando empresas colocam IA em produção — foco em infraestrutura, agentes e segurança.",
+      "significa": "Passa a existir uma fonte editorial independente comparando soluções em ambiente real, não só benchmark de laboratório — útil na hora de escolher fornecedor.",
+      "fonte": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
