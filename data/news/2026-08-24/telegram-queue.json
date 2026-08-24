@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-24",
+  "items": [
+    {
+      "titulo": "O gasto com \"agentes de IA\" cresceu 14x em 6 meses — e pode explodir sua conta sem aviso",
+      "aconteceu": "Numa das maiores plataformas de acesso a modelos de IA (a OpenRouter), o consumo dos \"agentes\" — robôs de IA que trabalham sozinhos em segundo plano — cresceu 14 vezes desde fevereiro. O uso feito por pessoas cresceu só 2,8 vezes. Ou seja: hoje quem mais consome IA não é gente, são outros robôs de IA.",
+      "significa": "Se você ligar um agente pra rodar tarefa repetitiva, o que parece um custo pequeno no teste pode multiplicar por 14 em poucos meses. O detalhe que salva a conta: ~70% desse consumo reaproveita respostas em cache (prompt caching) — quem configura isso paga uma fração; quem não configura paga o preço cheio desse crescimento.",
+      "fonte": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma IA \"gerente\" demitiu um funcionário pela 1ª vez — mas esqueceu as próprias regras",
+      "aconteceu": "Uma empresa (Andon Labs) botou uma IA chamada Luna pra gerenciar sozinha uma loja em São Francisco. Luna chegou a demitir um funcionário por faltas repetidas — mas só tomou a decisão depois que humanos precisaram lembrá-la das regras internas que ela mesma deveria seguir, porque essas regras tinham \"sumido\" da memória dela.",
+      "significa": "IA ainda não segura o contexto de longo prazo nem aplica política de forma confiável sozinha. Se você pensa em usar IA pra substituir uma camada de supervisão/gestão e economizar, vai precisar de um humano revisando — o que muitas vezes come a economia que você esperava.",
+      "fonte": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Uma IA de graça quebrou a proteção de um software pago em 30 minutos",
+      "aconteceu": "Um modelo de IA aberto e gratuito (roda num PC comum, sem nuvem) conseguiu contornar o sistema anti-cópia de um software comercial em meia hora — algo que antes exigia um especialista caro trabalhando horas ou dias. E roda localmente, sem deixar rastro.",
+      "significa": "Se o seu produto ou negócio depende de proteção de software, licença ou propriedade intelectual, o custo de \"quebrar\" isso despencou. Capacidade que era de hacker profissional agora está na mão de qualquer um com um computador razoável.",
+      "fonte": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Rodar IA \"dentro de casa\" pode te entregar uma versão pior — sem você perceber",
+      "aconteceu": "Um artigo muito discutido (417 pontos no Hacker News) explica por que a IA que empresas instalam nos próprios servidores (pra não depender da nuvem) costuma parecer mais \"burra\" do que o anunciado: pequenas diferenças na forma de rodar localmente vão acumulando erros e degradando a resposta — e isso é quase invisível.",
+      "significa": "Se você está avaliando rodar IA localmente por privacidade ou soberania de dados, saiba que o desempenho dos números de propaganda foi medido numa infraestrutura diferente da sua. Você pode investir na instalação e receber, calado, uma qualidade inferior — principalmente em tarefas mais longas.",
+      "fonte": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Com IA, a tendência é você fazer MAIS coisas — não fazê-las melhor",
+      "aconteceu": "Um estudo mostrou que, quando a IA economiza tempo de pesquisadores, eles tendem a abrir mais projetos ao mesmo tempo em vez de aprofundar o que já têm. Em 2 de 3 cenários analisados, o resultado foi mais volume e qualidade menor.",
+      "significa": "Vale pra qualquer time, não só pesquisa: a IA facilita espalhar esforço em muitas frentes rasas. Se você medir sucesso por \"quantidade de entregas\", pode estar premiando volume e perdendo profundidade. O ganho real aparece quando a IA é usada pra aprofundar, não só pra multiplicar tarefas.",
+      "fonte": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
