@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-26",
+  "items": [
+    {
+      "titulo": "Só 6% das empresas realmente ganham dinheiro com IA, diz a McKinsey",
+      "aconteceu": "Quatro anos depois do boom da IA generativa, uma pesquisa da McKinsey aponta que apenas 6% das empresas dizem que a IA contribui de forma relevante para o lucro.",
+      "significa": "Se você vai aprovar (ou justificar) um projeto de IA, a métrica certa é resultado financeiro mensurável — não \"horas poupadas\". Muita gente automatizou tarefa, ganhou velocidade, mas manteve o mesmo custo e o mesmo time. Peça o número em reais antes de assinar.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O modelo mais caro da Anthropic está perdendo cliente pra IA mais barata",
+      "aconteceu": "O modelo topo de linha do Claude (Anthropic), considerado tecnicamente superior, está perdendo usuários para ferramentas mais baratas — foi o post mais comentado do fórum dev do mundo (809 pontos).",
+      "significa": "O poder de barganha virou pro comprador. Antes de fechar contrato anual com um fornecedor premium de IA, vale testar se a opção \"boa o suficiente e mais barata\" não resolve 90% do seu caso. Amarrar-se a um só fornecedor caro ficou arriscado.",
+      "fonte": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O chip próprio da OpenAI apareceu batendo a Nvidia nos primeiros testes",
+      "aconteceu": "Saíram os primeiros resultados do \"Jalapeño\", chip que a OpenAI fez com a Broadcom em 9 meses: nos testes internos ele roda IA de 1,7x a 3,6x mais rápido que os chips da Nvidia, gastando muito menos energia.",
+      "significa": "Se a OpenAI baratear o próprio custo de operar, o preço que você paga por uso de GPT (por token) pode cair. É sinal de que a conta de IA tende a ficar mais barata no médio prazo — e de que o \"monopólio\" da Nvidia começou a ser desafiado de verdade.",
+      "fonte": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Escolas criaram um \"semáforo\" pra dizer quando pode usar IA — e dá pra copiar na sua equipe",
+      "aconteceu": "Escolas privadas montaram um sistema de semáforo (verde/amarelo/vermelho) para regular o uso de IA por tipo de atividade, em vez de proibir ou liberar tudo.",
+      "significa": "É um modelo pronto pra empresa: tarefas verdes (IA livre), amarelas (IA com revisão humana obrigatória) e vermelhas (proibido). Resolve a briga interna de \"quando pode usar IA?\" sem criar manual de 40 páginas. Dá pra implantar essa semana.",
+      "fonte": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Alerta: time que depende demais de IA pra programar perde a capacidade de revisar o próprio código",
+      "aconteceu": "Artigo muito debatido (545 pontos no Hacker News) alerta que equipes que usam IA pra escrever todo o código podem perder, com o tempo, a competência de entender e corrigir esse código.",
+      "significa": "O risco não é a IA errar hoje — é ninguém no time perceber o erro amanhã. Se você adotou IA de código sem política, vale garantir que gente sênior continue revisando e que júnior continue aprendendo a base, senão vira uma \"dívida de competência\" invisível.",
+      "fonte": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo de Stanford: a IA está cortando principalmente as vagas de quem está começando",
+      "aconteceu": "Pesquisa de Stanford mostra que a IA está reduzindo sobretudo os cargos de nível inicial (início de carreira), enquanto sêniores são menos afetados.",
+      "significa": "Se você corta a vaga júnior hoje, de onde vem o sênior daqui a 5 anos? Além do risco de furar o funil de formação do seu time, o tema começa a atrair atenção regulatória. Vale pensar o pipeline de talento antes de simplesmente não contratar.",
+      "fonte": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Google lançou um Gemini feito só pra trabalho jurídico",
+      "aconteceu": "O Google lançou o Gemini Enterprise for Legal, uma versão especializada para advocacia, já integrada a ferramentas que os escritórios usam (iManage, NetDocuments, DocuSign, Everlaw). Faz análise de contrato, pesquisa legal e acompanha mudança de regra.",
+      "significa": "Revisão de contrato que levava horas pode cair pra minutos, e sem trocar de sistema — a IA trabalha dentro das ferramentas que o time já usa. É um caso concreto de IA \"vertical\", feita pra um setor.",
+      "fonte": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Hugging Face (o \"GitHub dos modelos de IA\") pode ser comprada por US$ 13 bilhões",
+      "aconteceu": "A Hugging Face — principal repositório mundial de modelos de IA abertos e gratuitos — está em negociação de venda a US$ 13 bilhões. A Nvidia já tinha oferecido US$ 500 milhões e foi recusada.",
+      "significa": "Muita startup e time de produto prototipa de graça usando modelos da Hugging Face. Se um gigante (Google, Microsoft, Amazon) comprar, o acesso gratuito pode ser restringido — e quem depende disso como \"custo zero\" talvez tenha que pagar ou migrar.",
+      "fonte": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Hardware",
+        "#OpenSource",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "A Apple lançou Mac Studio e Mac mini pensados pra rodar IA sem internet",
+      "aconteceu": "A Apple lançou novos Mac Studio e Mac mini com até 512 GB de memória, feitos pra rodar modelos de IA localmente, no próprio computador, sem depender de nuvem.",
+      "significa": "Empresa com dado sensível (jurídico, saúde, financeiro) pode processar documento confidencial dentro de casa, sem mandar pra servidor de fora e sem pagar por chamada de API. É a opção \"IA privada\" ficando viável no hardware de mesa.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Saúde",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Perplexity agora tem uma versão que roda no seu PC, sem mandar dado pra fora",
+      "aconteceu": "A Perplexity (motor de busca com IA) lançou, junto com a Nvidia, uma versão do assistente que roda inteiramente no computador do usuário, usando modelos menores.",
+      "significa": "É busca e pesquisa com IA que não sai da rede interna — alternativa à nuvem pra quem tem regra dura de dados. Some com o Mac local da Apple e o padrão do dia fica claro: a \"IA que fica dentro de casa\" está virando produto de prateleira.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Hardware",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude e o Cowork agora dividem o que sabem sobre você",
+      "aconteceu": "A Anthropic ligou a memória do Claude ao Cowork (o assistente de produtividade dela): o que o Claude aprende sobre suas preferências e seu contexto de trabalho passa a ficar disponível automaticamente no Cowork.",
+      "significa": "Se você já usa o Claude no dia a dia, ganha continuidade — ensina uma vez como gosta do relatório e não precisa repetir. O outro lado: vale saber que esse contexto sobre você agora circula entre as duas ferramentas.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA já cria brechas de segurança mais rápido do que as empresas conseguem tapar",
+      "aconteceu": "Análise de Jack Clark (Import AI) mostra que, em 2026, a IA passou a gerar falhas de segurança exploráveis em escala e velocidade muito maiores do que os times de segurança conseguem corrigir.",
+      "significa": "O padrão de \"temos 30 dias pra aplicar a correção\" pode não ser mais seguro. Se a sua empresa tem sistema crítico na internet, o ciclo de patch precisa acelerar — a janela entre \"brecha descoberta\" e \"brecha explorada\" encolheu.",
+      "fonte": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Austrália baniu música 100% feita por IA das paradas de sucesso",
+      "aconteceu": "A indústria fonográfica australiana decidiu que música gerada inteiramente por IA não entra nas paradas nacionais, e exige que as ferramentas usadas sejam licenciadas e paguem os artistas.",
+      "significa": "Se sua agência ou seu marketing usa IA pra criar jingle, trilha ou conteúdo musical, vale conferir se o gerador tem licenciamento — está virando risco legal e de reputação usar ferramenta que não compensa autor.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/25/australias-record-industry-wont-chart-tunes-recorded-in-the-key-of-ai/5292074",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "90% dos robôs humanoides do mundo vêm da China",
+      "aconteceu": "Quase 90% dos 13 mil robôs humanoides entregues no mundo no último ano vieram da China, que junta subsídio do governo, cadeia de fornecedor e IA nacional.",
+      "significa": "Quem planeja usar robótica humanoide nos próximos anos vai depender quase só de fornecedor chinês — mesmo risco de cadeia de suprimento que já aconteceu com painel solar e chip. Vale considerar isso no planejamento de longo prazo.",
+      "fonte": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Regulação",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup de robô \"faz-tudo\" já vale US$ 3 bilhões",
+      "aconteceu": "A Generalist captou US$ 200 milhões e chegou a US$ 3 bilhões de valuation apostando em robôs com IA que fazem várias tarefas sem precisar ser reprogramados a cada uma.",
+      "significa": "Em vez de um robô só pra empacotar e outro só pra inspecionar, um mesmo robô faz tudo. Pra galpão de e-commerce e linha de produção, isso muda a conta de quanto custa automatizar por tarefa.",
+      "fonte": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Robótica",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
