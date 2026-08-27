@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-27",
+  "items": [
+    {
+      "titulo": "A IA chinesa que roda 9x mais barato que ChatGPT e Claude",
+      "aconteceu": "O Alibaba lançou o Qwen3-8B-Flash, um modelo que usa só 6% da sua \"capacidade\" a cada pergunta — e por isso roda com um nono do custo de modelos rivais parecidos.",
+      "significa": "Se sua empresa deixou de automatizar algo (atendimento, triagem de e-mail, resumo de documento) porque \"ficaria caro demais rodar em volume\", esse tipo de modelo derruba a conta. Dá pra processar 9x mais interações pelo mesmo dinheiro.",
+      "fonte": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Meta tentou trocar funcionários por IA em massa — e o plano quebrou",
+      "aconteceu": "Reportagem da Reuters detalha como o Zuckerberg planejou substituir trabalhadores da Meta por sistemas de IA em larga escala, e como isso fracassou na prática.",
+      "significa": "A empresa mais avançada do mundo em IA tentou automação em massa e não deu conta. Antes de cortar time apostando que \"a IA cobre\", vale olhar esse caso: o buraco entre o que a IA promete no slide e o que entrega no dia a dia é caro de descobrir depois.",
+      "fonte": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google lançou uma IA de transcrição que erra 48% menos",
+      "aconteceu": "O Google DeepMind soltou o Gemini 3.5 Transcribe, um modelo que transforma voz em texto com quase metade dos erros do anterior, entende 85+ idiomas e separa quem falou o quê (até 3 pessoas). Já dá pra testar de graça no Google AI Studio.",
+      "significa": "Se você paga alguém pra transcrever reunião, consulta, entrevista ou ligação de suporte — ou perde tempo fazendo à mão — dá pra automatizar com qualidade que antes não existia, inclusive marcando quem disse cada coisa.",
+      "fonte": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Amazon vai fechar o \"Mechanical Turk\", onde gente fazia tarefa simples por trocado",
+      "aconteceu": "A Amazon anunciou que encerra em 30/set o Mechanical Turk — a plataforma onde empresas contratavam pessoas para tarefas simples (classificar imagem, rotular dado, moderar conteúdo). A IA tornou o modelo inviável.",
+      "significa": "É um marco concreto, não previsão: tarefa cognitiva repetitiva de baixa complexidade está sendo eliminada de vez. Se sua operação depende desse tipo de trabalho terceirizado, o momento de repensar o processo é agora.",
+      "fonte": "https://news.ycombinator.com/item?id=49457545",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Investimento",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Bill Gates: \"A era turbulenta da IA chegou\"",
+      "aconteceu": "Bill Gates publicou um ensaio dizendo que entramos num período de instabilidade real por causa da IA, e que as decisões que os líderes tomarem agora vão separar quem ganha de quem perde.",
+      "significa": "Vindo de uma das vozes mais cautelosas do setor, o recado é de urgência: a fase de \"vou experimentar IA quando sobrar tempo\" acabou. Não é sobre a ferramenta — é sobre posicionamento antes da janela fechar.",
+      "fonte": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O problema não é mais ter chatbot — é fazer os robôs conversarem entre si",
+      "aconteceu": "Análise da VentureBeat mostra que o desafio atual em atendimento não é implantar IA, e sim orquestrar bots, humanos e sistemas antigos para trabalharem coordenados — sem o cliente ter que repetir tudo ao ser transferido.",
+      "significa": "O cenário ruim: o bot resolve metade, joga pro humano, o humano não sabe o que o bot fez, o cliente repete tudo e se irrita. Antes de lançar IA no atendimento, planeje a integração entre as partes — é aí que a experiência trava ou brilha.",
+      "fonte": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT institucional pra professores chegou a mais 55 redes de escola",
+      "aconteceu": "A OpenAI expandiu o \"ChatGPT for Teachers\" — versão segura e institucional feita pra educadores — para mais 55 redes escolares nos EUA, alcançando +100 mil professores.",
+      "significa": "É o modelo de \"adoção organizada de IA\" que qualquer instituição pode copiar: acesso central, treinamento incluso e controle da organização, em vez de cada pessoa usando conta pessoal por conta própria. Serve de referência mesmo fora da educação.",
+      "fonte": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#LLM",
+        "#Educação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Mais uma IA chinesa de ponta liberada de graça",
+      "aconteceu": "A empresa chinesa Z.ai lançou o Ox Alpha, um modelo de alto desempenho que rivaliza com o DeepSeek e foi disponibilizado open-source (qualquer um pode usar ou adaptar).",
+      "significa": "Cada modelo chinês forte e gratuito derruba o poder de cobrar caro de OpenAI e Anthropic. Pra quem usa IA, é bom: mais opção e pressão pra preço cair. Vale acompanhar antes de assinar contrato longo e caro.",
+      "fonte": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Demitiu os devs pela IA? Os devs criaram um \"CEO de IA\" de resposta",
+      "aconteceu": "Uma empresa demitiu a equipe de desenvolvimento para trocar por IA. Em resposta, os profissionais demitidos publicaram uma ferramenta open-source que simula o trabalho de um CEO — provocação direta ao movimento.",
+      "significa": "Cortar gente com a justificativa \"a IA faz\" não é só decisão técnica — vira questão política e de reputação. Movimentos bruscos de substituição estão gerando reação pública organizada, e isso mancha marca empregadora.",
+      "fonte": "https://news.ycombinator.com/item?id=49458418",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Descobriram um \"think tank\" falso que usava IA pra fazer propaganda em escala",
+      "aconteceu": "Investigação revelou que uma organização de análise política aparentemente americana era financiada por Israel e usava IA para produzir conteúdo de influência em volume industrial — sem o público saber a origem.",
+      "significa": "Produzir propaganda sofisticada em escala ficou barato. Não é mais coisa só de governo: qualquer ator com orçamento médio consegue. Marcas, executivos e líderes de opinião viram alvo — vale ter protocolo de resposta e orientar o time a checar antes de compartilhar.",
+      "fonte": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Deepfake botou \"discurso de rendição\" na boca de políticos ucranianos",
+      "aconteceu": "Vídeos falsos gerados por IA mostrando parlamentares ucranianos pedindo rendição rodaram no Telegram e bateram 130 mil visualizações em duas semanas.",
+      "significa": "Um vídeo convincente e falso de uma figura pública custa quase nada hoje e viraliza antes de qualquer desmentido. Se sua empresa tem executivo ou porta-voz com rosto conhecido, o risco de um deepfake em nome da marca é real — precisa de plano de resposta rápida.",
+      "fonte": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Amazon triplicou o pedido de chips da Nvidia",
+      "aconteceu": "A Amazon encomendou mais 2 milhões de placas da Nvidia para os próximos 2 anos, triplicando o pedido anterior, por causa da demanda por infraestrutura de IA.",
+      "significa": "Gigante comprando em massa aperta a fila pra todo mundo. Se sua empresa tem projeto de IA em escala e ainda não garantiu capacidade de nuvem pra 2027, pode enfrentar preço maior e espera. Vale travar orçamento e capacidade cedo.",
+      "fonte": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Apps \"sem código\" agora podem ser operados por um agente de IA sozinho",
+      "aconteceu": "A plataforma Lovable (criação de apps sem programar) passou a permitir que os apps feitos nela sejam acessados e operados por agentes de IA via um padrão chamado MCP — sem uma pessoa abrir o app.",
+      "significa": "Um CRM ou sistema de gestão feito no Lovable pode ser tocado direto por um agente. Se você automatiza processo interno, ferramenta que não fala essa \"língua\" vira gargalo humano no meio da automação. Bom critério pra escolher software daqui pra frente.",
+      "fonte": "https://www.latent.space/p/lovable-future-of-saas",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Produtividade",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora te mostra quanto você está gastando (e onde economizar)",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de IA pra criar e editar coisas via texto, muito usada por quem trabalha com Claude) ganhou um comando que analisa seu gasto com a IA e sugere como cortar custo, além de botão de feedback e dicas configuráveis por equipe.",
+      "significa": "Se você ou seu time usa Claude Code, dá pra enxergar o custo sem abrir planilha e ajustar o uso antes da fatura assustar. Controle de gasto virou nativo.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Stability AI (do Stable Diffusion) levantou mais US$ 76 milhões",
+      "aconteceu": "A Stability AI, criadora do gerador de imagens Stable Diffusion, captou US$ 76 milhões numa nova rodada (total de US$ 232 mi). Continua como principal referência de geração de imagem open source.",
+      "significa": "Se seu time de marketing ou design já usa Stable Diffusion internamente, a ferramenta tem fôlego pra continuar melhorando — não precisa trocar de solução tão cedo.",
+      "fonte": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Investimento",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
