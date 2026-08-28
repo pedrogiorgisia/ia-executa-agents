@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "titulo": "Modelos pequenos de IA barataram tudo: a operação que custava R$ 5 agora custa R$ 0,50",
+      "aconteceu": "Uma nova geração de modelos de IA menores derrubou o custo por tarefa em cerca de 10x, viabilizando automações que antes não fechavam a conta.",
+      "significa": "Processos que você descartou por serem \"caros demais pra automatizar com IA\" (classificar milhares de e-mails, triar pedidos, resumir tickets em volume) voltaram pra mesa. Vale reabrir aquela lista de ideias que morreram no orçamento.",
+      "fonte": "https://calv.info/small-models-have-arrived",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Google lança geração de vídeo em 4K que você esboça barato e só finaliza o que aprovar",
+      "aconteceu": "O Gemini Omni 1.1 Flash deixa gerar uma prévia de vídeo em baixa resolução (mais rápido e por 1/3 do custo), escolher a melhor versão e só então subir pra 4K com qualidade de produção — tudo por comando de texto.",
+      "significa": "Dá pra produzir um vídeo promocional em horas, testando várias ideias baratas antes de gastar no acabamento — sem contratar filmagem/edição a cada campanha.",
+      "fonte": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic abre 10 mil vagas grátis de Claude pra cientistas + até US$ 50 mil em créditos por projeto",
+      "aconteceu": "A Anthropic lançou um programa com 10.000 acessos gratuitos ao Claude pra times de pesquisa, mais até US$ 50 mil em créditos de API por projeto de P&D de alto impacto.",
+      "significa": "Se sua empresa tem uma área de P&D intensiva em dados (biotech, farma, química, materiais), dá pra cadastrar o time e reduzir custo de pesquisa sem desembolso inicial.",
+      "fonte": "https://anthropic.com/news/expanding-support-for-scientists",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo de Wharton: agente de IA de compras ainda é instável — uma resenha muda toda a decisão",
+      "aconteceu": "Pesquisadores da Wharton mostraram que sistemas de IA que fazem compras online são altamente inconsistentes: trocar uma única fonte de informação (como uma avaliação de produto) muda completamente a decisão de compra do agente.",
+      "significa": "Se você está pensando em automatizar compras/procurement com IA, segure ou limite o escopo — principalmente em compras de maior valor. O agente pode ser manipulado por informação enviesada de fornecedor.",
+      "fonte": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O controle de IA que funciona não está no papel — está no banco de dados",
+      "aconteceu": "Reportagem argumenta que políticas de uso de IA escritas em documento não seguram um agente que age em milissegundos. O controle precisa estar na camada de dados, bloqueando o acesso no exato momento em que o agente tenta algo não autorizado.",
+      "significa": "A diferença é entre monitorar (avisa depois do dano) e governar (impede antes). Em setor regulado, um agente que acessou dado de cliente sem permissão já causou o problema mesmo que você detecte em seguida.",
+      "fonte": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O maior risco da IA na empresa não é o agente sozinho — é o emaranhado entre vários agentes",
+      "aconteceu": "Empresas estão colocando vários agentes de IA pra conversar entre si, criando sistemas tão complexos que, quando algo dá errado, ninguém consegue rastrear o que aconteceu.",
+      "significa": "Um ticket pode passar por quatro agentes antes de um humano ver. Se falhar no terceiro, ninguém sabe de quem é a responsabilidade. Antes de ampliar o uso de agentes, mapeie os fluxos de comunicação entre eles.",
+      "fonte": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "100+ empresas (OpenAI, Microsoft, Google, Anthropic) assinam carta alertando ciberataques com IA em infraestrutura crítica",
+      "aconteceu": "Mais de 100 empresas assinaram uma carta aberta avisando que ataques cibernéticos usando IA contra hospitais, usinas e sistemas de água são iminentes — porque a IA encontra vulnerabilidades automaticamente, em escala.",
+      "significa": "Se você opera ou depende de infraestrutura crítica, o cronograma de atualização de segurança ficou mais curto. Não é ameaça genérica: é ataque que mapeia sua rede em minutos.",
+      "fonte": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "Atendimento com IA: o cliente troca de canal e a IA esquece tudo — e isso virou o gargalo",
+      "aconteceu": "Empresas colocaram IA no WhatsApp, e-mail, chat e voz separadamente, mas quando o cliente muda de canal, perde-se todo o contexto — gerando retrabalho e frustração.",
+      "significa": "Cliente relata fraude por SMS, a IA bloqueia o cartão; ele liga depois e o atendente de IA não sabe do bloqueio. Uma camada que unifica o histórico entre canais resolve isso e corta custo. Quem tratar os canais como silos vai perder pra quem centralizar.",
+      "fonte": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Descobriram o \"sotaque\" do Claude: dá pra saber se um texto foi escrito por IA sem ferramenta nenhuma",
+      "aconteceu": "Pesquisadores identificaram palavras e expressões que aparecem de forma desproporcional em textos gerados pelo Claude — uma espécie de impressão digital linguística.",
+      "significa": "CV, proposta de fornecedor ou relatório que \"cheira a IA\" agora é detectável a olho treinado. Se sua marca produz conteúdo com IA, vale revisar pra não soar genérico; se você recebe documentos críticos de terceiros, dá pra desconfiar melhor.",
+      "fonte": "https://louisabraham.github.io/load-bearing/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Confirmado: a NVIDIA está comprando o Hugging Face (o \"GitHub dos modelos de IA\") por US$ 12,9 bi",
+      "aconteceu": "O que era rumor virou negócio: a NVIDIA está fechando a aquisição do Hugging Face, plataforma onde desenvolvedores publicam e compartilham modelos de IA abertos, por quase US$ 13 bilhões.",
+      "significa": "Se sua empresa usa modelos gratuitos do Hugging Face pra automatizar processos, o dono do ecossistema agora é uma fabricante de chips. Termos de acesso e preços podem mudar — vale avaliar risco de ficar preso a um único fornecedor.",
+      "fonte": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic fecha US$ 45 bi em computação — e isso mexe no preço do seu fornecedor de IA",
+      "aconteceu": "A Anthropic assinou um contrato de US$ 45 bilhões com a Nscale pra garantir capacidade de computação em larga escala.",
+      "significa": "A corrida por poder de processamento entre os grandes labs está acelerando — sinal de que a IA que você usa hoje provavelmente vai ficar mais cara ou mais restrita nos próximos 12 meses. Considere isso ao fechar contrato anual.",
+      "fonte": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O MIT montou um comitê formal só pra definir regras de uso de IA — e o resto tende a seguir",
+      "aconteceu": "O MIT formalizou um comitê dedicado a criar diretrizes de como IA pode e não pode ser usada em aulas, avaliações e pesquisa.",
+      "significa": "Quando uma instituição de referência faz isso, vira padrão que empresas e reguladores copiam. É o sinal de que \"política interna de uso de IA\" deixou de ser opcional. Se a sua empresa ainda não tem uma, é a hora.",
+      "fonte": "https://news.ycombinator.com/item?id=49464314",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Claude Code ganha \"modo restrito\" pra liberar a ferramenta pra times internos com segurança",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA da Anthropic, no terminal) ganhou um modo que desativa funções arriscadas — como executar comandos no computador e acessar a internet — pensado pra ambientes corporativos controlados.",
+      "significa": "Se você quer liberar a ferramenta pra sua equipe sem medo de o agente rodar comando indevido, agora dá pra distribuir com mais controle. Também ficou mais fácil pedir aumento de limite de uso em planos Enterprise.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Anthropic propõe um \"padrão universal\" pra IA controlar máquina de laboratório e robô",
+      "aconteceu": "A Anthropic publicou o Model Hardware Standard (ainda em preview de pesquisa), um padrão aberto pra agentes de IA controlarem equipamentos físicos — reduzindo a integração de semanas pra horas. A Genentech já usou pra orquestrar braço robótico, manipulador de líquidos e leitor de placas com o Claude ajustando parâmetros sozinho.",
+      "significa": "Automação de operações físicas com IA (laboratório, linha de produção) começa a ficar acessível pra times pequenos, sem engenharia sob medida pra cada máquina. Ainda é cedo — mas o caso da Genentech já funciona hoje.",
+      "fonte": "https://anthropic.com/news/model-hardware-standard-research-preview",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Produtividade",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Hugging Face lança um robô de US$ 399 pra treinar IA em hardware físico de verdade",
+      "aconteceu": "A Pollen Robotics (do Hugging Face) lançou o Microduck, um robô bípede de 25 cm por US$ 399, feito pra treinar modelos de IA em hardware real usando modelos de código aberto.",
+      "significa": "Testar comportamentos de IA em robótica, que antes exigia laboratório caro, agora cabe num orçamento pequeno — democratiza protótipo de IA física pra startups e centros de pesquisa.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/27/hugging-face-offers-399-robot-duck-to-help-you-quack-the-ai-code/5293011",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Robótica",
+        "#Startups",
+        "#Pesquisa"
+      ]
+    }
+  ]
+}
