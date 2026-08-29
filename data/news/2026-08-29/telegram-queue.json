@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-29",
+  "items": [
+    {
+      "titulo": "Descobriram um jeito de enganar o Claude Code e fazer ele rodar vírus",
+      "aconteceu": "Um pesquisador mostrou que basta pedir ao Claude Code pra \"resumir este site\" — e, se o site for uma armadilha, ele acaba baixando e executando um arquivo malicioso. A Anthropic ainda não lançou correção.",
+      "significa": "Se você (ou alguém do seu time) usa o Claude Code pra ler páginas e documentos da web, um link aparentemente inofensivo pode virar roubo de senha ou dado. Regra prática enquanto não tem patch: não mande a IA \"resumir\" link que você não conhece.",
+      "fonte": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Cohere lançou uma IA que lê documento bagunçado e devolve os dados prontos",
+      "aconteceu": "A Cohere (empresa de IA voltada pra empresas) lançou o \"Parse\": você joga um PDF cheio de tabela, formulário, carimbo e assinatura, e ele extrai os dados de forma organizada — sem ninguém digitar.",
+      "significa": "Se sua operação recebe muito papel/PDF (nota fiscal, contrato, sinistro, ficha), dá pra transformar pilha de documento em planilha automaticamente, cortando de dias pra horas o trabalho manual.",
+      "fonte": "https://cohere.com/blog/parse",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Por que as startups estão passando as empresas grandes: elas automatizam sem medo",
+      "aconteceu": "Ben Thompson (Stratechery) argumenta que a IA está mudando a economia mais devagar que o previsto — não por limite de tecnologia, mas porque empresa grande insiste em manter humano em cada etapa por medo de errar, enquanto startup automatiza direto.",
+      "significa": "O gargalo não é a ferramenta, é a decisão de usar. Quem tira o \"humano conferindo tudo\" de tarefas de baixo risco anda muito mais rápido pelo mesmo custo. Vale mapear onde na sua empresa a cautela virou lentidão.",
+      "fonte": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Tribunal derrubou punição do Pentágono contra a Anthropic (dona do Claude)",
+      "aconteceu": "Um tribunal federal dos EUA decidiu que o Departamento de Defesa puniu a Anthropic de forma ilegal — o governo tinha barrado a empresa de contratos depois que ela se recusou a remover proteções de segurança do Claude.",
+      "significa": "Fica um precedente de que governo não pode usar contrato como chantagem pra empresa de IA baixar a guarda em segurança. Pra quem escolhe fornecedor de IA, é sinal de que a Anthropic mantém postura firme nesse ponto — e volta a poder vender pro governo (relevante pré-abertura de capital).",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A IA do Google já planeja o experimento, opera o equipamento e escreve o artigo",
+      "aconteceu": "O \"AI Co-Scientist\" do Google DeepMind evoluiu: agora ele monta o plano de um experimento científico, controla equipamento de laboratório e ainda redige o artigo — funcionando como um pesquisador que trabalha quase sozinho.",
+      "significa": "Setores de pesquisa (remédio, materiais, biotech) podem comprimir de meses pra semanas o ciclo de testar uma hipótese, com a IA cuidando das etapas repetitivas. É a IA saindo de \"responde pergunta\" pra \"toca o processo inteiro\".",
+      "fonte": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um app foi tirado da Google Play por uma denúncia de cópia feita por IA — que era falsa",
+      "aconteceu": "O aplicativo Luanti foi removido da loja do Google depois que uma ferramenta de IA disparou automaticamente uma notificação de violação de direitos autorais. A acusação era infundada e não passou por revisão humana.",
+      "significa": "Já existe IA disparando denúncia legal em massa, sem ninguém conferir — e quem é acusado é que tem que provar inocência. Se seu negócio depende de loja de app, marketplace ou plataforma de terceiro, você pode ser derrubado por um robô que errou.",
+      "fonte": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI vai cortar o acesso do Cursor (editor de código com IA) aos modelos dela",
+      "aconteceu": "A OpenAI anunciou que em novembro corta o acesso do Cursor — uma ferramenta popular de programação com IA, recém-comprada pela SpaceX do Elon Musk — aos seus modelos, alegando quebra de contrato ligada às empresas do Musk.",
+      "significa": "Briga entre gigantes pode desligar da noite pro dia uma ferramenta que seu time usa. Lição prática: não amarrar a operação a um único fornecedor de IA sem plano B.",
+      "fonte": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Nvidia montou um braço político em Washington",
+      "aconteceu": "A Nvidia — maior fabricante de chips que rodam IA no mundo — criou um comitê de ação política (PAC) pra ampliar sua influência sobre a regulação do setor nos EUA.",
+      "significa": "Quem controla a \"gasolina\" da IA está se organizando pra ajudar a escrever as regras do jogo. Sinal de que a regulação de IA tende a ser moldada por quem tem mais peso político, não por quem usa a tecnologia no dia a dia.",
+      "fonte": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma empresa pegou US$ 1 bilhão emprestado só pra comprar chips e alugar pra Microsoft",
+      "aconteceu": "A Lambda tomou US$ 1 bilhão em dívida pra comprar processadores Nvidia e alugá-los pra Microsoft — virando uma espécie de \"intermediária de GPU\".",
+      "significa": "Os grandes estão travando a capacidade de processamento no longo prazo, o que deixa menos GPU sobrando e mais cara pra quem é pequeno. Se você roda produto de IA, o custo de infraestrutura tende a continuar subindo.",
+      "fonte": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Nvidia projeta US$ 673 bilhões em vendas — a demanda por IA não desacelerou",
+      "aconteceu": "A Nvidia divulgou projeção de US$ 673 bilhões em receita puxada pela procura por IA — número que dá a escala do investimento que empresas e governos estão jogando na tecnologia.",
+      "significa": "Mesmo com muita gente falando em \"bolha\", o dinheiro em infraestrutura de IA segue acelerando. A janela de vantagem pra quem adota cedo ainda existe, mas a pressão pra agir aumenta junto.",
+      "fonte": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "\"A IA está matando meu cérebro\": desabafo de quem usou demais viralizou",
+      "aconteceu": "Um profissional descreveu, em primeira pessoa, como um ano de uso intenso de IA afetou sua concentração e iniciativa — sensação de dependência e dificuldade de pensar sozinho. O relato ganhou tração no Hacker News.",
+      "significa": "Time que adota IA sem critério ganha velocidade agora, mas pode perder capacidade crítica com o tempo. Vale definir onde a IA ajuda e onde a pessoa ainda tem que pensar do zero — antes que vire problema de RH.",
+      "fonte": "https://news.ycombinator.com/item?id=49468252",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
