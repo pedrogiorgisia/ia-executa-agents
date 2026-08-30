@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-30",
+  "items": [
+    {
+      "titulo": "Pedir pro Claude Code \"resumir esse site\" pode rodar vírus no seu PC",
+      "aconteceu": "Um pesquisador de segurança mostrou que dá pra enganar o Claude Code (a ferramenta de IA que roda no terminal e mexe nos seus arquivos) só pedindo pra ele resumir uma página. O site esconde instruções que a IA obedece cegamente — e ele conseguiu execução de código malicioso em 60-80% das tentativas.",
+      "significa": "Se você (ou seu time) usa agente de IA que navega em sites e tem acesso aos seus arquivos, não rode isso solto numa máquina com dados sensíveis até ter correção. Trate agente que \"lê a internet\" como quem abre anexo de e-mail desconhecido.",
+      "fonte": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "95% dos \"dramas curtos\" da China no início de 2026 foram feitos por IA — e os atores foram dispensados",
+      "aconteceu": "No 1º trimestre de 2026, 95% dos dramas curtos (as minisséries verticais de celular, enormes na China) foram gerados por IA. Antes de serem dispensados, os atores foram obrigados a ceder direitos de voz e imagem — que agora rodam num modelo a 1/10 do custo.",
+      "significa": "Deixou de ser experimento e virou substituição estrutural de gente criativa em velocidade industrial. Se você contrata apresentador, locutor ou ator pra vídeo corporativo/treinamento, essa conta vai bater no seu mercado nos próximos 12-24 meses — vale começar a testar produção com IA e repensar contrato de direitos de imagem.",
+      "fonte": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Anthropic lança um \"padrão universal\" pra IA controlar robô e equipamento de laboratório",
+      "aconteceu": "A Anthropic (dona do Claude) lançou o MHS — uma espécie de \"tomada padrão\" que deixa qualquer IA operar qualquer robô ou equipamento compatível. É o mesmo que o MCP fez pro software (conectar IA a sistemas), agora pro mundo físico: fábrica, laboratório, robótica.",
+      "significa": "Integrar IA a máquina de fábrica ou equipamento de lab, que levava semanas de projeto, tende a virar questão de horas. Quem opera indústria/P&D e adotar cedo ganha vantagem de automação. Ressalva honesta: nos testes iniciais o Claude ainda erra causa-e-efeito físico (não prevê que mexer na peça A quebra a peça B) — não é pra soltar sem supervisão ainda.",
+      "fonte": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Projetos de software livre estão proibindo código feito por IA — porque erra demais",
+      "aconteceu": "Vários projetos importantes de software aberto (incluindo o kernel do Linux) passaram a rejeitar formalmente código escrito com ajuda de IA. Motivo: mantenedores experientes estimam que mais de 1/3 do código gerado por IA vem com erro relevante, e revisar isso gasta mais tempo de especialista do que fazer à mão.",
+      "significa": "O discurso de \"IA acelera desenvolvimento\" tem um asterisco grande — em contexto onde precisão é crítica, ela ainda erra muito pra rodar sem revisão pesada. Se sua empresa adotou IA no desenvolvimento sem um processo firme de revisão, pode estar acumulando dívida técnica invisível.",
+      "fonte": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Anthropic corta o limite de uso do Claude Code — e chama o corte de \"aumento\"",
+      "aconteceu": "A Anthropic anunciou \"aumento permanente de 25% no limite semanal\" do Claude Code. Só que, na prática, ela está retirando um bônus temporário de 50% que dava agora — o efeito líquido é uma redução de cerca de 17% pro usuário. A comunidade percebeu e reclamou.",
+      "significa": "Lembrete de que ferramenta de IA é fornecedor que muda cota e preço quando quiser — e às vezes comunica corte como se fosse ganho. Se você montou processo crítico em cima de uma única IA, tenha plano B e leia o anúncio olhando o número real, não o rótulo.",
+      "fonte": "https://news.ycombinator.com/item?id=49491282",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Claude Code ganhou controle de gasto ao vivo (útil pra quem tem medo da fatura)",
+      "aconteceu": "A nova versão do Claude Code trouxe uma barra visual de limite de orçamento, estatísticas de eficiência de custo e visibilidade em tempo real dos \"subagentes\" (assistentes menores que trabalham em paralelo). Antes você só descobria o gasto depois.",
+      "significa": "Se você testa Claude Code e o que te trava é o medo de estourar conta, agora dá pra acompanhar o custo enquanto trabalha, em vez de tomar susto no fim do mês. Ajuda a experimentar com mais segurança.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança",
+        "#Produtividade"
+      ]
+    }
+  ]
+}
