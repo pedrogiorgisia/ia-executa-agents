@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-31",
+  "items": [
+    {
+      "titulo": "A empolgação dos funcionários com IA despencou: de 81% pra 43% em sete anos",
+      "aconteceu": "Uma análise de avaliações em plataformas de emprego mostrou que a fatia de funcionários que fala bem da IA no trabalho caiu de 81% (2019) pra 43% (2026). Os relatos: mais vigilância, menos autonomia e metas de produtividade que ninguém alcança.",
+      "significa": "Se você vai colocar IA pra rodar no seu time, o ganho de produtividade pode virar prejuízo se as pessoas sentirem que viraram robô monitorado. O rollout de IA é tão sobre gente quanto sobre tecnologia — quem trata como só ferramenta perde no absenteísmo e no retrabalho.",
+      "fonte": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Produtividade",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O \"ChatGPT do trabalho\" agora faz tarefas sozinho — e isso abre uma porta perigosa",
+      "aconteceu": "Simon Willison (um dos analistas de IA mais respeitados) detalhou o ChatGPT Work, a versão corporativa que já executa tarefas na internet sozinha, cria sites e roda código sem supervisão. O alerta dele: quando essa IA tem acesso aos seus dados internos E lê conteúdo externo (um site, um e-mail), dá pra \"plantar\" instruções escondidas que fazem ela vazar informação da empresa.",
+      "significa": "Se você liberou (ou vai liberar) uma IA que acessa documentos internos do seu time, precisa de regra clara sobre o que ela pode ler de fora. Sem isso, um site ou anexo malicioso pode transformar sua IA num vazamento de dados — sem ninguém perceber.",
+      "fonte": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Sony e Warner processam a Anthropic (dona do Claude) por usar músicas sem pagar",
+      "aconteceu": "As gravadoras Sony e Warner entraram na Justiça contra a Anthropic, acusando a empresa de ter usado dezenas de milhares de músicas protegidas por direito autoral pra treinar o Claude — sem permissão nem pagamento.",
+      "significa": "É mais um sinal de que o \"treinei minha IA com o que achei na internet\" está virando risco jurídico de verdade. Se o processo vingar, empresas de IA podem ter que pagar licenças retroativas — o que encarece o serviço pra todo mundo. E vale o alerta pra quem gera conteúdo com IA: a origem do material importa.",
+      "fonte": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Debian (base de meio servidor do mundo) decidiu: pode usar IA pra escrever código — mas o humano assina embaixo",
+      "aconteceu": "A comunidade Debian (uma das versões de Linux mais usadas em servidores) votou e aprovou o uso de ferramentas de IA na produção de código. A regra: quem manda o código continua 100% responsável por bug ou falha de segurança que a IA gerar.",
+      "significa": "É um modelo pronto de política de uso de IA pra copiar na sua empresa: \"IA é ferramenta, a responsabilidade é de quem assina\". Se o seu time usa IA pra produzir coisa (código, texto, análise) e você ainda não tem regra escrita, esse é o precedente pra se inspirar essa semana.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Os robôs de IA que \"sugam\" a internet estão derrubando serviços que seu time talvez use",
+      "aconteceu": "Um post que viralizou no Hacker News (1.025 pontos) mostra que os bots que coletam dados pra treinar IA já consomem até 20% da capacidade de servidores de projetos de código aberto — e são difíceis de bloquear porque evoluem pra driblar as defesas.",
+      "significa": "A corrida por dados de IA tem um efeito colateral: ferramentas e serviços gratuitos que sua empresa depende podem ficar instáveis ou mais caros por causa dessa sobrecarga. É um risco de disponibilidade que ninguém colocou na conta — e que tende a virar assunto de regulação.",
+      "fonte": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Regulação",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Robótica"
+      ]
+    }
+  ]
+}
