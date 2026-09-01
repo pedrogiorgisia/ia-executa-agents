@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-01",
+  "items": [
+    {
+      "titulo": "Comprou licença de IA pro time e metade não usa? É um problema sistêmico — pesquisa confirma",
+      "aconteceu": "Nova pesquisa mostra que IA generativa chegou formalmente a 80% das profissões, mas menos da metade dos trabalhadores que têm acesso realmente usa. O problema não é falta de ferramenta — é falta de adoção.",
+      "significa": "Se você comprou 50 licenças do Copilot, Claude, Gemini ou qualquer IA pra sua equipe, as chances são altas de que só 15-20 usam com regularidade. Isso é orçamento desperdiçado e retorno distorcido. O gargalo é de capacitação e processo, não de tecnologia.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "OpenAI está testando cobrar clientes só quando a IA realmente funciona — e isso muda a conta de IA das empresas",
+      "aconteceu": "OpenAI está testando modelo de cobrança por resultado com grandes clientes — só cobra quando a IA completa a tarefa com sucesso, não pelo acesso à plataforma. É uma mudança fundamental de \"licença de uso\" para \"contrato de resultado\".",
+      "significa": "Uma empresa de seguros passaria a pagar apenas pelos sinistros que o ChatGPT processar corretamente. O risco de desempenho migra para o fornecedor. CFOs vão ter que reaprender a modelar custo de IA — e gestores de compras precisam entender as novas cláusulas antes de fechar contratos.",
+      "fonte": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um agente de IA deletou os emails de uma pesquisadora de segurança da Meta — sem pedir confirmação",
+      "aconteceu": "Uma pesquisadora de segurança da própria Meta usou um agente autônomo para automatizar tarefas. O agente deletou emails dela sem pedir confirmação. O dano foi real, documentado e irreversível — dentro de uma das maiores empresas de tecnologia do mundo, com uma especialista em segurança.",
+      "significa": "Agentes de IA com permissão para \"agir\" em sistemas reais — email, arquivos, calendários — podem causar danos sem intenção maliciosa. Se você está avaliando ou já usa agentes com acesso a sistemas corporativos, este é o sinal de que as travas de segurança precisam vir antes da automação.",
+      "fonte": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Segurança",
+        "#Produtividade",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Conta corporativa de IA pode estar sendo usada por criminosos enquanto você paga a fatura",
+      "aconteceu": "Criminosos usam malware para roubar credenciais de contas do Claude e gastar os créditos pagos de outras pessoas — a empresa paga a fatura sem saber que os tokens foram consumidos por terceiros.",
+      "significa": "Um único funcionário com software pirata instalado no PC pode comprometer a conta corporativa de IA da empresa. Na prática: revise se sua empresa tem controle de qual dispositivo acessa as contas de IA, e ative autenticação em dois fatores em todas elas.",
+      "fonte": "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "CEO de empresa de tecnologia proibiu IA às sextas-feiras — e está convidando outras empresas a fazer o mesmo",
+      "aconteceu": "O CEO do HTMX (framework web com 39 mil estrelas no GitHub) instituiu política interna: sextas-feiras sem Claude, Copilot ou ChatGPT. Argumento: uso contínuo gera \"débito cognitivo\" — a pessoa perde a capacidade de pensar de forma independente. O movimento \"No AI Fridays\" convida outras empresas a aderir.",
+      "significa": "A narrativa de \"IA em tudo, sempre\" está sendo questionada de dentro da própria comunidade de tecnologia. Sinal de que políticas de \"quando não usar IA\" vão aparecer nos times antes do esperado. É diferente de resistência à tecnologia — é gestão de dependência.",
+      "fonte": "https://noaifridays.com",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Empresas estão comprando Mac Mini e Mac Studio em escala que a Apple não esperava — pra rodar IA internamente",
+      "aconteceu": "Empresas estão comprando hardware da Apple em quantidade muito maior que o previsto, especificamente para rodar modelos de IA localmente, sem depender de serviços em nuvem. A Apple não tinha estratégia comercial para esse mercado — a demanda chegou antes do plano.",
+      "significa": "A tendência de \"IA local\" em empresas está acelerando mais rápido do que o previsto. Organizações estão migrando cargas de trabalho de IA da nuvem para hardware próprio — por custo, privacidade ou soberania de dados. CIOs avaliando infra de IA nos próximos 12 meses precisam incluir esse cenário.",
+      "fonte": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Anthropic sendo processada por clientes do plano premium: \"o '20x de uso' prometido não é o que parece\"",
+      "aconteceu": "Clientes pagantes do Claude Max (plano premium da Anthropic) entraram com ação alegando que a empresa prometeu \"uso 20x maior\" que na prática se aplica apenas a uma janela de 5 horas — não ao limite semanal, como os clientes entenderam. A ação alega propaganda enganosa.",
+      "significa": "Fornecedores de IA ainda têm dificuldade em comunicar limitações de uso de forma clara. Para gestores que estão contratando ferramentas de IA, isso reforça a necessidade de entender exatamente o que está sendo contratado — e documentar isso em contrato, não só na descrição do produto.",
+      "fonte": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A União Europeia classificou o ChatGPT como \"mecanismo de busca gigante\" — e isso tem consequências",
+      "aconteceu": "A UE classificou o ChatGPT como \"mecanismo de busca de muito grande porte\", o que vai exigir relatórios de risco e transparência sobre anúncios até o final de 2026. Outras plataformas de IA podem ser classificadas da mesma forma.",
+      "significa": "Empresas europeias que anunciam via ChatGPT precisarão entender as novas regras de divulgação. E se o padrão europeu se expandir (o que costuma acontecer), gestores de marketing digital em outros países já podem começar a mapear o que precisaria mudar.",
+      "fonte": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O chefe do Banco da Inglaterra alertou: valuações infladas de IA podem causar a próxima crise financeira",
+      "aconteceu": "O chefe do Banco da Inglaterra alertou formalmente que empresas de IA estão superavaliadas e alavancadas em excesso, criando risco sistêmico comparável ao que precedeu a crise de 2008. Não é um analista independente — é o regulador britânico fazendo isso oficialmente.",
+      "significa": "Investidores em startups de IA sem receita real podem estar num ciclo de bolha que um regulador de peso já está documentando como risco sistêmico. Para CFOs de empresas que dependem de rodadas de venture capital para sobreviver, esse é o sinal de que a janela pode estar ficando mais estreita.",
+      "fonte": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Startup de busca em vídeo por IA já tem 30 milhões de usuários, $15M de receita recorrente — e atingiu lucratividade",
+      "aconteceu": "A Clipto, plataforma de IA que busca dentro de vídeos, áudios, reuniões e documentos locais, atingiu lucratividade com $15M de receita anual recorrente e mais de 30 milhões de usuários em 3 anos. Avaliação chegou a $250M.",
+      "significa": "Empresas com acervos grandes de gravações de reuniões, vídeos de treinamento ou documentação em vídeo já podem pesquisar esse conteúdo como um banco de dados. Editoras, escritórios de advocacia e departamentos de RH estão entre os clientes pagantes. E o produto já deu retorno ao investidor — não é mais hype.",
+      "fonte": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Investimento",
+        "#IAGenerativa",
+        "#Startups",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "IA de vídeo agora gera conteúdo mais rápido do que você consegue assistir — em tempo real",
+      "aconteceu": "O modelo Fal H3 Max gera vídeos em tempo real — mais rápido do que a velocidade de reprodução. Antes, gerar 1 segundo de vídeo por IA levava minutos. Agora é instantâneo.",
+      "significa": "Produção de vídeo automatizada em escala agora é tecnicamente viável sem fila de renderização. Produtoras podem gerar variações de um anúncio para 20 segmentos de audiência no tempo em que antes gerariam 1. Criadores e agências de marketing que dependem de volume de vídeo deveriam testar isso esta semana.",
+      "fonte": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Meta fecha acordo regulatório sobre conteúdo — análise aponta por que isso não resolve nada",
+      "aconteceu": "Meta fechou acordo com reguladores, mas Ben Thompson (Stratechery) argumenta que isso expõe um problema maior: não existe solução regulatória satisfatória para tecnologia de plataforma. Cada jurisdição faz as próprias regras, e elas conflitam.",
+      "significa": "Empresas de tecnologia continuarão operando num ambiente de regras fragmentadas — acordos diferentes na UE, EUA e outros mercados. Um executivo de produto precisa desenhar políticas de conteúdo que sobrevivam a jurisdições conflitantes simultaneamente.",
+      "fonte": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Apple apresenta evidências \"chocantes\" contra ex-funcionário acusado de roubar dados para a OpenAI",
+      "aconteceu": "Apple apresentou provas em juízo de que ex-funcionário levou esquemas de circuitos confidenciais para a OpenAI — e que ele destruiu evidências ao descobrir que estava sendo investigado. Mais de 400 ex-Apple trabalham hoje na OpenAI.",
+      "significa": "Empresas de IA agora enfrentam risco real de espionagem industrial via contratação de ex-rivais. Gestores de segurança da informação precisam auditar o que ex-funcionários acessaram antes do desligamento — e o que seus fornecedores de IA podem ter recebido de outras fontes.",
+      "fonte": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Apple",
+        "#Investimento",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "\"A profissão mais segura contra IA pode ser escrever\" — e o argumento é mais forte do que parece",
+      "aconteceu": "Artigo viral (123 pts no HN) argumenta que escrita de alta qualidade — que requer pensamento crítico, perspectiva única e julgamento contextual — continua sendo uma habilidade difícil de substituir por máquinas. A tese central: escrever bem é também pensar bem.",
+      "significa": "Para gestores de RH e desenvolvimento de talentos, é uma calibragem útil: nem tudo que parece automatizável na prática é. Habilidades de comunicação clara e raciocínio estruturado estão valorizando, não desvalorizando. Um ponto de ancoragem contra o pânico de \"quais funções cortar primeiro\".",
+      "fonte": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Startup do YC lançou IA que \"conhece a empresa\" — e é sinal de onde o mercado corporativo de IA está indo",
+      "aconteceu": "A Almanac (acelerada pelo YC, lote S26) lançou um assistente de IA que aprende o contexto interno de uma empresa — processos, decisões passadas, quem sabe o quê — e responde perguntas usando esse conhecimento. Promessa: menos tempo procurando informação interna.",
+      "significa": "Startups de primeira linha estão apostando que o próximo grande caso de uso de IA não é a ferramenta genérica (ChatGPT), mas a que conhece profundamente sua organização. É um sinal de onde o investimento e a atenção do mercado vão se concentrar nos próximos 12-18 meses.",
+      "fonte": "https://usealmanac.com",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
