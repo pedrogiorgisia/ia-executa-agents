@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "titulo": "Agora dá pra gerar música por IA sem medo de processo — a Suno fechou com Warner e BMG",
+      "aconteceu": "A Suno (app que cria música do zero por IA) lançou a versão 6 com parceria oficial de duas grandes gravadoras. Dá pra editar a música digitando texto e criar a partir de uma imagem, um áudio ou uma descrição escrita.",
+      "significa": "Se você produz conteúdo (Reels, YouTube, podcast) e sempre teve receio de usar música de IA por causa de direitos autorais, agora existe uma opção com respaldo legal das próprias gravadoras. Trilha original em minutos, sem royalty e sem susto de processo.",
+      "fonte": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Mistral usou agentes de IA pra traduzir um sistema de 70 anos atrás pra tecnologia atual",
+      "aconteceu": "A Mistral (lab francês de IA) mostrou agentes convertendo automaticamente 40 mil linhas de Fortran (linguagem dos anos 1950) para C++ (linguagem moderna) numa empresa de energia europeia.",
+      "significa": "Aquele sistema antigo que \"ninguém mexe porque só o fulano entendia\" agora tem um caminho de modernização sem reescrever tudo do zero na mão. Reduz custo de manutenção e o risco de o sistema parar por falta de quem o entenda.",
+      "fonte": "https://mistral.ai/news/legacy-code-modernization/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma legaltech quase triplicou o acerto da IA em análise de contrato dividindo o trabalho entre vários agentes",
+      "aconteceu": "A Harvey (IA para advocacia) montou uma estrutura onde um agente de IA distribui pedaços da tarefa para sub-agentes especializados. Com isso, o acerto em análise de contratos (due diligence) pulou de 23% para 62%.",
+      "significa": "A lição vale pra qualquer processo com documento longo: em vez de jogar o arquivo inteiro no ChatGPT e pedir tudo de uma vez, quebrar em tarefas menores e específicas melhora muito o resultado. É o mesmo princípio de delegar pra especialistas em vez de um generalista.",
+      "fonte": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma banda famosa perdeu suas contas nas redes pra um novo produto de IA de mesmo nome",
+      "aconteceu": "A banda Muse perdeu seus perfis oficiais nas redes sociais para o \"Muse\", o novo agente de IA da Meta — a plataforma simplesmente passou as contas pro próprio produto.",
+      "significa": "Se a sua marca ou @ tem nome parecido com um produto de IA que uma big tech pode lançar, isso virou um risco real de identidade digital. Vale registrar marca e garantir os @s antes que alguém maior \"sente em cima\" deles.",
+      "fonte": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Salesforce está prestes a comprar uma startup de IA que abriu mão de US$ 1,5 bi pra fechar o negócio",
+      "aconteceu": "A Listen Labs (startup de pesquisa com IA) desistiu de uma rodada de investimento de $1,5 bilhão para negociar sua venda à Salesforce, a gigante de software de gestão de clientes (CRM).",
+      "significa": "As grandes de software estão preferindo comprar IA pronta a construir. Se você usa CRM (Salesforce, HubSpot etc.), espere recursos de IA \"nativos\" chegando mais rápido nessas plataformas nos próximos meses — e provavelmente entrando no preço.",
+      "fonte": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA lançou uma IA que detecta vídeo falso na hora, pra emissoras de TV",
+      "aconteceu": "A NVIDIA levou pra TV e streaming uma ferramenta que identifica em segundos se um vídeo foi gerado por IA (deepfake), além de melhorar imagem ao vivo.",
+      "significa": "A verificação de \"isso é real ou foi feito por IA?\" está virando produto de prateleira. Se seu trabalho depende de publicar imagem/vídeo de fontes externas, dá pra checar autenticidade antes de divulgar — e evitar cair (ou espalhar) uma falsificação.",
+      "fonte": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Segurança",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "AWS e Qualcomm criaram um ciclo onde a IA ajuda a projetar o chip que vai rodar IA",
+      "aconteceu": "Amazon (AWS) e Qualcomm firmaram um acordo: a Qualcomm desenha chips sob medida pra AWS rodar IA — usando as próprias ferramentas de IA da AWS para projetar esses chips.",
+      "significa": "Se sua empresa já roda cargas de IA na AWS, a tendência é inferência (o \"rodar\" do modelo) ficar mais rápida e barata nos próximos ciclos, sem precisar trocar de fornecedor. Menos motivo pra migração cara de infraestrutura.",
+      "fonte": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code deixa a empresa limitar quanto de \"capricho\" (e custo) cada pessoa usa",
+      "aconteceu": "A nova versão do Claude Code (ferramenta de programação com IA da Anthropic) deixa o administrador da empresa definir um teto de \"nível de esforço\" — ou seja, travar o modo mais caro/lento para a equipe, mantendo um padrão equilibrado.",
+      "significa": "Um controle simples de custo: quem paga a conta pode impedir que o time queime orçamento no modo \"máxima qualidade\" quando não precisa. Sinal de que as ferramentas de IA estão amadurecendo pra uso corporativo com governança.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
