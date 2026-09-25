@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-25",
+  "items": [
+    {
+      "titulo": "IA de código aberto virou ferramenta de hacker de US$ 25 por ataque",
+      "aconteceu": "Um criminoso solitário usou três ferramentas de IA disponíveis gratuitamente para invadir 27 grandes empresas — incluindo uma Fortune 500 de hotelaria e uma companhia aérea americana — roubando 600 mil números de cartão de crédito. Custo total por ataque: US$ 25.",
+      "significa": "Ataques cibernéticos sofisticados deixaram de exigir grupos criminosos. Qualquer empresa com APIs expostas, sistemas legados ou endpoints mal configurados é agora alvo viável para um atacante solitário com acesso à internet. O perfil de risco mudou — revise urgente.",
+      "fonte": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Falha no assistente de IA do Salesforce: e-mail malicioso roubava dados de clientes sem nenhum clique",
+      "aconteceu": "Pesquisadores descobriram três vulnerabilidades no Agentforce — o assistente de IA do Salesforce — que permitiam extrair dados de clientes automaticamente. Bastava o sistema processar um e-mail com código malicioso; nenhuma ação do usuário era necessária. Patches já foram lançados.",
+      "significa": "Empresas que usam Salesforce com Agentforce ativado precisam verificar se aplicaram as atualizações de segurança. Sem o patch, qualquer e-mail mal-intencionado pode vazar dados sensíveis da base de clientes.",
+      "fonte": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Meta removeu vídeo que mostrava como seus óculos de IA gravam pessoas sem que elas percebam",
+      "aconteceu": "Um criador de conteúdo filmou funcionários da Meta usando óculos Ray-Ban Meta — dispositivos com câmera embutida que parecem óculos comuns — em locais públicos. As pessoas filmadas não tinham como saber que estavam sendo gravadas. A Meta removeu o vídeo do YouTube depois da repercussão (606 pontos no HN).",
+      "significa": "Dispositivos de vigilância passiva estão virando produto de consumo, e as empresas de tecnologia estão suprimindo críticas em vez de respondê-las. Gestores de RH, compliance e jurídico precisam revisar política de uso de wearables com câmera no ambiente de trabalho antes que esse assunto chegue como um problema.",
+      "fonte": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Docker lança ambientes isolados para conter agentes de IA — por US$ 0,07/hora",
+      "aconteceu": "A Docker — empresa de infraestrutura de software usada por praticamente todas as empresas de tecnologia — lançou sandboxes em nuvem específicos para rodar agentes de IA, impedindo que o agente acesse arquivos ou sistemas além do que foi explicitamente autorizado.",
+      "significa": "Empresas que estão implantando agentes de IA em produção têm agora uma solução concreta e barata para conter o risco de um agente \"escapar\" do escopo. O custo (US$0,07 a 1,12/hora) é irrisório comparado ao risco de vazamento de dados.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Google lança atendente virtual com rosto humano animado — disponível para empresas agora",
+      "aconteceu": "O Google lançou o Gemini Live with Live Avatar: um assistente de IA que aparece na tela com rosto humano animado, faz expressões e gesticula em tempo real durante conversas, e atende em 97 idiomas. Disponível hoje na versão empresarial do Gemini (Gemini Enterprise).",
+      "significa": "Empresas de serviços (hotelaria, bancos, planos de saúde) podem oferecer autoatendimento com \"rosto humano\" digital — sem contratar mais atendentes. O custo de humanizar o canal digital caiu.",
+      "fonte": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Criar apps sem programador virou negócio de US$ 600 milhões",
+      "aconteceu": "A Lovable — plataforma onde você descreve em português o que quer que o app faça e ela cria o código sozinha — ultrapassou US$ 600 milhões de receita anualizada. O modelo é chamado de \"vibe coding\" (programação por intenção).",
+      "significa": "O mercado validou que criar software descrevendo o resultado em linguagem natural funciona em escala. Empresas que antes precisavam de agências de desenvolvimento para criar ferramentas internas ou produtos digitais podem agora prototipar e lançar muito mais rápido e barato.",
+      "fonte": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Estudo: os maiores especialistas em IA erraram anos nas previsões — planejamentos de 2028-2030 já estão defasados",
+      "aconteceu": "Uma pesquisa mostrou que até os maiores especialistas do mundo em IA erraram sistematicamente quando a tecnologia atingiria marcos importantes. A IA ganhou medalha de ouro em olimpíadas de matemática cinco anos antes do previsto. Nenhuma das previsões feitas em 2023-2024 foi precisa.",
+      "significa": "Planejamentos estratégicos de adoção de IA elaborados há 2-3 anos provavelmente já estão desatualizados. Se sua empresa postergou automação ou transformação digital para 2028-2030, a janela competitiva pode estar se fechando agora.",
+      "fonte": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Startup lança concorrente do Slack onde agentes de IA participam das mesmas conversas que funcionários",
+      "aconteceu": "A Ando criou uma plataforma de mensagens corporativas onde agentes de IA participam ativamente dos chats — executam tarefas, respondem perguntas e processam solicitações no mesmo espaço que os funcionários humanos. Não é um bot separado: é um colega de sala.",
+      "significa": "A próxima geração de ferramentas de trabalho não vai ter IA como um \"botão separado\" ou um plugin — ela vai estar dentro da conversa como participante ativo. Empresas que adotarem cedo podem reduzir carga operacional de suporte e RH.",
+      "fonte": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Isso é tão IA\" — a Geração Alpha transformou conteúdo de IA em sinônimo de baixa qualidade",
+      "aconteceu": "Crianças e adolescentes da Geração Alpha (nascidos a partir de 2010) usam \"that's so AI\" como insulto cotidiano — equivalente a dizer que algo é genérico, sem esforço, sem autenticidade. Pais confirmam o uso. O The Guardian investigou o fenômeno com entrevistas.",
+      "significa": "A geração que será consumidora daqui a 5-10 anos já associa \"feito por IA\" a algo desprezível. Empresas que apostam em IA como diferencial de marca para público jovem podem estar construindo sobre areia.",
+      "fonte": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Empresa de tutoria australiana aconselhou seus clientes: cancelem o serviço e usem IA gratuita",
+      "aconteceu": "Uma empresa de tutoria escolar aconselhou publicamente seus próprios clientes a cancelarem o serviço pago e usarem ferramentas de IA gratuitas no lugar, argumentando que a IA entrega resultado equivalente ou superior para a maioria dos estudantes.",
+      "significa": "Quando o próprio prestador de serviço recomenda a substituição por IA, o sinal de disrupção do setor é forte. Modelos de negócio baseados em horas e expertise humana estão sendo questionados de dentro para fora — inclui treinamento corporativo, consultoria e serviços profissionais.",
+      "fonte": "https://archive.is/W15Hg",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "ElevenLabs: edição de transcrição em tempo real durante conversas ao vivo",
+      "aconteceu": "A ElevenLabs (empresa de síntese de voz por IA usada em atendimento, podcasts e e-learning) lançou funcionalidade para editar o texto transcrito enquanto o áudio ainda está acontecendo — sem esperar a conversa terminar.",
+      "significa": "Aplicações de atendimento com transcrição automática podem agora corrigir erros de transcrição na hora — reduz retrabalho em prontuários médicos, atas de reuniões e registros de suporte ao cliente.",
+      "fonte": "https://github.com/elevenlabs/elevenlabs-python/releases/tag/v2.69.0",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
