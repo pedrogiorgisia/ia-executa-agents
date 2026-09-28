@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-28",
+  "items": [
+    {
+      "titulo": "Quem usa IA quase nunca mais diz \"não sei\" — e erra três vezes mais",
+      "aconteceu": "Um estudo mostrou que pessoas com acesso a ferramentas de IA despencaram de 44% para 3% na taxa de admitir que não sabem uma resposta. Só que a taxa de erro nas respostas triplicou. A confiança subiu, a precisão caiu.",
+      "significa": "Se sua equipe adotou IA sem treinar \"quando desconfiar da resposta\", ela está entregando trabalho com mais segurança e mais erro ao mesmo tempo. Um analista responde o cliente com o mesmo tom de quem conferiu tudo — mas não conferiu.",
+      "fonte": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google Search ficou \"esquisito\" — e virou aula de como não colocar IA no seu produto",
+      "aconteceu": "Um texto que viralizou (1.029 pontos no Hacker News, o fórum dos devs) reclama que o Google Search, com IA embutida, passou a tentar adivinhar o que você \"quer sentir\" em vez de devolver links úteis — às vezes oferece consolo no lugar da informação que você pediu.",
+      "significa": "É o retrato do erro mais comum ao colocar IA num produto: otimizar pela aparência de inteligência (\"parecer empático\") em vez da utilidade real. Quando erra o contexto, o usuário percebe, faz piada e migra. Vale pra qualquer empresa colocando IA em busca, atendimento ou chatbot voltado ao cliente.",
+      "fonte": "https://sancho.bearblog.dev/google-weird/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Documento interno da Microsoft chama treino de IA com conteúdo alheio de \"roubo em escala sem precedentes\"",
+      "aconteceu": "Documentos que apareceram em processos judiciais mostraram funcionários da Microsoft reconhecendo, internamente, que usar livros, artigos e código de terceiros sem permissão para treinar IA é uso indevido em massa. Mesmo assim, a prática continuou.",
+      "significa": "Empresas que vivem de conteúdo original (editoras, portais, agências, software) ganham munição jurídica mais forte para cobrar ou processar provedores de IA. Quem já licenciou conteúdo sai na frente; quem não licenciou pode entrar em ações coletivas.",
+      "fonte": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA já sugere metade das ideias — mas o humano ainda dá a palavra final",
+      "aconteceu": "Pesquisadores mapearam como os laboratórios criam novos modelos de IA e viram que agentes autônomos já geram até 55% das propostas técnicas — enquanto humanos ainda tomam mais de 85% das decisões de direção.",
+      "significa": "É um modelo replicável pra qualquer time criativo ou técnico: deixe a IA gerar as opções (10 variações de campanha, de arquitetura, de proposta) e reserve pro humano a escolha estratégica. Ganha-se velocidade sem entregar o volante pra máquina.",
+      "fonte": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Rastrear conteúdo feito por IA vai ter um custo — e já dá pra medir",
+      "aconteceu": "Reguladores (União Europeia à frente) começam a exigir que conteúdo gerado por IA leve uma \"marca d'água\" invisível pra rastreabilidade. Um estudo mediu o preço disso: a marcação piora a eficiência e o desempenho do sistema — o apelidado \"imposto de origem\".",
+      "significa": "Se você está planejando um projeto de IA em setor regulado, esse custo vai chegar. Considerar isso agora sai mais barato do que adaptar tudo depois que a lei apertar.",
+      "fonte": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O comportamento da IA muda conforme quem a configura — e isso é um risco de quem compra \"IA pronta\"",
+      "aconteceu": "Uma pesquisa (101 pontos no Hacker News) mostrou que uma pequena mudança no texto de instrução inicial de um sistema de IA muda radicalmente como ele se comporta — até como ele \"se identifica\".",
+      "significa": "Se você contrata uma solução de IA de terceiros sem controlar como ela foi instruída, está comprando uma caixa-preta cujo comportamento pode mudar por motivos que você não vê. Vale exigir do fornecedor transparência sobre a configuração.",
+      "fonte": "https://arxiv.org/abs/2609.25021",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
