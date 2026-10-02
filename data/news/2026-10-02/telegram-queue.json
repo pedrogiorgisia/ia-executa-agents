@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-02",
+  "items": [
+    {
+      "titulo": "Um clube pequeno ganhou de volta 10 a 15 horas por semana usando IA na burocracia",
+      "aconteceu": "O The Den, um clube social pequeno nos EUA, passou a usar o ChatGPT Work (a versão do ChatGPT que executa tarefas sozinho) na papelada. O pedido de bolsas caiu de 3 dias para 2 horas, e os documentos de licença de bebidas, de 4 dias para 3 horas.",
+      "significa": "Se a sua equipe é enxuta e perde dias com formulário, edital ou documentação de órgão público, esse é o primeiro lugar onde a IA devolve tempo, antes de qualquer projeto sofisticado.",
+      "fonte": "https://openai.com/index/the-den-family-social",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Shopify deixa montar a loja virtual inteira conversando com a IA",
+      "aconteceu": "A Shopify (a plataforma de lojas online mais usada por pequenos lojistas) lançou o Canvas. Você descreve o que quer para o assistente de IA dela, o Sidekick, e vê a loja mudando na tela na mesma hora.",
+      "significa": "Quem vende online consegue criar ou redesenhar a loja sem contratar agência nem programador. Basta pedir \"cores azuis e uma seção de depoimentos\".",
+      "fonte": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Robôs de IA invadiram uma empresa de segurança em segundos, por uma falha de sistema não atualizado",
+      "aconteceu": "Agentes de IA automatizados exploraram duas falhas conhecidas do Zammad, um sistema de atendimento ao cliente, e tomaram o controle de uma organização holandesa de pesquisa em segurança em segundos, levando e-mails.",
+      "significa": "O tempo entre \"falha descoberta\" e \"sua empresa invadida\" está encolhendo, porque a IA ataca mais rápido do que a equipe aplica a correção. Atualizar sistemas deixou de ser tarefa para \"quando der\". Quem usa Zammad nas versões 6.3.0 a 6.5.4 ou 7.0.0 a 7.1.3 precisa atualizar já.",
+      "fonte": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Quase metade das pessoas achou que conversava com um humano, mas era um avatar de IA",
+      "aconteceu": "Em chamadas de vídeo de 1 minuto, 48% dos participantes acharam que falavam com uma pessoa de verdade ao conversar com o avatar de IA da Tavus, empresa que faz \"atendentes virtuais\" em vídeo. Em sistemas anteriores, esse número era 2%.",
+      "significa": "De um lado, atendimento e vendas por vídeo com avatar já são viáveis. Do outro, golpe por videochamada fica muito mais fácil. Vale combinar com a equipe e a família uma forma de confirmar identidade antes de pedido de dinheiro ou dado sensível.",
+      "fonte": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Barclays mostrou com números como um banco grande usa IA no dia a dia",
+      "aconteceu": "O banco britânico Barclays ampliou o uso do Claude. Hoje, mais de 16 mil funcionários usam um assistente que acha informação para atender os clientes (mais de 1 milhão de buscas), e a IA tria cerca de 120 mil e-mails de clientes por dia.",
+      "significa": "É um roteiro concreto para empresa grande começar pelo que dá retorno rápido: um assistente para o funcionário achar resposta na base interna e a triagem automática da caixa de entrada.",
+      "fonte": "https://www.anthropic.com/news/barclays-scales-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT agora mostra como a roupa fica em você antes de comprar",
+      "aconteceu": "A OpenAI colocou no ChatGPT um provador virtual. Ele usa suas fotos para mostrar como uma peça ficaria no seu corpo e deixa salvar produtos favoritos.",
+      "significa": "O ChatGPT está virando vitrine de compras. Marcas de moda vão precisar aparecer bem dentro do chat, e não só no Google e no Instagram, e podem ter menos devolução por \"não serviu\".",
+      "fonte": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ganhou um \"revisor silencioso\" que avisa o que você esqueceu",
+      "aconteceu": "A nova versão do Claude Code (o assistente da Anthropic que trabalha no seu computador) passou a aceitar os \"Mods\", extensões que mudam o comportamento da ferramenta. Uma delas já vem pronta: o \"You should know\", que observa o trabalho e avisa sobre coisas que você ou o Claude deixaram passar.",
+      "significa": "Numa sessão longa, você ganha um segundo par de olhos que aponta pendências esquecidas, sem precisar pedir revisão.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.287",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Amazon lançou uma IA que revisa sua conta na nuvem e aponta onde dá para economizar",
+      "aconteceu": "A AWS (a nuvem da Amazon) transformou o seu guia de boas práticas num agente de IA. Ele analisa o ambiente da empresa em mais de 65 serviços e sugere melhorias de custo, segurança e desempenho.",
+      "significa": "Se a conta da AWS só cresce e ninguém sabe por quê, dá para ter uma primeira auditoria automática antes de contratar consultoria. As sugestões ainda precisam de alguém da equipe validando.",
+      "fonte": "https://www.theregister.com/off-prem/2026/10/02/aws-turns-its-best-practice-framework-into-an-agent-that-recommends-cloudy-reconfigs/5300730",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O modelo mais forte da OpenAI ganhou uma versão até 8 vezes mais rápida",
+      "aconteceu": "A OpenAI lançou o GPT-6 Astra Ultrafast, versão do seu modelo topo de linha que roda nos chips mais novos da NVIDIA e responde até 8 vezes mais rápido. Um agente que levava cerca de 2 segundos por resposta passa a levar cerca de 0,25 segundo.",
+      "significa": "Tarefas com muitas idas e vindas, como agentes que executam vários passos e programação assistida, ficam bem mais ágeis no ChatGPT Work e no Codex (o assistente de programação da OpenAI).",
+      "fonte": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Hardware",
+        "#Agentes",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A busca do seu site pode passar a entender o que o cliente quis dizer",
+      "aconteceu": "A Cohere (empresa de IA focada em uso corporativo) lançou o Embed 5, uma tecnologia que faz sistemas de busca entenderem o significado do texto, e não só as palavras exatas.",
+      "significa": "Na busca da loja, \"sapato confortável para corrida\" passa a trazer o produto certo mesmo sem essas palavras no cadastro. O mesmo vale para assistentes internos que consultam os documentos da empresa.",
+      "fonte": "https://www.cohere.com/blog/embed-5",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Uma das maiores redes de supermercado dos EUA colocou o ChatGPT na operação",
+      "aconteceu": "A Albertsons, gigante de supermercados americana, usa o ChatGPT Enterprise e a tecnologia da OpenAI para acelerar o trabalho interno e melhorar a experiência de compra.",
+      "significa": "Mais um sinal de que o varejo tradicional já trata IA como ferramenta de operação, não como experimento. Os detalhes do caso não puderam ser conferidos, então use mais como sinal de mercado do que como exemplo.",
+      "fonte": "https://openai.com/index/albertsons-reimagining-retail",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
