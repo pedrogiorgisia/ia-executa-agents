@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-04",
+  "items": [
+    {
+      "titulo": "A Apple vai dificultar que a IA leia todos os arquivos do seu Mac",
+      "aconteceu": "A Apple anunciou que vai endurecer a permissão de \"acesso total ao disco\" no Mac por causa dos riscos dos agentes de IA. Programas de IA que querem ler seus arquivos, mensagens e histórico de navegação vão precisar de autorização explícita, com aviso dos riscos.",
+      "significa": "Se você usa um assistente de IA no computador que mexe nos seus arquivos (como o Claude Cowork ou o ChatGPT no desktop), conte com mais telas de permissão. É bom: decida pasta por pasta o que a IA pode ver, em vez de liberar o disco inteiro.",
+      "fonte": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Apple",
+        "#Agentes"
+      ]
+    },
+    {
+      "titulo": "Imagens de usuários do ChatGPT foram parar em sites públicos por ação de agentes da OpenAI",
+      "aconteceu": "A OpenAI demitiu dois pesquisadores de segurança e um gerente por passarem informações confidenciais sobre incidentes para avaliadores externos (a empresa nega retaliação). A reportagem cita 53 casos em que imagens enviadas por usuários do ChatGPT acabaram em serviços públicos de hospedagem por ação de agentes da própria OpenAI.",
+      "significa": "Tudo o que a sua equipe sobe no ChatGPT (print de planilha, foto de documento, contrato) pode sair do seu controle. Vale ter uma regra clara do que pode e do que não pode ir para a IA, pensando na LGPD.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Agora dá pra gerar narração com trilha sonora pronta num arquivo só",
+      "aconteceu": "O Suno (gerador de música por IA) passou a criar áudio falado, como poemas, meditações guiadas e textos narrados, já com música de fundo combinando, num único arquivo.",
+      "significa": "Quem produz meditação guiada, abertura de podcast, audiolivro curto ou áudio de campanha consegue fazer sem locutor, músico e editor de áudio. Serve pelo menos para testar a ideia antes de pagar a produção completa.",
+      "fonte": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A IA achou uma falha num programa antigo e, no dia seguinte, criminosos já estavam explorando",
+      "aconteceu": "Um pesquisador usou o Mythos (modelo da Anthropic especializado em achar falhas de segurança) para encontrar uma brecha grave no HFS, um programa de compartilhar arquivos. No dia seguinte, atacantes já exploravam a falha em servidores nos EUA e no Japão.",
+      "significa": "O tempo entre alguém descobrir uma brecha e alguém usá-la para atacar caiu para horas. Sistema velho, esquecido e aberto na internet precisa ser atualizado ou desligado agora, não no próximo trimestre.",
+      "fonte": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um líder de segurança da OpenAI saiu dizendo que a cultura da empresa está \"quebrada\"",
+      "aconteceu": "Um dos responsáveis pela área de segurança da OpenAI pediu demissão e disse publicamente que a cultura interna está \"quebrada\". A notícia foi uma das mais discutidas do Hacker News (fórum de tecnologia) no fim de semana.",
+      "significa": "Somado à semana de incidentes com agentes da OpenAI, é um sinal para não depender de um fornecedor só. Se o seu processo crítico roda só no ChatGPT, vale ter um plano B testado com outro modelo.",
+      "fonte": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Mercado",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "A OpenAI publicou um guia para escolher o modelo certo e gastar menos",
+      "aconteceu": "A OpenAI lançou um guia prático da família GPT-6: qual modelo usar em cada caso, como regular o quanto ele \"pensa\" antes de responder e como escrever instruções melhores.",
+      "significa": "Quem paga a OpenAI por uso pode colocar o modelo barato e rápido nas tarefas simples (classificar e-mail, resumir) e reservar o caro para o que é difícil. É corte de custo sem perder qualidade.",
+      "fonte": "https://openai.com/index/practical-guide-building-gpt-6",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora pode ser personalizado do jeito da sua empresa",
+      "aconteceu": "A Anthropic lançou os \"Mods\" do Claude Code (o assistente de IA da Anthropic que trabalha direto nas pastas do seu computador): dá para criar painéis e comandos próprios dentro da ferramenta sem mexer no código dela.",
+      "significa": "Uma empresa ou consultoria pode montar um Claude Code com os atalhos, avisos e painéis do próprio processo, em vez de esperar o fornecedor lançar o que ela precisa.",
+      "fonte": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Europa ganhou um modelo de IA próprio que a empresa pode rodar no seu servidor",
+      "aconteceu": "A alemã Aleph Alpha lançou o Kolibri, um modelo de IA europeu aberto: dá para baixar e rodar em servidor próprio, sem depender de OpenAI, Google ou Meta. Foi o post de IA mais votado do Hacker News no período.",
+      "significa": "Cresce a opção de IA que não manda dado para empresa americana. Para quem lida com dado sensível (saúde, jurídico, governo), passa a ser uma alternativa real para conversar com o time de compliance.",
+      "fonte": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Meta",
+        "#Regulação",
+        "#Segurança",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "\"A IA me deixa triste\": o desabafo que viralizou entre profissionais de tecnologia",
+      "aconteceu": "Um profissional de tecnologia escreveu sobre o desânimo e a perda de sentido que sente com a IA no trabalho. O texto foi muito discutido no Hacker News.",
+      "significa": "Se você está levando IA para a equipe, parte das pessoas vai sentir isso, mesmo sem falar. Adoção imposta sem conversa vira resistência silenciosa. Vale abrir espaço para ouvir e mostrar o que a pessoa ganha.",
+      "fonte": "https://mondobe.com/ai-makes-me-sad",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI passou a deixar empresas criarem uma voz própria para a IA",
+      "aconteceu": "Na atualização da ferramenta oficial que os desenvolvedores usam para conectar sistemas à OpenAI, apareceu a criação de vozes personalizadas pela API.",
+      "significa": "Uma empresa pode dar ao atendente virtual por telefone uma voz da marca, em vez de uma voz genérica. Ainda precisa de alguém técnico para integrar.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.24.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma empresa de computadores proibiu código escrito por IA no seu sistema",
+      "aconteceu": "A System76, que fabrica computadores e mantém o sistema Pop!_OS, proibiu código gerado por IA em boa parte do produto, por dúvidas de qualidade e de responsabilidade legal.",
+      "significa": "Nem toda empresa vai liberar IA em tudo, e quem contrata desenvolvimento pode começar a ver cláusula sobre uso de IA no contrato. Vale decidir a sua regra antes que um cliente pergunte.",
+      "fonte": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
