@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-05",
+  "items": [
+    {
+      "titulo": "A Anthropic avisou a polícia sobre algo que uma usuária escreveu no Claude",
+      "aconteceu": "Uma mulher na Flórida usava o Claude como diário e escreveu que planejava atirar no escritório do xerife. O sistema de segurança marcou o texto, uma pessoa da Anthropic revisou, considerou a ameaça real e avisou a polícia. Ela foi indiciada.",
+      "significa": "O que se digita numa IA não é um caderno trancado: as empresas leem trechos marcados e repassam às autoridades em caso de risco de vida. Vale ter uma regra clara na empresa sobre o que pode e o que não pode ir para o chat.",
+      "fonte": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude vai pedir para usar a sua voz no treino da IA: confira antes de clicar",
+      "aconteceu": "Quem usa a conversa por voz no Claude vai ver um pedido para doar as gravações para treinar os modelos. É opcional (\"Permitir\" ou \"Agora não\"), vem desligado por padrão e dá para desligar e apagar depois em Privacidade.",
+      "significa": "Voz identifica a pessoa como uma digital. Se a equipe usa o modo de voz com assunto de cliente, decida antes quem pode aceitar e oriente a clicar em \"Agora não\" nas contas de trabalho.",
+      "fonte": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google parou de pagar por falhas de segurança porque foi soterrado de relatórios falsos feitos por IA",
+      "aconteceu": "O Google congelou até o começo de 2027 o programa que paga quem encontra falha em programas de código aberto (software gratuito que quase toda empresa usa por baixo dos panos). O motivo: uma enxurrada de relatórios gerados por IA, a maioria inventada.",
+      "significa": "O \"lixo de IA\" já está travando processos que funcionavam. Se a sua empresa recebe currículos, propostas ou chamados pela internet, espere o mesmo efeito: vai precisar de filtro, não só de mais gente lendo.",
+      "fonte": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Um vídeo de IA do morto \"perdoando\" o réu fez a Justiça anular a pena",
+      "aconteceu": "No Arizona (EUA), a família da vítima de uma briga de trânsito mostrou no julgamento um vídeo feito por IA em que o morto aparecia falando. O juiz deu a pena máxima, e o tribunal de recursos anulou a sentença: o vídeo era uma encenação imaginada pela irmã, não um registro do que aconteceu.",
+      "significa": "Vídeo, áudio e foto deixaram de ser prova por si só. Em investigação interna, sinistro, auditoria ou denúncia, a pergunta agora é \"de onde veio isso?\" antes de \"o que isso mostra?\".",
+      "fonte": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Já existe IA que escreve imitando o estilo de qualquer pessoa",
+      "aconteceu": "Uma startup lançou o Fulcrum Echo, ferramenta que gera texto no estilo de um autor específico. Um jornalista do The Register testou com o próprio estilo: ficou parecido, competente, mas com escolhas que ele não faria.",
+      "significa": "Para marketing, é um jeito de manter o tom da marca em vários redatores. O outro lado: qualquer um pode escrever \"como você\" (ou como o seu CEO), o que abre espaço para golpe e para briga de direito autoral.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O governo Trump criou uma \"Força de Superinteligência\", que de superinteligência não tem nada",
+      "aconteceu": "A Casa Branca criou uma unidade ligada direto ao presidente, comandada pelo diretor de inteligência e pelo chefe do órgão de defesa do consumidor (FTC), para coordenar a conversa entre governo, empresas de IA, infraestrutura crítica e sociedade. Vem logo depois do acordo, sem obrigação legal, para auditoria independente dos modelos.",
+      "significa": "Ainda é sinal, não regra. Mas mostra que os EUA preferem coordenar com as big techs em vez de criar lei, então as regras de uso de IA vão continuar vindo mais dos contratos com os fornecedores do que do governo.",
+      "fonte": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
