@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-06",
+  "items": [
+    {
+      "titulo": "O ChatGPT está inventando cartuns e assinando com o nome de artistas de verdade",
+      "aconteceu": "Ao pedir imagens no estilo da revista New Yorker, o ChatGPT cria cartuns que nunca existiram e coloca neles a assinatura de cartunistas reais, como se fossem obra deles.",
+      "significa": "Se a sua equipe publica imagem feita por IA sem revisar, pode estar atribuindo autoria falsa a alguém de verdade, com risco de processo e de reputação. Vale criar a regra simples de \"ninguém publica imagem de IA sem olhar assinatura, logo e texto dentro da imagem\".",
+      "fonte": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Só 1 em cada 3 projetos de agentes de IA passa da fase de teste",
+      "aconteceu": "Um estudo do MIT Technology Review com 300 executivos mostra que só 34% dos projetos com agentes de IA (assistentes que executam tarefas sozinhos) saem do piloto. O motivo principal: o agente não conhece os documentos e as regras internas da empresa.",
+      "significa": "Antes de comprar ferramenta de agente, organize a base: políticas, procedimentos e documentos num lugar só e atualizados. É isso que separa o piloto que vira operação do piloto que morre na apresentação.",
+      "fonte": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A conta de IA das empresas virou \"conta de luz sem teto\"",
+      "aconteceu": "Reportagem do Wall Street Journal mostra que as empresas estão com dificuldade de prever quanto vão gastar com IA, porque a cobrança é por volume de uso e varia muito de um mês para o outro.",
+      "significa": "Se você aprovou um orçamento de IA olhando só a mensalidade, revise. Defina limite de gasto por área ou por pessoa e acompanhe o consumo todo mês, como se faz com a nuvem.",
+      "fonte": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT ganhou anúncio com foto de produto e medição de vendas",
+      "aconteceu": "A OpenAI lançou um novo formato de anúncio visual dentro do ChatGPT, com imagem do produto, e ferramentas para o anunciante medir cliques e compras.",
+      "significa": "O ChatGPT está virando canal de mídia paga, como Google e Instagram. Se você vende online, vale reservar uma verba pequena de teste agora, antes de o leilão ficar caro.",
+      "fonte": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Microsoft e Meta cortaram o uso do Claude dentro de casa",
+      "aconteceu": "A Microsoft mandou os funcionários usarem o GitHub Copilot e os modelos da OpenAI no lugar do Claude e cortou o gasto em mais de um terço (na área de nuvem, o limite por funcionário caiu de US$ 100 mil para cerca de US$ 10 mil por mês). Na Meta, os usuários do Claude Code caíram de cerca de 60 mil para 30 mil, com a troca por ferramentas próprias.",
+      "significa": "Até as gigantes estão fugindo da dependência de um fornecedor só de IA. Se a sua operação roda em uma ferramenta única, vale ter um plano B testado, para não ficar refém de preço ou de mudança de regra.",
+      "fonte": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Meta",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O texto do ChatGPT vai sair com \"assinatura invisível\" na Europa",
+      "aconteceu": "Para cumprir a lei de IA da União Europeia, a OpenAI vai colocar uma marca invisível nos textos que o ChatGPT escreve por lá, que permite a ferramentas de detecção identificar que foi IA.",
+      "significa": "Conteúdo escrito por IA está ficando rastreável. Se a sua empresa publica ou entrega texto feito por IA (relatório, post, proposta) para clientes na Europa, assuma que dá para identificar a origem e seja transparente sobre isso.",
+      "fonte": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora deixa voltar a uma tarefa pelo nome e montar agente a partir de modelo pronto",
+      "aconteceu": "A nova versão do Claude Code (o assistente da Anthropic que trabalha nos arquivos do seu computador) permite reabrir uma sessão de trabalho digitando só parte do nome dela e criar agentes a partir de modelos prontos, como um \"pesquisador profundo\".",
+      "significa": "Dá para deixar uma pesquisa rodando, ir para a reunião e voltar nela chamando \"pesquisa-concorrentes\", sem caçar código nenhum. E montar um agente de pesquisa sem escrever as instruções do zero.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Cohere lançou uma plataforma de agentes que só enxergam o que podem enxergar",
+      "aconteceu": "A Cohere (empresa canadense de IA focada em clientes corporativos) lançou o North 2, plataforma para criar agentes de IA com permissões rígidas: cada agente só acessa os dados liberados para ele e pode rodar dentro da infraestrutura da própria empresa.",
+      "significa": "Um agente que confere faturas pode ser travado para ver só despesas aprovadas, sem enxergar folha de pagamento. É o tipo de controle que destrava IA em área de compliance que hoje diz \"não\".",
+      "fonte": "https://cohere.com/blog/introducing-north-2",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA lançou um mini-computador de mesa que roda IA grande sem internet",
+      "aconteceu": "A NVIDIA lançou uma versão do DGX Spark (mini-computador feito para IA) com 64 GB de memória, a partir de US$ 4.999, capaz de rodar modelos grandes localmente. Dá para ligar dois aparelhos para dobrar a capacidade.",
+      "significa": "Um escritório de advocacia ou uma clínica pode ter um assistente de IA lendo documentos sigilosos dentro da própria sala, sem mandar nada para a nuvem e sem mensalidade.",
+      "fonte": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Agentes de IA propuseram dois materiais novos para eletrônicos, trabalho típico de laboratório",
+      "aconteceu": "Agentes de IA rodando o Claude Opus 5.5 pesquisaram sozinhos e chegaram a dois candidatos a semicondutores magnéticos que funcionariam em temperatura ambiente. Os materiais ainda precisam ser testados em laboratório.",
+      "significa": "A IA está saindo do escritório e entrando em pesquisa e desenvolvimento, encurtando a fase de \"achar candidatos\" de meses para dias. Para quem tem área de P&D, a pergunta deixa de ser \"se\" e vira \"em qual etapa começar\".",
+      "fonte": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Hardware",
+        "#Agentes",
+        "#Pesquisa"
+      ]
+    }
+  ]
+}
