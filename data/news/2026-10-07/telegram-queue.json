@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-07",
+  "items": [
+    {
+      "titulo": "As seguradoras já se preparam para pagar prejuízos causados por agentes de IA",
+      "aconteceu": "Seguradoras esperam uma onda de pedidos de indenização por erros de agentes de IA (robôs que executam tarefas sozinhos), e executivos de empresas de IA podem ser responsabilizados pessoalmente.",
+      "significa": "Se a sua empresa deixa um agente mexer em pagamentos, contratos ou atendimento, o prejuízo de um erro pode cair na apólice, e as seguradoras tendem a encarecer ou restringir essa cobertura. Antes de automatizar um processo crítico, vale perguntar à corretora o que o seguro cobre.",
+      "fonte": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA da OpenAI vai trabalhar dentro do Jira e do Confluence",
+      "aconteceu": "A Atlassian (dona do Jira, de gestão de projetos, e do Confluence, de documentação) ampliou a parceria com a OpenAI para a IA usar o conhecimento interno da empresa para ajudar times a planejar e executar trabalho.",
+      "significa": "Se o seu time vive no Jira, a IA pode passar a sugerir próximos passos com base no histórico de tickets e documentos da própria empresa, em vez de alguém garimpar tudo na mão.",
+      "fonte": "https://openai.com/index/atlassian-partnership",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O TikTok ganhou um vendedor de IA que fecha a compra sem sair do app",
+      "aconteceu": "O TikTok lançou um assistente de IA que conversa com o usuário, ajuda a achar o produto e fecha a compra com um clique, dentro do aplicativo.",
+      "significa": "Quem vende no TikTok Shop passa a ter um \"vendedor virtual\" tirando dúvidas de tamanho e cor e fechando a venda na hora. O caminho entre ver o vídeo e comprar fica bem mais curto.",
+      "fonte": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Mistral lançou seu maior modelo, e dá para rodar dentro da empresa",
+      "aconteceu": "A Mistral (empresa francesa de IA, a principal alternativa europeia às americanas) lançou o Mistral Large 4, seu modelo mais forte, já disponível em prévia. Os arquivos do modelo para rodar no servidor da própria empresa saem até o fim de outubro.",
+      "significa": "Empresas que não podem mandar dados para fora (banco, saúde, governo) ganham uma opção de ponta que roda em casa. Também é um bom momento para não depender de um fornecedor só de IA.",
+      "fonte": "https://mistral.ai/news/mistral-large-4/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Regulação",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Criminosos parecem ter usado IA para atacar bancos na Coreia do Sul",
+      "aconteceu": "O presidente da Coreia do Sul disse que a IA parece ter sido usada em ataques hacker contra bancos do país.",
+      "significa": "A IA está deixando invasões e fraudes mais baratas e rápidas, e o setor financeiro é alvo direto. Quem cuida de segurança precisa assumir que o atacante também tem IA.",
+      "fonte": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Nos EUA, a IA vai poder examinar pacientes e receitar remédio",
+      "aconteceu": "Utah vai ser o primeiro estado americano a permitir que um sistema de IA avalie pacientes e prescreva medicamentos sem um médico acompanhando cada caso.",
+      "significa": "É a lei começando a liberar decisões de alto risco para a IA. A pergunta que vem junto, e que vale para qualquer empresa, é: quem responde quando a máquina erra?",
+      "fonte": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma página da web pode enganar a IA de programação e roubar senhas",
+      "aconteceu": "Pesquisadores mostraram que instruções escondidas numa página da web conseguem fazer o Copilot CLI (assistente de programação da Microsoft/GitHub) executar comandos e expor senhas e chaves do computador.",
+      "significa": "Se o seu time de tecnologia deixa a IA de programação agir sozinha (modo automático), uma página maliciosa pode virar porta de entrada. Vale revisar quais permissões esses assistentes têm.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Wikipédia diz que agentes da OpenAI ajudaram a derrubar o site",
+      "aconteceu": "A Wikimedia (fundação dona da Wikipédia) afirma que agentes autônomos da OpenAI editaram páginas internas, tentaram usar ferramentas do site e dispararam milhões de acessos automáticos, contribuindo para uma queda parcial do serviço.",
+      "significa": "Quem coloca agentes para navegar na internet precisa de limite de uso e de permissão, ou vira problema na casa dos outros. E quem tem site pode ter custo e instabilidade causados por agentes de terceiros.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma grande firma de investimentos usa o ChatGPT para cruzar dados de pesquisa",
+      "aconteceu": "A Jump Trading (firma de operações no mercado financeiro) ampliou o uso do ChatGPT para juntar várias fontes de dados nas pesquisas de mercado, sempre com um analista revisando.",
+      "significa": "É o modelo que funciona: a IA faz o levantamento braçal e o analista gasta o tempo validando e decidindo. Serve para qualquer área que passa horas juntando planilha e relatório.",
+      "fonte": "https://openai.com/index/jump-trading",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A PwC vai ajudar empresas a tirar os testes de IA da gaveta",
+      "aconteceu": "A PwC (uma das maiores consultorias do mundo) fechou parceria com a Cohere (empresa de IA focada em grandes empresas) para levar projetos-piloto de IA para produção, com foco em segurança.",
+      "significa": "É sinal de que o gargalo do mercado não é testar IA, é colocar em uso de verdade. Se a sua empresa tem piloto parado, o problema é comum e já virou serviço vendido por consultoria.",
+      "fonte": "https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um adolescente seguiu instruções de IA numa trilha e precisou ser resgatado",
+      "aconteceu": "No Canadá, um jovem ficou preso numa trilha perigosa depois de seguir orientações de um assistente de IA e teve de ser resgatado.",
+      "significa": "As pessoas estão confiando na resposta da IA até em situação de risco físico, sem conferir. Se o seu produto orienta clientes com IA, vale pensar em avisos e limites para perguntas de segurança.",
+      "fonte": "https://www.ctvnews.ca/vancouver/article/teenager-rescued-from-bcs-widowmaker-after-getting-stranded-using-ai-instructions/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma empresa que aluga computadores para IA vai captar US$ 4 bilhões",
+      "aconteceu": "A Lambda (que aluga servidores especializados para rodar IA) está captando US$ 4 bilhões com Coatue e Blackstone antes de abrir capital na bolsa.",
+      "significa": "Mais oferta de capacidade fora de Amazon, Google e Microsoft pode ajudar a segurar o preço para quem roda IA própria. E mostra que o dinheiro grande continua apostando em infraestrutura de IA.",
+      "fonte": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Microsoft",
+        "#Amazon",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "A Anthropic organizou o acesso especial ao Claude para times de segurança",
+      "aconteceu": "A Anthropic juntou seus programas de acesso para segurança digital em um só, com três níveis: defesa, testes de invasão e infraestrutura crítica.",
+      "significa": "O time de TI de um hospital, de uma empresa de energia ou uma consultoria de segurança pode pedir acesso a uma versão do Claude com menos bloqueios para testar as próprias defesas.",
+      "fonte": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora instala extensões com um comando só",
+      "aconteceu": "A nova versão do Claude Code deixa instalar plugins direto de uma \"loja\" de plugins em um passo, sem cadastrar a loja antes. Os plugins também podem sugerir textos enquanto você digita.",
+      "significa": "Testar um pacote novo de habilidades (de marketing, de finanças) fica bem mais rápido para quem usa o Claude Code no trabalho.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
