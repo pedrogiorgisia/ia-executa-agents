@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-08",
+  "items": [
+    {
+      "titulo": "A versão barata do Claude ficou até 75% mais barata e muito mais esperta",
+      "aconteceu": "A Anthropic lançou o Claude Haiku 5.5, o modelo mais rápido e barato da linha, custando cerca de 75% menos que o anterior. Num teste de \"usar o computador sozinho\", ele saltou de 15,7% para 72,4% de acerto. Empresas como Asana, HubSpot e Box já usam.",
+      "significa": "Tarefa repetitiva em volume (classificar e-mails de clientes, separar pedidos de troca, resumir documentos) ficou bem mais barata de automatizar. Um porém: a forma de contar o texto mudou e cada tarefa gasta mais \"pedacinhos\" de texto, então meça o custo real antes de comemorar a economia.",
+      "fonte": "https://www.anthropic.com/claude-haiku-5-5",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT passou a responder com tabela, gráfico e botão, não só texto",
+      "aconteceu": "A OpenAI começou a liberar para todo mundo o GPT-6 no ChatGPT, junto com uma interface nova: em vez de um texto longo, a resposta pode vir com tabelas interativas, gráficos e botões. Também começa a responder mais rápido (espera 44% menor). Quem paga recebe a versão Sol, quem usa de graça recebe a Luna. A liberação é gradual.",
+      "significa": "Pedir \"compare esses três fornecedores\" ou \"analise minhas vendas do mês\" passa a devolver uma tabela com filtro e um gráfico de custo, pronto pra mostrar na reunião.",
+      "fonte": "https://openai.com/index/gpt-6-for-everyone",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quem paga o Claude Max ou Team ganhou créditos mensais para automações",
+      "aconteceu": "A Anthropic mudou a cobrança dos planos Max e Team: agora eles incluem créditos mensais de API (o uso do Claude por automações e programas, cobrado por volume). Um crédito anunciado em junho para o SDK (o kit de programação) deixou de existir.",
+      "significa": "Se a sua empresa paga Claude Team, parte das automações pode já estar coberta pela assinatura. Vale revisar o orçamento: o que era cobrado à parte pode ter mudado de lugar.",
+      "fonte": "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic está dando um ano grátis de Claude para startups",
+      "aconteceu": "A Anthropic passou a oferecer a startups um ano gratuito do plano Claude Team (a versão para equipes) e mais US$ 1.000 em créditos de uso. As regras de quem pode participar não foram detalhadas.",
+      "significa": "Uma startup pequena pode colocar o time inteiro para usar Claude em documentos, atendimento e código sem gastar nada no primeiro ano. Confira as condições antes de contar com isso no orçamento.",
+      "fonte": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Golpe usa anúncio falso da IA da Meta para roubar senha de quem gerencia anúncios",
+      "aconteceu": "Golpistas criaram uma página falsa de anúncios do Muse (o agente de IA da Meta) com uma janela de login que imita perfeitamente a do Google ou da Okta, até com o endereço certo aparecendo. Quem digita entrega senha e o código de verificação.",
+      "significa": "Se você ou sua agência mexe com conta de anúncio, não confie no endereço que aparece dentro de uma janela. Confira o endereço na barra do próprio navegador antes de digitar qualquer senha.",
+      "fonte": "https://www.theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Agentes",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O Claude e o ChatGPT sugerem preços diferentes conforme o quanto você parece ter de dinheiro",
+      "aconteceu": "Um estudo noticiado pela Bloomberg indica que os assistentes de IA recomendam produtos com preços diferentes dependendo da riqueza que eles supõem que o usuário tem.",
+      "significa": "Se você usa IA para pesquisar compras ou se a sua empresa usa IA para recomendar produtos a clientes, a sugestão pode não ser neutra. Para quem vende, há risco de acusação de discriminação de preço.",
+      "fonte": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Auditoria diz que o ChatGPT é \"risco inaceitável\" para adolescentes",
+      "aconteceu": "O Common Sense Media, organização independente, testou o ChatGPT com mais de 4.000 conversas e concluiu que os alertas aos pais falharam em conversas sobre suicídio e automutilação. A recomendação é bloquear o acesso de adolescentes até haver verificação independente.",
+      "significa": "Pais e escolas não devem confiar só no controle parental automático. Quem recomenda o ChatGPT para alunos precisa rever a política de uso.",
+      "fonte": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Copilot do Windows vai poder vasculhar e organizar os seus arquivos",
+      "aconteceu": "A Microsoft vai deixar o Copilot buscar e organizar arquivos do usuário no Windows, alternando entre IA no próprio computador e na nuvem. A própria reportagem aponta informações contraditórias sobre se ele vai enxergar todos os arquivos do PC.",
+      "significa": "Um pedido como \"ache meus documentos fiscais e mande pro contador\" passa a mexer em arquivo sensível. Antes de ativar nos computadores da empresa, defina o que o Copilot pode ou não acessar.",
+      "fonte": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Já dá para reservar hotel da Radisson sem sair do ChatGPT",
+      "aconteceu": "A rede de hotéis Radisson lançou, com a Accenture, um app dentro do ChatGPT para buscar, comparar e reservar hotéis na própria conversa.",
+      "significa": "As marcas estão virando \"apps\" dentro do ChatGPT. Para quem vende viagem, hospedagem ou serviço com reserva, o cliente pode começar a decidir a compra numa conversa com a IA, não mais no seu site.",
+      "fonte": "https://openai.com/index/radisson",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Os sites estão barrando as IAs que fazem compras para o cliente",
+      "aconteceu": "Agentes de IA que compram ou reservam em nome do usuário estão sendo bloqueados pelas defesas contra robôs dos sites. Está surgindo um padrão para deixar esses agentes entrarem de forma organizada.",
+      "significa": "Se você tem loja online, logo vai ter que decidir se deixa a IA do cliente comprar no seu site ou se bloqueia. Bloquear pode significar perder venda.",
+      "fonte": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google liberou para qualquer pessoa checar se uma imagem foi feita por IA",
+      "aconteceu": "O Google abriu ao público o SynthID, seu detector de imagem, vídeo e áudio gerados por IA. Ele reconhece conteúdo do Google e de parceiros como OpenAI e Nvidia, que já marcaram 180 bilhões de itens com uma marca d'água invisível.",
+      "significa": "Antes de repostar ou publicar uma imagem viral, dá para checar. Atenção: se o resultado der negativo, isso não prova que a imagem é real, só que ela não tem essa marca.",
+      "fonte": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Hardware",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "Singapura vai exigir revisão independente de toda IA usada por bancos e fintechs",
+      "aconteceu": "O banco central de Singapura publicou regras que obrigam a IA de bancos e fintechs a passar por revisão independente antes de entrar em uso, com monitoramento contínuo e plano B manual. Vale a partir de outubro de 2027.",
+      "significa": "Um banco que aprova crédito com IA vai precisar de uma equipe que não construiu o modelo para testá-lo. É um sinal do que outros reguladores, inclusive o daqui, podem copiar.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma IA só para responder \"sim ou não\", rápida e barata",
+      "aconteceu": "A OpenAI lançou a Decisions API, um serviço para automações que classifica textos e imagens cerca de 10 vezes mais rápido que o padrão, devolvendo sim/não, uma categoria ou uma nota, por US$ 0,10 por milhão de tokens. A empresa também simplificou as faixas de cobrança da API, de cinco para três.",
+      "significa": "Triagem em volume (esse e-mail é reclamação? essa foto é imprópria? esse lead é qualificado?) fica mais rápida e barata de automatizar.",
+      "fonte": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um vírus transformou mais de 3 mil servidores de IA em mineradoras de criptomoeda",
+      "aconteceu": "O malware PoeLLM invadiu mais de 3 mil servidores que rodavam ferramentas de IA (LiteLLM e Ollama, usadas para rodar modelos dentro da empresa) abertos na internet e desatualizados, e passou a usá-los para minerar criptomoeda.",
+      "significa": "Se a sua empresa roda IA em servidor próprio, ele precisa estar atualizado e fechado para a internet. Conta de energia ou de nuvem subindo sem motivo pode ser sinal disso.",
+      "fonte": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#OpenSource",
+        "#LLM",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Chegam os notebooks com Windows feitos para rodar IA sem internet",
+      "aconteceu": "NVIDIA e Microsoft lançaram notebooks e desktops compactos com o chip RTX Spark (até 128 GB de memória), feitos para rodar IA no próprio aparelho, entre eles o Surface Laptop Ultra. A pré-venda já abriu: os notebooks chegam em 16/10 e os desktops em novembro.",
+      "significa": "Quem lida com contrato ou dado confidencial vai poder usar um assistente que lê e resume documentos sem mandar nada para a nuvem. Para quem vai renovar os notebooks da empresa, entra uma opção nova na conta.",
+      "fonte": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
