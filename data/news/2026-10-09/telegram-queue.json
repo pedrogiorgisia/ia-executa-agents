@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-09",
+  "items": [
+    {
+      "titulo": "O Gemini virou um \"funcionário de IA\" com e-mail próprio dentro das empresas",
+      "aconteceu": "O Google começou a liberar, primeiro para empresas, um Gemini que executa tarefas de várias etapas sozinho dentro dos sistemas da empresa. Ele tem identidade própria no ambiente de trabalho, inclusive e-mail, pode dividir o trabalho com outros agentes, e o administrador define um teto de gasto por tarefa antes de ela começar.",
+      "significa": "Um pedido de fornecedor que chega por e-mail pode ser conferido no sistema e respondido sem ninguém tocar. Mas, antes de ligar, a empresa precisa decidir o que esse \"funcionário\" pode acessar e quanto pode gastar, e acompanhar a conta nas primeiras semanas.",
+      "fonte": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google lançou um anotador de reuniões que funciona sem internet",
+      "aconteceu": "O Google lançou o AI Edge Foresight, um app que transcreve reuniões, faz as notas e responde perguntas sobre o que foi dito usando IA no próprio aparelho, sem mandar a gravação para a nuvem. É um concorrente do Granola (app popular de notas de reunião com IA).",
+      "significa": "Quem não pode deixar gravação de reunião sair do notebook (sigilo de cliente, paciente, processo) passa a ter um anotador de IA que respeita isso. Também serve para quem trabalha com internet ruim.",
+      "fonte": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic mudou as regras de uso do Claude: eleição, armas e até crueldade com a IA",
+      "aconteceu": "A nova política de uso da Anthropic proíbe interferência eleitoral, campanhas enganosas, software de armas e vigilância. E, em casos extremos, proíbe abuso repetido e cruel contra o próprio Claude, que pode encerrar a conversa. A data de início (12/11/2026, segundo relatos) ainda precisa ser confirmada no site oficial.",
+      "significa": "Agências e empresas que geram conteúdo político ou têm automações rodando no Claude precisam revisar o que fazem antes de as regras valerem, para não ter a conta bloqueada.",
+      "fonte": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI voltou atrás em três \"descobertas matemáticas\" que tinha atribuído à sua IA",
+      "aconteceu": "A OpenAI retirou três resultados de matemática que tinha anunciado como feitos da sua IA e publicou o histórico das correções. O assunto foi um dos mais discutidos do dia entre profissionais de tecnologia.",
+      "significa": "Anúncio espetacular de IA não é prova. Antes de usar uma \"conquista\" de fornecedor numa apresentação para a diretoria ou como argumento de compra, espere uma confirmação independente.",
+      "fonte": "https://twitter.com/danintheory/status/2108065033070789090",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma única frase bastava para sequestrar todos os agentes de IA de uma empresa na Amazon",
+      "aconteceu": "Pesquisadores da Zenity (empresa de segurança) mostraram que um agente de IA aberto ao público no serviço da Amazon (AWS) podia, com um único comando, assumir o controle de todos os outros agentes da mesma conta. A Amazon corrigiu e restringiu as permissões que vêm por padrão.",
+      "significa": "Agente de IA que conversa com o público não pode ter a mesma \"chave\" dos agentes internos. Se a sua empresa já tem agentes rodando na nuvem, peça ao time de TI para revisar as permissões de cada um.",
+      "fonte": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Agentes",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora avisa quando terminou ou precisa de você",
+      "aconteceu": "Nova versão do Claude Code (o assistente da Anthropic que trabalha nos seus arquivos pelo terminal) mostra, em terminais compatíveis, se ele está trabalhando, esperando uma resposta sua ou já terminou. No VS Code, os arquivos que ele gera abrem com um clique.",
+      "significa": "Dá para soltar uma tarefa longa e ir fazer outra coisa, olhando de volta só quando ele sinalizar. Menos tempo vigiando a tela.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O ranking mais usado para comparar IAs agora mede se o modelo mente",
+      "aconteceu": "A Arena (empresa do ranking público LMArena, onde pessoas comparam respostas de modelos de IA) captou US$ 200 milhões, quase dobrou de valor para US$ 3,1 bilhões e passou a medir também comportamento, como a tendência do modelo de mentir.",
+      "significa": "Na hora de escolher qual IA usar, dá para olhar não só \"qual acerta mais\", mas \"qual inventa menos\". Um teste simples: fazer perguntas cuja resposta honesta é \"não sei\" e ver qual modelo admite.",
+      "fonte": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Robô humanoide em casa ainda está longe, e o robô \"doméstico\" de US$ 20 mil depende de gente controlando",
+      "aconteceu": "Análise do MIT Technology Review mostra que os robôs humanoides com IA ainda falham fora do que foram treinados. O 1X Neo, robô doméstico vendido em pré-venda por US$ 20 mil, faz a maior parte das tarefas com um operador humano controlando à distância. E 90% dos humanoides enviados em 2025 vieram da China.",
+      "significa": "Ao ver uma demonstração de robô, pergunte se ele está agindo sozinho ou sendo controlado por alguém, e qual a taxa de sucesso medida, antes de pagar pré-venda ou aprovar um piloto.",
+      "fonte": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Nos EUA, um homem foi preso por inflar audiência de música com robôs",
+      "aconteceu": "Um americano foi condenado à prisão por usar robôs, com apoio de IA, para gerar execuções falsas de músicas em plataformas de streaming e receber direitos autorais que não eram dele.",
+      "significa": "Fraude de números com IA já dá cadeia. E o lado de quem compra: audiência e engajamento podem ser falsos, então desconfie de métricas que crescem rápido demais antes de fechar patrocínio ou parceria.",
+      "fonte": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Google, OpenAI, Meta e Microsoft prometem cuidar melhor dos dados pessoais no Reino Unido",
+      "aconteceu": "Dez empresas de IA aceitaram mudar a forma como tratam dados pessoais depois de uma revisão do regulador de privacidade britânico. O próximo alvo do regulador são os agentes de IA que agem sozinhos, com consulta pública aberta até 20/11.",
+      "significa": "É sinal do que vem por aí também no Brasil, com a LGPD: quem coloca agente de IA mexendo em dado de cliente vai precisar documentar o que ele acessa e saber responder quando um cliente perguntar.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Google",
+        "#Microsoft",
+        "#Meta",
+        "#Agentes",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "A Microsoft vai colocar agentes de IA no processo de vendas e atendimento",
+      "aconteceu": "A Microsoft anunciou que vai levar o CRM (sistema de gestão de clientes) para dentro das ferramentas do dia a dia, como Outlook e Teams, e colocar agentes de IA nos processos de vendas e atendimento. Os detalhes de produto e disponibilidade ainda não foram confirmados.",
+      "significa": "A tendência é o vendedor não precisar mais abrir o CRM: o histórico do cliente aparece onde ele já trabalha e a IA atualiza o registro depois da reunião. Vale acompanhar se a sua empresa usa Microsoft.",
+      "fonte": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic vai usar IA para proteger energia, água e programas de código aberto",
+      "aconteceu": "A Anthropic lançou dois programas: um junta seus modelos, engenheiros no local e parceiros como Accenture e Palo Alto Networks para proteger infraestrutura crítica (energia, água etc.). O outro oferece varredura de segurança gratuita por IA para projetos de código aberto essenciais, em troca de poder usar o material para treinar modelos.",
+      "significa": "Mostra que a IA virou arma dos dois lados: os mesmos modelos que atacam estão sendo postos para defender. Para empresas de setores críticos, é uma porta de entrada para segurança com IA com apoio do fabricante.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Automações com o Claude ficaram mais baratas quando repetem o mesmo contexto",
+      "aconteceu": "A Anthropic cortou pela metade o preço de reaproveitar um contexto já enviado (o \"cache\") no Claude Sonnet 5.5, para US$ 0,10 por milhão de tokens. A empresa estima cerca de 20% de economia em trabalhos com agentes. Os limites do Claude Code não mudaram.",
+      "significa": "Automação que manda sempre o mesmo manual, catálogo ou base de conhecimento para a IA, a cada pedido, passa a custar menos sem mexer em nada.",
+      "fonte": "https://x.com/ClaudeDevs/status/2108287358374482381",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Agentes",
+        "#Investimento",
+        "#Produtividade"
+      ]
+    },
+    {
+      "titulo": "Uma startup criou um \"vigia\" mais barato para pegar agentes de IA saindo do controle",
+      "aconteceu": "A Goodfire lançou monitores que observam o funcionamento interno da IA enquanto um agente trabalha e só chamam uma segunda IA para revisar quando percebem algo suspeito, em vez de revisar tudo.",
+      "significa": "Supervisionar agentes autônomos está ficando mais barato, o que tira uma das desculpas para não colocá-los em produção com segurança.",
+      "fonte": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma versão \"turbo\" do GPT-6.1 Sol, mas cara",
+      "aconteceu": "A OpenAI lançou o GPT-6.1 Sol Ultrafast, versão mais rápida do modelo, a US$ 12 por milhão de tokens de entrada e US$ 60 de saída. No ChatGPT e no Codex, fica restrito ao plano Pro (US$ 500) e a planos empresariais elegíveis.",
+      "significa": "Velocidade virou produto premium. Antes de trocar o modelo de uma automação pelo \"mais rápido\", compare quanto custa cada tarefa; na maioria dos casos o modelo comum basta.",
+      "fonte": "https://x.com/OpenAIDevs/status/2108262812489531498",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
