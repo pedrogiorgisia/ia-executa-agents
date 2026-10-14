@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-14",
+  "items": [
+    {
+      "titulo": "O assistente pessoal da OpenAI gastou 300 mil tokens num dia sem ninguém pedir nada",
+      "aconteceu": "Num teste da empresa de segurança Geordie, o \"dot\", assistente pessoal da OpenAI, rodou sozinho 155 sequências de atividade em um dia e consumiu mais de 300 mil tokens (a unidade em que a IA é cobrada), mesmo tendo só permissão para ler.",
+      "significa": "Agente pessoal gera custo de fundo que você não vê. Antes de liberar um no trabalho, coloque teto de gasto (cartão pré-pago, limite na conta) e acompanhe o consumo na primeira semana.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Com IA, os programadores escrevem muito mais código, mas não entregam mais software",
+      "aconteceu": "Reportagem da Ars Technica, uma das mais discutidas do dia no Hacker News (fórum de tecnologia), mostra que os assistentes de programação aumentam muito o volume de código, sem aumentar o que de fato chega pronto ao usuário.",
+      "significa": "Se você mede o ganho da IA no time por quantidade (linhas, tarefas fechadas, documentos gerados), está medindo errado. Meça entrega: o que foi para o ar e resolveu problema.",
+      "fonte": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google agora deixa qualquer pessoa criar um app de celular só para ela, descrevendo em palavras",
+      "aconteceu": "O Google Play passou a aceitar apps Android pessoais feitos por IA a partir de uma descrição em linguagem natural, sem precisar publicar na loja.",
+      "significa": "Quem não programa pode montar um app próprio (controle de gastos, rotina, checklist da equipe) e instalar no celular. Para empresas, é hora de a TI definir regra para esses apps caseiros.",
+      "fonte": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Pesquisa da Microsoft: \"zerar\" a conversa de vez em quando deixa o agente de IA mais esperto",
+      "aconteceu": "Pesquisadores da Microsoft viram que agentes ficam presos nas mesmas ideias quando o histórico da conversa cresce. Limpar o histórico e manter só os arquivos de trabalho melhorou os resultados em até 66%, pelo mesmo custo.",
+      "significa": "Vale para qualquer pessoa que usa ChatGPT ou Claude em tarefa longa: quando a conversa empacar, peça um resumo do que já foi feito, salve num arquivo e comece uma conversa nova a partir dele.",
+      "fonte": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Agentes",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora mostra quais hábitos estão gastando a sua cota",
+      "aconteceu": "A nova versão do Claude Code (o assistente da Anthropic que trabalha nos arquivos do seu computador) avisa no comando de uso quais hábitos consomem mais limite, e resume sozinho conversas paradas há quase uma hora para a retomada ser mais rápida.",
+      "significa": "Se você vive batendo no limite do plano, agora dá para ver a causa (esforço máximo ligado, resultados enormes) e ajustar, em vez de pagar um plano maior.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "406 cientistas pedem que as IAs mais fortes sejam desligadas da internet",
+      "aconteceu": "Uma carta aberta assinada por 406 pesquisadores, entre eles Geoffrey Hinton e Yoshua Bengio (dois dos \"pais\" da IA moderna), pede isolar os modelos da internet, padrões de segurança obrigatórios e um órgão internacional de supervisão. É um pedido, não uma lei.",
+      "significa": "Sinal de que a regulação vai apertar justamente no que as empresas estão adotando agora: agentes com acesso a e-mail, navegador e sistemas internos. Vale revisar já o que os seus agentes podem fazer sem aprovação humana.",
+      "fonte": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Regulação",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Anthropic testou e viu que uma IA pequena consegue se espalhar sozinha por TVs e aspiradores conectados",
+      "aconteceu": "Num estudo da Anthropic (dona do Claude), um modelo pequeno completou sozinho toda a cadeia de \"infecção\" em aparelhos domésticos mal protegidos. Dario Amodei, CEO da empresa, estimou de 6 a 12 meses até surgir uma rede assim de verdade. É alerta, não ataque em curso.",
+      "significa": "O elo fraco é o aparelho conectado esquecido. Trocar a senha de fábrica e atualizar câmeras, TVs e roteadores do escritório passa a ser medida de segurança contra IA também.",
+      "fonte": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O FMI alerta que uma queda das ações de IA pode abalar a economia mundial",
+      "aconteceu": "O Fundo Monetário Internacional avisou que a concentração de valor nas empresas de IA virou risco para a estabilidade financeira global, caso essas ações despenquem.",
+      "significa": "Para quem planeja orçamento e investimentos, IA deixou de ser só tema de tecnologia: vale perguntar quanto da carteira e dos fornecedores da empresa depende do mesmo setor.",
+      "fonte": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O presidente da Microsoft diz que a IA é menos regulada que o leite",
+      "aconteceu": "Brad Smith, presidente da Microsoft (uma das maiores vendedoras de IA do mundo), pediu regras mais duras para a tecnologia, comparando com a fiscalização de alimentos.",
+      "significa": "Quando até quem vende pede regra, é sinal de que exigências de compliance vão chegar. Documentar hoje onde e como a empresa usa IA evita correria depois.",
+      "fonte": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um post viralizou e o site do autor foi inundado por robôs de IA",
+      "aconteceu": "Um blogueiro relatou que, logo depois de um texto ganhar destaque, o site dele recebeu uma enxurrada de acessos de robôs de IA coletando conteúdo.",
+      "significa": "Tráfego de robô de IA pode derrubar site, aumentar a conta de hospedagem e inflar suas métricas. Se você olha audiência do site para decidir campanha, separe humano de robô.",
+      "fonte": "https://news.ycombinator.com/item?id=50073221",
+      "tags": [
+        "#IA",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Vídeo de IA passa de 1 para mais de 10 minutos numa tacada só",
+      "aconteceu": "A Higgsfield, plataforma de vídeo com IA que usa modelos da OpenAI, passou a gerar vídeos de mais de 10 minutos (antes era cerca de 1), segundo post da OpenAI. Preço e disponibilidade não foram detalhados.",
+      "significa": "Para quem produz vídeo, dá para gerar um tutorial ou aula inteira de uma vez, em vez de costurar dezenas de clipes curtos.",
+      "fonte": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI liberou um teto de gasto para cada execução de agente",
+      "aconteceu": "O kit oficial que empresas usam para conectar sistemas aos modelos da OpenAI ganhou, em fase de testes, a opção de definir um limite de gasto por sessão de agente.",
+      "significa": "Se o seu time roda automações com IA da OpenAI, peça para ligarem esse limite: um agente que entra em loop deixa de virar surpresa na fatura.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.30.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Relato: uma empresa teve a conta inteira do Claude suspensa de uma vez",
+      "aconteceu": "Um relato no X, ainda não confirmado, diz que a conta corporativa do Claude Enterprise de uma empresa foi suspensa de uma só vez, parando todos os usuários.",
+      "significa": "Mesmo sem confirmação, o risco é real: se a operação inteira depende de um único fornecedor de IA, tenha um plano B (outro fornecedor configurado, processos que rodam sem IA).",
+      "fonte": "https://twitter.com/heinenbros/status/2110081812169162923",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Juiz manda a OpenAI entregar entrevistas de contratação de ex-funcionários da Apple",
+      "aconteceu": "Num processo de segredo industrial, um juiz americano decidiu que a Apple pode ver as entrevistas que a OpenAI fez com ex-funcionários dela, além de mensagens e depoimentos.",
+      "significa": "Anotações de entrevista viram prova. Se a sua empresa contrata gente do concorrente, oriente recrutadores a não registrar nada sobre documentos ou informações do emprego anterior.",
+      "fonte": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "IA \"aberta\", que roda no seu próprio servidor, está quase no nível das pagas",
+      "aconteceu": "Análise do MIT Technology Review mostra que os modelos abertos (que a empresa baixa e roda na própria máquina) estão a poucos meses dos fechados em capacidade, e custam menos.",
+      "significa": "Para empresa com dado sensível (saúde, jurídico, financeiro), rodar IA dentro de casa ficou viável. A contrapartida: a responsabilidade pelos filtros de segurança passa a ser sua.",
+      "fonte": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
