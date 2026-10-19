@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "titulo": "A própria Anthropic avisou o FBI sobre o que uma usuária escreveu no Claude",
+      "aconteceu": "Uma mulher da Flórida, que usava o Claude como uma espécie de diário, foi presa depois de duas mensagens que escreveu nele. O monitoramento automático da Anthropic marcou as mensagens, uma equipe humana revisou e a empresa repassou o caso ao FBI, sem ordem judicial.",
+      "significa": "O que se escreve num chatbot não é um caderno trancado: o fornecedor lê quando o sistema acende um alerta, e pode levar à polícia. Vale lembrar o time disso e deixar claro, na política de uso de IA da empresa, o que nunca deve ir para essas ferramentas.",
+      "fonte": "https://maccus.fr/en/claude-diary-police-arrest/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Replit trocou o Claude pela IA da OpenAI como padrão",
+      "aconteceu": "A Replit (plataforma onde se cria aplicativo descrevendo em palavras) passou a usar a OpenAI como IA padrão no lugar do Claude. O CEO citou custo, parceria e desempenho. O Claude continua lá, mas agora precisa ser escolhido na mão.",
+      "significa": "Se você ou seu time criam apps na Replit, o comportamento pode mudar sem aviso: teste o que já funcionava ou volte a selecionar o Claude. E fica a lição: a ferramenta que você usa pode trocar a IA por trás dela da noite pro dia.",
+      "fonte": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Sua empresa sabe o que manda para a IA e quanto gasta com isso?",
+      "aconteceu": "Um texto que bombou entre programadores defende que os painéis dos fornecedores de IA mostram muito pouco. A sugestão é passar todo o uso por um \"ponto central\" próprio, que registra cada pedido, quem fez, qual modelo e quanto custou.",
+      "significa": "Sem esse registro, ninguém responde quanto cada área gasta com IA nem se dado sensível de cliente está saindo da empresa. Se o uso de IA já passou do piloto, peça ao TI um controle central antes da conta (ou do vazamento) aparecer.",
+      "fonte": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "As IAs \"abertas\" já são um quarto do gasto num grande intermediário de IA",
+      "aconteceu": "Na Vercel (empresa que hospeda sites e revende acesso a vários modelos de IA), os modelos abertos, muitos deles chineses, já são cerca de 25% do gasto dos clientes. Em junho eram 5%. Ao mesmo tempo, a China propôs controlar a exportação de 23 itens ligados a IA.",
+      "significa": "As IAs mais baratas estão ganhando espaço rápido nas empresas. Se o seu produto depende de um modelo chinês, deixe uma alternativa testada: preço e disponibilidade podem mudar por decisão de governo.",
+      "fonte": "https://www.theregister.com/a/5303704",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A DeepSeek lançou busca na internet para agentes de IA a preço de centavos",
+      "aconteceu": "A DeepSeek (empresa chinesa de IA conhecida por ser barata) atualizou seu modelo rápido e abriu um serviço para agentes de IA pesquisarem e lerem páginas da web, a US$ 0,75 por mil buscas. Por enquanto é grátis dentro do Claude Code e do Codex.",
+      "significa": "10 mil pesquisas por dia sairiam por cerca de US$ 7,50. Quem monta agentes que pesquisam concorrentes, preços ou notícias pode baratear bastante a operação, mas vale testar a qualidade antes de trocar.",
+      "fonte": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Meta recuou e tirou dos termos o trecho sobre copiar sites para treinar IA",
+      "aconteceu": "Depois da reação ao texto novo dos termos de uso, a Meta removeu o trecho que parecia autorizar copiar conteúdo de sites para treinar IA. A empresa diz que não mudou a forma como coleta dados.",
+      "significa": "Mudança de termos não protege o seu conteúdo. Se você não quer que o site da sua empresa alimente IA de terceiros, quem resolve é o bloqueio técnico no próprio site (o arquivo robots.txt), não a promessa da plataforma.",
+      "fonte": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Na Austrália, homem é preso depois de falar com um chatbot sobre um ataque",
+      "aconteceu": "Em Sydney, um homem foi preso por supostamente discutir com um chatbot de IA planos de um ataque a tiros numa creche.",
+      "significa": "É o segundo caso em poucos dias em que conversa com IA vira prova policial. Conversa com chatbot não é privada, e isso vale também para o que os funcionários digitam no trabalho.",
+      "fonte": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    }
+  ]
+}
