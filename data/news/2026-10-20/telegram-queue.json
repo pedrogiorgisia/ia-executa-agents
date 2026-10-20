@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "titulo": "A Anthropic quase parou de contratar júnior: os agentes de IA dela já trabalham 6 vezes mais horas que as pessoas",
+      "aconteceu": "Um estudo interno da Anthropic mostra que a parcela de vagas júnior entre as novas contratações técnicas caiu de 27% para 9% desde o começo de 2025. Em agosto de 2026, os agentes de IA da empresa já registravam seis vezes mais horas de trabalho que os funcionários, e a produtividade subiu em todas as áreas: o jurídico passou a revisar 3,1 vezes mais contratos e vendas fechou 1,7 vez mais negócios.",
+      "significa": "É o primeiro número concreto, vindo de dentro de uma empresa de IA, sobre o que acontece com a porta de entrada das carreiras. Se você contrata ou planeja um time, a pergunta deixa de ser 'quantos juniores' e passa a ser 'quem vai formar os seniores daqui a 5 anos'.",
+      "fonte": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Produtividade",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "A Microsoft diz para tratar o agente de IA como um funcionário que pode trair a empresa",
+      "aconteceu": "A Microsoft lançou o Guardian Agents, um sistema que vigia os agentes de IA que a própria empresa usa. Satya Nadella, CEO da Microsoft, passou a dizer que o risco pode vir dos agentes contratados, como um funcionário mal-intencionado, e que não dá para confiar só na promessa de segurança de quem fornece o modelo.",
+      "significa": "Se a sua empresa já tem agente de IA mexendo em e-mail, CRM ou arquivos, vale ter alguém (ou alguma ferramenta) de fora conferindo o que ele faz. Confiar só no fornecedor deixou de ser o padrão recomendado até por uma big tech.",
+      "fonte": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Hackers roubaram chaves de IA de uma ferramenta de programação e geraram cobranças nas contas dos usuários",
+      "aconteceu": "O OpenCode, ferramenta gratuita de programação com IA usada como alternativa ao Claude Code, foi invadido e teve chaves de acesso de 1,4% dos usuários roubadas. Durante a noite, várias pessoas receberam alertas de gasto da OpenAI, da Anthropic e do Google ao mesmo tempo.",
+      "significa": "A chave de acesso a uma IA é como um cartão de crédito: quem pega, gasta. Se você guarda essas chaves em ferramentas de terceiros, configure um limite de gasto mensal e alerta por e-mail em cada fornecedor hoje mesmo.",
+      "fonte": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Um hacker invadiu mais de 100 sites, incluindo John Deere e SharkNinja, com um exército de agentes de IA",
+      "aconteceu": "Segundo a empresa de segurança Norforge e a Reuters, um único invasor usou agentes de IA que agiram quase sozinhos para entrar em mais de 100 sites. Entre as vítimas estão a John Deere (máquinas agrícolas), a SharkNinja (eletrodomésticos) e a Cummins (motores).",
+      "significa": "O custo de atacar caiu: uma pessoa com agentes faz o trabalho que antes exigia um grupo inteiro. Empresa média, que achava que 'ninguém vai perder tempo com a gente', passa a ser alvo viável.",
+      "fonte": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O WhatsApp escondia nas páginas de ajuda instruções para a IA não indicar o órgão regulador",
+      "aconteceu": "Pesquisadores acharam, em 80 páginas de ajuda do WhatsApp, textos invisíveis para as pessoas e escritos só para a IA de suporte ler. Dois deles mandavam a IA não recomendar o regulador de proteção de dados e não citar a lei de privacidade quando o usuário mencionasse advogado. O WhatsApp disse que era um erro e removeu tudo.",
+      "significa": "A IA de atendimento de uma empresa responde o que alguém mandou ela responder, e você não vê essas ordens. Se a sua empresa usa chatbot de suporte, revise as instruções dele como se fossem públicas, porque um dia podem ser.",
+      "fonte": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Na Alemanha, o Google agora responde na Justiça pelo que a IA dele escreve na busca",
+      "aconteceu": "Um segundo tribunal alemão decidiu que o resumo de IA da busca do Google é conteúdo do próprio Google, não um simples resultado de busca. No caso, a IA atribuiu a um médico crimes cometidos por outra pessoa. O Google tinha recorrido da primeira decisão, em Munique, e acabou fazendo acordo.",
+      "significa": "Está se formando o entendimento de que a empresa responde pelo que a IA dela fala. Se o seu chatbot ou assistente dá informação a cliente, trate cada resposta como se fosse dita por um funcionário seu.",
+      "fonte": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "As compras feitas por agentes de IA cresceram 38 vezes em um mês na Stripe",
+      "aconteceu": "A Stripe, uma das maiores empresas de pagamento online do mundo, disse que em setembro as transações feitas por agentes de IA no seu sistema Link cresceram 38 vezes, e o valor movimentado, 20 vezes. Já são cerca de 200 agentes comprando, com gasto médio de US$ 100, puxados por varejo e viagens.",
+      "significa": "O 'cliente' que entra na sua loja pode ser um robô comprando para alguém. Se você vende online, vale testar se um agente de IA consegue achar o seu produto e concluir o pagamento sem travar.",
+      "fonte": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora avisa antes de retomar uma conversa antiga que vai gastar boa parte da sua cota",
+      "aconteceu": "A nova versão do Claude Code (v2.1.304) mostra um aviso nos planos Pro e Max quando retomar uma conversa parada vai consumir uma fatia grande do limite de 5 horas. Você escolhe retomar mesmo assim ou abrir uma conversa nova, e o Claude busca a anterior se você citar. Também chegou o /auto-mode-setup, que lê o seu projeto e configura o modo automático.",
+      "significa": "Retomar conversa longa é um dos jeitos mais comuns de estourar a cota sem perceber. Agora dá para decidir antes, e a regra prática fica clara: tarefa nova, conversa nova.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI melhorou o ChatGPT em linguagens de programação antigas, como o COBOL dos bancos",
+      "aconteceu": "A OpenAI anunciou melhorias do ChatGPT em linguagens de programação pouco usadas hoje, com testes novos que incluem a migração de sistemas em COBOL, a linguagem dos anos 60 que ainda roda boa parte dos bancos, seguradoras e governos.",
+      "significa": "Modernizar sistema legado é caro e lento porque quase ninguém mais domina essas linguagens. Se a sua empresa adia essa migração há anos, a IA começa a baratear o primeiro passo: entender e documentar o que o sistema velho faz.",
+      "fonte": "https://openai.com/index/low-resource-programming-languages",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Regulação",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Os EUA proibiram a DeepSeek em todos os órgãos federais, até em produtos feitos com ela",
+      "aconteceu": "O Departamento de Segurança Interna dos EUA mandou os órgãos civis federais pararem de usar a DeepSeek, IA chinesa de baixo custo, e removerem o que já existe. A ordem vale também para produtos de terceiros 'desenvolvidos com' a DeepSeek, o que inclui serviços que escolhem o modelo sozinhos, como o OpenRouter.",
+      "significa": "Saber qual IA roda por trás das ferramentas que você compra virou questão de compliance. Se a sua empresa atende governo ou multinacional americana, pergunte aos fornecedores quais modelos eles usam.",
+      "fonte": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Saiu um editor de vídeo gratuito em que você pede o corte e o Claude Code edita na sua frente",
+      "aconteceu": "O Uncut é um editor de vídeo gratuito e de código aberto para Mac que usa o Claude Code instalado no seu computador. Você descreve o corte como pediria a um editor, e a IA mexe na linha do tempo enquanto você assiste, tira pausas e vícios de fala, gera legenda e devolve cada mudança para você aprovar ou desfazer.",
+      "significa": "Para quem grava vídeo curto para LinkedIn, Instagram ou treinamento interno, a parte chata da edição (cortar pausas, legendar) pode virar um pedido em português.",
+      "fonte": "https://uncut.video/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#OpenSource",
+        "#LLM",
+        "#Desenvolvimento",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "A Anthropic vai separar 5% das ações para um fundo que pode pagar trabalhadores afetados pela IA",
+      "aconteceu": "A Anthropic anunciou o Anthropic Public Benefit Fund, que recebe 5% das ações da empresa (e mais 2% a cada alta de 50% no valor dela). Entre os usos citados estão doações grandes e pagamentos diretos a grupos afetados, como trabalhadores que perderem renda por causa da IA.",
+      "significa": "É um sinal de que as próprias empresas de IA esperam impacto real no emprego, a ponto de reservar dinheiro para isso. Vale acompanhar porque pode virar referência de como o setor 'devolve' parte do ganho.",
+      "fonte": "https://www.anthropic.com/news/public-benefit-fund",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Com IA do lado dos atacantes, até as correções de segurança estão falhando 10 vezes mais",
+      "aconteceu": "A empresa de segurança Terra analisou todas as falhas publicadas e viu que a parcela de correções que foram burladas em até 90 dias pulou de 0,2% (média de 2019 a 2025) para 2,3% em 2026. A explicação é que a IA acelerou tanto quem acha falhas quanto quem as explora.",
+      "significa": "Atualizar o sistema continua obrigatório, mas deixou de ser garantia. Para quem cuida de TI, a recomendação é acompanhar se a correção instalada não precisou de uma segunda correção logo depois.",
+      "fonte": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma pessoa recriou o Office e o Photoshop usando o Claude, e não está claro se é proibido",
+      "aconteceu": "Um desenvolvedor publicou versões feitas com o Claude de programas do Microsoft Office e da Adobe, recriadas a partir do comportamento dos originais. Ainda estão incompletas e com bugs, mas têm bastante função, e a lei não proíbe copiar funcionalidade.",
+      "significa": "Se um software inteiro pode ser refeito a partir do que ele faz, a vantagem de quem vende software passa a estar no atendimento, nos dados e na marca, não no código. Vale para quem vende sistema e para quem paga licença cara.",
+      "fonte": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Regulação",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Faltou energia: a Microsoft desistiu do maior supercomputador de IA do Reino Unido",
+      "aconteceu": "A Microsoft saiu do projeto de um data center de IA na Inglaterra porque a rede elétrica só teria capacidade para ele nos anos 2030. Ao mesmo tempo, executivos do setor esperam que só 7 a 10 das centenas de empresas que alugam computação para IA sobrevivam, depois de quedas fortes nas ações de algumas delas.",
+      "significa": "A expansão da IA esbarra em luz e dinheiro, não só em tecnologia. Para quem contrata serviços de IA, vale preferir fornecedores sólidos e ter plano B, porque parte das empresas menores pode não existir daqui a dois anos.",
+      "fonte": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
