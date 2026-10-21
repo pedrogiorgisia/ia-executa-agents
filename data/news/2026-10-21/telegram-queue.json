@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "titulo": "Um franqueado passou a conferir o caixa das lojas 94% mais rápido com o ChatGPT",
+      "aconteceu": "Um franqueado independente das redes Schlotzsky's e Cinnabon usou o ChatGPT Work (a versão de trabalho do ChatGPT) para conferir o caixa de cada loja e reajustar preços do cardápio. Segundo a OpenAI, a conciliação ficou cerca de 94% mais rápida e o processo poderia liberar cerca de US$ 100 mil em caixa.",
+      "significa": "Se você tem mais de uma loja ou unidade e alguém confere o caixa na mão toda semana, dá pra pedir à IA que compare os números de cada unidade e aponte só as divergências. A pessoa passa a revisar exceções em vez de conferir linha por linha.",
+      "fonte": "https://openai.com/index/ted-taylor-restaurant",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT agora deixa trancar conversas específicas",
+      "aconteceu": "O ChatGPT passou a permitir bloquear conversas escolhidas, para que não apareçam quando outra pessoa usa o seu celular ou computador.",
+      "significa": "Se você já falou com o ChatGPT sobre salário, saúde, um funcionário ou um cliente e às vezes empresta o aparelho, vale trancar essas conversas hoje. É uma proteção simples que leva um minuto.",
+      "fonte": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O tráfego de agentes de IA nos sites triplicou em um mês, e muitos sites estão bloqueando",
+      "aconteceu": "O acesso de agentes pessoais de IA (programas que reservam viagem, comparam e negociam preço pelo usuário) triplicou entre agosto e setembro. Muitos sites estão barrando esses agentes: a Amazon bloqueia os da Meta e briga com a Perplexity na Justiça.",
+      "significa": "Parte dos seus clientes vai chegar ao seu site por meio de um robô, não de uma pessoa. Quem vende online vai ter de decidir se libera, cobra ou bloqueia esse acesso, e se o seu site não funciona para agentes, você pode simplesmente sumir dessas compras.",
+      "fonte": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Amazon",
+        "#Agentes",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "Uma consultoria parou de pagar programadores por hora e passou a pagar por entrega",
+      "aconteceu": "A Tenex, consultoria de cerca de 75 pessoas, paga os engenheiros pelo que entregam, não pelas horas trabalhadas, e guarda planos e decisões num lugar onde os agentes de IA conseguem retomar o trabalho. Segundo o entrevistado, a produtividade dobrou (estimativa da própria empresa).",
+      "significa": "Quando a IA acelera o trabalho, pagar por hora pune quem produz mais rápido. Se você contrata freelancer ou fornecedor de tecnologia por hora, vale rever o contrato para pagar por entrega.",
+      "fonte": "https://www.latent.space/p/tenex",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Programadores estão entregando código escrito pela IA que eles mesmos não entendem",
+      "aconteceu": "Um engenheiro de uma grande empresa de tecnologia perguntou no Hacker News (fórum de programadores) como lidar com a entrega de software feito pela IA que ele não entende por completo. A discussão teve 590 pontos e muitos disseram sentir o mesmo.",
+      "significa": "Se você cobra do seu time entregar mais rápido \"porque agora tem IA\", pode estar criando sistemas que ninguém sabe consertar quando quebrarem. Vale combinar que todo código feito com IA tem um dono que consegue explicar o que ele faz.",
+      "fonte": "https://news.ycombinator.com/item?id=50151036",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O regulador financeiro britânico quer que bancos relatem até as quase-falhas da IA",
+      "aconteceu": "A FCA, que regula o mercado financeiro do Reino Unido, quer que bancos e financeiras informem não só os erros graves de IA, mas também os incidentes que quase aconteceram, principalmente com agentes que agem sozinhos.",
+      "significa": "É um sinal do que deve chegar a outros reguladores: não basta a IA não dar problema, vai ser preciso provar que você monitora. Se você usa IA em processos de crédito, cobrança ou atendimento, comece a registrar os erros e os quase-erros desde já.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic, dona do Claude, está com dificuldade para garantir computadores antes de abrir capital",
+      "aconteceu": "Segundo reportagens, provedores de nuvem que passaram a ver a Anthropic como concorrente estão dificultando o acesso dela a capacidade computacional, perto de uma abertura de capital planejada para novembro. Em paralelo, ela negociaria mais um contrato de cerca de US$ 45 bilhões com a Nscale (empresa que aluga data centers), ainda sem confirmação.",
+      "significa": "Falta de capacidade costuma virar limite de uso, lentidão ou preço maior. Se a sua operação depende só do Claude, vale ter um plano B com outro fornecedor para as tarefas críticas.",
+      "fonte": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora mostra como corrigir o que está consumindo a sua cota",
+      "aconteceu": "Na nova versão do Claude Code (a ferramenta da Anthropic que executa tarefas no seu computador), o painel de consumo mostra cada aviso com a correção sugerida, aplicável com uma tecla. A revisão automática de código também deixou de dar \"tudo certo\" quando ainda há problemas graves abertos, e dá para levar o Claude a canais públicos do Slack.",
+      "significa": "Quem vive estourando o limite do plano passa a ver na hora o que mudar, sem precisar adivinhar. E a revisão automática fica mais confiável para quem usa o Claude para conferir o trabalho do time.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A ElevenLabs lançou uma IA de voz que responde em pouco mais de meio segundo",
+      "aconteceu": "A ElevenLabs (empresa de vozes sintéticas) lançou dois modelos que ouvem e respondem falando em tempo real. O principal responde em 0,57 segundo, e a empresa diz que ele lidera um teste de conversa por áudio (número divulgado por ela mesma).",
+      "significa": "A demora era o que denunciava o robô no telefone. Com resposta nesse tempo, atendimento por voz com IA começa a soar como uma conversa normal, o que vale testar em agendamento, triagem e pós-venda.",
+      "fonte": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Mistral, a \"OpenAI europeia\", lançou um pacote completo para montar atendente de voz",
+      "aconteceu": "A Mistral (empresa francesa de IA) lançou o Voxtral 3, com reconhecimento de fala, voz sintética e ferramentas para montar agentes de voz em mais de 50 idiomas. Pode rodar no servidor da própria empresa ou na nuvem da Mistral na Europa. O lançamento teve 588 pontos no Hacker News.",
+      "significa": "Para quem não pode mandar áudio de cliente para os EUA (saúde, jurídico, financeiro), surge uma opção completa de atendimento por voz com os dados sob controle.",
+      "fonte": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#OpenSource",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "Enxurrada de relatórios feitos por IA obrigou um software usado no mundo todo a mudar as regras",
+      "aconteceu": "Os mantenedores do curl (um programa gratuito que está dentro de bilhões de aparelhos e sistemas) vão tratar falhas de gravidade baixa e média em público a partir de 26/10, porque estão afogados em alertas de segurança gerados por IA e de baixa qualidade.",
+      "significa": "É o custo escondido de usar IA sem conferir: quem recebe o material paga a conta. Se o seu time manda relatórios, propostas ou análises feitas por IA para clientes ou parceiros, alguém precisa revisar antes de enviar.",
+      "fonte": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Cloudflare lançou uma IA própria para tirar dados de documentos, mais barata que o ChatGPT",
+      "aconteceu": "A Cloudflare (empresa de infraestrutura de internet) lançou o Clairic, um modelo que, segundo ela, extrai dados de documentos mais rápido e mais barato que os modelos de linguagem comuns. A empresa ainda não mostrou números que comprovem.",
+      "significa": "Se a sua empresa digita à mão dados de notas fiscais, contratos ou formulários, as ferramentas especializadas nisso estão ficando mais baratas. Vale testar com um lote de documentos reais antes de acreditar na promessa.",
+      "fonte": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IAs chinesas continuam ficando melhores pela metade do preço",
+      "aconteceu": "A MiniMax (empresa chinesa de IA) lançou o M3.1 Flash, que melhorou bastante em relação à versão anterior custando metade. Em programação, resolve tarefas por menos de US$ 0,30 cada, empatando com a DeepSeek.",
+      "significa": "O preço da IA segue caindo rápido. Se você fechou orçamento de IA para 2027 com os preços de hoje, provavelmente ele vai sobrar, e vale renegociar contratos longos com fornecedor.",
+      "fonte": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "No Frame.io, da Adobe, dá para achar uma cena de vídeo descrevendo o que acontece nela",
+      "aconteceu": "O Frame.io (plataforma da Adobe onde produtoras revisam vídeos) passou a rodar em chips da NVIDIA para buscar cenas por descrição. Um editor da produtora alemã UFA procura, por exemplo, \"o trecho em que o personagem aparece preocupado\" em vez do nome do arquivo.",
+      "significa": "Quem tem um acervo grande de vídeos (campanhas, treinamentos, eventos) vai poder reaproveitar material antigo sem precisar de alguém que lembre onde cada coisa está.",
+      "fonte": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Claude ajudou a projetar proteínas que neutralizam veneno de escorpião",
+      "aconteceu": "A Anthropic mostrou o Claude ajudando pesquisadores a desenhar proteínas que se ligam às toxinas de escorpião e as neutralizam. O material é da própria fabricante, então vale cautela com o tom promocional.",
+      "significa": "A IA está saindo do texto e entrando na pesquisa de laboratório. Para quem trabalha com saúde e P&D, a pergunta deixa de ser \"se\" e vira \"em que etapa da nossa pesquisa isso entra primeiro\".",
+      "fonte": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Saúde",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
