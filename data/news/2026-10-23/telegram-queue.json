@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "titulo": "Grandes bancos dos EUA estão barrando agentes de IA que entram com a senha do cliente",
+      "aconteceu": "Bancos como JPMorgan e Morgan Stanley estão bloqueando ou limitando robôs de IA que acessam a conta usando o login e a senha do cliente. A tendência é liberar só consulta, sem mexer em dinheiro.",
+      "significa": "Se você pensava em usar (ou vender) um agente que paga contas ou movimenta a conta do cliente usando a senha dele, esse caminho está se fechando. O que vai funcionar é a integração oficial do banco, e na maioria dos casos só para leitura.",
+      "fonte": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Só 13% das empresas tiram valor de verdade da IA, segundo a Gartner",
+      "aconteceu": "Uma pesquisa da Gartner (consultoria de mercado) com 2.002 diretores de tecnologia mostra que só 13% veem retorno real de negócio com IA. Mesmo assim, 75% dos CEOs vão manter ou aumentar o orçamento de tecnologia, e metade dos diretores espera que o custo de operação suba.",
+      "significa": "Antes de aprovar mais verba de IA para 2027, peça uma métrica por projeto (horas economizadas, retrabalho, prazo) e encerre os pilotos que não mostraram ganho. É o que separa os 13% do resto.",
+      "fonte": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Uber liberou o ChatGPT corporativo para os seus 30 mil funcionários",
+      "aconteceu": "Depois de um piloto bem menor, a Uber estendeu a versão empresarial do ChatGPT para todo mundo da empresa, cerca de 30 mil pessoas.",
+      "significa": "É o sinal de que IA está saindo do \"time de inovação\" e virando ferramenta padrão, como o email. Quem for fazer o mesmo precisa definir antes o que pode e o que não pode ser colado ali (dados de cliente, contratos, números internos).",
+      "fonte": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O 1Password deixa a IA entrar nas suas contas sem nunca ver a sua senha",
+      "aconteceu": "O 1Password (gerenciador de senhas usado por muitas empresas) lançou um jeito de agentes de IA fazerem login em sites por você, sem receber a senha em texto.",
+      "significa": "Dá para deixar um assistente consultar ou reservar algo numa conta sua sem entregar a senha a ele. Reduz bastante o risco de vazamento, que hoje é o maior medo de quem testa agentes no trabalho.",
+      "fonte": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Canva lançou a própria IA de criar imagens, para todos os usuários",
+      "aconteceu": "O Canva lançou o primeiro modelo próprio de geração de imagens, liberado para todos os usuários e com promessa de custo menor.",
+      "significa": "Quem já faz posts, apresentações e peças no Canva passa a gerar a imagem dentro do mesmo projeto, sem abrir outra ferramenta e sem pagar uma assinatura a mais.",
+      "fonte": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Hackers usaram IA para tentar invadir mais de 2 mil contas de empresas no Microsoft 365",
+      "aconteceu": "Segundo a Microsoft, um grupo de espionagem ligado à China usou uma ferramenta de ataque com agentes de IA e acessos roubados da ConnectWise (software de suporte remoto usado por empresas de TI) para tentar entrar em 2.250 contas do Microsoft 365. Em alguns casos, chegou a acesso de administrador em menos de 3 horas.",
+      "significa": "Ataque com IA anda muito mais rápido. Peça para o seu TI revisar quais aplicativos de terceiros têm permissão no Microsoft 365, tirar os que ninguém usa e trocar as credenciais dos que ficam.",
+      "fonte": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Fornecedores mandam gente para construir IA dentro da sua empresa, e a Gartner alerta para a dependência",
+      "aconteceu": "Empresas de software estão colocando engenheiros dentro dos clientes para montar as soluções de IA. A Gartner alerta: isso pode deixar o cliente preso ao fornecedor e expor a propriedade intelectual dele.",
+      "significa": "Se um fornecedor oferecer esse tipo de ajuda, coloque no contrato quem é dono do que for construído, como os seus dados podem ser usados e como a sua equipe assume o sistema quando o engenheiro for embora.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um robô de ataque sequestra IAs deixadas abertas na internet, e o dono paga a conta",
+      "aconteceu": "Pesquisadores da Symantec (empresa de segurança) descreveram um agente de IA que procura modelos de IA expostos na internet sem senha, toma conta deles e os usa para atacar outros servidores e minerar criptomoeda.",
+      "significa": "Se a sua empresa roda uma IA própria ou tem chave de API de IA, ela precisa de senha, limite de gasto e alerta de consumo. Senão a fatura de alguém usando de graça chega para você.",
+      "fonte": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora recusa sozinho um comando perigoso de apagar arquivos",
+      "aconteceu": "Na versão nova, quando o Claude Code trabalha sem ninguém aprovando cada passo, um comando arriscado de apagar arquivos é recusado na hora, com uma sugestão de como fazer com segurança, em vez de ficar parado esperando alguém clicar em \"permitir\".",
+      "significa": "Fica mais seguro deixar o Claude tocando uma tarefa longa (reorganizar pastas, limpar uma base de arquivos) e voltar depois: ele não trava e também não apaga o que não devia.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic entregou a uma fundação neutra o padrão de \"habilidades\" dos agentes de IA",
+      "aconteceu": "A Anthropic doou o Agent Skills, um padrão aberto para ensinar tarefas específicas a agentes de IA (pacotes de instruções reutilizáveis), para uma fundação independente. Não é recurso novo: mudou quem cuida do padrão.",
+      "significa": "Com o padrão nas mãos de uma fundação, fica mais provável que outras ferramentas adotem. O manual que você escreve uma vez (como fazer o relatório, como responder o cliente) tende a funcionar em várias IAs, sem ficar preso a um fornecedor.",
+      "fonte": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google lançou um \"quarto isolado\" para cada agente de IA da empresa",
+      "aconteceu": "O Google lançou o Agent Compute Engine, em que cada agente do Gemini roda separado dos outros, isolado no próprio hardware, com ferramentas de controle para nuvem e para servidores da própria empresa.",
+      "significa": "Se um agente com acesso a dados internos errar ou for invadido, o estrago fica preso nele e não se espalha. É o tipo de garantia que a área de segurança vai pedir antes de liberar agentes.",
+      "fonte": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Investimento",
+        "#Segurança",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "Pedir para a IA dizer o quanto ela tem certeza não funciona",
+      "aconteceu": "Um texto muito discutido entre programadores mostra que a \"nota de confiança\" que a própria IA dá para a resposta dela é pouco confiável.",
+      "significa": "Se o seu processo usa a IA para classificar algo e só manda para revisão humana quando ela \"não tem certeza\", esse filtro pode estar deixando passar erros. Decisão importante continua precisando de checagem por amostragem.",
+      "fonte": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "IAs de empresas diferentes dão quase a mesma resposta para uma pergunta polêmica",
+      "aconteceu": "Um teste comparou vários modelos de IA e viu que, numa pergunta polêmica sobre seres humanos, todos dão praticamente a mesma resposta.",
+      "significa": "Trocar de ChatGPT para Claude ou Gemini não garante um ponto de vista diferente. Se você usa IA para revisar textos ou decisões, a \"segunda opinião\" precisa vir de gente, não de outra IA.",
+      "fonte": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Cohere passou a processar dados sigilosos com IA sem expor nem ao provedor de nuvem",
+      "aconteceu": "A Cohere (empresa de IA focada em grandes empresas) lançou em teste aberto uma versão que roda a IA em processadores protegidos na Microsoft Azure, mantendo os dados protegidos até durante o processamento.",
+      "significa": "Hospitais, bancos e órgãos públicos que travavam o uso de IA por causa de dados sensíveis ganham uma opção para analisar prontuários e documentos na nuvem sem que ninguém de fora veja o conteúdo.",
+      "fonte": "https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A DeepSeek teria captado US$ 15 bilhões dias depois de ser banida do governo americano",
+      "aconteceu": "Segundo relatos, a DeepSeek (empresa chinesa de IA famosa por modelos baratos) levantou cerca de US$ 15 bilhões, poucos dias depois de os EUA mandarem as agências federais tirarem a tecnologia dela dos sistemas.",
+      "significa": "A IA chinesa barata não vai sumir, mesmo com a pressão política. Quem usa modelo chinês para cortar custo precisa acompanhar o risco regulatório, principalmente se atende cliente ou governo nos EUA.",
+      "fonte": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
