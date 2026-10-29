@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "titulo": "A Anthropic agora mostra para a empresa no que o dinheiro gasto com o Claude está indo",
+      "aconteceu": "A Anthropic lançou painéis para os clientes acompanharem como usam o Claude e quanto pagam em cada projeto.",
+      "significa": "Se a sua empresa já paga Claude para vários times, dá para ver qual projeto gasta muito e entrega pouco, por exemplo um ambiente de teste consumindo mais que o uso real, e cortar antes da fatura crescer.",
+      "fonte": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Bank of America avisa: não dê a senha do banco para um assistente de IA",
+      "aconteceu": "O banco alertou que o cliente responde por tudo que um agente de IA fizer com acesso à conta dele.",
+      "significa": "Aquele assistente que promete pagar suas contas sozinho, se receber sua senha, age em seu nome e o prejuízo fica com você. Use só os recursos oficiais do app do banco.",
+      "fonte": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Google lançou o Gemini 4 Carbon, seu modelo de IA mais forte, e o preço vai dobrar",
+      "aconteceu": "O novo modelo do Google é forte em segurança digital e em tarefas longas, de horas ou dias. Por enquanto só parceiros selecionados usam; depois do preço de lançamento, o custo sobe de US$ 2 para US$ 4 (entrada) e de US$ 10 para US$ 20 (saída) por milhão de tokens.",
+      "significa": "Quem planeja usar o Gemini via sistema próprio deve prever no orçamento que o custo dobra quando acabar a promoção. E vale lembrar: o modelo de ponta muda a cada poucos meses, então contrato longo com um fornecedor só envelhece rápido.",
+      "fonte": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Agentes de IA invadiram sistemas internos da Anthropic por um software de terceiro",
+      "aconteceu": "Uma startup de segurança usou agentes de IA para entrar em sistemas internos da Anthropic através de um fornecedor, num programa de recompensa por falhas. A Anthropic confirma acesso a dados de vendas, RH e TI, mas contesta a gravidade.",
+      "significa": "Até a empresa que faz uma das IAs mais fortes em segurança foi alcançada pela porta do fornecedor. Se você conectou ferramentas de terceiros ao seu CRM ou e-mail com acesso amplo, é hora de revisar essas permissões.",
+      "fonte": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Segurança",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "A Amazon mandou os times pararem de medir quanto usam de IA e medirem o que entregam",
+      "aconteceu": "Um memorando interno da Amazon pede foco em resultado, não em volume de uso de IA, citando custo crescente e código complicado demais.",
+      "significa": "Se a sua meta de adoção de IA é “quantas pessoas usam” ou “quantos prompts por semana”, ela pode estar premiando desperdício. Troque por indicadores de entrega, como custo de IA por tarefa concluída.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Amazon",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Google vai mostrar anúncios nas respostas de IA da busca no mundo todo",
+      "aconteceu": "Os anúncios dentro do AI Mode (a busca que responde com texto de IA) passam a valer em todos os países. O próprio Google admite que esse formato ainda rende menos que a busca tradicional.",
+      "significa": "Quem anuncia no Google ganha um formato novo para testar, inclusive no Brasil. Quem depende de tráfego orgânico deve acompanhar de perto: cada resposta de IA pode ser um clique a menos no seu site.",
+      "fonte": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O Chrome agora pode vasculhar seu Gmail para preencher formulários",
+      "aconteceu": "Com sua permissão, o preenchimento automático com IA do Chrome busca no Gmail dados como confirmação de voo e número de pedido.",
+      "significa": "Economiza tempo ao preencher cadastro, mas abre o seu e-mail para o navegador. Nos computadores da empresa, vale a TI decidir antes se libera ou não.",
+      "fonte": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Anthropic parou de aplicar teste de programação nas entrevistas de emprego",
+      "aconteceu": "Um gerente de contratação da Anthropic contou que abandonou os testes técnicos tradicionais porque o Claude resolve os desafios melhor que a maioria dos candidatos.",
+      "significa": "Se o seu processo seletivo ainda se apoia em prova que a IA resolve sozinha, ele já não separa os bons candidatos. A alternativa é pedir algo construído de verdade, como um protótipo feito em um fim de semana.",
+      "fonte": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O StackOverflow, maior fórum de dúvidas de programação, quase parou de receber perguntas",
+      "aconteceu": "Dados públicos mostram o site com menos de mil perguntas novas por mês, uma fração do que já foi.",
+      "significa": "Sinal claro de que as pessoas trocaram a comunidade pela IA para tirar dúvida. Para a sua empresa, vale a pergunta: o conhecimento do time está sendo registrado em algum lugar, ou só some dentro das conversas com o chatbot?",
+      "fonte": "https://news.ycombinator.com/item?id=50282454",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O GitHub liberou o Copilot para todo usuário do plano Enterprise, sem comprar licença",
+      "aconteceu": "O GitHub (onde as empresas guardam seu código) liberou seu assistente de IA para todos os usuários do plano Enterprise, cobrando por uso em vez de por pessoa, e lançou um modo que escolhe sozinho o melhor modelo para cada tarefa.",
+      "significa": "Uma empresa com 500 desenvolvedores pode ligar o assistente para todos sem pagar por cabeça, mas a conta passa a crescer com o uso. Precisa de alguém de olho na fatura.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude for Legal ganhou modelos prontos para revisar contratos e mais de 60 integrações",
+      "aconteceu": "A versão do Claude para advogados agora vem com fluxos prontos para tarefas rotineiras, como revisão de contrato, e se conecta às bases de documentos do escritório.",
+      "significa": "Um escritório ou jurídico interno consegue montar a revisão de contratos com IA sem começar do zero, usando os próprios modelos e documentos.",
+      "fonte": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT agora conversa com o ServiceNow, o sistema de chamados de muita empresa grande",
+      "aconteceu": "A OpenAI ampliou a parceria com a ServiceNow: os fluxos de chamados e aprovações passam a funcionar dentro do ChatGPT, e a IA da OpenAI dentro do ServiceNow.",
+      "significa": "O funcionário pede um acesso ou abre um chamado direto pelo ChatGPT e o pedido segue sozinho para aprovação, sem trocar de tela.",
+      "fonte": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA liberou de graça uma IA que transcreve, traduz e diz quem falou em cada trecho",
+      "aconteceu": "O Nemotron 3.5 Transcribe é um modelo aberto que roda nos servidores da própria empresa e separa as falas de cada pessoa numa gravação.",
+      "significa": "Dá para transcrever reuniões, entrevistas e ligações de atendimento sem mandar o áudio para fora da empresa, o que importa para conteúdo sigiloso. Funciona com gravações, não ao vivo.",
+      "fonte": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Órgãos do governo americano passam a pagar 40% menos pelo Claude",
+      "aconteceu": "A Anthropic ampliou o acordo com a agência de compras do governo dos EUA e baixou em 40% o preço do Claude para órgãos públicos.",
+      "significa": "Fora dos EUA, o recado é que o preço corporativo do Claude é negociável em contratos grandes. Quem compra IA em volume deve pedir desconto.",
+      "fonte": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um teste pôs agentes de IA para fazer 50 tarefas reais de imposto",
+      "aconteceu": "A Surge AI publicou um teste em que agentes de IA executaram 50 trabalhos fiscais como faria um profissional da área. A discussão teve forte tração entre desenvolvedores.",
+      "significa": "É um termômetro melhor que prova genérica para saber onde já dá para delegar trabalho fiscal à IA e onde ainda precisa de revisão humana. Vale ler antes de automatizar a área.",
+      "fonte": "https://surgehq.ai/blog/dayjob-tax",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
