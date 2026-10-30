@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "titulo": "O Copilot da Microsoft ganhou mais de 25 funções prontas para o time de finanças",
+      "aconteceu": "A Microsoft lançou habilidades de finanças no Copilot: conciliação de contas, lançamentos contábeis e relatório de realizado x orçamento direto no Excel, com conexão a QuickBooks, Xero e Dynamics 365. Parte já está liberada para todos e parte só no programa de acesso antecipado.",
+      "significa": "Se o seu fechamento do mês ainda é planilha por planilha, dá para pedir ao Copilot que concilie saldos, explique variações e rascunhe provisões. EY e Zurich já usam. Vale testar no próximo fechamento, conferindo o que a IA fez.",
+      "fonte": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI dobrou os limites de uso dos planos pagos do ChatGPT",
+      "aconteceu": "Em meio à briga com a Anthropic, a OpenAI dobrou quanto dá para usar nos planos pagos e desistiu de um corte que tinha planejado para o plano Pro de US$ 200.",
+      "significa": "Quem vivia batendo no limite do ChatGPT ganha folga sem pagar mais. Antes de subir de plano, confira se o seu atual já resolve.",
+      "fonte": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Oracle quer cobrar por cada tarefa que a IA faz no sistema, não só por usuário",
+      "aconteceu": "A Oracle planeja cobrar por \"unidades de IA\" gastas pelos agentes dentro dos seus sistemas de gestão (ERP), além da assinatura por usuário.",
+      "significa": "A conta pode subir sem ninguém novo entrar na empresa, só porque a IA processou pedidos ou fechamentos. Ao renovar contrato com qualquer fornecedor de sistema, peça teto de consumo de IA por escrito.",
+      "fonte": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Especialistas adotam a opinião da IA achando que é deles, mostra estudo da Anthropic",
+      "aconteceu": "Num estudo com 50 especialistas, eles seguiram a posição de um agente de IA (sorteada ao acaso) em até 86% das decisões, e a maioria achou que tinha chegado sozinha à conclusão.",
+      "significa": "Quando usar IA para revisar um parecer, uma análise ou uma decisão, escreva a sua conclusão antes de perguntar ao modelo. Senão você corre o risco de só carimbar o que a IA disse.",
+      "fonte": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Os números que a IA cita muitas vezes não têm fonte nenhuma",
+      "aconteceu": "Uma investigação rastreou estatísticas que ChatGPT e afins repetem com frequência e achou muitas \"estatísticas zumbis\": números antigos ou sem origem verificável que circulam de texto em texto.",
+      "significa": "Antes de colocar em apresentação ou relatório um número que veio da IA, peça a fonte e abra o link. Número sem fonte pode derrubar sua credibilidade numa reunião.",
+      "fonte": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Achadas falhas em 5 ferramentas de programação com IA; OpenAI e Microsoft ainda não corrigiram",
+      "aconteceu": "Pesquisadores acharam falhas no Cursor, GitHub Copilot, Claude Desktop, VS Code e Codex que permitem rodar código ou ler arquivos do computador. Cursor e Copilot já corrigiram; segundo os pesquisadores, Codex e VS Code não.",
+      "significa": "Até sair a correção, não abra arquivos HTML de origem desconhecida dentro dessas ferramentas. Se a sua equipe usa IA para programar, vale a TI checar versões e atualizar.",
+      "fonte": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Funcionário conseguiu isenção religiosa para não usar IA no trabalho",
+      "aconteceu": "Um administrador da Universidade do Kentucky, nos EUA, que é humanista (não religioso), obteve isenção por convicção para não ser obrigado a usar IA. O caso bombou no Hacker News.",
+      "significa": "Se a sua empresa está tornando a IA obrigatória, prepare um caminho para quem tem objeção. Obrigar sem conversa pode virar briga trabalhista, não só resistência.",
+      "fonte": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "As ferramentas de agentes de IA mais usadas não registram direito quem fez o quê",
+      "aconteceu": "Artigo da Partnership on AI no MIT Technology Review mostra que quatro das ferramentas mais usadas para montar agentes de IA não guardam de forma confiável qual agente tomou cada ação nem quem aprovou.",
+      "significa": "Se um agente negar um crédito ou mexer num cadastro, você precisa saber reconstruir o que aconteceu. Antes de pôr agente em produção, pergunte ao fornecedor se há registro de cada ação e coloque isso no contrato.",
+      "fonte": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quem assina o ChatGPT Pro agora ganha até US$ 500 por mês para usar a API",
+      "aconteceu": "Assinantes do ChatGPT Pro podem resgatar de US$ 100 a US$ 500 por mês em créditos para a API (o acesso da OpenAI para integrar IA em sistemas); nos planos Business, até US$ 500 por workspace.",
+      "significa": "Se você já paga o Pro, dá para testar uma automação ou integração da empresa sem custo extra. Bom para tirar do papel um piloto pequeno.",
+      "fonte": "https://x.com/OpenAIDevs/status/2115583698074755078",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora resume sozinho conversas paradas e fica preso à pasta do projeto",
+      "aconteceu": "Na nova versão, conversas longas que ficam paradas são resumidas automaticamente no VS Code e no app Claude Desktop, e uma nova trava impede o Claude de criar ou editar arquivos fora da pasta do projeto.",
+      "significa": "Dá para voltar horas depois numa conversa longa sem perder o fio. E quem libera o Claude Code para uma equipe ganha garantia de que ele não mexe em arquivo fora do combinado.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O GitHub Copilot passou a escolher sozinho o modelo de IA mais barato para cada tarefa",
+      "aconteceu": "O novo Copilot Fusion alterna entre modelos da Anthropic e da OpenAI conforme a tarefa. Num teste independente, ficou quase tão bom quanto o Claude Code com o Opus 5.5 pela metade do custo por tarefa (US$ 5,59 contra US$ 11,42).",
+      "significa": "Se a sua empresa paga caro por agentes de programação, há espaço para cortar custo. A promessa de economia é do GitHub, então teste no seu caso antes de trocar.",
+      "fonte": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Microsoft",
+        "#Meta",
+        "#Agentes",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Extensão falsa do Claude Code abre uma porta dos fundos no computador",
+      "aconteceu": "Um blog de segurança relata uma extensão adulterada que se passa pelo Claude Code e instala acesso remoto escondido na máquina. A alegação ainda não foi confirmada por outras fontes.",
+      "significa": "Extensão e plugin de ferramenta de IA virou porta de ataque. Instale só pela fonte oficial e combine com a TI uma lista do que pode ser instalado.",
+      "fonte": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O New York Times encheu de IA seu app de receitas, e os usuários não gostaram",
+      "aconteceu": "O NYT adicionou mais recursos de IA ao app de culinária e recebeu uma onda de reclamações de assinantes.",
+      "significa": "Colocar IA num produto que já funciona, sem resolver um problema claro do cliente, pode irritar em vez de encantar. Antes de lançar \"recurso com IA\", pergunte que dor ele resolve.",
+      "fonte": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Google perdeu cerca de US$ 500 bilhões em valor de mercado por medo ligado à IA",
+      "aconteceu": "Segundo a BBC, as ações da dona do Google despencaram com investidores preocupados com o efeito da IA no negócio de busca e anúncios.",
+      "significa": "Sinal de que o mercado ainda não sabe quem ganha e quem perde com a IA; nem as maiores empresas estão protegidas. Bom contexto para quem planeja investimento em tecnologia.",
+      "fonte": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Granola, app que anota reuniões, agora também transcreve o que você dita",
+      "aconteceu": "O Granola ganhou ditado por voz para competir com o Wispr Flow, app de ditado que passou a anotar reuniões.",
+      "significa": "Dá para registrar a reunião e ditar o e-mail de follow-up no mesmo lugar, sem trocar de app. Os dois tipos de ferramenta estão virando uma só.",
+      "fonte": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
