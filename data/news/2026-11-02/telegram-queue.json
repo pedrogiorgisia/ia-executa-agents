@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "titulo": "O ChatGPT vai acabar com o uso \"à vontade\" e passar a medir cota por consumo",
+      "aconteceu": "A partir de dezembro, os planos pagos do ChatGPT (Plus, Pro e Business) passam a dividir uma cota medida pelo tamanho do trabalho; modelos mais avançados gastam a cota mais rápido. A OpenAI também vai juntar o ChatGPT de conversa com o de trabalho.",
+      "significa": "Se o seu time usa o ChatGPT para tarefas longas, pode ficar sem cota antes do fim do mês. Quem paga as assinaturas da equipe precisa rever o orçamento por pessoa antes de dezembro.",
+      "fonte": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI vai usar dados de uma ferramenta de segurança para treinar IA, mesmo com o treino desligado",
+      "aconteceu": "A partir de 29/11, a OpenAI vai usar as sessões do Daybreak Blue (sua ferramenta de cibersegurança para empresas) para treinar modelos, mesmo de quem desativou essa opção. Depois das críticas, prometeu um botão separado para sair.",
+      "significa": "Se a sua empresa usa o Daybreak Blue, dados sensíveis de segurança podem entrar no treino da IA. Antes de 29/11, peça a exclusão por escrito e confira se ela está ativa.",
+      "fonte": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI limitou quantas assinaturas pagas do ChatGPT cabem em um aparelho ou cartão",
+      "aconteceu": "A OpenAI passou a limitar quantas contas pagas do ChatGPT podem ser abertas no mesmo dispositivo e no mesmo cartão. Sair de uma conta não libera a vaga.",
+      "significa": "Equipe pequena que contornava o limite de uso abrindo várias assinaturas baratas vai precisar de um plano maior ou comprar uso extra. Vale mapear agora quantas contas a empresa tem e em nome de quem.",
+      "fonte": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic passou a barrar o Claude de desmontar jogos de videogame, e usuários reclamam de bloqueios indevidos",
+      "aconteceu": "A Anthropic (fabricante do Claude) está bloqueando pedidos para copiar ou desmontar jogos (engenharia reversa: descobrir como um programa funciona a partir do produto pronto). No Hacker News, fórum de tecnologia, usuários contam que pedidos legítimos também estão sendo recusados.",
+      "significa": "As regras de uso das IAs mudam sem aviso e podem travar um trabalho do dia para a noite. Quem montou processos em uma única IA deve ter um plano B.",
+      "fonte": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Microsoft ofereceu demissão voluntária a um quarto dos funcionários, mas protegeu os times de IA",
+      "aconteceu": "A Microsoft ofereceu pacotes de saída voluntária a cerca de 60 mil pessoas, poupando as equipes críticas de IA, enquanto planeja gastar cerca de US$ 170 bilhões em infraestrutura de IA em 2026.",
+      "significa": "As big techs estão tirando dinheiro de funções gerais para colocar em IA. Para quem contrata, deve sobrar gente boa de tecnologia no mercado; para quem trabalha, a pressão por se requalificar em IA aumenta.",
+      "fonte": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Mercado",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Uma gestora de patrimônio deixa agentes de IA tocarem tarefas de até dez dias, com o humano decidindo",
+      "aconteceu": "A Arca, gestora de patrimônio criada já com IA no centro, usa agentes para a maior parte do trabalho de bastidor. Cada tarefa pode durar até dez dias, com memória por cliente e regras fixas; mexer em dinheiro continua com o consultor humano.",
+      "significa": "É um modelo para levar IA a processos longos e regulados: o agente executa, mas cada ação fica registrada com responsável, e o que é sensível exige aprovação de uma pessoa.",
+      "fonte": "https://latent.space/p/arca/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A DeepSeek, IA chinesa, lançou um agente de programação para concorrer com o Claude Code",
+      "aconteceu": "A DeepSeek, empresa chinesa de IA conhecida por modelos baratos, lançou uma ferramenta que programa sozinha para competir com o Claude Code, da Anthropic.",
+      "significa": "Mais concorrência tende a baixar preço e abrir opções. Mas, para empresas com dados sensíveis, usar ferramenta chinesa exige cuidado: o governo americano já baniu a DeepSeek dos órgãos federais.",
+      "fonte": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Regulação",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A Justiça americana deixou seguir um processo contra a poluição do data center da xAI, de Elon Musk",
+      "aconteceu": "Um juiz americano permitiu que avance a ação da NAACP (entidade de direitos civis) contra a xAI, que acusa o data center da empresa de violar a lei federal de qualidade do ar por causa dos geradores próprios.",
+      "significa": "O custo da IA não é só de tecnologia: energia e meio ambiente viram processo e atrasam projeto. Quem planeja data center ou geração própria de energia precisa checar licenças antes de ligar.",
+      "fonte": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Índia propõe um modelo em que a IA vai até os dados, e não o contrário",
+      "aconteceu": "O governo indiano propôs que hospitais, bancos e órgãos públicos ofereçam dados anonimizados em ambientes seguros, onde as empresas treinam a IA sem levar cópia dos dados, sob as regras do dono e com registro para auditoria. Ainda não há prazo.",
+      "significa": "É um caminho que pode inspirar outras leis de privacidade, inclusive no Brasil: usar dados sensíveis para IA sem que eles saiam de casa.",
+      "fonte": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
