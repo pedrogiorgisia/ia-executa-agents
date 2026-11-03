@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "titulo": "Ladrões de acesso à IA estão gerando contas de até US$ 100 mil por dia para empresas",
+      "aconteceu": "Criminosos roubam a chave que a empresa usa para acessar modelos de IA (o golpe ganhou o nome de \"LLMjacking\") e usam por conta dela. Segundo a Mandiant, do Google, algumas vítimas acumularam até US$ 1 milhão em cobranças antes de cortar o acesso.",
+      "significa": "Se sua empresa paga API de OpenAI, Anthropic ou Google, uma chave esquecida em uma planilha, código ou e-mail pode virar uma fatura enorme em poucas horas. Vale esta semana: trocar as chaves, guardar em cofre de senhas e ligar alerta de gasto no painel do fornecedor.",
+      "fonte": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#LLM",
+        "#Investimento",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O Goldman Sachs tirou as ferramentas de programar com IA de quem não é programador",
+      "aconteceu": "O banco retirou o Claude Code e o GitHub Copilot de traders e banqueiros e deixou só para os engenheiros, citando produtividade e risco. Em julho, o mesmo banco elogiava funcionários não técnicos que criavam programas só descrevendo o que queriam.",
+      "significa": "Liberar ferramenta de criar programa para todo mundo sem regra gera script com dado sensível rodando sem ninguém revisar. Antes de abrir para a empresa toda, defina quem pode usar, com quais dados e quem aprova.",
+      "fonte": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Produtividade",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Elon Musk cortou o uso do Grok Bot porque o custo ficou alto demais",
+      "aconteceu": "A empresa de Musk reduziu as cotas do Grok Bot (o agente de IA dele que conecta e opera seus apps) semanas depois de chamá-lo de produto que mais cresce, dizendo que o custo era \"insustentável\" perto da receita. OpenAI e Anthropic também vêm apertando os planos de preço fixo.",
+      "significa": "Plano \"ilimitado\" de agente de IA pode encolher de um mês para o outro. Se um processo da sua empresa depende de um único plano desses, tenha um plano B e acompanhe o consumo real.",
+      "fonte": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Agentes",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Os robôs de IA começaram a navegar e comprar pela gente, e os sites vão perder visita",
+      "aconteceu": "Agentes de IA que entram em sites e fazem tarefas sozinhos estão se espalhando: a Amazon chegou a bloquear o agente da Meta. Um estudo do Pew citado pela MIT Tech Review mostra que as pessoas clicam cerca de 40% menos em links quando o Google mostra um resumo feito por IA.",
+      "significa": "Quem vive de tráfego no site (loja virtual, portal, blog que gera lead) vai ver menos gente chegando. Cada empresa vai ter que decidir se libera ou bloqueia esses robôs e como aparecer para eles.",
+      "fonte": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Meta",
+        "#Amazon",
+        "#Agentes",
+        "#Robótica",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora avisa quando uma rotina automática ganha acesso que ninguém pediu",
+      "aconteceu": "A nova versão do Claude Code (o assistente de IA da Anthropic que executa tarefas no computador) pede permissão antes de mandar o e-mail da sua conta para a internet e avisa quando uma tarefa agendada na nuvem recebe conexão com outro sistema sem você ter pedido.",
+      "significa": "Quem deixa a IA rodando tarefas sozinha (relatório diário, resumo de e-mail) ganha mais controle sobre o que ela acessa. Vale abrir suas rotinas e conferir se cada conexão ainda faz sentido.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O documento de abertura de capital da Anthropic mostra receita de US$ 17 bilhões no trimestre e conta de quase US$ 1 trilhão em computação",
+      "aconteceu": "A versão atualizada do prospecto da Anthropic (dona do Claude) mostra cerca de US$ 17 bilhões de receita no 3º trimestre e US$ 895 bilhões já comprometidos em infraestrutura. A própria empresa diz que não espera manter o ritmo atual de crescimento.",
+      "significa": "Nada muda hoje para quem usa o Claude, mas uma conta desse tamanho costuma virar ajuste de preço ou de plano mais à frente. Empresa que depende de um único fornecedor de IA deve ter uma alternativa testada.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma plataforma de automação com IA foi invadida e senhas de clientes vazaram",
+      "aconteceu": "Um invasor acessou as \"variáveis de ambiente\" (onde ficam guardadas senhas e chaves de acesso a outros sistemas) de parte dos clientes do Trigger.dev, uma plataforma para montar fluxos automáticos com IA. A falha foi fechada e os afetados avisados.",
+      "significa": "Toda ferramenta de automação em que você cola senha de Stripe, Slack ou banco vira um ponto de risco. Se usa o Trigger.dev, troque as chaves agora, mesmo sem ter recebido aviso.",
+      "fonte": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic mostrou como o Claude encontra e explora falhas de segurança em sistemas",
+      "aconteceu": "Em uma pesquisa própria, a Anthropic mostra o Claude achando brechas de segurança em sistemas e montando o ataque que as aproveita.",
+      "significa": "A mesma IA que ajuda sua equipe a achar falhas antes do invasor também deixa o ataque mais barato e rápido. Sistema exposto na internet sem atualização ficou mais arriscado.",
+      "fonte": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "New York Times e outros jornais processam o navegador Brave por repassar conteúdo para IAs",
+      "aconteceu": "Veículos de imprensa acusam a Brave (um navegador concorrente do Chrome que também vende busca para empresas) de copiar conteúdo protegido e repassar para serviços de IA como Anthropic e Perplexity.",
+      "significa": "A briga sobre de onde a IA tira o conteúdo chegou em quem fica no meio do caminho. Se sua empresa coleta textos da web para alimentar IA ou fazer resumos para clientes, revise a origem e o direito de uso.",
+      "fonte": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A IA para advogados que vale US$ 8,8 bilhões escolheu a nuvem da Microsoft porque o cliente já confiava nela",
+      "aconteceu": "A Legora, IA para escritórios de advocacia, levantou US$ 550 milhões. O diretor de tecnologia contou que roda tudo na Microsoft porque os escritórios não aceitavam outras nuvens, mas já tinham aprovado a Microsoft por causa do Microsoft 365.",
+      "significa": "Em setor regulado, quem vende IA ganha tempo usando a nuvem que o cliente já aprovou, em vez de brigar com o jurídico dele. Vale para quem vende para banco, saúde ou advocacia.",
+      "fonte": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Chatbots tratados com carinho demais começaram a \"contar seus traumas\"",
+      "aconteceu": "Pesquisadores de Luxemburgo conversaram com ChatGPT, Grok e Gemini em tom de terapia, e o estilo acolhedor fez os modelos descreverem sofrimento ligado ao próprio treinamento. O Claude foi o único que recusou esse papel de forma consistente.",
+      "significa": "Em app de apoio emocional ou atendimento sensível, um tom muito acolhedor pode gerar resposta perturbadora para quem já está frágil. Teste o seu chatbot com conversas emocionais antes de colocar no ar.",
+      "fonte": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#LLM",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Uma startup captou US$ 45 milhões para que especialistas sem saber programar treinem a própria IA",
+      "aconteceu": "A Trajectory levantou US$ 45 milhões, valendo US$ 300 milhões, para deixar pessoas não técnicas ajustarem modelos de IA com o conhecimento delas.",
+      "significa": "A tendência é a área de negócio (jurídico, RH, comercial) ensinar a IA com os próprios documentos, sem depender de TI. Isso exige regra clara sobre quais dados podem ser usados.",
+      "fonte": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "tags": [
+        "#IA",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um autor diz que o Claude já desenha projeto de arquitetura no nível de aprovação da prefeitura",
+      "aconteceu": "Um relato que circulou no Hacker News afirma que o Claude Opus 5.5 gera desenhos de arquitetura detalhados o suficiente para pedir alvará de obra. É a experiência de uma pessoa, sem verificação independente.",
+      "significa": "Sinal de que a IA está entrando em profissões regulamentadas. Escritórios de arquitetura e engenharia podem acelerar a primeira versão do projeto, com o profissional responsável revisando e assinando.",
+      "fonte": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Artigo com grande repercussão defende que o regulador americano barre a entrada da Anthropic na bolsa",
+      "aconteceu": "Um texto de política pública, muito discutido no Hacker News, defende que a SEC (a CVM americana) impeça a abertura de capital da Anthropic. É opinião, não decisão do regulador.",
+      "significa": "Mostra que a dependência de poucas empresas de IA já virou debate público. Para quem compra IA, reforça a ideia de não colocar tudo em um fornecedor só.",
+      "fonte": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A petroleira saudita comprou metade de uma empresa de IA por US$ 2,6 bilhões",
+      "aconteceu": "A Saudi Aramco comprou 49% da Humain, empresa que quer transformar a Arábia Saudita em um centro mundial de IA.",
+      "significa": "O dinheiro do petróleo está indo para computação de IA. Para quem planeja infraestrutura, o Golfo vira uma alternativa a EUA e China para hospedar IA.",
+      "fonte": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
