@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "titulo": "O ChatGPT agora faz GIF animado de um produto a partir de uma foto",
+      "aconteceu": "A OpenAI lançou o Images 2.6, nova versão do gerador de imagens do ChatGPT: mais rápido, cria GIFs animados (dá para ajustar velocidade e quadros) e edita só uma parte da imagem, como trocar o fundo.",
+      "significa": "Se você cuida do Instagram da sua empresa sem designer, dá para transformar a foto de um produto em um GIF curto e trocar o fundo da imagem sem abrir editor de vídeo nem refazer tudo.",
+      "fonte": "https://openai.com/index/introducing-images-2-6",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Apple estaria cortando o quanto gasta com IA dentro da própria empresa",
+      "aconteceu": "Segundo relatos, a Apple vai reduzir de forma significativa o orçamento de ferramentas de IA usadas pelas equipes de engenharia.",
+      "significa": "É mais um sinal de que a fase do \"IA à vontade\" acabou também nas grandes: quem paga a conta de IA no seu time vai precisar mostrar retorno, não só uso. Bom momento para medir quanto cada ferramenta entrega.",
+      "fonte": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Na semana mais cheia do trimestre, só 4 pessoas pediram Uber por um agente de IA",
+      "aconteceu": "A Uber contou que, na semana de maior movimento do trimestre, apenas quatro corridas foram pedidas por agentes de IA (programas que agem em nome do usuário).",
+      "significa": "Antes de investir em um produto que depende de clientes delegando compras ou reservas a robôs de IA, valide se essa demanda existe. Hoje, o consumidor ainda prefere fazer ele mesmo.",
+      "fonte": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A IA está obrigando as empresas a consertar 40 anos de sistemas remendados",
+      "aconteceu": "Com a IA, ficou barato e rápido achar falhas de segurança em sistemas antigos. Resultado: problemas acumulados há décadas (a chamada \"dívida técnica\") viraram urgência. O assunto foi um dos mais discutidos do Hacker News, fórum de tecnologia.",
+      "significa": "Se a sua empresa roda um sistema antigo que \"funciona, então ninguém mexe\", agora ele é alvo fácil. Vale pedir ao time ou ao fornecedor um levantamento dos sistemas antigos expostos à internet.",
+      "fonte": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic trabalha em um jeito de provar qual IA respondeu de verdade",
+      "aconteceu": "O sistema, chamado FlashProve, permitiria comprovar que uma resposta veio mesmo do modelo que o fornecedor diz usar, sem revelar o funcionamento interno do modelo.",
+      "significa": "Quem contrata IA de terceiros poderia checar que não houve troca silenciosa por um modelo mais barato e mostrar à auditoria qual IA gerou cada resposta.",
+      "fonte": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A \"assinatura invisível\" que marca texto do Claude é fácil de desligar nos modelos antigos",
+      "aconteceu": "A Anthropic levou a marca d'água de texto (um sinal invisível que identifica texto feito por IA) a mais quatro modelos, antes do prazo da lei europeia de IA em dezembro. Mas nos modelos mais antigos, quem usa a API pode desativá-la mudando uma única configuração.",
+      "significa": "Se a sua empresa conta com a marca d'água para saber se um texto foi feito por IA, não trate isso como garantia. Guarde registros próprios do que foi gerado.",
+      "fonte": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Criminosos já usaram ChatGPT e Claude Code em invasões reais",
+      "aconteceu": "Um relatório da Elastic (empresa de segurança digital) documenta ataques em que os invasores usaram ferramentas comerciais de IA, como o ChatGPT para computador e o Claude Code.",
+      "significa": "Uso de IA para atacar empresas já não é hipótese. Revise quem na sua empresa tem acesso a sistemas críticos e se há alerta para comportamento estranho, porque o ataque ficou mais rápido.",
+      "fonte": "https://www.elastic.co/security-labs/reports/threats-etc-report-november-2026-trouble-with-trust",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Um terceirizado teria ligado o próprio agente de IA a um sistema do Pentágono",
+      "aconteceu": "Segundo a reportagem, um prestador de serviço da Accenture conectou um agente de IA de uso pessoal (Claude Code) a uma rede sensível do governo americano. As alegações ainda não foram confirmadas.",
+      "significa": "É o risco da \"IA sombra\": gente da equipe ou de fornecedores usando IA pessoal em sistemas da empresa. Vale deixar por escrito, também nos contratos com terceiros, quais ferramentas de IA podem tocar em quais dados.",
+      "fonte": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Estudo de Stanford: o que se diz sobre IA perde a validade em cerca de 15 meses",
+      "aconteceu": "Pesquisadores testaram 50 afirmações muito citadas sobre IA em 20 modelos atuais: cerca de 44% já estão ultrapassadas e 34% perderam força. As que dizem \"a IA não consegue fazer X\" envelhecem mais rápido.",
+      "significa": "Se a política de IA da sua empresa proíbe algo porque \"a IA erra nisso\", reteste com o modelo atual antes de manter a regra. A restrição pode estar te custando produtividade.",
+      "fonte": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Meta comprou uma ferramenta de agentes de programação e vai desligar a versão na nuvem em 20/11",
+      "aconteceu": "A Meta comprou a Conductor, app que roda vários agentes de programação ao mesmo tempo. A versão na nuvem fica só para leitura em 13/11 e sai do ar em 20/11; o app para Mac continua, mas para de receber novos modelos no início de 2027.",
+      "significa": "Se o seu time usa a Conductor, migre o trabalho antes de 20/11. E fica a lição: ferramenta de IA de startup pode sumir de uma semana para outra quando é comprada.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Startups"
+      ]
+    },
+    {
+      "titulo": "Eleitores americanos rejeitaram a maioria das propostas de novos data centers de IA",
+      "aconteceu": "Nas eleições de meio de mandato dos EUA, a maior parte das 45 medidas sobre data centers (os prédios com os computadores que rodam a IA) foi barrada. No Texas, a governadora eleita defende suspender novos projetos, e ações de empresas de IA caíram.",
+      "significa": "Energia e espaço para IA vão ficar mais disputados e caros. Para quem assina contrato longo de IA, é sinal de que preço e capacidade dos fornecedores podem mudar.",
+      "fonte": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "As big techs aumentaram em 90% a dívida \"escondida\" para pagar a IA: US$ 3,2 trilhões",
+      "aconteceu": "Segundo o Nikkei, a dívida das grandes empresas de tecnologia dos EUA ligada à IA, parte dela fora do balanço principal, cresceu 90% em seis meses e chegou a US$ 3,2 trilhões.",
+      "significa": "Reforça o debate sobre bolha. Se o crédito apertar, fornecedores de IA podem subir preço ou mudar planos; não amarre a operação a um fornecedor só.",
+      "fonte": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Palantir agora fatura mais com empresas do que com o governo americano",
+      "aconteceu": "Pela primeira vez, a receita da Palantir (empresa de análise de dados com IA) com clientes privados nos EUA passou a de contratos com o governo.",
+      "significa": "Sinal de que empresas comuns estão comprando IA para análise de dados em grande escala, não só testando. Quem ainda está no piloto está ficando para trás.",
+      "fonte": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI abriu opção de guardar dados na Austrália, Índia e Japão",
+      "aconteceu": "A biblioteca oficial da OpenAI passou a trazer opções de residência de dados nesses três países e lista um novo modelo, o \"GPT-6 Rosalind\", ainda sem detalhes públicos.",
+      "significa": "Para empresas que precisam manter dados em um país específico, a lista de regiões da OpenAI está crescendo. Vale acompanhar se o Brasil entra, por causa da LGPD.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Semáforo ajustado por IA cortou até 26% do tempo de viagem no horário de pico",
+      "aconteceu": "A NVIDIA (fabricante dos chips que rodam a IA) reuniu casos de cidades: na Malásia, a ITMAX testou em simulação o tempo dos semáforos e reduziu até 26% o tempo de viagem no pico; na Espanha, assistentes de IA respondem dúvidas sobre serviços da prefeitura.",
+      "significa": "Para gestão pública e empresas de logística, há casos concretos de IA economizando tempo nas ruas e no atendimento ao cidadão, não só promessas.",
+      "fonte": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
