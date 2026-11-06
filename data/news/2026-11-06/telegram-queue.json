@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "titulo": "O Claude agora lê seus gastos no banco e responde quanto você gastou com o quê",
+      "aconteceu": "A Anthropic lançou no Claude uma função que conecta contas e cartões (por meio da Plaid, serviço que intermedeia dados bancários) e responde perguntas sobre seus gastos.",
+      "significa": "Dá para perguntar \"quanto gastei com delivery nos últimos 3 meses?\" e receber o resumo por categoria, sem montar planilha. Os dados passam por um terceiro, então vale revisar as permissões antes de conectar.",
+      "fonte": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Falha no Claude para computador deixa uma extensão de navegador rodar comandos na sua máquina, e a Anthropic diz que não vai corrigir",
+      "aconteceu": "Pesquisadores mostraram que uma extensão de navegador com acesso ao claude.ai consegue mandar comandos ao Claude Desktop e executar código no computador. A Anthropic foi avisada em maio e não agiu.",
+      "significa": "Um funcionário que usa conta pessoal do Claude no notebook da empresa pode abrir a porta para uma extensão maliciosa chegar à máquina de trabalho. Na prática: remover extensões desnecessárias e evitar contas pessoais de IA em equipamento corporativo.",
+      "fonte": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Copilot grátis da Microsoft ganhou limite de uso, e a empresa não diz qual é",
+      "aconteceu": "Usuários corporativos sem a licença paga do Microsoft 365 Copilot passam a ter limites em algumas funções. A Microsoft não publica os números e eles podem mudar.",
+      "significa": "Quem resume documentos no Copilot Chat pode bater no limite e ser orientado a pedir licença ao administrador. A implantação começa em 02/11 para organizações de até 2.000 licenças e em 09/11 para as maiores. Admins podem desativar a compra direta de licenças.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude vai poder ser usado dentro do Copilot da Microsoft com os dados processados na Europa",
+      "aconteceu": "A Microsoft anunciou que os modelos Claude, da Anthropic, passarão a estar no Copilot processando dados dentro da União Europeia. O post diz que estão \"chegando\", então a disponibilidade pode não ser imediata.",
+      "significa": "Uma equipe jurídica europeia pode escolher o Claude dentro do Copilot para resumir contratos, com a garantia de que os documentos continuam na UE.",
+      "fonte": "https://www.microsoft.com/en-us/copilot/blog/2026/11/05/bringing-claude-models-in-microsoft-copilot-into-the-eu-data-boundary/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A OpenAI lançou uma IA que acha falhas de segurança, mas só para clientes aprovados",
+      "aconteceu": "O GPT-6 Cyber encontra e explora falhas em sistemas melhor que os modelos anteriores. O acesso inicial é restrito a contextos autorizados. A OpenAI diz que ele achou 81 falhas até então desconhecidas no Firefox (dado da própria empresa).",
+      "significa": "Uma equipe de segurança pode analisar o código de um app antes do lançamento e receber sugestões de correção, algo que antes dependia de um teste de invasão contratado, mais caro e demorado. Quem mantém software deve esperar mais correções de segurança.",
+      "fonte": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "No Texas, o grande polo de data centers de IA pode ter acabado depois da eleição",
+      "aconteceu": "Candidatos que fizeram campanha contra data centers venceram o governo e o Senado do Texas. A governadora eleita defende moratória, e o governador atual já suspendeu novas licenças em setembro.",
+      "significa": "Projetos gigantes, como o Stargate Frontier e o Nexus Hubbard (em grande parte para a Anthropic), podem atrasar, o que afeta a oferta futura de capacidade de computação. Uma moratória ampla é difícil de executar, pois os municípios decidem.",
+      "fonte": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A bolsa Nasdaq caiu 5% com investidores saindo das ações de IA depois da eleição",
+      "aconteceu": "Depois da eleição americana, investidores venderam ações de tecnologia ligadas a IA e o índice Nasdaq caiu cerca de 5%.",
+      "significa": "Pode ser o início de uma correção no entusiasmo por IA, o que afeta avaliações, financiamento e planos de investimento de fornecedores. Vale checar a saúde financeira de quem você contrata.",
+      "fonte": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Robôs de IA que leem sites custam dinheiro ao dono do site e não trazem cliente",
+      "aconteceu": "A Cloudflare alerta que agentes que varrem muitos sites geram custo de processamento para o dono sem trazer visitantes, e prevê tráfego de robôs 1.000 vezes maior que o humano.",
+      "significa": "Um restaurante paga pelo processamento de mil acessos de um agente que leu o cardápio e recebe um cliente só. Quem usa a Cloudflare pode bloquear esses agentes ou cobrar pelo acesso.",
+      "fonte": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Mistral lançou uma plataforma para empresas montarem assistentes de IA em servidores próprios",
+      "aconteceu": "O Mistral Studio permite criar e colocar no ar assistentes, fluxos automáticos e aplicativos, com controle sobre modelos, dados e onde tudo roda.",
+      "significa": "Uma seguradora pode montar um assistente que lê pedidos de indenização, confere anexos e encaminha ao analista certo, mantendo os dados dos clientes nos próprios servidores (exemplo ilustrativo, não do anúncio).",
+      "fonte": "https://mistral.ai/news/build-with-studio/",
+      "tags": [
+        "#IA",
+        "#OpenSource",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Mark Cuban diz que o Facebook sabe que roda anúncios golpistas com vídeos falsos feitos por IA",
+      "aconteceu": "O empresário afirma que a Meta sabe que veicula anúncios com deepfakes (imitação de rosto e voz), e que documentos apontam cerca de US$ 16 bilhões em receita ligada a fraude.",
+      "significa": "Aumenta o risco de golpes usando a imagem de executivos e celebridades em anúncios pagos, e a pressão sobre plataformas. Vale monitorar anúncios que usem a sua marca ou o rosto dos seus líderes.",
+      "fonte": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#IAGenerativa",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Nenhum agente de IA passou de 12% num novo teste de trabalho de verdade",
+      "aconteceu": "A SemiAnalysis criou um teste com tarefas simuladas de trabalho, de design de chips a trading, e nenhum agente passou de 12%. Críticos apontam poucas tarefas por área e condições desiguais.",
+      "significa": "Antes de entregar um processo a um agente, teste-o nas suas próprias tarefas. Resultado baixo sugere cautela com automação total.",
+      "fonte": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A Chainalysis confirmou vazamento de senhas e chaves de acesso e sugere que um agente de IA foi usado no ataque",
+      "aconteceu": "A empresa de rastreamento de criptomoedas confirmou que atacantes obtiveram usuários, senhas criptografadas e chaves de acesso ativas em ataque de outubro.",
+      "significa": "Clientes precisam trocar senhas e renovar chaves de API. Uma corretora que usa a ferramenta deles terá de gerar novas chaves antes de religar a integração.",
+      "fonte": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Intuit (QuickBooks) vai colocar assistente de IA nos dados financeiros e deve cobrar mais por isso",
+      "aconteceu": "A Intuit apresentou um assistente de chat sobre os dados financeiros dos clientes e um sistema de gestão (ERP) com IA para médias empresas, e prevê cobrar mais pelos recursos de IA.",
+      "significa": "Um contador poderá perguntar quais clientes têm custos acima da média do setor, sem montar a comparação à mão. Quem usa QuickBooks deve esperar mudança de preço.",
+      "fonte": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O Google liberou ao público um gerador de vídeo de até 15 segundos, 30% mais barato",
+      "aconteceu": "O Gemini Omni 1.2 Flash gera clipes de até 15 segundos, permite edição por conversa e custa 30% menos.",
+      "significa": "Um criador gera um clipe de 15 s em 720p por cerca de US$ 1 e ajusta pedindo mudanças por texto. Útil para comparar custo de vídeo com IA contra produção tradicional.",
+      "fonte": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic fechou o primeiro acordo para pagar por conteúdo de jornal",
+      "aconteceu": "A Anthropic assinou seu primeiro contrato de licenciamento com uma editora de notícias.",
+      "significa": "Serve de referência para outras editoras: um jornal menor pode pedir condições parecidas ao negociar com empresas de IA.",
+      "fonte": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
