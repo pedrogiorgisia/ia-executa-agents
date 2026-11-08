@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "titulo": "Uma ferramenta de IA que programa sozinha publicou senhas da empresa em arquivos públicos",
+      "aconteceu": "Segundo uma empresa de segurança (Apiiro), times que configuraram o Claude Code para \"não perguntar de novo\" deixaram senhas e chaves de acesso visíveis em 1.122 arquivos públicos do GitHub. A fonte é um blog de fornecedor de segurança, sem verificação independente.",
+      "significa": "Se alguém do seu time usa IA para programar com permissões liberadas, vale revisar essas permissões e onde as senhas ficam guardadas. Peça que as chaves fiquem em um cofre de senhas, nunca no código.",
+      "fonte": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Pagar por tarefa resolvida, e não por volume de texto, pode baixar a conta de IA",
+      "aconteceu": "A Fireworks AI (empresa que hospeda modelos de IA) defende escolher o modelo mais adequado para cada tarefa e diz cortar o custo de 6 a 8 vezes. O número é da própria empresa, sem checagem independente.",
+      "significa": "Em vez de comparar preço por volume de texto, calcule quanto custa resolver uma tarefa inteira. Um modelo mais barato que resolve a maioria dos chamados sem retrabalho pode sair mais em conta.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A Meta lançou o Spaces: você descreve um app no chat e o agente constrói e mantém",
+      "aconteceu": "O agente de IA da Meta (o Muse) agora cria apps que continuam existindo entre uma conversa e outra, a partir de uma descrição em texto.",
+      "significa": "Dá para pedir um painel de acompanhamento de tarefas e encontrá-lo atualizado na sessão seguinte, sem saber programar. Ainda é novo: vale testar com algo pequeno.",
+      "fonte": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Novo teste põe em dúvida as notas que as IAs divulgam em programação",
+      "aconteceu": "O MaxxBench, um novo comparativo, questiona se as pontuações que os fornecedores anunciam para seus modelos refletem o desempenho real.",
+      "significa": "Não decida compra só pelo ranking do fornecedor. Teste a ferramenta em um caso real da sua empresa antes de assinar.",
+      "fonte": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "tags": [
+        "#IA",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA aberta e barata já chega perto da mais cara em simulações de ciberataque",
+      "aconteceu": "Em um teste da Vals AI, o modelo fechado da OpenAI cumpriu 80,8% dos objetivos de ataque em redes simuladas. O modelo aberto DeepSeek V4.1 Flash chegou a 72,8% com cerca de um décimo do custo.",
+      "significa": "Atacantes terão ferramentas baratas e quase de ponta. Priorize corrigir falhas conhecidas e revisar quem tem acesso a quê.",
+      "fonte": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A propaganda embutida em IAs chinesas pode ser removida com um ajuste simples",
+      "aconteceu": "A Nous Research reajustou o Qwen3.8-27B (modelo aberto da Alibaba) e reduziu respostas com propaganda pró-China de 22% para menos de 1%.",
+      "significa": "Se sua empresa usa um modelo aberto chinês em atendimento, teste as respostas sobre temas políticos antes de publicar.",
+      "fonte": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Chegou um modelo de IA aberto, americano, feito para programar com agentes",
+      "aconteceu": "A Ricursive Intelligence lançou o Ripple-65B, de uso livre (licença Apache 2.0), que lidera os modelos abertos dos EUA em um teste de programação, segundo a própria empresa.",
+      "significa": "Uma empresa pode rodar o modelo em servidor próprio para revisar código sem enviá-lo a terceiros. Teste nos seus casos antes de confiar.",
+      "fonte": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
