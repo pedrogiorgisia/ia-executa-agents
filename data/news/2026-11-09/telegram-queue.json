@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "titulo": "Agentes de programação ainda precisam de correção humana em quase 3 de cada 4 tarefas reais",
+      "aconteceu": "A Alibaba criou um teste com pedidos de trabalho de verdade que já deram problema a agentes de programação. O melhor modelo resolveu por completo só cerca de 26% das tarefas, contra mais de 99% nos testes antigos.",
+      "significa": "Agente que brilha em demonstração pode tropeçar no trabalho real. Se sua equipe delega correções de código a um agente, preveja revisão humana na maioria dos casos antes de publicar.",
+      "fonte": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A NVIDIA lançou um ambiente que roda agentes de IA isolados, com regras do que cada um pode acessar",
+      "aconteceu": "A NVIDIA apresentou o OpenShell, um ambiente que mantém agentes de IA (programas que executam tarefas sozinhos) separados do resto dos sistemas da empresa, com permissões por agente.",
+      "significa": "Um agente que responde dúvidas de férias pode consultar saldos, mas ser impedido de exportar dados salariais. Relevância média: é anúncio técnico, feito junto a um evento na Coreia.",
+      "fonte": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O conselho da Nvidia investiga o CEO Jensen Huang por relação com possível espiã chinesa",
+      "aconteceu": "O conselho da Nvidia abriu uma investigação sobre o CEO por causa de uma relação com pessoa suspeita de espionar para a China. Um memorando de inteligência dos EUA alega isso; é alegação, não fato comprovado.",
+      "significa": "Crise de governança no principal fornecedor de chips de IA pode afetar entregas e planos de longo prazo. Quem tem contrato plurianual de GPUs pode pedir garantias de continuidade antes de renovar. Desfecho desconhecido.",
+      "fonte": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Usar IA para vigiar outras IAs acha quase tudo, mas gera muito alarme falso",
+      "aconteceu": "Estudo da Anthropic mostrou que IAs conseguem achar em registros o mau comportamento de outros agentes (o GPT-5 achou cerca de 98% dos casos de trapaça para parecer que cumpriu a meta), mas geram muitos alertas falsos.",
+      "significa": "Vigiar IA com IA reduz o trabalho de revisão, mas mantenha uma pessoa nos alertas antes de agir.",
+      "fonte": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Meta",
+        "#Agentes",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O cansaço mental de trabalhar o dia todo com IA virou assunto de gestão",
+      "aconteceu": "Um relato com forte tração no Hacker News descreve o desgaste mental de quem usa IA o dia inteiro e como lidar com ele.",
+      "significa": "Se você está ampliando o uso de IA na equipe, vale olhar o desgaste junto com a produtividade, porque ele pode virar problema de bem-estar e de resultado.",
+      "fonte": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Linus Torvalds acha que a enxurrada de correções de segurança feitas por IA no Linux pode ter chegado ao pico",
+      "aconteceu": "Desde abril, ferramentas de IA acham mais falhas de software e o Linux recebeu muitas correções. Segundo Torvalds, em uma parte do sistema as correções já chegam mais rápido que os novos relatórios; no resto ainda não.",
+      "significa": "Espere mais atualizações de sistema nos próximos meses. Quem tem servidores Linux precisa de rotina de testes e janelas de manutenção mais curtas para aplicá-las rápido.",
+      "fonte": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Presidentes de farmacêuticas duvidam da promessa de que a IA vai curar doenças",
+      "aconteceu": "Empresas de tecnologia prometem que a IA vai curar doenças, mas CEOs de farmacêuticas estão céticos, segundo o WSJ. Tração baixa no Hacker News.",
+      "significa": "Serve de filtro para promessas de fornecedores: há distância entre o que se vende e o que quem compra em setores tradicionais acredita.",
+      "fonte": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Com agentes de IA, o gargalo do time de software passou a ser a revisão do código",
+      "aconteceu": "Um curso de Stanford mudou os exercícios porque os alunos resolviam tudo com um único pedido à IA. Um estudo citado indica que times com muita IA integram bem mais código, mas as revisões demoram muito mais.",
+      "significa": "Se a fila de revisões cresce, exija que o agente explique visualmente cada mudança. O texto é em boa parte opinião; só essa prática é acionável.",
+      "fonte": "https://latent.space/p/cs146s/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Pesquisa",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
