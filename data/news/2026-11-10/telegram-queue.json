@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "titulo": "A Anthropic lançou o Claude Fable 5.2, e o Mythos 5.2 só para empresas verificadas",
+      "aconteceu": "A Anthropic (criadora do Claude) lançou uma versão nova do seu modelo principal, liberada para todo mundo, e uma versão irmã restrita a organizações de segurança e ciências da vida. Também chegou um \"modo rápido\", até 2,5 vezes mais veloz, por preço maior.",
+      "significa": "Quem usa o Claude já tem um modelo melhor para tarefas difíceis de programação e análise. Quem paga pela API deve recalcular o custo: US$ 8 (entrada) e US$ 40 (saída) por milhão de tokens, e o modo rápido dobra isso.",
+      "fonte": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A Meta lançou um modelo de IA pequeno e barato para o trabalho repetitivo dos agentes",
+      "aconteceu": "O Muse Ember custa cerca de US$ 0,10 por milhão de tokens de entrada e serve para classificar pedidos, escolher ferramentas e extrair dados. A Meta diz que rende mais por dólar que concorrentes baratos, mas fica atrás em programação (comparação da própria Meta).",
+      "significa": "Um atendimento automático pode usar um modelo barato só para triar os pedidos e deixar o modelo caro para os casos difíceis, baixando a conta. Vale testar com as suas tarefas antes de confiar.",
+      "fonte": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Agentes",
+        "#Investimento",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Cisco e IBM vão usar o Mythos, da Anthropic, para achar falhas nos próprios produtos de segurança",
+      "aconteceu": "O modelo que caça falhas de software entra dentro de produtos da Cisco e da IBM (o cliente não recebe o modelo em si). Quem tem a ferramenta Cisco AI Defense pode testar um robô de atendimento antes de publicar, tentando fazê-lo vazar dados.",
+      "significa": "Se você vai colocar um assistente de IA para falar com clientes, já existe forma de atacá-lo de propósito antes, sem custo extra segundo a matéria.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Robótica",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT Enterprise agora pode ser contratado pela loja de software da Amazon (AWS)",
+      "aconteceu": "A versão do ChatGPT para empresas entrou no AWS Marketplace, o catálogo de software da Amazon.",
+      "significa": "Quem já paga a AWS pode incluir o ChatGPT na mesma fatura, sem negociar contrato novo com a OpenAI e usando o orçamento de nuvem que já existe.",
+      "fonte": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A bolha de IA pode demorar a estourar, mas é bom ter um plano de saída",
+      "aconteceu": "A consultoria Forrester diz que uma queda do mercado de IA não é iminente, mas o gasto em infraestrutura já supera o retorno mensurável, e o risco se concentra em empresas endividadas e acordos circulares com os laboratórios.",
+      "significa": "Acompanhe a saúde financeira dos seus fornecedores de IA e simule: o que eu migro se um deles encerrar o suporte em 12 meses? Contratos sem cláusula de saída são os mais expostos.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+      "tags": [
+        "#IA",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Apple teria colocado um teto de US$ 200 por dia em gastos de IA por engenheiro",
+      "aconteceu": "Segundo uma newsletter (a Apple não confirmou), cada engenheiro tem um limite diário para usar ferramentas de IA.",
+      "significa": "O custo de IA por funcionário virou item de controle: vale já definir limites e quem aprova gasto antes que a conta surpreenda.",
+      "fonte": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um ano depois de exigir 100% do código feito por IA, uma empresa diz que ninguém entende o código",
+      "aconteceu": "Relato de uma empresa que impôs o uso de IA para quase todo o código e hoje diz que a equipe não compreende o que foi produzido.",
+      "significa": "Meta de uso de IA sem revisão gera dívida de conhecimento. A lógica vale para qualquer área que delegue trabalho à IA sem alguém que confira.",
+      "fonte": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A dona do WordPress lançou uma plataforma para publicar apps criados conversando com a IA",
+      "aconteceu": "O Spacefast, da Automattic, coloca no ar apps feitos descrevendo o que se quer em linguagem natural (o chamado \"vibe coding\"). Concorre com a Lovable.",
+      "significa": "Um pequeno negócio pode criar e publicar, por exemplo, um formulário de agendamento sem montar servidor nem contratar desenvolvedor.",
+      "fonte": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Alguém pediu um jogo completo ao Claude Fable 5.2 e ele saiu pronto de primeira",
+      "aconteceu": "Um autor relata que o modelo novo criou sozinho, em uma única instrução, o \"jogo dos sonhos\" do sobrinho.",
+      "significa": "Pessoas sem formação técnica estão começando a criar software sozinhas, o que muda a conversa sobre protótipos e o que as áreas de negócio fazem sem esperar a TI.",
+      "fonte": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Fabricantes de pulseiras e fones usariam dados do seu cérebro para treinar IA sem avisar",
+      "aconteceu": "Reportagem da revista Science diz que empresas de dispositivos vestíveis coletam atividade cerebral dos usuários sem transparência.",
+      "significa": "Antes de oferecer wearables como benefício ou usar um, leia o que o fabricante faz com os dados. É informação muito sensível.",
+      "fonte": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O sucessor de Nancy Pelosi quer um regulador federal e um botão de desligamento para a IA",
+      "aconteceu": "Scott Wiener, autor de leis californianas sobre IA, venceu a vaga na Câmara dos EUA e defende testes e auditorias obrigatórios. São propostas, sem texto aprovado.",
+      "significa": "Se avançarem, quem desenvolve modelos avançados terá de documentar testes e manter mecanismos de interrupção. Sinal para acompanhar a regulação nos EUA.",
+      "fonte": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic deve definir nesta semana o valor da sua oferta de ações",
+      "aconteceu": "Segundo o Wall Street Journal, a faixa de valor do IPO (abertura de capital) da Anthropic sai nos próximos dias.",
+      "significa": "É um sinal da solidez financeira de um fornecedor que muita empresa usa, útil para quem avalia risco de dependência.",
+      "fonte": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Anthropic vai enfrentar processo sobre como vendeu as assinaturas do Claude",
+      "aconteceu": "A Reuters informa que a Justiça não barrou uma ação contra a empresa sobre o marketing das assinaturas. Pouca repercussão até agora.",
+      "significa": "Risco jurídico e de reputação na forma de vender assinaturas de IA; quem contrata ou revende deve ler as condições com atenção.",
+      "fonte": "https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A ByteDance promete edição de imagem que não muda cor nem rosto em 100 retoques seguidos",
+      "aconteceu": "O Seedream 5.5 mantém a consistência ao longo de muitas edições e gera fundo transparente. A empresa diz superar o GPT-Image-2.5 em realismo (alegação dela).",
+      "significa": "Pode reduzir retrabalho de design e pós-produção em campanhas, se a promessa se confirmar em testes reais.",
+      "fonte": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A revolta contra data centers pode ser, no fundo, sobre a conta de luz",
+      "aconteceu": "Na Virgínia, a oposição gira em torno do custo da eletricidade; novas regras mandam os data centers pagarem as linhas de transmissão, e muitos planejam gerar energia própria a gás.",
+      "significa": "Quem avalia um data center na cidade deve exigir plano de energia e estudo de emissões antes de aprovar.",
+      "fonte": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "tags": [
+        "#IA",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
