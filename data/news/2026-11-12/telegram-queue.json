@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-12",
+  "items": [
+    {
+      "titulo": "O Claude agora cria planilhas, quadros brancos e painéis de dados, e você compartilha por link",
+      "aconteceu": "A Anthropic adicionou ao Claude três novos tipos de arquivo criados dentro do próprio chat: planilhas, quadros brancos e dados. Tudo pode ser compartilhado por link, e reuniões foram anunciadas para breve.",
+      "significa": "Se você é gestor e pede uma planilha de orçamento ao Claude, já consegue mandar para o time sem exportar nada nem abrir outro programa. Em contrapartida, você fica mais dependente de um único fornecedor.",
+      "fonte": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Mais de 35 mil apps feitos com o Grok ficaram abertos na internet, com dados de pacientes",
+      "aconteceu": "A empresa de segurança Claroc achou mais de 35 mil apps criados com o Grok (IA da xAI) acessíveis a qualquer pessoa, incluindo dados de pacientes e documentos internos. A causa: a opção \"qualquer pessoa com o link\" vinha pré-marcada.",
+      "significa": "Se alguém da sua empresa criou um app de agendamento ou cadastro com IA, vale conferir hoje quem consegue abrir. O padrão dessas ferramentas pode estar expondo dados sem ninguém perceber.",
+      "fonte": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um fornecedor de IA foi invadido e os clientes da Notion foram afetados",
+      "aconteceu": "A Notion avisou sobre um incidente de segurança num fornecedor externo de IA (a Fireworks AI) que atingiu a própria Notion e os clientes dela.",
+      "significa": "Quando uma ferramenta que você usa embute a IA de outra empresa, a falha dela vira risco para os seus dados. Vale perguntar aos seus fornecedores quais empresas de IA estão por trás.",
+      "fonte": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A United Airlines proibiu agentes de IA de comprar passagens por você",
+      "aconteceu": "A companhia aérea passou a barrar assistentes de IA que compram passagens em nome dos clientes.",
+      "significa": "Quem planeja automatizar compras, viagens ou atendimento com agentes pode esbarrar em empresas que bloqueiam esse tipo de acesso. Convém ter plano B para processos que dependem de sites de terceiros.",
+      "fonte": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT agora deixa donos de negócio cuidarem da própria empresa dentro do app",
+      "aconteceu": "A OpenAI lançou o \"Businesses in ChatGPT\": o dono atualiza informações da empresa, vê como ela aparece para as pessoas e leva o cliente até um pedido ou reserva.",
+      "significa": "Se você tem uma padaria, clínica ou loja, pode manter horário e endereço corretos onde as pessoas já perguntam coisas à IA, em vez de torcer para ela acertar.",
+      "fonte": "https://openai.com/index/introducing-businesses-chatgpt",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Anthropic zerou os limites de uso do Claude até 10 de dezembro",
+      "aconteceu": "A Anthropic fez um reset completo dos limites de uso para assinantes Pro, Max, Ultra e Team, válido até 10/12, depois de corrigir falhas que gastavam a cota além do previsto. Os apps de integração (MCP Apps) entraram em prévia pública.",
+      "significa": "Quem estourava a cota no meio do trabalho pode retomar agora. Bom momento para testar o Claude em tarefas maiores sem medo de ficar sem uso.",
+      "fonte": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI faturou US$ 10 bi no trimestre, ainda atrás da Anthropic, e entrou em guerra de preços",
+      "aconteceu": "A receita da OpenAI subiu 50%, para US$ 10 bilhões, mas a empresa teve prejuízo operacional ajustado de US$ 10,9 bilhões. A Anthropic soma US$ 17 bilhões. Para correr atrás, a OpenAI está baixando preços para clientes corporativos.",
+      "significa": "Se sua empresa paga pela IA da OpenAI, a renovação do contrato é hora de negociar. A concorrência está empurrando o preço para baixo.",
+      "fonte": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google lançou uma IA que responde até 1.000 perguntas de sim/não ou categorias de uma vez",
+      "aconteceu": "O Gemini Decision 1 só escolhe entre opções fixas (sim/não, categorias, notas), sem escrever texto. Segundo o Google, responde em 150 a 250 milissegundos e custa cerca de cinco vezes menos que o Gemini 3.5 Flash-Lite. Testes independentes têm resultados mistos.",
+      "significa": "Se você classifica milhares de tickets, e-mails ou posts (fatura, bug, cancelamento), pode baratear isso. Teste com uma amostra sua antes de migrar.",
+      "fonte": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Nova York começou a cobrar das grandes empresas de IA registro e aviso de incidentes",
+      "aconteceu": "Uma lei de segurança de IA de Nova York passou a valer: grandes desenvolvedores, como OpenAI e Anthropic, precisam se registrar, divulgar práticas de segurança e informar incidentes críticos, sob pena de multa.",
+      "significa": "Quem oferece produtos com IA a usuários de Nova York precisa de um processo interno para registrar incidentes. É assunto de jurídico e compliance, não só de tecnologia.",
+      "fonte": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Regulação",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "A OpenAI criou um \"botão de desligar\" para seus modelos, mas ele ainda leva cerca de 35 segundos",
+      "aconteceu": "A OpenAI montou o \"Control Room\", para interromper tarefas de modelos nos seus laboratórios. Hoje a parada leva cerca de 35 segundos, e a meta é chegar a zero.",
+      "significa": "Se um agente agir fora do combinado, há uma janela de dezenas de segundos antes de ele parar. Quem roda agentes autônomos precisa ter o próprio mecanismo de parada.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Agentes",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O aluguel de chips de IA pode ficar mais caro: a CoreWeave exige pagamento adiantado",
+      "aconteceu": "A CoreWeave, que aluga chips de IA na nuvem, passou a pedir que clientes paguem adiantado e fechem contratos mais curtos para financiar o crescimento.",
+      "significa": "Uma startup que aluga capacidade para treinar modelos terá de desembolsar mais caixa antes e renovar com mais frequência. Vale revisar o orçamento de computação dos próximos trimestres.",
+      "fonte": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Estudo aponta que quem usa IA trabalha até 90 minutos a mais por dia",
+      "aconteceu": "Segundo a ActivTrak, empresa que mede produtividade, quem usa IA tem jornadas até 90 minutos mais longas do que quem não usa. A metodologia ainda não foi verificada.",
+      "significa": "O ganho de produtividade pode não ser líquido: a IA pode aumentar a carga em vez de liberar tempo. Vale acompanhar a jornada do time ao adotar a ferramenta.",
+      "fonte": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays",
+      "tags": [
+        "#IA",
+        "#Produtividade",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Apple prepara um app para rodar IA direto no Mac, sem mandar dados para a nuvem",
+      "aconteceu": "A Apple vai lançar um app que facilita rodar modelos de IA no próprio Mac.",
+      "significa": "IA local fica ao alcance do usuário comum, com mais privacidade e menos dependência de assinatura. Bom sinal para quem tem dados sensíveis.",
+      "fonte": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+      "tags": [
+        "#IA",
+        "#Apple",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Código feito com muita IA pode ficar frágil e caro de manter",
+      "aconteceu": "Um artigo com mais de 600 comentários no Hacker News argumenta que software escrito com muita ajuda de IA tende a ficar frágil com o tempo.",
+      "significa": "A velocidade do começo pode esconder um custo de manutenção que só aparece depois. Se você contrata desenvolvimento, pergunte como o código é revisado.",
+      "fonte": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Databricks atualizou um agente que mostra problemas que o time não reporta",
+      "aconteceu": "A Databricks lançou uma versão revisada do Genie, agente que o CEO Ali Ghodsi usa para descobrir falhas internas numa empresa de cerca de 12 mil pessoas.",
+      "significa": "Gestores podem perguntar aos dados da empresa em linguagem natural e achar gargalos sem depender só do que o time relata. A matéria não detalha o funcionamento técnico.",
+      "fonte": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
