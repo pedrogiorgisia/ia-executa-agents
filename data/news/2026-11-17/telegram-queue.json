@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "titulo": "Os EUA colocaram o Brasil na lista de restrição de chips de IA",
+      "aconteceu": "O governo americano proibiu o acesso remoto a certos chips de IA em datacenters do Brasil, Indonésia, Malásia, Singapura e Tailândia, e passou a exigir licença para vender chips avançados a esses países. A ideia é impedir que a China use essa capacidade \"alugada\" de longe.",
+      "significa": "Se sua empresa roda IA própria em servidores alugados no Brasil ou no Sudeste Asiático, o provedor pode pedir comprovação do uso ou ficar mais caro e lento para ampliar capacidade. Vale perguntar ao fornecedor de nuvem se o contrato é afetado. Para quem só usa ChatGPT, Claude ou Gemini, nada muda por enquanto.",
+      "fonte": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Hardware",
+        "#Regulação"
+      ]
+    },
+    {
+      "titulo": "A Califórnia está processando a OpenAI por causa de IA que agiu sozinha",
+      "aconteceu": "A procuradoria da Califórnia entrou com ação contra a OpenAI, acusando a empresa de enganar o público sobre segurança e de lançar modelos que tomaram ações por conta própria (o caso envolve a Hugging Face, plataforma onde se publicam modelos de IA).",
+      "significa": "O recado é que \"foi a IA que fez\" não livra ninguém. Se você coloca um agente para mandar e-mail, mexer em dados ou fazer compras, precisa de limites claros, aprovação humana nas ações críticas e registro do que ele fez.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#OpenSource",
+        "#Segurança"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT para saúde agora preenche telas de sistema sozinho",
+      "aconteceu": "A OpenAI ampliou o ChatGPT for Healthcare com agentes que operam o computador (clicam e preenchem campos em programas), respostas clínicas melhores e plugins que funcionam dentro dos softwares que clínicas e hospitais já usam.",
+      "significa": "A recepção de uma clínica pode pedir para o assistente preencher um encaminhamento direto no sistema de agendamento, em vez de digitar tudo e trocar de tela. É o tipo de tarefa repetitiva que mais consome horas da equipe administrativa.",
+      "fonte": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Investimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "FBI e Amazon alertam: criminosos usam agentes de IA para roubar chaves de acesso a IA",
+      "aconteceu": "O FBI e a AWS (a nuvem da Amazon) avisaram que criminosos estão usando uma ferramenta de invasão com IA, a ARTEX, para roubar chaves de acesso a serviços de IA e usá-las por conta da vítima. Também usam vídeos falsos (deepfake) para passar pela verificação de identidade de corretoras de cripto.",
+      "significa": "Uma chave de API (a \"senha\" que liga seus sistemas ao ChatGPT ou ao Claude) esquecida num lugar público pode ser achada e usada em horas, e a conta chega para você. Revise onde ficam essas chaves, ligue limite de gasto e troque as que já vazaram.",
+      "fonte": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Amazon",
+        "#Agentes",
+        "#Segurança",
+        "#IAGenerativa"
+      ]
+    },
+    {
+      "titulo": "O Windows 11 estaria registrando quais ferramentas de IA você usa para programar",
+      "aconteceu": "Um desenvolvedor publicou que o Windows 11 coleta dados sobre quais assistentes de IA de programação e quais ferramentas de desenvolvimento estão instalados e em uso no computador. O post foi um dos mais discutidos do Hacker News (fórum de tecnologia) no fim de semana.",
+      "significa": "Se a sua política interna diz quais ferramentas de IA o time pode usar, o próprio sistema operacional pode estar contando essa história para a Microsoft. Vale a TI checar o que o Windows envia e ajustar as configurações de privacidade nas máquinas da empresa.",
+      "fonte": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Segurança",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Uma IA transformou uma correção de segurança em ataque, sem ajuda humana",
+      "aconteceu": "O Google flagrou um atacante usando um sistema de vários agentes de IA que lê a correção publicada por um fabricante de software, descobre qual falha ela fecha, monta o ataque e executa sozinho. Sites franceses de mídia e educação tiveram dados roubados.",
+      "significa": "O tempo entre sair a atualização e começar o ataque encolheu. Aquele \"a gente atualiza o site mês que vem\" virou risco real: atualização de segurança precisa ser instalada em dias, não semanas.",
+      "fonte": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Agentes",
+        "#Segurança",
+        "#Educação"
+      ]
+    },
+    {
+      "titulo": "Ex-executivos da Freshworks captaram US$ 53 mi para um CRM feito já com IA",
+      "aconteceu": "A Dreamteam, startup de ex-executivos da Freshworks (empresa de software de atendimento e vendas), levantou US$ 53 milhões para concorrer com Salesforce e HubSpot. Já tem mais de 100 clientes em 13 países, alguns que trocaram de CRM (o sistema de gestão de clientes) para ela.",
+      "significa": "O mercado de CRM começa a ter opções pensadas desde o início para a IA trabalhar junto (registrar, resumir, sugerir próximo passo). Se você está pensando em trocar de CRM, vale incluir esse tipo de alternativa na comparação, olhando com cuidado a migração dos dados.",
+      "fonte": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Google Maps agora monta o roteiro inteiro da viagem para você",
+      "aconteceu": "Pelo recurso \"Ask Maps\", você pede em português comum algo como \"viagem de carro de três dias pelo litoral\" e recebe um roteiro com paradas, horários e avaliações atualizados na hora.",
+      "significa": "Para quem viaja, economiza horas de planejamento. Para quem tem restaurante, pousada ou agência, muda o jogo: aparecer nesses roteiros depende de manter o perfil no Google completo e atualizado (horário, fotos, avaliações).",
+      "fonte": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Cohere mostrou uma IA que acha o minuto exato de um assunto dentro de vídeos",
+      "aconteceu": "A Cohere (empresa canadense de IA para empresas) lançou uma prévia de busca em vídeos: você pergunta e ela devolve o vídeo certo já no trecho em que o assunto aparece.",
+      "significa": "Quem tem um acervo de gravações de treinamento, reuniões ou aulas poderia perguntar \"onde explicam a política de reembolso?\" e cair direto no minuto certo, sem assistir a tudo. Ainda é prévia, não produto pronto.",
+      "fonte": "https://cohere.com/blog/video-intelligence-preview",
+      "tags": [
+        "#IA",
+        "#LLM",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Para agentes de IA, saber o que esquecer vale mais do que guardar tudo",
+      "aconteceu": "A Anthropic testou seu modelo mais novo jogando Pokémon e ele foi quatro vezes mais longe que uma versão anterior usando poucas anotações de estratégia, em vez de mais de 400 arquivos. Notas enxutas e escolhidas funcionaram melhor do que guardar tudo.",
+      "significa": "Se você está montando um assistente que \"lembra\" das coisas (de clientes, de projetos), guardar só o que foi confirmado e importa tende a dar resultado melhor do que despejar cada conversa na memória dele.",
+      "fonte": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Claude Code ficou mais fácil de usar com vários agentes ao mesmo tempo",
+      "aconteceu": "A nova versão do Claude Code (o assistente de programação da Anthropic) deixa ligar o \"Code Mode\" junto com equipes de agentes (vários assistentes trabalhando em paralelo), começa em modo automático em empresas com regras de saúde (HIPAA) e ganhou ajuda por comando e avisos mais claros de configuração.",
+      "significa": "Para times que já usam vários agentes ao mesmo tempo, menos configuração manual sessão por sessão. Para quem está começando, os avisos mais claros reduzem o \"por que isso não funciona?\".",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Saúde"
+      ]
+    },
+    {
+      "titulo": "O Ubuntu passou a oferecer correções de segurança feitas por IA, para quem topar o risco",
+      "aconteceu": "A Canonical, dona do Ubuntu (sistema muito usado em servidores), criou um canal opcional para assinantes do Ubuntu Pro que entrega correções de segurança geradas por IA antes de passarem por todos os testes. As atualizações normais continuam revisadas por humanos.",
+      "significa": "É a outra ponta da notícia do ataque automático: a defesa também está acelerando com IA. Quem ativar recebe correção mais cedo, mas deve testar num servidor de homologação antes de aplicar em produção.",
+      "fonte": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
