@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "titulo": "A OpenAI ensinou como pedir para o ChatGPT novo não responder curto demais",
+      "aconteceu": "A OpenAI publicou modelos de pedido (prompt) para os modelos GPT-6.2 Astra e Sol, que vinham dando respostas curtas demais e fazendo perguntas desnecessárias antes de agir.",
+      "significa": "Se o ChatGPT anda te entregando relatório raso, diga no pedido o tamanho e o formato que você quer (\"2 páginas, em tópicos, com tabela no fim\") e que ele não precisa perguntar antes de começar. Quem tem sistema próprio usando a API deve evitar editar o histórico da conversa, porque isso apaga o raciocínio e piora a resposta.",
+      "fonte": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Mandar o documento inteiro para a IA toda vez pode ser dinheiro jogado fora",
+      "aconteceu": "Pesquisadores da Nvidia concluíram que os modelos raramente precisam ler textos enormes de uma vez: fazer resumos periódicos e buscar só os trechos certos deu resultado parecido, a um custo bem menor.",
+      "significa": "Em vez de colar o contrato inteiro a cada pergunta, extraia antes só as cláusulas que importam (prazo, multa, reajuste). A conta da IA cai e a chance de erro também.",
+      "fonte": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Testaram 65 IAs e quase todas deram o mesmo conselho para todo mundo",
+      "aconteceu": "Um experimento fez as mesmas perguntas do dia a dia a 65 IAs de 30 empresas (quase 128 mil respostas). 98% indicaram fundo de índice para investir US$ 10 mil, 76% sugeriram \"clube de assinatura\" como ideia de negócio e 73% recomendaram o mesmo livro. Pedir \"seja original\" não resolveu; o que funcionou foi dar detalhes sobre você ou pedir 10 opções e escolher uma.",
+      "significa": "Se o seu time usa IA para estratégia, campanha ou texto, o concorrente provavelmente está recebendo a mesma ideia. Dê contexto do seu negócio no pedido e peça várias alternativas, senão você fica igual a todo mundo.",
+      "fonte": "https://a90.com/experiments/same-advice/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Já dá para rodar uma IA boa no notebook, sem mandar seus documentos para a nuvem",
+      "aconteceu": "A Thinking Machines (empresa da ex-CTO da OpenAI) lançou o Inkling 2 Mini, um modelo gratuito que roda num notebook e, segundo a matéria, empata com concorrentes do mesmo tamanho a cerca de um sexto do custo.",
+      "significa": "Um escritório que não pode mandar documento de cliente para servidor de terceiros (advocacia, contabilidade, saúde) passa a ter uma opção de IA que fica dentro da máquina.",
+      "fonte": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Atores já vendem uma versão de IA do próprio rosto para séries curtas",
+      "aconteceu": "Um ator licenciou o rosto para uma startup de microdramas (séries de vídeo bem curtas), que vai usar versões geradas por IA dele. Na China isso já é comum.",
+      "significa": "Se a sua empresa usa porta-voz, influenciador ou avatar em conteúdo, o contrato precisa dizer por quanto tempo e onde a imagem gerada por IA pode aparecer. Sem isso, o \"rosto digital\" pode continuar sendo usado sem nova negociação.",
+      "fonte": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Startups",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Funcionários do Google pedem que a empresa não puna escolas que recusam IA",
+      "aconteceu": "Trabalhadores do Google fizeram uma petição para que a empresa não retalie escolas que não querem usar o Gemini em sala de aula.",
+      "significa": "A resistência à IA imposta de cima para baixo aparece até dentro das empresas de tecnologia. Se você está obrigando o time a usar IA, explicar o porquê e dar espaço para dúvida evita desgaste.",
+      "fonte": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Educação",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Ferramentas de terceiros usadas em produtos de IA estão vazando dados de usuários",
+      "aconteceu": "Reportagem da Ars Technica mostra que componentes e serviços de terceiros usados por produtos de IA estão expondo dados sensíveis de usuários em ritmo alarmante.",
+      "significa": "Ao contratar uma ferramenta de IA, pergunte quais fornecedores ela usa por trás e por onde passam os seus dados. O elo fraco costuma ser o terceiro, não a IA em si.",
+      "fonte": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "A OpenAI fechou a porta para quem tentava copiar o \"raciocínio\" dos modelos dela",
+      "aconteceu": "A OpenAI reforçou a proteção do raciocínio interno do GPT-6.2: os ataques para extraí-lo passaram de 54% de sucesso para 0,2%, e milhares de contas que tentavam copiar o modelo pelas respostas são suspensas por semana.",
+      "significa": "Quem tem sistema que usa a API da OpenAI pode ver menos do raciocínio do modelo, o que dificulta entender por que ele errou. Vale checar se algum fluxo depende disso.",
+      "fonte": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Para confiar no código feito por IA, empresas começam a exigir \"prova matemática\"",
+      "aconteceu": "Ferramentas que provam por lógica que um programa faz exatamente o que deveria estão virando produto, e a Amazon já usa uma no Kiro, seu ambiente de programação com agentes.",
+      "significa": "Um time que usa IA para escrever código de pagamento pode exigir a prova de que \"o saldo nunca fica negativo\" em todos os casos, e não só testar algumas situações. Ainda é tendência, não ferramenta madura.",
+      "fonte": "https://latent.space/p/formal-verification/",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    }
+  ]
+}
