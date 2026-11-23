@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "titulo": "Um matemático resolveu, com o Claude, o problema de matemática mais famoso do mundo",
+      "aconteceu": "O matemático Levent Alpöge anunciou que provou a Hipótese de Riemann (pergunta sobre como os números primos se distribuem, aberta desde 1859) trabalhando junto com o Claude, que segundo ele deu a ideia-chave. A prova foi conferida por um programa que não aceita prova errada, e a comunidade de matemáticos que mantém esse programa confirmou que ela está correta. As previsões apontavam para 2035, e um dos maiores matemáticos vivos falava em 2050.",
+      "significa": "A IA como parceira de trabalho intelectual pesado chegou décadas antes do previsto. Se a sua empresa ainda trata IA só como \"escrever e-mail e resumir reunião\", vale rever: o modelo que funciona aqui é o humano dando a direção e a IA executando e sugerindo caminhos.",
+      "fonte": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Revendedores baratos de IA estavam roubando senhas e lendo os pedidos dos clientes",
+      "aconteceu": "Pesquisadores da Dragos (empresa de segurança) mandaram cerca de 2 milhões de pedidos-isca a provedores baratos de IA e acharam pelo menos 3 invadidos, centenas de chaves de nuvem roubadas e revendedores lendo o que os clientes mandavam. A promessa de \"não guardamos seus dados\" foi ignorada com frequência. A OpenRouter (plataforma que dá acesso a vários modelos de IA) tirou 3 provedores do ar.",
+      "significa": "Se a sua empresa usa IA por um intermediário escolhido pelo menor preço, os dados de clientes que vão nos prompts podem estar sendo lidos por terceiros. Use o fornecedor oficial (OpenAI, Anthropic, Google) ou um intermediário verificado, e troque as chaves de acesso se tiver dúvida.",
+      "fonte": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Google",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Agentes de IA que gabaritam testes concluem menos de 1 em 10 tarefas num \"emprego\" simulado",
+      "aconteceu": "Um experimento colocou os agentes de programação mais avançados (inclusive Claude Opus 5.5 e GPT-6 Astra) para trabalhar como funcionários numa empresa de software simulada, com colegas, quadro de tarefas e histórico de conversas. Eles concluíram menos de 1 em cada 10 tarefas, embora quase gabaritem os testes de tarefas isoladas.",
+      "significa": "IA resolve muito bem a tarefa bem delimitada; o que ela ainda não faz é se virar no contexto bagunçado de uma empresa real. Antes de \"entregar o projeto inteiro para o agente\", quebre o trabalho em pedaços claros e mantenha alguém revisando.",
+      "fonte": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Funcionários estão criando sistemas com IA e colocando no ar sem a TI saber",
+      "aconteceu": "Uma discussão no Hacker News (fórum de tecnologia) levantou um problema que está ficando comum: funcionários criam pequenas ferramentas com o Claude e publicam em links abertos ou no próprio computador, às vezes sem senha. Ninguém sabe quem acessa, nem o que acontece quando a pessoa sai da empresa.",
+      "significa": "É bom sinal (o time está criando), mas sem regra vira risco de vazamento. Vale definir um lugar oficial e simples para publicar essas ferramentas, com login, antes que alguém publique planilha de cliente num link aberto.",
+      "fonte": "https://news.ycombinator.com/item?id=50598355",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O CEO da Microsoft admite que o editor de código dela perdeu espaço para o Claude Code",
+      "aconteceu": "Satya Nadella reconheceu que o VS Code (o editor de código da Microsoft, o mais usado por programadores há uma década) perdeu relevância em cerca de seis meses por causa do Claude Code, ferramenta da Anthropic em que a IA executa as tarefas sozinha. Alguns programadores dizem que nem abrem mais o editor.",
+      "significa": "Um software que dominava há 10 anos perdeu espaço em 6 meses para um agente de IA. Vale perguntar quais ferramentas da sua empresa estão nessa mesma posição, e não renovar contratos longos sem olhar as alternativas.",
+      "fonte": "https://www.windowslatest.com/2026/11/23/the-thing-that-hit-us-satya-nadella-admits-vs-code-faded-in-six-months-after-a-decade-on-top-because-of-claude-code-and-some-developers-say-theyve-stopped-opening-it/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Microsoft",
+        "#Agentes",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT novo responde mais curto, mas avisa menos quando não tem certeza",
+      "aconteceu": "Uma avaliação da Artificial Analysis (empresa que compara modelos de IA) mostrou que os novos modelos da OpenAI, GPT-6.2 Astra e Sol, dão respostas 34% a 40% menores e mais diretas. Em compensação, caíram muito na nota de \"admite quando não sabe\", enquanto os modelos do Claude ficaram bem à frente nesse quesito.",
+      "significa": "Resposta curta é ótima no dia a dia, mas em análise jurídica, financeira ou de dados a ressalva que sumiu pode ser a parte importante. Se você trocou de modelo, peça explicitamente \"diga o que você não sabe\" nesses casos.",
+      "fonte": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A IA está melhorando mais rápido do que os testes conseguem medir",
+      "aconteceu": "A METR (organização independente que avalia riscos de IA) diz que o tamanho das tarefas que a IA consegue fazer dobra a cada 3,6 meses, e que os testes mais usados tendem a superestimar o desempenho real, porque os modelos são treinados em ambientes muito parecidos com os testes.",
+      "significa": "A nota que o fornecedor mostra no slide não garante resultado no seu processo. Antes de contratar, teste com 10 a 20 tarefas reais da sua empresa e compare.",
+      "fonte": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Um CRM deixa o Claude e o ChatGPT mudarem dados de clientes sem pedir aprovação",
+      "aconteceu": "O Relaticle, um sistema de gestão de clientes (CRM) de código aberto, permite que assistentes de IA leiam e alterem os dados diretamente. O próprio autor admite que, do jeito que a integração funciona hoje, as alterações entram sem nenhum passo de aprovação humana.",
+      "significa": "Ao conectar a IA no CRM ou no ERP, a pergunta certa é \"ela só lê ou também altera?\". Comece só com leitura e libere alteração só onde houver confirmação humana.",
+      "fonte": "https://github.com/relaticle/relaticle",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#OpenSource",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "O consumo de energia e água da IA começa a pesar na conta do clima",
+      "aconteceu": "Um texto que circulou bastante no Hacker News (116 pontos) mostra que o consumo de energia e água dos data centers de IA cresce rápido e já vai contra metas climáticas de países e empresas.",
+      "significa": "O uso de IA tende a entrar nos relatórios ambientais (ESG) e nas exigências de clientes grandes. Empresas que vendem para multinacionais podem começar a ser perguntadas sobre isso.",
+      "fonte": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
