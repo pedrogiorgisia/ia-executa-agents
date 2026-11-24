@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "titulo": "O Claude Code agora tem agentes que revisam e aprovam mudanças no código",
+      "aconteceu": "A Anthropic lançou, em teste, o Claude Ship (comando /ship no Claude Code): agentes de IA que abrem propostas de mudança no código, corrigem o que falha nas checagens e podem aprovar sozinhos. As regras do repositório continuam decidindo o que pode ser aprovado.",
+      "significa": "Times que perdem horas revisando mudanças simples podem passar essa parte para a IA. O jeito seguro de começar é liberar só as mudanças triviais e manter gente revisando o resto, porque fica a pergunta de quem responde por um erro aprovado por máquina.",
+      "fonte": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A busca do Google com IA agora lê o seu Drive e a sua carteira digital",
+      "aconteceu": "O modo com IA da busca do Google passou a usar os arquivos do seu Google Drive, os dados do Google Wallet (carteira digital) e o app do Gemini para personalizar as respostas.",
+      "significa": "Dá para perguntar \"quando vence o seguro do meu carro?\" e receber a resposta tirada do PDF que está no seu Drive. Do lado da empresa, quem administra o Google Workspace deve revisar o que fica acessível para a IA.",
+      "fonte": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Robô de atendimento com IA virou negócio de US$ 30 bilhões",
+      "aconteceu": "A Sierra, empresa que vende agentes de IA para atendimento ao cliente (fundada por Bret Taylor, ex-presidente do conselho da OpenAI), captou US$ 1,75 bilhão e dobrou de valor em seis meses.",
+      "significa": "É sinal de que grandes empresas já estão comprando IA para atender cliente em escala. Se você cuida de SAC ou suporte, esse tipo de plataforma já merece entrar na próxima cotação de fornecedores.",
+      "fonte": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Investimento",
+        "#Robótica"
+      ]
+    },
+    {
+      "titulo": "Jensen Huang voltou ao comando da Nvidia dias depois de sair",
+      "aconteceu": "O conselho da Nvidia (fabricante dos chips que rodam a maior parte da IA do mundo) recolocou Jensen Huang como CEO, poucos dias depois da saída dele em meio a uma investigação. Foi o assunto mais votado do Hacker News no dia.",
+      "significa": "A troca e destroca no comando de uma única empresa mexe com o mercado inteiro de IA. É um lembrete de que a IA que você usa depende de pouquíssimos fornecedores, e vale ter plano B na escolha de ferramentas.",
+      "fonte": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Gemini passou a cobrar só pelo trecho do documento que a IA lê",
+      "aconteceu": "Na versão do Gemini usada por sistemas (a API), o Google lançou o \"file slicing\": você manda o arquivo uma vez e paga só pelas páginas ou trechos que o modelo de fato analisa, não pelo documento inteiro.",
+      "significa": "Quem automatiza leitura de contratos, relatórios ou manuais longos com IA pode pagar bem menos, porque deixa de ser cobrado por páginas que a IA nem precisou abrir.",
+      "fonte": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Um dos pais da IA acusa o chefe da Anthropic de exagerar riscos para proibir IA aberta",
+      "aconteceu": "Yann LeCun, cientista-chefe de IA da Meta por muitos anos, disse publicamente que Dario Amodei, CEO da Anthropic (dona do Claude), alarma sobre os perigos da IA para tornar ilegais os modelos abertos, aqueles que qualquer um pode baixar e usar. É a opinião dele, não fato comprovado, mas teve enorme repercussão.",
+      "significa": "A briga entre IA aberta e IA fechada vai virar regra de governo em algum momento. Se a sua empresa aposta em modelos abertos para cortar custo ou manter dados em casa, vale acompanhar, porque a regulação pode mudar o jogo.",
+      "fonte": "https://twitter.com/ylecun/status/2124550037912920090",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Regulação",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Cisco e OpenAI criaram uma IA que tapa falhas de segurança sem desligar o servidor",
+      "aconteceu": "As duas lançaram o Shirudo, ferramenta gratuita e de código aberto em que agentes de IA examinam os servidores e criam \"escudos\" que bloqueiam uma falha conhecida enquanto a correção definitiva não é instalada. Uma pessoa revisa antes de ir para produção.",
+      "significa": "Sistemas antigos que não podem parar para atualização ganham uma proteção provisória. Foi demonstrado só em teste, então é para a TI avaliar, não para sair usando amanhã.",
+      "fonte": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#OpenSource",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A Amazon comprou uma tecnologia que faz a IA rodar mais barato",
+      "aconteceu": "A Amazon comprou a tecnologia e a equipe fundadora da israelense Decart, que otimiza o uso de chips de IA. O valor não foi divulgado; a Bloomberg estima cerca de US$ 7,5 bilhões.",
+      "significa": "Se a tecnologia entrar na AWS (a nuvem da Amazon), quem roda IA lá pode pagar menos ou ter respostas mais rápidas. Ainda é promessa: não há prazo nem número.",
+      "fonte": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A empresa no centro do escândalo da Nvidia deve entrar na lista negra dos EUA",
+      "aconteceu": "A Megaspeed, investigada por suspeita de levar chips de IA para a China por uma rede no Sudeste Asiático, deve ser proibida de negociar com empresas americanas sem licença especial. Jensen Huang deve depor em 1º de dezembro.",
+      "significa": "Quem compra servidores e placas de IA por distribuidores regionais deve conferir de onde vem o equipamento e a documentação de exportação, para não herdar um problema legal.",
+      "fonte": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O Codex, da OpenAI, deixa exigir aprovação antes de usar cada ferramenta conectada",
+      "aconteceu": "O Codex (assistente de programação da OpenAI, concorrente do Claude Code) agora permite definir uma pessoa ou regra de aprovação para cada ferramenta externa ligada a ele, e passou a funcionar também pela nuvem da Amazon.",
+      "significa": "Dá para deixar a IA livre nas tarefas comuns e travar com revisão só o que é sensível, como mandar algo para um sistema de fora.",
+      "fonte": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Amazon",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "A partir de 30/11, os plugins que a empresa define no Claude Code vão se atualizar sozinhos",
+      "aconteceu": "A nova versão do Claude Code avisa que, a partir de 30/11/2026, os catálogos de plugins configurados pela empresa passam a se atualizar automaticamente por padrão. A versão também melhora o diagnóstico de quando a conexão falha.",
+      "significa": "Quem administra o Claude Code na empresa tem uma semana para decidir se quer essa atualização automática ou se prefere controlar cada mudança antes de chegar no time.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Saúde",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Fala antiga do CEO da Anthropic sobre videogames e desemprego volta a circular",
+      "aconteceu": "Uma reportagem resgatou uma fala de 2015 em que Dario Amodei, hoje CEO da Anthropic, teria sugerido que videogames poderiam \"acalmar\" a população se a IA tirasse os empregos. A frase é antiga e o contexto original não foi verificado.",
+      "significa": "O medo de desemprego por IA continua alimentando desconfiança contra os líderes do setor. Quem conduz adoção de IA dentro de uma empresa precisa falar abertamente sobre o que acontece com as pessoas, ou o projeto encontra resistência.",
+      "fonte": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
