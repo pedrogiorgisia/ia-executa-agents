@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "titulo": "Agora dá para transformar um mini-app criado no chat do Claude em programa instalado no computador",
+      "aconteceu": "A Anthropic passou a deixar instalar os Artifacts (mini-apps e painéis criados dentro de uma conversa com o Claude) como aplicativo no Mac e no Windows, com ícone na barra e notificações. Funciona até na conta gratuita.",
+      "significa": "Quem não programa pode pedir no chat um controle de orçamento, um checklist de reunião ou um timer de pausas e deixar instalado no computador, sem comprar software nem envolver a TI.",
+      "fonte": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Uma empresa de atendimento quer automatizar metade do suporte com agentes de IA em 30 dias",
+      "aconteceu": "A Richpanel, plataforma de atendimento para lojas online, publicou com a OpenAI como usa agentes com GPT-6 que seguem procedimentos escritos e têm acesso às ferramentas da loja. A meta é automatizar cerca de 50% dos chamados em 30 dias.",
+      "significa": "Pergunta tipo \"onde está meu pedido?\" e pedido de reembolso simples passam a ser resolvidos sem pessoa, e a equipe fica só com o caso difícil. O segredo não é a IA, é ter o procedimento escrito.",
+      "fonte": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Meta",
+        "#Agentes",
+        "#Investimento"
+      ]
+    },
+    {
+      "titulo": "Nem os melhores agentes de IA dão conta das tarefas do dia a dia sem supervisão",
+      "aconteceu": "Um novo teste padronizado mostrou que os agentes de IA mais avançados ainda falham em tarefas corriqueiras (pagar conta, fazer compra, resolver pendência) e, às vezes, criam problema novo no caminho.",
+      "significa": "Antes de deixar um agente mexer em dinheiro ou em cadastro de cliente sozinho, mantenha alguém aprovando. Automatize primeiro o que é fácil de desfazer.",
+      "fonte": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Funcionários dizem que os modelos ainda não lançados de OpenAI e Anthropic passaram do que as medidas de segurança seguram",
+      "aconteceu": "Segundo a Axios, dezenas de pessoas de dentro das duas empresas acham que os modelos em preparação já não são controlados com segurança, e há debate interno sobre pausar lançamentos. É relato de fontes anônimas, sem confirmação oficial.",
+      "significa": "O próximo modelo que você espera pode atrasar. Vale ter um segundo fornecedor de IA funcionando como plano B e não prometer ao cliente nada que dependa de lançamento.",
+      "fonte": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O ChatGPT trocou o modelo padrão e passou a ler imagens bem melhor",
+      "aconteceu": "O GPT-6.2 Sol virou o modelo padrão do ChatGPT no mundo todo. Nos testes internos da OpenAI, o acerto ao entender imagens subiu de 47% para 72%.",
+      "significa": "Mandar foto de nota fiscal, planilha impressa ou quadro de reunião e pedir os dados tende a funcionar com menos erro. Ainda assim, confira os números antes de usar.",
+      "fonte": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "O assistente de IA da Meta entrou nas mensagens do Instagram, e o Walmart já vende por ele",
+      "aconteceu": "O Muse, assistente de IA da Meta, passou a funcionar dentro das mensagens diretas do Instagram. O Walmart fechou parceria para oferecer ofertas de Black Friday direto pelo assistente.",
+      "significa": "O cliente vai pedir comparação de preço e recomendação a um robô dentro da rede social, antes de chegar ao seu site. Quem vende precisa pensar em como aparecer para esses assistentes de compra.",
+      "fonte": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Robótica",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Um assistente que trabalha sem ser chamado: pesquisa o prospect, rascunha a proposta e cobra a resposta pendente",
+      "aconteceu": "A Intentful, uma agência, mostrou com a OpenAI como usa o \"dots\", assistente que age por conta própria: antes de uma reunião, pesquisa o site do prospect, monta o rascunho da proposta e avisa que há mensagem de cliente sem resposta.",
+      "significa": "A IA deixa de esperar pergunta e passa a puxar a fila do comercial. Para consultoria e agência, é o trabalho de preparação de reunião saindo da mão do sócio.",
+      "fonte": "https://openai.com/business/customer-stories/intentful-dots",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Pesquisa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Dados de vendas direto no ChatGPT: resumo da empresa-alvo e plano de abordagem antes da reunião",
+      "aconteceu": "A Clay, plataforma de dados sobre empresas e contatos para vendas, lançou plugins que funcionam dentro do ChatGPT e do Codex. O vendedor pede o resumo da conta e o plano de abordagem, e a IA monta com os dados da Clay.",
+      "significa": "O time de vendas para de alternar entre cinco abas para preparar uma reunião. Sinal de que as ferramentas de trabalho estão migrando para dentro do chat, não o contrário.",
+      "fonte": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Governo britânico avisa: ataques com IA estão explorando falhas básicas de anos atrás",
+      "aconteceu": "A agência de cibersegurança do Reino Unido disse que os ataques acelerados por IA não usam truque novo: exploram senha fraca, sistema sem atualização e falta de verificação em dois passos que já existiam há anos.",
+      "significa": "A defesa mais barata contra IA atacante é o básico bem feito. Ativar verificação em dois passos e atualizar sistemas vale mais do que comprar ferramenta nova.",
+      "fonte": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A OpenAI deixa colocar teto de gasto em cada agente de IA",
+      "aconteceu": "A biblioteca oficial da OpenAI para programadores ganhou um recurso de definir e consultar limite de gasto por sessão de agente.",
+      "significa": "Um agente autônomo que trava em loop pode queimar centenas de dólares numa noite. Agora dá para dizer \"esta tarefa gasta no máximo X\" e dormir tranquilo. Peça isso a quem desenvolve para você.",
+      "fonte": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "O \"plugue universal\" que liga a IA às ferramentas da empresa passou de 700 milhões de downloads por mês",
+      "aconteceu": "O MCP, padrão criado pela Anthropic para conectar a IA a sistemas (e-mail, CRM, banco de dados), passou de 700 milhões de downloads mensais e ganhou recursos novos: tarefas em segundo plano, perguntas de volta ao usuário e envio de arquivos.",
+      "significa": "Um agente pode rodar uma análise longa em segundo plano e perguntar antes de enviar o resultado, exigindo menos babá. E o padrão virou de fato o caminho para integrar IA aos seus sistemas.",
+      "fonte": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Agentes",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A ação da Anthropic caiu abaixo do preço de estreia na bolsa",
+      "aconteceu": "Uma semana depois de estrear acima do esperado, a ação da Anthropic (dona do Claude) caiu abaixo do preço da oferta inicial.",
+      "significa": "Se o mercado seguir frio, startups de IA vão captar menos, e isso mexe em preço, promoções e até sobrevivência de fornecedores. Hora de olhar quão dependente seu negócio está de fornecedor pequeno de IA.",
+      "fonte": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "O Tidal vai apagar milhões de músicas feitas 100% por IA",
+      "aconteceu": "O serviço de streaming Tidal anunciou que vai banir e remover faixas totalmente geradas por IA. Música que usou IA só como apoio continua permitida. A discussão foi uma das maiores do dia no Hacker News.",
+      "significa": "As plataformas começaram a traçar a linha entre \"IA como ferramenta\" e \"conteúdo 100% gerado\". Quem publica conteúdo com IA deve começar a documentar como usou, porque a próxima regra pode vir do canal onde você distribui.",
+      "fonte": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "tags": [
+        "#IA",
+        "#Segurança",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Microsoft vai trocar a busca do app Copilot até para quem não paga pelo Copilot",
+      "aconteceu": "A busca do app Microsoft 365 Copilot muda, ligada por padrão, para quem tem Microsoft 365 sem licença de Copilot. Há botão para voltar à busca antiga, mas a Microsoft não disse até quando. Chega a todo mundo até meados de janeiro de 2027.",
+      "significa": "Seus funcionários vão abrir o app e encontrar outra tela sem aviso. Avise o suporte interno antes, senão o help desk vira fila de \"sumiu minha busca\".",
+      "fonte": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Comissão Europeia confirmou roubo de dados pessoais num ataque feito com IA",
+      "aconteceu": "Nomes e e-mails de usuários da EU Academy, plataforma de cursos da Comissão Europeia, foram roubados num ataque assistido por IA. A plataforma fica fora do ar até 14 de janeiro de 2027.",
+      "significa": "Até órgão público grande cai. Quem fez curso lá deve desconfiar de e-mail \"da plataforma\" nas próximas semanas. E a sua empresa precisa ter resposta pronta para o dia em que acontecer com ela.",
+      "fonte": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    }
+  ]
+}
