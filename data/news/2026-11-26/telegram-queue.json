@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "titulo": "Quem usa muito o ChatGPT pode bater no limite mais cedo",
+      "aconteceu": "A OpenAI vai juntar o uso de \"conversa\" e o de \"trabalho\" do ChatGPT num medidor só. Quem faz muitas consultas longas pode esgotar a cota antes do que está acostumado.",
+      "significa": "Se o seu time depende do ChatGPT o dia inteiro, acompanhe o consumo nas próximas semanas. Quem estourar a cota no meio de uma entrega precisa de um plano B (outro plano ou outra IA).",
+      "fonte": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Quase 1 em cada 5 projetos de IA nas empresas não gera valor, e o problema não é a ferramenta",
+      "aconteceu": "A Anthropic analisou cerca de 300 implantações de IA em 58 empresas americanas. Quase uma em cada cinco não trouxe resultado, por excesso de revisão do que a IA produz, gargalos internos e resistência dos funcionários.",
+      "significa": "Antes de começar um piloto, defina quem revisa o que a IA entrega e como o processo do dia a dia muda. Aprender a ferramenta é a parte fácil; o que trava é o processo e as pessoas.",
+      "fonte": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A OpenAI testa um modo em que ela mesma não vê os dados da sua empresa",
+      "aconteceu": "A OpenAI está testando o \"Private Inference\", para empresas usarem os modelos mais fortes dela sem que a própria OpenAI tenha acesso aos dados enviados. Ainda é teste, sem data para todos.",
+      "significa": "Se o motivo de não usar IA em contrato, prontuário ou dado financeiro é o medo de vazar para o fornecedor, essa barreira pode cair. Vale perguntar ao seu representante quando chega.",
+      "fonte": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A Character.AI quer vender as conversas de 21 milhões de usuários na falência",
+      "aconteceu": "A Character.AI, app de conversar com personagens de IA, está em falência e planeja vender dados de mais de 21 milhões de contas, incluindo 2,1 milhões de menores. Procuradores de estados americanos estão tentando barrar.",
+      "significa": "O que se digita num chatbot pode virar ativo à venda se o fornecedor quebrar. Antes de contratar uma IA, procure no contrato o que acontece com os dados em caso de falência ou venda da empresa.",
+      "fonte": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "O New York Times mandou os fotógrafos não atualizarem o Photoshop por causa da IA",
+      "aconteceu": "O jornal orientou a equipe a não instalar a nova versão do Photoshop, por causa de recursos de IA que editam imagens e podem comprometer a autenticidade das fotos.",
+      "significa": "A IA está entrando sozinha nas ferramentas que você já usa, via atualização. Vale olhar o que cada atualização traz antes de liberar para o time, principalmente onde a imagem precisa ser fiel (produto, laudo, prova).",
+      "fonte": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "tags": [
+        "#IA",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "IA que programa acerta bem menos quando o código é o da sua empresa",
+      "aconteceu": "A JetBrains (empresa de ferramentas para programadores) refez um teste de agentes de IA que escrevem código. Em projetos abertos o acerto foi de 86%; em código fechado, que a IA nunca viu, caiu para 60%. Um modelo barato quase empatou com um 20 vezes mais caro. Resultado ainda preliminar.",
+      "significa": "O ranking público de IA não diz como ela vai se sair no seu sistema. Antes de escolher (e pagar), teste duas ou três opções numa tarefa real do seu time.",
+      "fonte": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Nova York proibiu por cinco anos os brinquedos com chatbot de IA",
+      "aconteceu": "O estado de Nova York baniu a venda de brinquedos com IA que conversam com crianças, depois que um estudo da Common Sense Media apontou falhas de segurança. A lei vale por cinco anos. (Também noticiado pelo The Guardian.)",
+      "significa": "Produto com IA para criança virou o primeiro alvo de lei pesada. Quem vende ou importa esse tipo de produto deve esperar regras parecidas em outros lugares.",
+      "fonte": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Segurança",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "O Claude Code agora aceita ditado de até 10 minutos e trabalha mais sozinho",
+      "aconteceu": "Na nova versão, o ditado por voz tolera pausas de até 60 segundos (antes 15) e vai até 10 minutos (antes 2). Para quem usa o Claude pela Amazon, Google ou Microsoft com os modelos Sonnet 5 e 5.5, a sessão já começa no modo automático, em que a IA executa vários passos sem pedir confirmação a cada um.",
+      "significa": "Dá para explicar uma tarefa longa falando, com pausa para pensar, sem o microfone cortar. E, nas empresas que usam o Claude pela nuvem, vale revisar o que a IA pode fazer sem pedir licença.",
+      "fonte": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Google",
+        "#Microsoft",
+        "#Amazon"
+      ]
+    },
+    {
+      "titulo": "Um cientista respeitado diz que a IA começou a resolver problemas de matemática abertos há décadas",
+      "aconteceu": "Scott Aaronson, cientista da computação conhecido, escreveu que IAs da OpenAI e da Anthropic estão resolvendo problemas de matemática que ninguém tinha resolvido, vários com checagem automática da prova. O texto teve mais de 1.200 votos no Hacker News. É a leitura de um especialista, não uma verificação independente de cada resultado.",
+      "significa": "A IA está passando de \"assistente que resume\" para \"ferramenta que descobre coisa nova\". Quem planeja o uso de IA para 2027 deve considerar áreas de pesquisa e desenvolvimento, não só produtividade.",
+      "fonte": "https://scottaaronson.blog/?p=10379",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Anthropic",
+        "#Segurança",
+        "#Produtividade",
+        "#Pesquisa"
+      ]
+    },
+    {
+      "titulo": "Amazon e Meta negociam liberar o agente de compras da Meta dentro da Amazon",
+      "aconteceu": "Em setembro a Amazon bloqueou o Muse, agente de IA da Meta que faz compras pelo usuário. Agora as duas conversam sobre a volta, com impasse sobre receita de anúncios e controle dos resultados de busca.",
+      "significa": "Se sair acordo, parte das compras na Amazon passa a ser feita por uma IA da Meta. Quem vende em marketplace vai precisar pensar em aparecer bem para o agente, não só para a pessoa.",
+      "fonte": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+      "tags": [
+        "#IA",
+        "#Meta",
+        "#Amazon",
+        "#Agentes",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Startup capta US$ 5,3 milhões para uma IA que nem ela consegue ver seus dados",
+      "aconteceu": "A Maple, startup americana, levantou US$ 5,3 milhões para criar produtos de IA em que os dados do usuário ficam criptografados até para a própria empresa.",
+      "significa": "Junto com o teste da OpenAI, é sinal de que \"IA que não enxerga seu dado\" virou produto. Para quem lida com documento sensível, surgem alternativas; vale checar como a criptografia funciona antes de confiar.",
+      "fonte": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "tags": [
+        "#IA",
+        "#OpenAI",
+        "#Investimento",
+        "#Startups",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Agências do governo americano foram invadidas, e há suspeita de que uma ferramenta de segurança com IA foi usada",
+      "aconteceu": "O FinCEN (órgão americano que investiga crimes financeiros) tirou sistemas do ar depois de um acesso não autorizado. Antes disso houve invasões relatadas na CIA e em outras agências, e os investigadores suspeitam do uso de uma ferramenta de defesa com IA, a Artex.",
+      "significa": "A ferramenta de IA que protege a empresa também pode virar porta de entrada. Se a sua equipe de segurança usa IA, confirme quem tem acesso a ela e o que ela pode fazer.",
+      "fonte": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "tags": [
+        "#IA",
+        "#Investimento",
+        "#Regulação",
+        "#Segurança",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "A IA facilitou pedir documentos ao governo, e os órgãos não estão dando conta",
+      "aconteceu": "Com IA, ficou fácil redigir pedidos de acesso a documentos públicos nos EUA, e os órgãos estão sobrecarregados. Em Ann Arbor, os pedidos passaram de 581 para 937 por ano, e alguns estados mudaram a lei para facilitar a recusa.",
+      "significa": "Quando a IA barateia o pedido, quem atende fica soterrado. Vale para o seu SAC, a sua ouvidoria ou o seu jurídico: espere mais volume e pense em como triar.",
+      "fonte": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "tags": [
+        "#IA",
+        "#Regulação",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A S&P pode rebaixar a nota de crédito da Nvidia",
+      "aconteceu": "A agência de risco S&P avalia rebaixar a nota da Nvidia, maior fabricante de chips de IA, por problemas de governança e pela dependência de poucas pessoas-chave.",
+      "significa": "Dívida mais cara para a empresa que sustenta quase toda a IA do mercado é sinal de risco na cadeia inteira. Para quem investe, é hora de rever o quanto da carteira depende de uma empresa só.",
+      "fonte": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Restrição a chips está atrasando as IAs chinesas",
+      "aconteceu": "Segundo um relatório, os limites de acesso a chips e as medidas contra cópia de modelos pressionam DeepSeek, Moonshot e Alibaba. A própria DeepSeek estima estar até nove meses atrás das IAs americanas.",
+      "significa": "Quem escolheu IA chinesa pelo preço pode ver os lançamentos atrasarem. Na hora de escolher fornecedor, considere também quem vai continuar evoluindo.",
+      "fonte": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    }
+  ]
+}
