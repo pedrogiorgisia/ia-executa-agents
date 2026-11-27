@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "titulo": "O Google vai obrigar os assistentes de IA a usar a porta oficial para mexer no Gmail e no Drive",
+      "aconteceu": "A partir de 1º de fevereiro de 2027, qualquer ferramenta movida por IA que acesse Gmail, Drive ou Agenda vai ter que passar pelos conectores oficiais do Google. Hoje o conector do Gmail lê, busca e cria rascunho, mas não envia, não responde e não encaminha e-mail. E o que a IA guarda sobre seus dados pode ter limite de 30 dias.",
+      "significa": "Se a sua empresa usa (ou está contratando) um assistente que responde e-mail ou organiza o Drive sozinho, pergunte ao fornecedor como ele fica depois de fevereiro. Automação que envia e-mail por IA pode parar de funcionar ou ficar lenta.",
+      "fonte": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "Hackers usam uma ferramenta de IA que invade sistemas mal protegidos em minutos",
+      "aconteceu": "A Microsoft contou que grupos ligados à China e à Coreia do Norte estão usando o ARTEX, uma ferramenta de invasão com IA, para automatizar ataques. Ela não inventa técnica nova: só faz tudo muito mais rápido, do reconhecimento até o acesso de administrador. Uma campanha tentou entrar em mais de 2.250 contas empresariais do Microsoft 365.",
+      "significa": "Senha fraca e chave de acesso esquecida num arquivo viraram porta aberta em minutos, não em semanas. Vale uma rodada agora: trocar senhas e chaves antigas, procurar chaves expostas nos repositórios de código e ficar de olho em login estranho.",
+      "fonte": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "tags": [
+        "#IA",
+        "#Microsoft",
+        "#Investimento",
+        "#Segurança",
+        "#Desenvolvimento"
+      ]
+    },
+    {
+      "titulo": "Dá para filtrar todas as empresas do mundo atrás do seu cliente ideal por cerca de US$ 1.500",
+      "aconteceu": "O chefe de IA da Clay (plataforma de dados para vendas) fez a conta: checar as 40 milhões de empresas da base deles contra o perfil de cliente ideal de alguém custaria uns US$ 1.500 com IA. Ele também contou que metade do uso da plataforma já vem de agentes de fora, como o Claude Code.",
+      "significa": "Qualificar lista de prospecção deixou de ser trabalho de semanas de um time de pré-vendas. O gargalo agora é saber descrever bem quem é o seu cliente ideal. Teste numa amostra pequena antes de confiar no resultado.",
+      "fonte": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#Meta",
+        "#Agentes",
+        "#Tecnologia"
+      ]
+    },
+    {
+      "titulo": "Fones de ouvido que gravam e resumem suas reuniões chegam em 8 de dezembro",
+      "aconteceu": "A Nothing (marca de celulares e fones) mostrou o Ear Note: os fones gravam ligações, e o estojo de carregar grava, transcreve e resume reuniões presenciais num app. Entra numa leva de aparelhos que fazem isso, como o Plaud e o Bee, da Amazon.",
+      "significa": "Ata de reunião presencial pode sair pronta sem ninguém anotar. Mas gravar conversa exige avisar quem está na sala; antes de liberar isso no time, combine a regra de consentimento (e lembre da LGPD).",
+      "fonte": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "tags": [
+        "#IA",
+        "#Amazon",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Placar honesto: até agora, a IA curou zero doenças",
+      "aconteceu": "Um site público passou a contar quantas doenças já foram curadas por remédios descobertos por IA. O número em 26/11 é zero: nenhum remédio desses foi aprovado ainda. O mais avançado, para uma doença do pulmão, está na última fase de testes.",
+      "significa": "A IA já ajuda muito a ler exame e a acelerar laboratório, mas \"a IA cura doenças\" ainda é promessa. Bom filtro para quando um fornecedor ou palestrante vender o futuro como se fosse presente.",
+      "fonte": "https://diseasescuredbyai.com/",
+      "tags": [
+        "#IA",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho",
+        "#TransformaçãoDigital"
+      ]
+    },
+    {
+      "titulo": "Computador vai ficar mais caro em 2027: falta chip de memória",
+      "aconteceu": "A HP espera que o mercado de PCs encolha perto de 10% em 2027 por causa da crise de chips de memória. Os componentes já subiram, e a HP vai apostar nos modelos mais caros, com IA embutida, que já são quase 60% do que ela vende.",
+      "significa": "Se a empresa planeja trocar notebooks no ano que vem, antecipar a compra ou fechar preço agora pode sair mais barato. Orçamento de TI de 2027 feito com o preço de 2025 vai estourar.",
+      "fonte": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "Os clientes começaram a reprogramar os produtos com IA, e as marcas decidiram abrir o código",
+      "aconteceu": "Usuários de sintetizadores e equipamentos de música passaram a usar agentes de IA para mudar o software dos aparelhos por conta própria. Em vez de brigar, a dona da Akai e da Moog e a Behringer decidiram abrir o código dos produtos e dar ferramentas para isso.",
+      "significa": "Se você vende um produto com software dentro, parte dos seus clientes vai mexer nele com IA, querendo ou não. Vale decidir antes se você fecha, tolera ou transforma isso em comunidade (com um \"botão de voltar ao original\").",
+      "fonte": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Desenvolvimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"A IA fez voltar a graça de mexer na própria infraestrutura\"",
+      "aconteceu": "Um texto que bombou entre programadores conta que tarefas de configuração adiadas por anos, por preguiça de ler manual, viraram realidade com agentes de IA. Uma montagem que levaria uma semana saiu em meio dia.",
+      "significa": "O mesmo vale fora da TI: a lista de \"um dia eu faço\" (aquela automação, aquele relatório, aquela organização) ficou barata. O custo de tentar caiu, então vale tirar da gaveta.",
+      "fonte": "https://janlukas.blog/posts/ai-self-hosting",
+      "tags": [
+        "#IA",
+        "#Agentes",
+        "#Produtividade",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "\"Abro um vídeo e ouço o Claude\": tudo começou a soar igual",
+      "aconteceu": "Um texto citado pelo programador Simon Willison resume um incômodo crescente: vídeos, palestras e e-mails de gente séria estão com a mesma cara de texto escrito por IA.",
+      "significa": "Usar IA para escrever é ótimo; publicar o texto como saiu da IA faz sua marca soar como todas as outras. Use a IA para o rascunho e reescreva com o seu jeito, os seus exemplos e a sua opinião.",
+      "fonte": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "tags": [
+        "#IA",
+        "#Anthropic",
+        "#IAGenerativa",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    },
+    {
+      "titulo": "A Nvidia parou de mandar servidores de IA para quatro países da Ásia",
+      "aconteceu": "Pressionada pelos EUA para que os chips não cheguem à China, a Nvidia mandou parceiros como Dell e Supermicro suspenderem as entregas para Malásia, Singapura, Tailândia e Indonésia. Revendedores já procuram comprador para milhares de chips parados.",
+      "significa": "A disputa entre EUA e China já mexe em onde a nuvem de IA cresce. Quem contrata data center ou nuvem nessa região deve perguntar sobre prazo e capacidade.",
+      "fonte": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "tags": [
+        "#IA",
+        "#Hardware",
+        "#Tecnologia",
+        "#Inovação",
+        "#FuturoDoTrabalho"
+      ]
+    },
+    {
+      "titulo": "A SpaceX ganhou autorização para colocar 1 milhão de satélites de IA no espaço",
+      "aconteceu": "O regulador americano liberou a SpaceX, de Elon Musk, para lançar até 1 milhão de satélites que processam IA em órbita, como data centers no espaço. Os primeiros lançamentos são previstos para 2027 e o conjunto completo, para 2040. Google e Blue Origin trabalham em ideias parecidas.",
+      "significa": "É o tamanho da fome de energia e de computação da IA: falta lugar na Terra. No curto prazo, não muda nada na sua empresa; é sinal de que o custo da IA vai seguir pressionado pela infraestrutura.",
+      "fonte": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "tags": [
+        "#IA",
+        "#Google",
+        "#Investimento",
+        "#Tecnologia",
+        "#Inovação"
+      ]
+    }
+  ]
+}
